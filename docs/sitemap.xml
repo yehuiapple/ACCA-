@@ -1,39 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/index.html</loc>
-    <lastmod>2025-07-24T18:16:36.742Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/index.html</loc>
+    <lastmod>2026-07-24T12:55:36.147Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/01_intro.html</loc>
-    <lastmod>2025-06-09T10:36:17.722Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Introduction.html</loc>
+    <lastmod>2026-07-24T13:29:31.382Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/02_install_setting.html</loc>
-    <lastmod>2025-06-09T07:47:08.556Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 1 Financial Management Function.html</loc>
+    <lastmod>2026-07-24T14:43:01.259Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/03_YML_file.html</loc>
-    <lastmod>2025-06-09T07:30:11.505Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 2 Financial Management Environment.html</loc>
+    <lastmod>2026-07-24T14:39:00.037Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/04_github_page.html</loc>
-    <lastmod>2025-06-09T10:32:58.028Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 3 Working Capital Management.html</loc>
+    <lastmod>2026-07-24T14:39:45.465Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/05_references.html</loc>
-    <lastmod>2025-06-09T07:30:11.506Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 4 Cash Management and Working Capital Finance.html</loc>
+    <lastmod>2026-07-24T14:39:45.464Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/A01_markdown.html</loc>
-    <lastmod>2025-07-31T14:41:03.156Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 5 Investment Decision.html</loc>
+    <lastmod>2026-07-24T14:39:45.465Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/A02_JupyterNotebook.html</loc>
-    <lastmod>2025-06-09T07:30:11.508Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 6 Allowing for Inflation and Taxation.html</loc>
+    <lastmod>2026-07-24T14:39:45.465Z</lastmod>
   </url>
   <url>
-    <loc>https://lianxhcn.github.io/quarto_book/body/A04_display_ipynb_file.html</loc>
-    <lastmod>2025-07-29T19:27:53.117Z</lastmod>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 7 Project Appraisal under Risk.html</loc>
+    <lastmod>2026-07-24T14:39:45.465Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 8 Specific Investment Decision.html</loc>
+    <lastmod>2026-07-24T14:39:00.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 9 Source of Finance.html</loc>
+    <lastmod>2026-07-24T14:39:45.465Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 10 Dividend Policy.html</loc>
+    <lastmod>2026-07-24T14:24:32.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 11 the Cost of Capital.html</loc>
+    <lastmod>2026-07-24T14:39:00.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 12 Gearing and Capital Structure.html</loc>
+    <lastmod>2026-07-24T14:39:00.033Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 13 Business Valuation.html</loc>
+    <lastmod>2026-07-24T14:39:00.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 14 Foreign Currency Risk.html</loc>
+    <lastmod>2026-07-24T14:39:45.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Chapter 15 Interest Rate Risk.html</loc>
+    <lastmod>2026-07-24T14:39:45.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Answers_ABC.html</loc>
+    <lastmod>2026-07-23T15:04:28.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Answers_D.html</loc>
+    <lastmod>2026-07-23T15:04:28.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Answers_E.html</loc>
+    <lastmod>2026-07-23T15:04:28.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Answers_F.html</loc>
+    <lastmod>2026-07-23T15:04:28.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Answers_G.html</loc>
+    <lastmod>2026-07-23T15:04:28.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yehuiapple.github.io/quarto_book/body/Appendix.html</loc>
+    <lastmod>2026-07-24T14:27:26.787Z</lastmod>
   </url>
 </urlset>

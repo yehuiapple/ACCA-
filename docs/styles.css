@@ -7,6 +7,93 @@ ChatGPT 讨论：
 
 */
 
+/* ============================================
+   右侧 TOC 紧凑左对齐
+   ============================================ */
+#TOC {
+  padding: 0.5em 0.8em !important;
+}
+#TOC ul {
+  padding-left: 0.6em !important;
+}
+#TOC li {
+  margin-bottom: 0.1em !important;
+  list-style: none !important;
+}
+#TOC .nav-link {
+  padding: 0.15em 0 !important;
+  font-size: 0.92em;
+  text-align: left;
+}
+
+/* ============================================
+   侧边栏 Part 标题突出显示
+   ============================================ */
+.sidebar-item-section .menu-text {
+  font-weight: 900;
+  font-size: 1.12em;
+  color: #1a252f;
+}
+
+.sidebar .sidebar-item-container {
+  text-align: left;
+}
+
+.sidebar-item-text {
+  text-align: left !important;
+}
+
+/* ============================================
+   Chapter 标题居中、正文两端对齐
+   ============================================ */
+h2 {
+  text-align: center;
+}
+
+h3, h4, h5 {
+  text-align: left;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 1.1em;
+  color: #2c3e50;
+}
+
+p, #quarto-content li {
+  text-align: justify;
+}
+
+/* 正文列表间距紧凑 */
+#quarto-content ul, #quarto-content ol {
+  padding-left: 1.2em;
+}
+
+#quarto-content li {
+  margin-bottom: 0.15em;
+}
+
+body {
+  color: #1a1a1a;
+}
+
+h2, h3, h4, h5 {
+  color: #1a1a1a;
+}
+
+strong {
+  color: #111;
+}
+
+/* ============================================
+   打印分页控制
+   ============================================ */
+@media print {
+  .pagebreak {
+    break-before: page;
+  }
+}
+
 /* Title Block */
 
 .quarto-meta-block {

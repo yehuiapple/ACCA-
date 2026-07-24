@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Chapter 14 Foreign Currency Risk – ACCA F9（财务管理）</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../body/Chapter 15 Interest Rate Risk.html" rel="next">
+<link href="../body/Chapter 13 Business Valuation.html" rel="prev">
+<link href="../images/book-logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-6d40f8af7092f34acea1908532066003.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5fa5705025cb9433b42ec99122114b18.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 14 Foreign Currency Risk.html">Part G: Risk Management</a></li><li class="breadcrumb-item"><a href="../body/Chapter 14 Foreign Currency Risk.html"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="https://yehuiapple.github.io/quarto_book/" class="sidebar-logo-link">
+      <img src="../images/book-logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../images/book-logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">ACCA F9（财务管理）</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/yehuiapple/quarto_book" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">ACCA F9（财务管理）</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Introduction</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-title"><img src="media/Introduction/media/image1.emf" class="img-fluid"></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part A: Financial Management Function</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part B: Financial Management Environment</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 2 Financial Management Environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part C: Working Capital Management</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part D: Investment Appraisal</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part E: Business Finance</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 10 Dividend Policy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 11 the Cost of Capital.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part F: Business Valuations</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part G: Risk Management</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true">
+ <span class="menu-text">Answers</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_ABC.html" class="sidebar-item-text sidebar-link"><span class="chapter-title"><strong>Example 1</strong> A</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_D.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_E.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_F.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_G.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendix</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix: Technical Articles</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
+  <li><a href="#foreign-currency-risk" id="toc-foreign-currency-risk" class="nav-link" data-scroll-target="#foreign-currency-risk">1 Foreign Currency Risk</a></li>
+  <li><a href="#causes-of-exchange-rates-fluctuations" id="toc-causes-of-exchange-rates-fluctuations" class="nav-link" data-scroll-target="#causes-of-exchange-rates-fluctuations">2 Causes of Exchange Rates Fluctuations</a></li>
+  <li><a href="#managing-transaction-risk" id="toc-managing-transaction-risk" class="nav-link" data-scroll-target="#managing-transaction-risk">3 Managing Transaction Risk</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 14 Foreign Currency Risk.html">Part G: Risk Management</a></li><li class="breadcrumb-item"><a href="../body/Chapter 14 Foreign Currency Risk.html"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="syllabus" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="syllabus">Syllabus</h3>
+<p><strong>G. Risk Management</strong></p>
+<p><strong>1. The nature and types of risk and approaches to risk management</strong></p>
+<p>a) Describe and discuss different types of foreign currency risk:^[2]^</p>
+<ol type="i">
+<li><p>translation risk</p></li>
+<li><p>transaction risk</p></li>
+<li><p>economic risk.</p></li>
+</ol>
+<p><strong>2. Causes of exchange rate differences and interest rate fluctuations</strong></p>
+<p>a) Describe the causes of exchange rate fluctuations, including:</p>
+<ol type="i">
+<li><p>balance of payments^[1]^</p></li>
+<li><p>purchasing power parity theory^[2]^</p></li>
+<li><p>interest rate parity theory^[2]^</p></li>
+<li><p>four-way equivalence.^[2]^</p></li>
+</ol>
+<p>b) Forecast exchange rates using:^[2]^</p>
+<ol type="i">
+<li><p>purchasing power parity</p></li>
+<li><p>interest rate parity.</p></li>
+</ol>
+<p><strong>3. Hedging techniques for foreign currency risk</strong></p>
+<p>a) Discuss and apply traditional and basic methods of foreign currency risk management, including:</p>
+<ol type="i">
+<li><p>currency of invoice^[1]^</p></li>
+<li><p>netting and matching^[2]^</p></li>
+<li><p>leading and lagging^[2]^</p></li>
+<li><p>forward exchange contracts^[2]^</p></li>
+<li><p>money market hedging^[2]^</p></li>
+<li><p>asset and liability management.^[1]^</p></li>
+</ol>
+<p>b) Compare and evaluate traditional methods of foreign currency risk management. c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging. (No numerical questions will be set on this topic)^[2]^</p>
+</section>
+<section id="foreign-currency-risk" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="foreign-currency-risk">1 Foreign Currency Risk</h3>
+<section id="exchange-rate" class="level4">
+<h4 class="anchored" data-anchor-id="exchange-rate">1.1 Exchange Rate</h4>
+<p>Increasingly, many businesses have dealings in foreign currencies and, unless exchange rates are fixed with respect to one another, this introduces risk. An exchange rate is the rate at which one country’s currency can be traded in exchange for another country’s currency.</p>
+<p>Exchange rate can be expressed as:</p>
+<p>$/£ 1.3425± 0.0025 or $/£ of 1.340-1.3450</p>
+<ul>
+<li>bid prices-the bank’s buying rate</li>
+<li>offer price-the bank’s selling rate</li>
+</ul>
+<p>To remember which of the two prices is relevant to any particular foreign exchange transaction, just remember the bank will always trade at the rate that is more favorable to itself.</p>
+<ul>
+<li>Spot exchange rate&nbsp;– the market exchange rate for buying/selling the currency for immediate delivery.</li>
+<li>Forward exchange rate&nbsp;– tthe exchange rate for buying or selling the currency at a specific date in the future.</li>
+</ul>
+</section>
+<section id="types-of-foreign-currency-risks" class="level4">
+<h4 class="anchored" data-anchor-id="types-of-foreign-currency-risks">1.2 Types of Foreign Currency Risks</h4>
+<p>Foreign exchange risk (currency risk) is the risk arising from unforeseen changes in an exchange rate or the value of a currency. There are three types of currency risk: transaction risk, translation risk and economic risk.</p>
+<section id="transaction-risk" class="level5">
+<h5 class="anchored" data-anchor-id="transaction-risk">1. Transaction Risk</h5>
+<p>This arises when a company is importing or exporting. If tthe exchange rate moves between agreeing the contract in a foreign currency and paying or receiving the cash, the amount of home currency paid or received will alter, making those future cash flows uncertain.</p>
+<p><strong>example 1</strong></p>
+<blockquote class="blockquote">
+<p>An UK exporter now agrees to sell $100,000 to a US customer, payable in 6 months.</p>
+<p>Assuming the current spot rate is 1.5 $/£, and the spot rate is $/£:1.8 after 6 months. the impact of this movement on an exporter will be:</p>
+<p>The UK exporter is expecting to receive</p>
+<p>However, as $ weakens over 6 months the amount received would be worth only</p>
+<p>The exporter will loss due to foreign currency $ weakens.</p>
+<p>If the spot rate is $/£:1.2 after 6 months, the impact of this movement on an exporter will be:</p>
+<p>the UK exporter is expecting to receive</p>
+<p>however, as $ strengthens over 6 months the amount received would be worth</p>
+<p>The exporter will gain due to foreign currency $ strengthens.</p>
+</blockquote>
+<p>:::</p>
+<p><strong>The Effect of Exchange Rate Movements</strong></p>
+<p>If a foreign currency <u>weakens</u> it is simply worth less in our home currency.</p>
+<ul>
+<li>Exporter suffers because they will receive less</li>
+<li>Importer gains because they will pay less</li>
+</ul>
+<p>If a foreign currency <u>strengthens</u> it is simply worth more in our home currency.</p>
+<ul>
+<li>Exporter gains because they will receive more</li>
+<li>Importer suffers because they will pay more</li>
+</ul>
+</section>
+<section id="economic-risk" class="level5">
+<h5 class="anchored" data-anchor-id="economic-risk">2. Economic Risk</h5>
+<p>The risk that cash flows will be affected by long-term exchange rate movements. (The source of economic risk comes from the change in the competitive strength of imports and exports due to movements in tthe exchange rate. It is <strong>a longer-term effect</strong>.</p>
+<p>As the value of the company is the present value of its future cash flows, economic risk is a significant issue for the financial manager.</p>
+<p>Lecture example</p>
+<blockquote class="blockquote">
+<p>The UK company is exporting to a eurozone country and the euro weakens from say €/£ 1.1 to €/£ 1.3 (<strong>euro depreciation</strong>).</p>
+<p>Any exports from the UK will be more expensive when priced in euros (e.g.&nbsp;goods where the UK price is £100 will cost €130 instead of €110), making those goods less competitive in the European market.</p>
+<p>Similarly, goods imported from Europe will be cheaper in sterling than they had been, so those goods will have become more competitive in the UK market.</p>
+</blockquote>
+<p>Note that a company can experience economic risk even if it has no overt dealings with overseas countries. If competing imports could become cheaper you are suffering risk arising from currency rate movements.</p>
+<p>Economic risk is difficult to mitigate, especially for small companies with limited international dealings. In general, diversification of the customer and supplier base across different countries will reduce exposure to this type of risk to an extent.</p>
+<ul>
+<li>Try to export or import from more than one currency zone and hope that the zones don’t all move together, or if they do, at least to the same extent.</li>
+<li>Make your goods in the country you sell them. Although raw materials might still be imported and affected by exchange rates, other expenses (such as wages) will not be subject to exchange rate movements.</li>
+</ul>
+</section>
+<section id="translation-risk" class="level5">
+<h5 class="anchored" data-anchor-id="translation-risk">3. Translation Risk</h5>
+<p>Translation risk occurs when a company has foreign subsidiaries or branches.</p>
+<p>If the subsidiary is in a country whose currency weakens, the subsidiary’s assets will be less valuable in the statement of financial position of the parent company, resulting in foreign exchange losses.</p>
+<p>Although such gains/losses can be significant, they are not cash flows. So, in theory, they should not affect the value of the company. However:</p>
+<ul>
+<li>Debt covenants often use book values, so foreign currency gains and losses may have real economic consequences if a debt covenant is breached</li>
+<li>Shareholders may attribute great importance to reported profits/losses</li>
+</ul>
+<p>Translation risk can be managed by:</p>
+<ul>
+<li>Match the foreign currency-denominated assets with that of foreign currency-denominated liabilities.</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="causes-of-exchange-rates-fluctuations" class="level3">
+<h3 class="anchored" data-anchor-id="causes-of-exchange-rates-fluctuations">2 Causes of Exchange Rates Fluctuations</h3>
+<p>Factors that influence exchange rates include:</p>
+<ul>
+<li><strong>Balance of payments</strong> in services and goods</li>
+<li>comparative <strong>rate of inflation</strong> in different countries</li>
+<li>Comparative <strong>interest rate</strong> in different countries</li>
+<li>Sentiment of foreign exchange market participants</li>
+<li>Speculation</li>
+<li>government policy on intervention to influence exchange rate</li>
+</ul>
+<section id="interest-rate-parity" class="level4">
+<h4 class="anchored" data-anchor-id="interest-rate-parity">2.1 Interest Rate Parity</h4>
+<p>The <strong>interest Rate Parity theory</strong> claims that the forward exchange rates is based on the spot rate and the interest rate differential between the two currencies.</p>
+<ul>
+<li>The expected return on different currency deposits will be equal. If this is not so, investors holding the currency with the lower interest rates would switch to the other currency ensuring that they would not make a loss. This is known as arbitrage.</li>
+<li>If enough investors acted in this way, forces of supply and demand would lead to a change in the forward exchange rate to eliminate any additional benefit in interests.</li>
+</ul>
+<p><span class="math inline">\(\mathbf{F}_{\mathbf{0}} = \mathbf{S}_{\mathbf{0}} \times \frac{\mathbf{1} + \mathbf{ic}}{\mathbf{1} + \mathbf{ib}}\)</span></p>
+<p>F<sub>0</sub>: forward rate</p>
+<p>S<sub>0</sub>: spot rate</p>
+<p>I<sub>c</sub>: interest rate in foreign country</p>
+<p>I<sub>b</sub>: interest rate in base country</p>
+<p>IRPT predicts that the country with <strong>the higher interest rate</strong> will see the forward rate for its currency subject to a <strong>depreciation</strong>.</p>
+<p><strong>Using IRPT to Forecast Forward Rate</strong></p>
+<p>The <strong>expectations theory</strong> claims that the forward rate is an unbiased predictor of the future spot rate.</p>
+<p><strong>example 2</strong></p>
+<blockquote class="blockquote">
+<p>Assume the interest rate of a one-year US bond is 9% and the interest rate of a UK bond with similar risk is 7%. Current spot rate is ﹩/￡:1.5.</p>
+<p>Predict what tthe exchange rate is likely to be in one year.</p>
+</blockquote>
+<p>:::</p>
+</section>
+<section id="purchasing-power-parity-theory-pppt" class="level4">
+<h4 class="anchored" data-anchor-id="purchasing-power-parity-theory-pppt">2.2 Purchasing Power Parity Theory (PPPT)</h4>
+<p>Purchasing power parity theory predicts that the future spot exchange rate is based on the current spot rate (the purchasing power of one currency relative to another) and the inflation rate differential between the two currencies (relative price changes). For example, if the inflation rate is higher in the Us than in the Uk, PPP predicts that the value of the dollar will fall.</p>
+<p>The formula:</p>
+<p><span class="math inline">\(\mathbf{S}_{\mathbf{1}} = \mathbf{S}_{\mathbf{0}} \times \frac{\mathbf{1} + \mathbf{hc}}{\mathbf{1} + \mathbf{hb}}\)</span></p>
+<p>S<sub>1</sub>: expected spot rate after one year</p>
+<p>S<sub>0</sub>: current spot rate</p>
+<p>h<sub>c</sub>: expected inflation rate in country c</p>
+<p>h<sub>b</sub>: expected inflation rate in country b</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>example 3</strong></p>
+<blockquote class="blockquote">
+<p>the current spot rate between UK sterling and US dollar is $/£ 1.50. assuming that there is purchasing parity, an amount of commodity costing £2,00 in UK will cost $300 in US. Over the next year, price inflation in US is expected to be 5% while inflation in UK is expected to be 8%.</p>
+<p>What is the expected spot exchange rate at the end of the year?</p>
+</blockquote>
+</div>
+</div>
+<p>Using PPPT to predict future spot rate</p>
+<p><strong>Purchasing power model</strong> is a poor predictor of short-term changes in exchange rates.</p>
+<ul>
+<li>The market is dominated by speculative transactions (98%) as opposed to trade transactions; therefore, purchasing power theory breaks down.</li>
+<li>Governments may manage exchange rate</li>
+</ul>
+<p>It is likely that the purchasing power parity model may be more useful for predicting long-run changes in exchange rates since these are more likely to be determined by the underlying competitiveness of economies.</p>
+</section>
+<section id="the-international-fisher-effect" class="level4">
+<h4 class="anchored" data-anchor-id="the-international-fisher-effect">2.3 the International Fisher Effect</h4>
+<p>According to the fisher effect, countries with a higher rate of inflation have higher nominal interest rates to offer the same real return as countries with low inflation.</p>
+<p>According to the international fisher effect, the spot exchange rate will change of offset nominal interest rate difference between countries.</p>
+<ul>
+<li><p>The international effect assumes that the real interest rate will be equal across countries as a result of adjustment to spot exchange rate.</p></li>
+<li><p>So, the interest rate differential between two countries should be equal to the expected inflation differential.</p></li>
+<li><p>Therefore, countries with higher expected inflation rates will have higher nominal interest rates.</p>
+<p><span class="math display">\[
+\]</span> = $$</p></li>
+</ul>
+<p>I<sub>a</sub>: the nominal interest rate in country a</p>
+<p>I<sub>b</sub>: the nominal interest rate in country b</p>
+<p>h<sub>a</sub>: the inflation rate in country a</p>
+<p>h<sub>b</sub>: the inflation rate in country b</p>
+</section>
+<section id="four-way-equivalence" class="level4">
+<h4 class="anchored" data-anchor-id="four-way-equivalence">2.4 Four-Way Equivalence</h4>
+<p>The <strong>four-way equivalence model</strong> states that in equilibrium, theories that we have been examining are linked.</p>
+<p>If interest rates are only different between two countries due to inflation (ie real interest rates are the same in both countries) then:</p>
+<ul>
+<li>Inflation rates can be used to predict the future spot rate (PPPT)</li>
+<li>Long-term interest rates can be used to predict the future spot rate (international fisher effect)</li>
+<li>If short-term interest rate differences explain the difference between the forward rate and the spot rate, then over the long-term this can be seen as an unbiased indicator of expected changes in the spot rate.</li>
+</ul>
+<p><img src="media/Notes_G/media/image20.png" style="width:4.09375in;height:2.76128in"></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 4</strong></p>
+<blockquote class="blockquote">
+<p>Handria is a country that has the peso for its currency and Wengry is a country that has the $ for its currency. The current spot rate is 1.5134 pesos = $1.</p>
+<p>Using interest rate differentials, the one year forward exchange rate is 1.5346 pesos = $1.</p>
+<p>The currency market between the peso and the dollar is assumed perfect and the international fisher effect holds.</p>
+<p>Which of the following statements is true?</p>
+<p>A Wengry has a higher forecast rate of inflation than Handria</p>
+<p>B Handria has a higher nominal rate of interest than Wengry</p>
+<p>C Handria has a higher real rate of interest than Wengry</p>
+<p>D the forecast future spot rate of exchange will differ from the forward exchange rate</p>
+</blockquote>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 5</strong></p>
+<p>Indicate, by clicking on the relevant boxes, whether the following statements are correct or incorrect?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_G/media/image3.png" style="width:4.9213in;height:1.07124in" class="figure-img"></p>
+<figcaption>https://testdelivery-st-prd-1.pearsonvue.com/Minerva/examResource/?resourceIdent=Dec16F9Q19%20(1).PNG%3A%3Anull&amp;sessionUUID=c52541ef-85b3-4089-8640-8f4123cc3475</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="managing-transaction-risk" class="level3">
+<h3 class="anchored" data-anchor-id="managing-transaction-risk">3 Managing Transaction Risk</h3>
+<section id="internal-methods" class="level4">
+<h4 class="anchored" data-anchor-id="internal-methods">3.1 Internal Methods</h4>
+<p>Exchange rate risk may be managed internally in the following ways:</p>
+<p>(1) <strong>Invoice</strong> in domestic currency - Arrange for the contract and the invoice to be in home currency. This will transfer the transaction risk to the customer. However, this may lead to lost sales.</p>
+<p><strong>(2) Netting -</strong> when there are both sales/receivables and purchases/payables in a foreign currency, so the net exposure is only on the difference between receivables and payables.&nbsp;This is only effectively when there are many sales and purchases in the foreign currency and transaction occur relatively closely.</p>
+<p><img src="media/Notes_G/media/image4.png" style="width:4.5407in;height:1.45033in"></p>
+<p>By netting off group currency flows the net exposure is only for $0.1m.</p>
+<p>(2) <strong>Matching</strong> of receipts and payments – offsetting payments against receipts in a foreign currency using a foreign currency bank account. The left unmatched portion will exposure to currency fluctuations. However, transactions must be relatively close together as few companies can afford keep money in a foreign currency bank account and not use it for months.</p>
+<p><strong>(4) Leading and lagging -</strong> if the currency is expected to strengthen, converting domestic currency into foreign currency earlier than needed to pay suppliers, this is leading; or, if the foreign currency is expected to weaken, then delaying conversion and pay suppliers late (although taking longer than the agreed credit period is questionable business practice). This is lagging.</p>
+<p>Note, leading will reduce exposure to risk; lagging does not reduce risk, it is simply taking a gamble.</p>
+<p><strong>(5) Asset and liability management</strong>&nbsp;- overseas subsidiaries borrow locally rather than receive finance from the parent. This reduces the net assets of the subsidiary, and reduces exposure to translation risk on consolidation of the subsidiaries’ net assets in the group accounts.</p>
+</section>
+<section id="external-techniques" class="level4">
+<h4 class="anchored" data-anchor-id="external-techniques">3.2 External Techniques</h4>
+<p>Transaction risk can be managed using a variety of external hedges, including:</p>
+<ul>
+<li>Forward exchange contracts;</li>
+<li>Money market hedges;</li>
+<li>Currency options;</li>
+<li>Currency futures contracts;</li>
+<li>Currency swaps.</li>
+</ul>
+<section id="forward-exchange-contracts" class="level5">
+<h5 class="anchored" data-anchor-id="forward-exchange-contracts">1. Forward Exchange Contracts</h5>
+<p>A forward exchange contract is a legally binding agreement to sell or buy:</p>
+<ul>
+<li>an agreed amount of a specified currency;</li>
+<li>on an agreed future date (delivery date);</li>
+<li>at an exchange rate fixed today (the forward rate).</li>
+</ul>
+<p>Forward contracts are not traded but agreements between a company and a counterparty (e.g.&nbsp;a bank). They are customized to match the company’s exact requirements regarding quantity and delivery date.</p>
+<p><strong>The spot rate</strong> is the rate at which you can buy or sell a currency immediately.</p>
+<p><strong>Forward rate</strong> is the exchange rate that given in a forward contract.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>example 6-Nedwen</strong></p>
+<blockquote class="blockquote">
+<p>Nedwen Co is a UK-based company which has the following expected transactions.</p>
+<p>One month: Expected receipt of $140,000</p>
+<p>One month: Expected payment of $240,000</p>
+<p>Three months: Expected receipts of $300,000</p>
+<p>The finance manager has collected the following information:</p>
+<p>Spot rate ($ per £): 1.7820 ± 0.0002</p>
+<p>One-month forward rate ($ per £): 1.7829 ± 0.0003</p>
+<p>Three-month forward rate ($ per £): 1.7846 ± 0.0004</p>
+<p>Money market rates for Nedwen Co:</p>
+<p>Borrowing Deposit</p>
+<p>One-year sterling interest rate: 4.9% 4.6</p>
+<p>One-year dollar interest rate: 5.4% 5.1</p>
+<p>Assume that it is now 1 April.</p>
+<p>Required:</p>
+<p>(a)Calculate the expected sterling payments in one month and receipts in three months using the forward market.</p>
+<p>(b)Calculate the expected sterling payments in one month using a money-market hedge and recommend whether a forward market hedge or a money market hedge should be used.</p>
+</blockquote>
+<p>a forward contract can remove uncertainty about exchange rate changes in the future. it can hedge against the risk of an adverse movement in the future exchange rate, and also loses the opportunity to gain from a favorable movement in the spot rate.</p>
+<p>Lecture example – what happens if sale falls through?</p>
+<blockquote class="blockquote">
+<p>Suppose a UK company has $30,000 receipts in 6 months. The current spot rate is $/£: 1.4. worrying tthe exchange rate will increase, the company contracts a 6-month forward exchange contract of selling $30,000 with a bank, the 6-month forward rate is $/£: 1.5. The spot rate becomes $/£: 1.2 after 6 months.</p>
+<p>What happens if the US customer fails to pay after 6 months?</p>
+<p>The company should fulfil that commitment: sell $30,000 to the bank at the forward rate.</p>
+<p>firstly, the company has to buy $30,000 using the spot of $/£: 1.2, which costs the company 30, 000/1.2=£25,000.</p>
+<p>then, the company sell the $30,000 to the bank at the forward rate and get 30, 000/1.5=£20,000.</p>
+<p>the fulfillment of the contract will incur a loss of £5,000 to the company. This process is known as closing out, the company could win or lose on it depends the spot rate at the time.</p>
+</blockquote>
+<p><strong>Advantages of Forward Contracts</strong></p>
+<ul>
+<li>It is OTC transactions and can be tailored to the exact requirement regarding quantity and delivery date.</li>
+<li>It can be available for many currencies</li>
+<li>It does not require any margin to be posted (unlike future contracts). However, there will be a small fee to set up a forward contract.</li>
+</ul>
+<p><strong>The Main Disadvantages of Forward Contracts</strong></p>
+<ul>
+<li>it is a legally binding contract with a bank; the physical delivery must occur.</li>
+<li>No opportunity to benefit from favorable movements in exchange rates</li>
+</ul>
+<p>Therefore, forward contracts are not a flexible method of hedging.</p>
+<section id="money-market-hedge" class="level5">
+<h5 class="anchored" data-anchor-id="money-market-hedge">2. Money Market Hedge</h5>
+<p>A technique to lock in the value of a foreign currency transaction in terms of the organization’s domestic currency using a combination of investing, borrowing and a spot currency exchange.</p>
+<p><strong>Hedging Steps for an UK Exporter (has $ Receipts)</strong></p>
+<ol type="1">
+<li>borrowing dollars $ now (the intention is that the dollar receipts will pay the dollar loan)</li>
+</ol>
+<p>the amount of borrowing: X× (1+interest rate of borrowing) = foreign currency receipts</p>
+<p><strong>(2) Converting</strong> These Dollars into Sterling at Current <strong>spot Rate</strong></p>
+<p>amount of domestic funds: X/S<sub>0</sub></p>
+<ol start="3" type="1">
+<li><p>Depositing the sterling received in domestic bank for the same period with foreign receipt.</p></li>
+<li><p>Using the future dollar receipt to repay the dollar bank loan.<img src="media/Notes_G/media/image5.png" style="width:3.04167in;height:2.80208in"></p></li>
+</ol>
+<p>A money market hedge effectively produces a "homemade" forward exchange rate.&nbsp;</p>
+<p><strong>Hedging Steps for an Importer (has Dollar Payment)</strong></p>
+<ol type="1">
+<li><strong>borrowing</strong> an amount of sterling now and converting these sterlings into dollars at current spot rate</li>
+</ol>
+<blockquote class="blockquote">
+<p>amount of borrowing funds: X/S<sub>0</sub></p>
+</blockquote>
+<ol start="2" type="1">
+<li>depositing the amount of dollar in foreign bank account</li>
+</ol>
+<p>The amount of deposit: X× (1+deposit rate) = $ payments</p>
+<ol start="3" type="1">
+<li>then pay the dollar payments with the dollar deposit</li>
+</ol>
+<p><img src="media/Notes_G/media/image6.png" style="width:3.04653in;height:2.77014in"></p>
+<p>Because the money is changed now at the spot rate, the transaction is immune from future changes in tthe exchange rate. however, market hedge has obvious cash flow effect:</p>
+<ul>
+<li>for an exporter, the company will have money now rather than have to wait several months.</li>
+<li>for an importer with cash flow deficit, this method may bring a greater liquidity risk.</li>
+</ul>
+<p><strong>whether a forward contract or a money market hedge should be used?</strong></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>example 6 –Nedwen(b)</strong></p>
+</div>
+</div>
+</section>
+<section id="currency-futures" class="level5">
+<h5 class="anchored" data-anchor-id="currency-futures">3. Currency Futures</h5>
+<p>A standard contract for buying or selling a fixed amount of a currency (the contract size) at a fixed price (the future price) on a specified date (the delivery date).</p>
+<p>Futures are&nbsp;exchange-traded&nbsp;forward contracts and have various "delivery dates" (e.g.&nbsp;March, June, September and December).</p>
+<p>A company can choose:</p>
+<ul>
+<li>whether to buy or sell futures; and</li>
+<li>which delivery date to use.</li>
+</ul>
+<p>The price of a currency futures contract represents the forward exchange rate for the currencies specified in the contract.</p>
+<p>The difference between the futures price and the spot exchange rate is known as the&nbsp;basis&nbsp;in the futures contract. The basis in a futures contract will naturally amortize to zero by the contract’s delivery date.</p>
+<p><strong>Steps for Foreign Currency Futures ($) Are as Follows:</strong></p>
+<p>step 1: enter into a futures contract now according to basic transaction</p>
+<ul>
+<li>buy (or sell) futures now</li>
+</ul>
+<p>Step 2: complete the currency transaction on the spot market later</p>
+<ul>
+<li>the currency transaction will have a loss (or profit) due to exchange rate movement</li>
+</ul>
+<p>Step 3: close out the futures contract by doing the opposite of step 1</p>
+<ul>
+<li>sell (or buy) futures later</li>
+</ul>
+<p>If the futures hedge is correctly performed, any gain on future market will offset a loss (or profit) made on the spot currency markets (and vice versa).</p>
+<p>A currency future is like a forward contract in that it fixes tthe exchange rate to use in the future. Currency futures are traded on markets, each contract fixes tthe exchange rate on a large, standard amount of currency and contracts expire at the end of each quarter (march, June, September and December) but can be used on any date up to the expire date. for example, Chicago Mercantile Exchange trade sterling futures contracts with a standard size of £62,500. Only whole number multiples of this amount can be bought or sold.</p>
+<p>Lecture example -illustration of futures</p>
+<blockquote class="blockquote">
+<p>It is currently February and a US company expects to receive £500,000 in June.</p>
+<p>The current Spot rate is $/£: 1.65</p>
+<p>The quote for June sterling futures is $/£: 1.65</p>
+<p>standard size future contract is £62,500</p>
+<p>The US company wants to hedge against the currency risk, how to set up the hedge?</p>
+<p>Step 1: Worrying sterling depreciate (exchange rate fall), so selling futures now (and buy later)</p>
+<p>in February -Sell futures now at $/£ 1.65</p>
+<p>Number of contracts = £500,000 /62,500=8</p>
+<p>Step 2: Assume the spot rate in June moves to $/£: 1.70, the future rate in June is also $/£: 1.70</p>
+<p>In June the company receives £500,000</p>
+<p>Outcomes on foreign currency markets in June:</p>
+<p>in February- Values of £500,000=500,000×1.65=$825,000</p>
+<p>in June- Values of £500,000=500,000×1.70=$850,000</p>
+<p>profit in currency transaction =$25,000</p>
+<p>step 3:in June, do the opposite transaction of step 1 in future market</p>
+<p>Outcomes on futures market in June:</p>
+<p>Sell £ for $1.65</p>
+<p>buy £ for ($1.70)</p>
+<p>(0.05)</p>
+<p>Loss on futures market = 0.05×8×62,500 = $25,000</p>
+<p>This loss made on future market will offset the profit made on currency transactions.</p>
+</blockquote>
+<p><strong>Advantages of Futures</strong></p>
+<ul>
+<li>Transaction costs are generally lower than other hedging methods</li>
+<li>Most currency futures contracts are closed out before delivery, it is more flexible than a forward contract which is only valid on a specific day.</li>
+</ul>
+<p><strong>Disadvantages of Futures</strong></p>
+<ul>
+<li>Currency futures are only available in large, standard, contract sizes, and for a narrow range of currencies (compared to forward contracts). This makes currency futures less suitable for small transactions</li>
+<li>it cannot be tailored to the user’s exact requirements.</li>
+<li>It requires to place a deposit (called a margin) with the exchange</li>
+<li>Hedging inefficiencies may be caused by the following reasons:</li>
+</ul>
+<p><strong>-</strong>futures contract is a standard contract;</p>
+<p>-basic risk.</p>
+<p><strong>Basic risk</strong> occurs when changes in futures prices are not correlated with changes in exchange rates (or interest rates) on a given date.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_G/media/image7.png" style="width:3.66181in;height:2.04514in" class="figure-img"></p>
+<figcaption>::: {.callout-tip} example 7</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>Which of the following are descriptions of basis risk?</p>
+<p>(1) It is the difference between the spot exchange rate and currency futures exchange rate</p>
+<p>(2) It is the possibility that the movements in the currency futures price and spot price will be different</p>
+<p>(3) It is the difference between fixed and floating interest rates</p>
+<p>(4) It is one of the reasons for an imperfect currency futures hedge</p>
+<p>A 1 only</p>
+<p>B 1 and 3</p>
+<p>C 2 and 4 only</p>
+<p>D 2, 3 and 4</p>
+</blockquote>
+<p>Difference between currency futures and forward contracts:</p>
+<p>Currency futures Forward contracts</p>
+<p>Standard contracts tailored contracts定制</p>
+<p>Traded on the open market Traded over the counter</p>
+<p>Flexible close out dates Fixed settlement date</p>
+<p>Underlying transactions take place at the spot rate Underlying transactions take place at the forward rate</p>
+<p>Cheaper than forwards Relatively high premium required</p>
+</section>
+<section id="currency-options" class="level5">
+<h5 class="anchored" data-anchor-id="currency-options">4. Currency Options</h5>
+<p>Options are an example of&nbsp;derivatives&nbsp;(i.e.&nbsp;a financial instrument based on an underlying asset). In the case of currency options, the underlying asset is a currency.</p>
+<p>A currency option gives the right but not the obligation to buy or sell currency:</p>
+<ul>
+<li>A specified quantity of a specified currency;</li>
+<li>at a fixed exchange rate (the exercise price);</li>
+<li>on or before a specified date (expiry date).</li>
+</ul>
+<p>the owner of the option can either:</p>
+<ul>
+<li>exercise their right; or</li>
+<li>allow it to lapse (i.e.&nbsp;not exercise it).</li>
+</ul>
+<p>however, the company must pay for this flexibility. the cost of an option is known as option premium, and this premium is paid at the date the option is bought and are non-refundable.</p>
+<p>A company may buy options:</p>
+<ul>
+<li>on a derivatives market; or</li>
+<li>directly from a bank − known as OTC ("over-the-counter").</li>
+</ul>
+<p>Call option – give the holder the right to buy the underlying asset.</p>
+<p>Put option - give the holder the right to sell the underlying asset.</p>
+<p>Lecture example</p>
+<blockquote class="blockquote">
+<p>A UK importer is due to pay €100m in 6 months’ time. The financial manager worries tthe exchange rate fall and buy a call option on €100m at an exercise rate of €1.155 per £ with a premium of £ 20,000.</p>
+<p>If the spot rate moves to €/£ 1.100 in 6 months:</p>
+<p>Payment at the exercise rate = 100/1,155 = £ 86.58m</p>
+<p>Payment at the spot rate = 100/1,100 = £ 90.91m</p>
+<p>The company will exercise the option because the exercise rate in the option is more favorable than the spot rate.</p>
+<p>If the spot rate moves to €/£ 1.200 in 6 months:</p>
+<p>Payment at the exercise rate = 100/1,155= £ 86.58m</p>
+<p>Payment at the spot rate = 100/1,200= £ 83.33m</p>
+<p>the company will pay at the spot rate and let the option lapse as the spot rate is more favorable than the exercise rate.</p>
+</blockquote>
+<p><strong>Advantages of Currency Options</strong></p>
+<ul>
+<li>Currency options protect against adverse exchange rate movements while allow a company to benefit from a favorable exchange rate movement. It is flexible.</li>
+<li>Exchange-traded options can be sold on if not needed.</li>
+</ul>
+<p><strong>Disadvantages of Currency Options</strong></p>
+<ul>
+<li>The cost of options (premium) can be expensive</li>
+<li>Exchange-traded options are only available in large, standard, contract sizes, and for a narrow range of currencies</li>
+</ul>
+<p><img src="media/Notes_G/media/image8.png" style="width:5.47222in;height:1.78125in"> ::: {.callout-tip} example 8</p>
+</section>
+</div>
+</div>
+</section>
+<section id="currency-swaps" class="level5">
+<h5 class="anchored" data-anchor-id="currency-swaps">5. Currency Swaps</h5>
+<p>An agreement in which two parties exchange the principal amount of a loan and the interest in one currency for the principal and interest in another currency.</p>
+<p>Currency swaps can eliminate exchange rate risk on foreign currency loans as follows:</p>
+<ul>
+<li>On commencement of the swap – an exchange of agreed principal amounts, usually at the prevailing spot rate.</li>
+<li>Over the life of the swap – an exchange of interest payments.</li>
+<li>At the end of the swap – a re-exchange of principals, usually at the&nbsp;original&nbsp;spot rate (thereby removing foreign currency risk).</li>
+</ul>
+<p>Liability on the main debt is not transferred and the parties are liable to <strong>counterparty risk</strong>: if the other party defaults on the agreement to pay interest, the original borrower remains liable to the lender.</p>
+<p>Currency swaps provide a means of hedging against exchange rate exposure over a longer period, and can be used to restructure the currency base of the company’s liabilities.</p>
+<p>Lecture example-swaps</p>
+<blockquote class="blockquote">
+<p>Consider a UK company X, wishes to invest in Germany. Y is a Germany company wishes to finance funds to pay for up-to-date capital equipment imported from UK. Current spot exchange rate is €1.5 per X and Y could swap currencies.</p>
+<p>Step 1: X could borrow £20m from its bank and pay interest at 5%, Y could borrow 30m from its bank and pay interest at 6%. X arranges to swap the £20m for 30m with Y.</p>
+<p>Step 2 each year when interest is due:</p>
+<p>X receives cash from its German investment and passes the amount of 1.8m (= 30m*6%) to Y so that Y can settle this interest liability.</p>
+<p>Y passes to X £1m (=£20m*5%) and X settles its interest liability of £1m.</p>
+<p>Step 3 at the end of the swap, the original payments are reversed with X receiving back from Y the £20m, X uses this £20m to repay the loan it originally received from its UK bank.</p>
+</blockquote>
+<p><img src="media/Notes_G/media/image9.png" style="width:5.76806in;height:7.87204in"></p>
+<p><img src="media/Notes_G/media/image10.png" style="width:5.76806in;height:3.98692in"></p>
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/yehuiapple\.github\.io\/quarto_book\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../body/Chapter 13 Business Valuation.html" class="pagination-link" aria-label="Chapter 13 Business Valuation">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 13 Business Valuation</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../body/Chapter 15 Interest Rate Risk.html" class="pagination-link" aria-label="Chapter 15 Interest Rate Risk">
+        <span class="nav-page-text"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

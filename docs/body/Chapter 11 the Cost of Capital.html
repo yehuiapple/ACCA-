@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Chapter 11 the Cost of Capital – ACCA F9（财务管理）</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../body/Chapter 12 Gearing and Capital Structure.html" rel="next">
+<link href="../body/Chapter 10 Dividend Policy.html" rel="prev">
+<link href="../images/book-logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-6d40f8af7092f34acea1908532066003.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5fa5705025cb9433b42ec99122114b18.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 9 Source of Finance.html">Part E: Business Finance</a></li><li class="breadcrumb-item"><a href="../body/Chapter 11 the Cost of Capital.html"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="https://yehuiapple.github.io/quarto_book/" class="sidebar-logo-link">
+      <img src="../images/book-logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../images/book-logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">ACCA F9（财务管理）</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/yehuiapple/quarto_book" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">ACCA F9（财务管理）</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Introduction</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-title"><img src="media/Introduction/media/image1.emf" class="img-fluid"></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part A: Financial Management Function</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part B: Financial Management Environment</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 2 Financial Management Environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part C: Working Capital Management</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part D: Investment Appraisal</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part E: Business Finance</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 10 Dividend Policy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 11 the Cost of Capital.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part F: Business Valuations</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
+ <span class="menu-text">Part G: Risk Management</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Chapter 15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true">
+ <span class="menu-text">Answers</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_ABC.html" class="sidebar-item-text sidebar-link"><span class="chapter-title"><strong>Example 1</strong> A</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_D.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_E.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_F.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Answers_G.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Example 1</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendix</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../body/Appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix: Technical Articles</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
+  <li><a href="#risk-and-return" id="toc-risk-and-return" class="nav-link" data-scroll-target="#risk-and-return">1 Risk and Return</a></li>
+  <li><a href="#cost-of-equity" id="toc-cost-of-equity" class="nav-link" data-scroll-target="#cost-of-equity">2 Cost of Equity</a></li>
+  <li><a href="#cost-of-debt" id="toc-cost-of-debt" class="nav-link" data-scroll-target="#cost-of-debt">3 Cost of Debt</a></li>
+  <li><a href="#weighted-average-cost-of-capital-wacc" id="toc-weighted-average-cost-of-capital-wacc" class="nav-link" data-scroll-target="#weighted-average-cost-of-capital-wacc">4 Weighted Average Cost of Capital (WACC)</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">5 Summary</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 9 Source of Finance.html">Part E: Business Finance</a></li><li class="breadcrumb-item"><a href="../body/Chapter 11 the Cost of Capital.html"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Chapter 11 the Cost of Capital</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="syllabus" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="syllabus">Syllabus</h3>
+<p><strong>B. Financial Management Environment</strong></p>
+<p><strong>2. The Nature and Role of Financial Markets and Institutions</strong></p>
+<p>d) Explain the nature and features of different securities in relation to the risk/return trade-off.</p>
+<p><strong>E. Business Finance</strong></p>
+<p><strong>2. Estimating the cost of capital</strong></p>
+<p>a) Estimate the cost of equity including:</p>
+<ol type="i">
+<li><p>application of the dividend growth model, its assumptions, advantages and disadvantages.</p></li>
+<li><p>explanation and discussion of systematic and unsystematic risk</p></li>
+<li><p>relationship between portfolio theory and the capital asset pricing model (CAPM)</p></li>
+<li><p>application of the CAPM, its assumptions, advantages and disadvantages.</p></li>
+</ol>
+<p>b) Estimating the cost of debt:</p>
+<ol type="i">
+<li><p>irredeemable debt</p></li>
+<li><p>redeemable debt</p></li>
+<li><p>convertible debt</p></li>
+<li><p>preference shares</p></li>
+<li><p>bank debt.</p></li>
+</ol>
+<p>c) Estimating the overall cost of capital including:</p>
+<ol type="i">
+<li><p>distinguishing between average and marginal cost of capital</p></li>
+<li><p>calculating the weighted average cost of capital (WACC) using book value and market value weightings.</p></li>
+</ol>
+<p><strong>3. Sources of finance and their relative costs</strong></p>
+<p>a) Describe the relative risk-return relationship and the relative costs of equity and debt.</p>
+<p>b) Describe the creditor hierarchy and its connection with the relative costs of sources of finance.</p>
+</section>
+<section id="risk-and-return" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="risk-and-return">1 Risk and Return</h3>
+<p>The relative risk return relationship of equity and debt is based on their relative priority for repayment on liquidation – the creditor hierarchy:</p>
+<ul>
+<li>secured creditors (loans and loan notes)</li>
+<li>Unsecured creditors (trade payables and unsecured debt)</li>
+<li>Preference shares</li>
+<li>Ordinary shares</li>
+</ul>
+<p>The risk faced by each class of investor drives the required return of investors (there is a risk/return pay off) and the required return drives the company’s cost of each finance.</p>
+<p><strong>Providers of debt holders</strong> will face low risk because:</p>
+<ul>
+<li>Debt holders will receive interest payment each year</li>
+<li>Are paid before providers of share capital in the event of liquidation</li>
+</ul>
+<p><strong>Preference shareholders</strong> face higher risk because:</p>
+<ul>
+<li>a dividend will only be paid after providers of debt have been paid</li>
+<li>in a liquidation the debt holders will be paid before preference shareholders.</li>
+</ul>
+<p><strong>Ordinary shareholders</strong> face the highest risk because:</p>
+<ul>
+<li>A dividend will only be paid after the providers of debt and preference shareholders have been paid</li>
+<li>In a liquidation the debt holders and preference shareholders will be paid before ordinary shareholders</li>
+</ul>
+<p>The cost of capital is the rate of return that the company must pay to satisfy the providers of funds, and it reflects different levels of risk of providing funds. The higher the risk faced, the higher return that will be expected.</p>
+<p>Investor’s rate of return and cost of capital</p>
+<ul>
+<li>For equity and preference share, cost of capital equals to investor’s required rate of return</li>
+<li>for debt finance, cost of capital does not equal to investor’s required rate of return because a company receive tax relief on interest payments.</li>
+</ul>
+</section>
+<section id="cost-of-equity" class="level3">
+<h3 class="anchored" data-anchor-id="cost-of-equity">2 Cost of Equity</h3>
+<p>The cost of equity can be estimated in two ways:</p>
+<ul>
+<li>the dividend growth model</li>
+<li>the capital asset pricing model</li>
+</ul>
+<section id="the-dividend-growth-model" class="level4">
+<h4 class="anchored" data-anchor-id="the-dividend-growth-model">2.1 the Dividend Growth Model</h4>
+<p><strong>The DVM</strong></p>
+<p>According to the DVM, the market value of share:</p>
+<p>Ex-div market value at time 0 = Present value of the future dividends discounted at the shareholder’s required rate of return.</p>
+<p>The DVM model then becomes:</p>
+<p>P<sub>0</sub> = <span class="math inline">\(\frac{D}{Ke}\)</span> for constant dividend to infinity;</p>
+<p>or</p>
+<p>P<sub>0</sub> = <span class="math inline">\(\frac{D_{0}(1 + g)}{Ke - g}\)</span> = <span class="math inline">\(\frac{D_{1}}{Ke - g}\)</span> for dividend grow at a constant rate in perpetuity.</p>
+<p>If the company is listed and the share price is known, the DVM can be rearranged and used to estimate shareholders’ required return:</p>
+<p>K<sub>e</sub> = <span class="math inline">\(\frac{D}{P0}\)</span> for constant dividend to infinity;</p>
+<p>or</p>
+<p><span class="math inline">\(Ke\  = \ \frac{D_{0}(1 + g)}{P_{0}} + g\)</span> for dividend grow at a constant rate in perpetuity</p>
+<p>Where:</p>
+<p>K<sub>e</sub> = the cost of equity</p>
+<p>D = constant annual dividend per share</p>
+<p>D<sub>0</sub> =the current dividend per share</p>
+<p>g = expected dividend growth rate in future</p>
+<p>P<sub>o</sub> =current ex-div price per share</p>
+<p>The&nbsp;ex-div&nbsp;market value is the market value of the share, assuming that the current dividend has just been paid.</p>
+<p>A&nbsp;cum-div&nbsp;market value includes the value of the dividend just about to be paid. The relationship between cum-div price and ex-div price is below:</p>
+<p>cum-div Price = ex-div share price + dividend</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lecture example 1</strong></p>
+<blockquote class="blockquote">
+<p>A company’s current dividend cover ratio is 4 times and after-tax profits are $20m. The company has one million $1 ordinary shares in issue and the current market capitalization of the company is $50m.</p>
+<p>What is the cost of equity capital if?</p>
+</blockquote>
+</div>
+</div>
+<ul>
+<li><blockquote class="blockquote">
+<p>expects zero growth in dividends</p>
+</blockquote></li>
+<li><blockquote class="blockquote">
+<p>expects a growth rate of 4% in dividends in future?</p>
+</blockquote></li>
+</ul>
+<p><strong>Estimating the Growth Rate of Dividends</strong></p>
+<p>The growth rate of dividends can be estimated using either of two methods:</p>
+<ul>
+<li>extrapolation of past dividends</li>
+<li>Gordon’s growth model</li>
+</ul>
+<section id="from-historic-growth" class="level5">
+<h5 class="anchored" data-anchor-id="from-historic-growth">1. From Historic Growth</h5>
+<p>This method analyses historical growth to predict future growth rate. For uneven but steady growth, take an average overall growth – the geometric mean.</p>
+<p>growth rate=<span class="math inline">\(\sqrt[n]{\frac{current\ dividend}{dividend\ n\ years\ ago}} - 1\)</span></p>
+</section>
+<section id="gordens-growth-model" class="level5">
+<h5 class="anchored" data-anchor-id="gordens-growth-model">2. Gorden’s Growth Model</h5>
+<p>According to Gordon’s growth model, growth is achieved by retaining and reinvesting profits:</p>
+<p>g = br<sub>e</sub></p>
+<p>where: r<sub>e</sub>= rate of return on reinvested funds (ROCE)</p>
+<p>b= % of profits reinvested (retention ratio)</p>
+<p>r<sub>e</sub>=<span class="math inline">\(\frac{profit\ (for\ the\ year)}{shareholders'fund} = \frac{profit\ (for\ the\ year)}{net\ assets}\)</span></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lecture example 2</strong></p>
+<p>Cg company has 4 million shares in issue, and has done for many years. Its dividend payments in the years 2009 to 2013 were as follows.</p>
+<p>End of year Dividends ($000) …</p>
+<p>2009 220^[2]^ 2010 257^[2]^ 2011 310^[2]^ 2012 356^[2]^ 2013 423^[2]^———————————</p>
+<p>dividends are expected to continue to growth at the same average rate into the future. The current ex-div share price of the company at year 2013 is $1.73.</p>
+<p>what is cost of equity for Cg company?</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 3</strong></p>
+<blockquote class="blockquote">
+<p>IPA company is about to pay a $0.50 dividend on each ordinary share. Its EPS was $1.5. Net assets per share is $6. Current share price is $4.50 per share.</p>
+<p>What is the cost of equity?</p>
+</blockquote>
+</div>
+</div>
+<p><strong>Underlying Assumptions of the DVM Include:</strong></p>
+<ul>
+<li>The same expectations for all investors; therefore, they all require the same rate of return.</li>
+<li>Perfect capital market assumptions:&nbsp;</li>
+</ul>
+<p>-rational investors;</p>
+<p>-no taxes or transaction&nbsp;costs;</p>
+<p>-large number of buyers and sellers of shares;</p>
+<p>-no individual can affect the share price; and</p>
+<p>-perfect information is freely available to all investors.</p>
+<ul>
+<li>Dividends are paid just once a year and one year apart.</li>
+<li>Dividends are either constant or are growing at a constant rate.</li>
+</ul>
+<p><strong>Advantages and Disadvantages of DVM</strong></p>
+<p>Advantages:</p>
+<ul>
+<li>It is easy to understand and can be applied to any share that offers a dividend.</li>
+<li>For minority shareholders without&nbsp;control over a company’s policies, dividends are the only available metric.</li>
+<li>It is particularly suitable for “mature” companies paying regular dividends.</li>
+</ul>
+<p>Disadvantages:</p>
+<ul>
+<li><p>It cannot be applied to shares that do not pay dividends therefore, it cannot be used for smaller businesses and startups.</p></li>
+<li><p>It does not explicitly incorporate risk.</p></li>
+<li><p>Dividends don’t grow smoothly in reality so it is only an approximation</p></li>
+<li><p>It makes no allowance for non-dividend factors that influence the value of a share (e.g.&nbsp;brand loyalty and other internally generated intangible assets).</p></li>
+<li><p>It assumes there are no issue costs for new shares</p></li>
+<li><p>current market price P<sub>0</sub> can be subject to short-term influence which will distort the estimate of cost of equity</p></li>
+<li><p>It’s difficult to estimate growth rate, and the future growth rate may not equal historical growth rate</p></li>
+</ul>
+</section>
+</section>
+<section id="capital-asset-pricing-mode-capm" class="level4">
+<h4 class="anchored" data-anchor-id="capital-asset-pricing-mode-capm">2.2 Capital Asset Pricing Mode (CAPM)</h4>
+<section id="systematic-and-unsystematic-risk" class="level5">
+<h5 class="anchored" data-anchor-id="systematic-and-unsystematic-risk">1. Systematic and Unsystematic Risk</h5>
+<p>If an investor has a portfolio of investments in the shares of several different companies, the risk of the portfolio is less than the average due to diversification.</p>
+<p>Investment risk has two elements:</p>
+<ul>
+<li>Systematic risk; and</li>
+<li>Unsystematic risk.</li>
+</ul>
+<p><strong>Unsystematic risk</strong> – The risk which is unique to each company’s shares (also called diversifiable or industry-specific risk). Unsystematic risk can be eliminated by a diversified portfolio.</p>
+<p><strong>Systematic risk</strong> - The risk is associated with the financial system which affects the market as a whole rather than a specific company’s shares (also called market risk or undiversifiable risk). Systematic risk cannot be eliminated by a diversified portfolio.</p>
+<p>The sum of systematic risk and unsystematic risk is called total risk.</p>
+<p>As more different shares are added to the portfolio, the unsystematic risk is diversified away and the total risk reduces to approach systematic risk.</p>
+<p>This means that investors should only be rewarded for risks they cannot avoid − systematic risk.</p>
+<p><img src="media/Notes_E/media/image7.png" style="width:5.76806in;height:1.80833in"></p>
+</section>
+<section id="measurement-of-systematic-risk" class="level5">
+<h5 class="anchored" data-anchor-id="measurement-of-systematic-risk">2. Measurement of Systematic Risk</h5>
+<p>Beta factor describes a share’s degree of sensitivity to changes in the market’s returns caused by systematic risk.</p>
+<p>Beta factors for quoted shares are measured using historical data and published in "beta books". They are determined by comparing changes in a share’s returns to changes in the stock market returns as a whole over many years (at least five years).</p>
+<p>Typically, beta lies between 0.2 and 1.6:</p>
+<ul>
+<li>β<sub>i</sub>=1, indicate a neutral share that is as sensitive as the market to systematic risk. Such shares should earn the&nbsp;<strong>market return</strong>.</li>
+<li>ßi&gt;1, indicate an aggressive share that is more sensitive than the market.</li>
+<li>ßi&lt;1, indicates a “defensive” share that is less sensitive than the market and is likely to rise and fall in value less than the market in general.</li>
+</ul>
+</section>
+<section id="the-capital-and-asset-pricing-model" class="level5">
+<h5 class="anchored" data-anchor-id="the-capital-and-asset-pricing-model">3. The Capital and Asset Pricing Model</h5>
+<p>The CAPM is a method of calculating the return required on an investment based on its risk.</p>
+<p>The Security Market Line (SML) plots the required return (E(ri)) from any investment according to its systematic risk, as measured by its beta.</p>
+<p><img src="media/Notes_E/media/image8.png" style="width:3.88889in;height:1.50387in"></p>
+<p>Comparing forecast returns from an investment against the required return indicates whether an investment is undervalued or overvalued.</p>
+<ul>
+<li>Any share with a return above the SML (e.g.&nbsp;A has higher returns than predicted) would be sought after as it appears to be temporarily underpriced. It is, therefore, underpriced and will be sought after. This will drive up its price and reduce its expected return until it earns only the required return indicated by the SML. A is a “positive alpha” investment.</li>
+<li>Any share with a return below the SML (e.g.&nbsp;B) would be sold as it appears to be temporarily overpriced. This will drive down the price and increase the expected return until it earns the required return indicated by the SML. B is referred to as a “negative alpha” investment.</li>
+</ul>
+<p>In the long run, market forces should ensure that all investments give the returns predicted by the SML.</p>
+<p>CAPM is the equation of the SML that relates required returns to beta values as measures of systematic risk. CAPM assumes that investors hold fully diversified portfolios. This means that investors are concerned only with systematic risk.</p>
+<p>The formula for the CAPM is:</p>
+<p>E(r<sub>i</sub>)= R<sub>f</sub> + β<sub>i</sub>(E(r<sub>m</sub>)-R<sub>f</sub>)</p>
+<p>Where:</p>
+<ul>
+<li>E(r<sub>i</sub>)=expected / required return of equity investors</li>
+<li>R<sub>f</sub> =Risk-free rate of return.</li>
+<li>β<sub>i</sub>=beta of the investment</li>
+<li>E(r<sub>m</sub>)=expected return from the market portfolio</li>
+</ul>
+<p>E(r<sub>m</sub>-R<sub>f</sub>) is&nbsp;called the equity/market&nbsp;risk <em>premium</em> (i.e.&nbsp;the extra return an investor expects for holding a diversified portfolio of shares rather than a risk-free security).</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lecture example 4</strong></p>
+<blockquote class="blockquote">
+<p>Investors have an expected rate of return of 8% from ordinary shares in A company, which have a beta of 1.2. the expected returns to the market are 7%.</p>
+<p>What will be the expected rate of return from ordinary shares in B, which have a beta of 1.8?</p>
+</blockquote>
+</div>
+</div>
+<p><strong>Assumptions of CAPM</strong></p>
+<p>The assumptions of the CAPM can be summarized as follows:</p>
+<ul>
+<li>Total risk can be split between systematic risk and unsystematic risk.</li>
+<li>Unsystematic risk can be diversified away entirely.</li>
+<li>Shareholders hold well-diversified portfolios.</li>
+<li>A risk-free security exists which provides a minimum level of return required by investors.&nbsp;</li>
+<li>Investors can borrow and lend at the risk-free rate (for which the yield on short-dated government debt is taken as a proxy).</li>
+<li>A standardized holding period (usually one year) to make the returns on different securities comparable (e.g.&nbsp;a return over six months cannot be compared with a return over 12 months).</li>
+<li>A perfect capital market exists, as for the dividend valuation model, so all securities are valued correctly.</li>
+</ul>
+<p><strong>Advantages and Disadvantages of CAPM:</strong></p>
+<p>advantages:</p>
+<ul>
+<li>It considers systematic risk</li>
+<li>It generates a theoretically derived relationship between required return and systematic risk.</li>
+<li>It is a much better method of calculating the cost of equity than the DVM in that it explicitly allows for a company’s level of systematic risk relative to the stock market as a whole.</li>
+</ul>
+<p>Disadvantages:</p>
+<ul>
+<li>It is a single-period model – whereas company projects are often for multiple periods.</li>
+<li>CAPM tends to overstate the required return on high-risk companies and understate the returns on low-risk companies.</li>
+<li>Assumptions do not hold in the real world. For example, the assumption that investors can borrow and lend at the risk-free rate (for which the yield on short-dated government debt is taken as a proxy) is unrealistic.</li>
+</ul>
+</section>
+</section>
+<section id="comparing-capm-and-the-dvm" class="level4">
+<h4 class="anchored" data-anchor-id="comparing-capm-and-the-dvm">2.3 Comparing CAPM and the DVM</h4>
+<p>The DVM can be readily applied to any listed companies that offer dividends. However, the model gives no explanation as to why different shares have different costs of equity. The reason that different shares have different rates of return is that they have different risks, but this is not made explicit by the DVM. The formula suggest that the rate of return would be lowered if the company reduced its dividends or the growth rate, however, a business cannot alter its cost of equity by changing its dividends.</p>
+<p>Compared to the DVM, CAPM is generally a more stable method for calculating the cost of equity. The CAPM explicitly takes into account of a company’s level of systematic risk and gives a clear link between required return and risk, so explains why different companies give different returns.</p>
+</section>
+</section>
+<section id="cost-of-debt" class="level3">
+<h3 class="anchored" data-anchor-id="cost-of-debt">3 Cost of Debt</h3>
+<section id="bank-loan" class="level4">
+<h4 class="anchored" data-anchor-id="bank-loan">3.1 Bank Loan</h4>
+<p>A profitable company should be able to claim tax relief on bank interest; therefore, the post-tax cost of bank loans is:</p>
+<p>K<sub>dat</sub> = quoted interest rate × (1- tax rate)</p>
+<p>As bank loans are&nbsp;<strong>not</strong>&nbsp;traded, their book value must be used as a proxy for market value.</p>
+</section>
+<section id="irredeemable-debt" class="level4">
+<h4 class="anchored" data-anchor-id="irredeemable-debt">3.2 Irredeemable Debt</h4>
+<p>The market value of debt can be calculated using the DVM:</p>
+<p>MV (ex-interest) = PV of future interest payments discounted at the debtholder’s required rate of return.</p>
+<p>Annual interest payment = coupon rate × nominal value</p>
+<p>For irredeemable bons the interest is a&nbsp;<em>perpetuity</em>.</p>
+<p>P<sub>0</sub> =I / K<sub>d</sub></p>
+<p>Where: P<sub>0</sub> =ex-interest market price</p>
+<p>I = annual interest payment</p>
+<p>K<sub>d</sub> = bondholder’s required return</p>
+<p>The <strong>pre-tax</strong>&nbsp;cost of irredeemable bonds is the debtholder’s required return:</p>
+<p>K<sub>d</sub> = I / P<sub>0</sub></p>
+<p>As the company gets tax relief on interest expense, the cost to the company (post-tax cost of debt) will be:</p>
+<p>K<sub>dat</sub> = I × (1- tax rate) / P<sub>0</sub></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 5</strong></p>
+<blockquote class="blockquote">
+<p>L co. has issued bonds of $100 nominal value with annual interest of 9% per year, based on the nominal value. The current ex-interest market price of the bonds is $90. Assuming the tax rate of L is 30%.</p>
+<p>What is the cost of bonds?</p>
+</blockquote>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 6</strong></p>
+<blockquote class="blockquote">
+<p>Henry has 12% irredeemable bonds in issue with a nominal value of $100. The market price is $95 ex-interest. Assuming the tax rate is 30%. Calculated the cost of capital if interest is paid half-yearly.</p>
+</blockquote>
+</div>
+</div>
+</section>
+<section id="redeemable-debt" class="level4">
+<h4 class="anchored" data-anchor-id="redeemable-debt">3.3 Redeemable Debt</h4>
+<p>For redeemable debt, the cost of any source of funds is the IRR of the cash flows associated with that source.</p>
+<p>Finding the IRR of the following cash flows:</p>
+<p>Year cash flow $ DF(a%) PV $ DF(b%) PV $ …</p>
+<p>0 Ex-interest MV (x) 1 1</p>
+<p>1-n Post-tax Interest x</p>
+<p>n Redemption value x</p>
+<p>NPV<sub>a</sub> NPV<sub>b</sub></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lecture example 7</strong></p>
+<blockquote class="blockquote">
+<p>L co. has issued bonds 10% bonds of a nominal value of $100. The current market price of the bonds is $90 ex-interest. Assuming the tax rate is 30%.</p>
+<p>What is the cost of the bonds if it is redeemable at par after ten years?</p>
+</blockquote>
+</div>
+</div>
+<p>If interest is paid every six months rather than annually, the calculations for the cost of debt as follows:</p>
+<ul>
+<li>calculation the IRR based on cash flows at six-month intervals</li>
+<li>The IRR will then be a six-month cost of debt and must be adjusted to determine the annual cost of debt.&nbsp;</li>
+</ul>
+</section>
+<section id="convertible-debt" class="level4">
+<h4 class="anchored" data-anchor-id="convertible-debt">3.4 Convertible Debt</h4>
+<p>Holders of convertible bond can choose between redemption at some future date or conversion into a predetermined number of equity shares. Debt holders will only convert if the MV of the shares is greater than the redemption value of the debt. So calculation of cost of convertible bonds involves:</p>
+<ul>
+<li>Calculate the conversion value and determine whether or not converse</li>
+</ul>
+<p>Conversion value = conversion ratio * market price</p>
+<ul>
+<li><p>Find the IRR of the after-tax cash flows:</p>
+<p>Year cash flow $ DF(a%) PV $ DF(b%) PV $</p>
+<p>0 (ex-interest MV) 1 1</p>
+<p>1-n Post-tax Interest</p>
+<p>n Higher of redemption value and conversion value</p>
+<p>NPV<sub>a</sub> NPV<sub>b</sub></p></li>
+</ul>
+<p>K<sub>dat</sub>=</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 8</strong></p>
+<blockquote class="blockquote">
+<p>A co. has issued 8% convertible bonds which are due to be redeemed in five years’ time. They are currently quoted at $82 per $100 nominal. The bonds can be converted into 25 shares in five years’ time. The share price is currently $3.5 and is expected to grow at a rate of 3% per year. Assume a 30% rate of tax.</p>
+<p>What is the cost of the convertible bonds?</p>
+</blockquote>
+</div>
+</div>
+</section>
+<section id="preference-share" class="level4">
+<h4 class="anchored" data-anchor-id="preference-share">3.5 Preference Share</h4>
+<p>A preference shareholder will receive a fixed income based upon the nominal value of the shares held.</p>
+<p>K<sub>p</sub>=<span class="math inline">\(\frac{\mathbf{D}}{\mathbf{P}_{\mathbf{0}}}\)</span></p>
+<p>Where: D = constant annual dividend</p>
+<p>P<sub>o</sub> = ex-div market price of the preference share</p>
+<p>Preference dividends are typically quoted as a percentage (e.g.&nbsp;10% preference shares). This means the annual dividend will be 10% of the&nbsp;<em>nominal</em>&nbsp;value,&nbsp;<strong>not</strong>&nbsp;the market value.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lecture example 9</strong></p>
+<blockquote class="blockquote">
+<p>An 8％ irredeemable $0.50 preference share is being traded for $0.30 cum-dividend in a company that pays corporation tax at a rate of 30%.</p>
+<p>What is the cost of preference shares?</p>
+</blockquote>
+</div>
+</div>
+</section>
+</section>
+<section id="weighted-average-cost-of-capital-wacc" class="level3">
+<h3 class="anchored">4 Weighted Average Cost of Capital (WACC)</h3>
+<section id="formula-for-wacc" class="level4">
+<h4 class="anchored">4.1 Formula for WACC</h4>
+<p>Companies are usually financed by combination of debt and equity (i.e.&nbsp;they use some degree of financial/capital gearing). The WACC represents a company’s average cost of long-term finance.</p>
+<p>The formula is given below:</p>
+<p>Where: K<sub>e</sub> = cost of equity,</p>
+<p>K<sub>dat</sub> = after-tax cost of debt</p>
+<p>V<sub>e</sub> = market value of shares i.e.&nbsp;<strong>market capitalization</strong></p>
+<p>V<sub>d</sub> = market value of debt</p>
+<p>Market values of equity/debt (where available) are used to weight the individual costs of capital.</p>
+<p>MV of Equity = No.&nbsp;of ordinary share × Share price</p>
+<p>MV of Debenture = Book value of debenture/100 × Debenture price</p>
+<p>MV of loan = Book value</p>
+<p>MV of preference share = No.&nbsp;of preference share × Share price</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 10</strong></p>
+<p>IDO company has a capital structure as follows.</p>
+<pre><code>\$m</code></pre>
+<p>$0.50 ordinary shares 5</p>
+<p>reserves 20</p>
+<p>13% irredeemable loan notes 7</p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">32</h2>
+<p>The ordinary shares are currently quoted at $3, and the loan notes at $90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.</p>
+<p>What is the company’s WACC?</p>
+</section>
+</div>
+</div>
+</section>
+<section id="weightings-used-in-wacc" class="level4">
+<h4 class="anchored" data-anchor-id="weightings-used-in-wacc">4.2 Weightings Used in WACC</h4>
+<p>But market values should always be better than book value.</p>
+<p>As book value are based on historical costs, and the market value of shares are usually much higher than its book value, therefore, using book value will s<strong>eriously underestimate</strong> the impact of cost of equity finance on WACC, that is WACC will be seriously underestimated if they are calculated based on book value.</p>
+<p>If WACC is underestimated, projects that do not in fact deliver a high return to finance providers may be accepted.</p>
+</section>
+<section id="wacc-and-project-appraisal" class="level4">
+<h4 class="anchored" data-anchor-id="wacc-and-project-appraisal">4.3 WACC and Project Appraisal</h4>
+<p>Marginal cost of capital (MCC) is the cost of raising the most recent dollar of finance.</p>
+<p>When evaluating a project, the WACC is a more appropriate discount rate than the MCC, as the WACC is an average of the cost of equity (which measures business risk) and the cost of debt.</p>
+<p>The existing WACC can be used as a discount rate if the project has the same risk as the company’s existing activities. However, if the project has a different risk, the existing WACC will not be appropriate. In this case, a tailor-made discount rate for that project must be determined using the CAPM.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_E/media/image9.png" style="width:5.76806in;height:2.36528in" class="figure-img"></p>
+<figcaption>Past paper example: BURSE,2008 JUNE</figcaption>
+</figure>
+</div>
+<p><img src="media/Notes_E/media/image10.png" style="width:5.76806in;height:1.77292in"></p>
+</section>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary">5 Summary</h3>
+<section id="overview" class="level4">
+<h4 class="anchored" data-anchor-id="overview">5.1 Overview</h4>
+<p><img src="media/Notes_E/media/image11.png" style="width:6.28116in;height:7.19525in"></p>
+</section>
+<section id="technical-articles" class="level4">
+<h4 class="anchored" data-anchor-id="technical-articles">5.2 Technical Articles</h4>
+<p><a href="../technical-articles/CAPM-part 1.pdf">CAPM-part 1.pdf</a></p>
+<p><a href="../technical-articles/CAPM-part 2.pdf">CAPM-part 2.pdf</a></p>
+<p><a href="../technical-articles/CAPM-part 1.pdf">CAPM-theory,advantages and disadvantages.pdf</a></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/yehuiapple\.github\.io\/quarto_book\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../body/Chapter 10 Dividend Policy.html" class="pagination-link" aria-label="Chapter 10 Dividend Policy">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 10 Dividend Policy</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../body/Chapter 12 Gearing and Capital Structure.html" class="pagination-link" aria-label="Chapter 12 Gearing and Capital Structure">
+        <span class="nav-page-text"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
