@@ -69,13 +69,13 @@ book:
         - body/Chapter 14 Foreign Currency Risk.md
         - body/Chapter 15 Interest Rate Risk.md
 
-    - part: "Answers"
-      chapters:
-        - body/Answers_ABC.md
-        - body/Answers_D.md
-        - body/Answers_E.md
-        - body/Answers_F.md
-        - body/Answers_G.md
+#    - part: "Answers"
+#      chapters:
+#        - body/Answers_ABC.md
+#        - body/Answers_D.md
+#        - body/Answers_E.md
+#        - body/Answers_F.md
+#        - body/Answers_G.md
 
     - part: "Appendix"
       chapters:

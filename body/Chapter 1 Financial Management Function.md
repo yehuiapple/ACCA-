@@ -149,7 +149,6 @@ E. Weighted average cost of capital
 :::
 :::
 
-
 #### 1.4 Strategy and Corporate Objectives
 
 **Corporate strategy** is a long-term plan for how an organization intends to compete, and which markets it intends to compete in. **Corporate objectives** are the overall aims of an organization that should result from the successful implementation of its corporate strategy.
@@ -205,7 +204,7 @@ Two ways of encouraging achievement of stakeholder objectives:
 - Managerial reward schemes
 - Corporate governance
 
-##### 1. Managerial Reward Schemes
+##### 2.3.1 Managerial Reward Schemes
 
 Goal congruence occurs when the objectives of agents acting within an organization align with the organization's objectives. For example, managers should be encouraged to aim for long-term growth and prosperity rather than short-term reported profitability.
 
@@ -228,7 +227,7 @@ The evidence is mixed regarding the success of such schemes in motivating direct
 
 Paying a bonus to directors if the company's performance over several years is good when benchmarked against competitors.
 
-##### 2. Corporate Governance
+##### 2.3.2 Corporate Governance
 
 **Corporate Governance**: rules and systems by which companies are directed and controlled. An objective of corporate governance is to ensure agency costs remain at a level acceptable to shareholders.
 
@@ -243,7 +242,7 @@ The main principles of codes of corporate governance:
 - **Audit Committee** — responsible for internal control and risk management; should be comprised of independent non-executive directors.
 - **Nomination Committee** — responsible for the appointment of new directors; should be comprised of independent non-executive directors.
 
-##### 3. Listing Regulations
+##### 2.3.3 Listing Regulations
 
 Stock exchanges have rules and regulations to ensure that the stock market operates fairly and efficiently for all parties involved. To become listed, a company must meet listing requirements set out in the listing rules.
 
@@ -331,11 +330,11 @@ $$
 
 Efficiency ratios measure how well a company utilizes its assets and manages its liabilities. Key efficiency ratios include:
 
-- **Receivable Collection Period** — the average number of days it takes to collect payment from customers.
-- **Payables Payment Period** — the average number of days it takes to pay suppliers.
-- **Inventory Holding Period** — the average number of days inventory is held before being sold.
-- **Cash Operating Cycle** — the total time between paying for inventory and receiving cash from customers.
-- **Sales / Net Working Capital** — measures how efficiently working capital is used to generate sales.
+- **Receivable Collection Period** - the average number of days it takes to collect payment from customers.
+- **Payables Payment Period** -the average number of days it takes to pay suppliers.
+- **Inventory Holding Period** - the average number of days inventory is held before being sold.
+- **Cash Operating Cycle** - the total time between paying for inventory and receiving cash from customers.
+- **Sales / Net Working Capital** - measures how efficiently working capital is used to generate sales.
 
 #### 3.4 Investor Ratios
 
@@ -409,7 +408,7 @@ Three comparisons can be made:
 - The change in the ratio from one year to the next
 - Other benchmark company's ratio, if this information is available
 - A given target ratio
-:::
+  :::
 
 ### 4 Not-For-Profit Organizations
 
@@ -436,4 +435,3 @@ To overcome these issues, performance can be measured by:
 - using judgments by experts;
 - using comparisons to other similar bodies or against historical results;
 - using inputs (e.g. teaching staff hours paid or costs).
-
