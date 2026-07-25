@@ -401,14 +401,12 @@ E(r~i~)=R~f~+$\mathbf{\beta}_{\mathbf{e}}$ (R~m~ -R~f~)
 
 
 
-::: {.callout-tip}
 **Example 4 -- June 2015**
 
 Are the following statements true or false?
 
 1. The asset beta reflects both business risk and financial risk\^\[2\]\^2. Total risk is the sum of systematic risk and unsystematic risk\^\[2\]\^3. Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beta\^\[1\]\^
 ![
-:::
 
 
 ::: {.callout-tip}

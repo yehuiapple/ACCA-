@@ -222,7 +222,6 @@ h~b~: expected inflation rate in country b
 
 
 
-::: {.callout-tip}
 **example 3**
 
 > the current spot rate between UK sterling and US dollar is \$/£ 1.50. assuming that there is purchasing parity, an amount of commodity costing £2,00 in UK will cost \$300 in US. Over the next year, price inflation in US is expected to be 5% while inflation in UK is expected to be 8%.
@@ -282,7 +281,6 @@ If interest rates are only different between two countries due to inflation (ie 
 
 
 
-::: {.callout-tip}
 **Example 4**
 
 > Handria is a country that has the peso for its currency and Wengry is a country that has the \$ for its currency. The current spot rate is 1.5134 pesos = \$1.
@@ -482,8 +480,7 @@ Because the money is changed now at the spot rate, the transaction is immune fro
 
 
 
-
-::: {.callout-tip}
+ {.callout-tip}
 **example 6 --Nedwen(b)**
 :::
 
@@ -680,8 +677,7 @@ Lecture example
 - The cost of options (premium) can be expensive
 - Exchange-traded options are only available in large, standard, contract sizes, and for a narrow range of currencies
 
-![](media/Notes_G/media/image8.png){width="5.472222222222222in" height="1.78125in"}
-::: {.callout-tip}
+![](media/Notes_G/media/image8.png){width="5.472222222222222in" height="1.78125in"} {.callout-tip}
 example 8
 :::
 

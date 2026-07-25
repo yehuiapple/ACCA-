@@ -248,7 +248,6 @@ The time taken to pay suppliers. A business would prefer to increase its payable
 
 
 
-::: {.callout-tip}
 **Example 4: Dec 2016,Q11**
 
 > Mile Co is looking to change its working capital policy to match the rest of the industry. The following results are expected for the coming year:
@@ -371,7 +370,6 @@ If a business suffers from liquidity problems due to overtrading, the aim will b
 Over-capitalization -- an excessive level of working capital, leading to inefficiency.
 
 ![
-::: {.callout-tip}
 example 5: 2012 JUNE- wobnig (a)-overtrading](media/Notes_C/media/image4.png){width="5.76875in" height="2.553472222222222in"}
 
 ![](media/Notes_C/media/image5.png){width="5.76875in" height="4.2965277777777775in"}
@@ -379,7 +377,6 @@ example 5: 2012 JUNE- wobnig (a)-overtrading](media/Notes_C/media/image4.png){wi
 ![](media/Notes_C/media/image6.png){width="6.1642497812773405in" height="1.4329790026246718in"}
 
 ![](media/Notes_C/media/image7.png){width="5.76875in" height="2.70625in"}
-:::
 
 
 ### 3 Managing Inventory
@@ -571,37 +568,27 @@ Note: the AER is calculated using compound interest, the simple interest = $\fra
 
 **(2) Annual Cost/Benefit**
 
-Annual benefit:
-
-- Finance cost savings on reduced receivables (w1) x
-- Profits on extra sales credit sales. x
-
-Annual cost:
-
-- Extra administration costs (x)
-- Discount cost on revised credit sales (x)
-
-
-
-**Net Benefit X**
+|                            | \$       |
+|----------------------------|----------|
+| **Annual benefit**         |          |
+| Finance cost savings (W1)  | x        |
+| Profits on extra sales     | x        |
+| **Annual cost**            |          |
+| Extra administration costs | (x)      |
+| Discount cost              | (x)      |
+| **Net benefit**            | **X**    |
 
 If the net benefit is positive, a company should offer discount on financial grounds.
 
-Working 1 finance cost savings on reduced receivables
+Working 1: finance cost savings on reduced receivables
 
+|                                   | Existing  | Revised   |
+|-----------------------------------|-----------|-----------|
+| Receivable collection period      |           |           |
+| Receivables                       |           |           |
+| Annual finance cost               | X~1~      | X~2~      |
 
-
-    Existing                revised
-
-
-
-  Receivable collection period
-
-  receivables
-
-Annual finance cost            X1                      X2
-
-Annual finance cost saving = x1-x2
+Annual finance cost saving = X~1~ − X~2~
 
 
 
@@ -662,35 +649,27 @@ As factors have significant expertise, debts will be collected from customers mo
 
 **Evaluate Whether Use the Factor**
 
-Annual cost of using a factor
-
-- Factor fees (as a % of sales) (x)
-
-Annual benefit of using a factor
-
-- administration cost savings. x
-- reduced bad debt x
-- finance cost savings on reduced receivables(w) x
-
-**Net Benefit X**
+|                            | \$       |
+|----------------------------|----------|
+| **Annual cost**            |          |
+| Factor fees (% of sales)   | (x)      |
+| **Annual benefit**         |          |
+| Administration cost savings| x        |
+| Reduced bad debt           | x        |
+| Finance cost savings (W1)  | x        |
+| **Net benefit**            | **X**    |
 
 If the net benefit is positive, it will be financially acceptable to use the factor's service.
 
-Working 1 finance cost savings on reduced receivables
+Working 1: finance cost savings on reduced receivables
 
+|                                   | Existing  | Revised   |
+|-----------------------------------|-----------|-----------|
+| Receivable collection period      |           |           |
+| Receivables                       |           |           |
+| Annual finance cost               | X~1~      | X~2~      |
 
-
-    Existing                revised
-
-
-
-  Receivable collection period
-
-  receivables
-
-Annual finance cost            X1                      X2
-
-Annual finance cost saving = x1-x2
+Annual finance cost saving = X~1~ − X~2~
 
 **Advantages of Using a Factor:**
 

@@ -138,7 +138,6 @@ This method provides a floor value for a business that is up for sale.
 
 
 
-::: {.callout-tip}
 **Example 1**
 
 Non-current assets contain land and buildings that are valued \$700,000 above their book value, and plant and machinery, which would sell for \$200,000 less than their book value. Inventory would sell for \$400,000 and only \$250,000 would be realized from receivables. Closure costs would add \$100,000 to liabilities.
@@ -146,7 +145,6 @@ Non-current assets contain land and buildings that are valued \$700,000 above th
 What is the minimum amount that the shareholders should accept for this business?
 
 ![](media/Notes_F/media/image2.png){width="2.1830807086614175in" height="3.937007874015748in"}
-:::
 
 
 #### 2.2 Income-based Valuation Methods 
@@ -180,7 +178,6 @@ Step 4 value of a share = EPS \* appropriated P/E ratio (unquoted company)
 
 
 
-::: {.callout-tip}
 **Lecture Example 2**
 
 Estimating the value of a small chain of UK-based grocery shops using P/E ratio method. The company has just enjoyed post tax earnings of \$200,000, out of which it paid a dividend of \$50,000.
@@ -206,7 +203,6 @@ Problems with P/E ratio method:
 - Historical data -- The P/E ratio is often based on historical earnings, which may not reflect earnings potential.
 
 - Loss-making companies -- If the unquoted company is loss-making, the P/E ratio method results in a (meaningless) negative value for its equity.
-:::
 
 
 ##### 2. Earnings Yield Method
@@ -335,7 +331,6 @@ Although it enables a more precise assessment of a company's worth, it still has
 
 
 
-::: {.callout-tip}
 **Example 5**
 
 D company wishes to make a bid for TED. TED makes after-tax profits of \$40,000 a year. D believes that if further money is spent on additional investments, the after-tax and interest cash flows could be as follows.
@@ -354,7 +349,6 @@ The cost of equity of TED is 15% and the company expects all its investments to 
 - \(2\) What is the maximum price that the company should be willing to pay for shares of TED if it decides to value the business on the basis of cash flows in perpetuity, and annual cash flows from year 6 onwards are expected to be \$120,000?
 
 ![
-:::
 
 
 ::: {.callout-tip}

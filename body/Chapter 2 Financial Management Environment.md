@@ -402,6 +402,5 @@ example 4](../technical-articles/past exam examples.docx)Dec 2016, Q6
 >
 > ○Treasury bills
 
-![](media/Notes_AB/media/image11.png){width="6.9695374015748035in" height="9.419082458442695in"}
 :::
 

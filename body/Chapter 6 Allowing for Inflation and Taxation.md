@@ -75,7 +75,6 @@ Company may claim TAD according to the applicable tax regime. Exam questions wil
 
 
 
-::: {.callout-tip}
 **Example 2**
 
 An asset is bought for \$8000 and will be used four years before being disposed of for \$500.Tax-allowable depreciation is allowed at **25% reducing balance** and tax rate is 30%. tax is **payable one year in arrears.**
@@ -193,8 +192,7 @@ Using fisher formula to calculate a real (nominal) rate from a nominal (real) ra
 
 
 
-
-::: {.callout-tip}
+ {.callout-tip}
 **Example 3**
 
 > A three-year project:
@@ -365,7 +363,6 @@ It is assumed that changes in the level of working capital have no tax effects.
 
 
 
-::: {.callout-tip}
 **Example 6**
 
 Darn co has undertaken a new project with four years life and the expected sales revenue are as follows.
@@ -380,7 +377,6 @@ Darn co has undertaken a new project with four years life and the expected sales
 The level of working capital investment at the start of each year is expected to be 10% of sales revenue in that year.
 
 Calculate the relevant cash flow of working capital.
-:::
 
 
 ### 5 NPV Layout

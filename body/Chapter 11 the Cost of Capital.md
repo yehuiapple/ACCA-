@@ -573,7 +573,6 @@ MV of preference share = No. of preference share × Share price
 
 
 
-::: {.callout-tip}
 **Example 10**
 
 IDO company has a capital structure as follows.
@@ -594,7 +593,6 @@ IDO company has a capital structure as follows.
 The ordinary shares are currently quoted at \$3, and the loan notes at \$90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.
 
 What is the company's WACC?
-:::
 
 
 #### 4.2 Weightings Used in WACC

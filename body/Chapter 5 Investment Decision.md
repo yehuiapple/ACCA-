@@ -133,7 +133,6 @@ The calculation of payback period is:
 
 
 
-::: {.callout-tip}
 **Example 2**
 
 > The same information with 
@@ -528,8 +527,7 @@ Any cash flows now (e.g. the initial investment) will still require adjustment t
 
 
 
-
-::: {.callout-tip}
+ {.callout-tip}
 **Example 9**
 
 > JCW company is appraising an opportunity to invest in some new machine that has the following cash flows.
@@ -664,7 +662,6 @@ Generally speaking, the **NPV method is superior**, it provides a single correct
 
 
 
-::: {.callout-tip}
 **Example 10**
 
 Which project should you choose if the given discount rate is 25%?
@@ -678,7 +675,6 @@ Which project should you choose if the given discount rate is 25%?
   project A \$   -10m           40m            22m            300%
 
 project B \$   -25            65m            27m            160%
-:::
 
 
 #### 4.4 Advantages and Limitations of DCF Methods
@@ -699,7 +695,6 @@ As an absolute measure, NPV is regarded as the best single measure of the value 
 
 
 
-::: {.callout-tip}
 **Example 11**
 
 Four mutually exclusive projects have been appraised using NPV, IRR, ROCE, and PP. the company objective is to maximize shareholder wealth.
@@ -719,7 +714,6 @@ Which should be chosen?
   C     project C       \$0.9m      18%       25%          3 years
 
 D     project D       \$1.5m      12%       18%          7 years
-:::
 
 
 ### 5 Summary

@@ -139,7 +139,6 @@ However, project A produces strong cash flows in the early years, which may be l
 
 
 
-::: {.callout-tip}
 **Example 2 -continued**
 
 If the cost of capital of 10% is believed to reflect the risk attached to project A and B in
@@ -210,8 +209,7 @@ A probability distribution of expected cash flows can also be used to measure ri
 
 
 
-
-::: {.callout-tip}
+ {.callout-tip}
 **Example 3**
 
 > A company is considering a project of \$300,000 which it estimates will generate cash flows over its two-year life at the probabilities in the following table.
