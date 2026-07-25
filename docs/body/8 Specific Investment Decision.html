@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Appendix: Technical Articles – ACCA F9（财务管理）</title>
+<title>Chapter 8 Specific Investment Decision – ACCA F9（财务管理）</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,7 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../body/15 Interest Rate Risk.html" rel="prev">
+<link href="../body/9 Source of Finance.html" rel="next">
+<link href="../body/7 Project Appraisal under Risk.html" rel="prev">
 <link href="../images/book-logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -73,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -86,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Appendix.html">Appendix</a></li><li class="breadcrumb-item"><a href="../body/Appendix.html"><span class="chapter-title">Appendix: Technical Articles</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/8 Specific Investment Decision.html"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -223,7 +253,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
+  <a href="../body/8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
   </div>
 </li>
       </ul>
@@ -307,7 +337,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Appendix.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Appendix: Technical Articles</span></a>
+  <a href="../body/Appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix: Technical Articles</span></a>
   </div>
 </li>
       </ul>
@@ -317,15 +347,25 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
+  <li><a href="#asset-replacement-decisions" id="toc-asset-replacement-decisions" class="nav-link" data-scroll-target="#asset-replacement-decisions">1 Asset Replacement Decisions</a></li>
+  <li><a href="#capital-rationing" id="toc-capital-rationing" class="nav-link" data-scroll-target="#capital-rationing">2 Capital Rationing</a></li>
+  <li><a href="#lease-or-buy" id="toc-lease-or-buy" class="nav-link" data-scroll-target="#lease-or-buy">3 Lease or Buy</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">4 Summary</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Appendix.html">Appendix</a></li><li class="breadcrumb-item"><a href="../body/Appendix.html"><span class="chapter-title">Appendix: Technical Articles</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/8 Specific Investment Decision.html"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Appendix: Technical Articles</span></h1>
+<h1 class="title"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></h1>
 </div>
 
 
@@ -342,29 +382,218 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="syllabus" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="syllabus">Syllabus</h3>
+<p><strong>D. Investment Appraisal</strong></p>
+<p><strong>4. Specific Investment Decisions</strong></p>
+<p>a) Evaluate leasing and borrowing to buy using the before- and after-tax costs of debt.^[2]^</p>
+<p>b) Evaluate asset replacement decisions using equivalent annual cost and equivalent annual benefit.^[2]^</p>
+<p>c) Evaluate investment decisions under single-period capital rationing, including:^[2]^</p>
+<ol type="i">
+<li><p>the calculation of profitability indexes for divisible investment projects</p></li>
+<li><p>the calculation of the NPV of combinations of non-divisible investment projects</p></li>
+<li><p>a discussion of the reasons for capital rationing.</p></li>
+</ol>
+<p><strong>E. Business Finance</strong></p>
+<p><strong>3. Source of Finance and Their Relative Costs</strong></p>
+<p>d) assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriated measures, including</p>
+<ol start="3" type="i">
+<li>leasing or borrowing to buy</li>
+</ol>
+</section>
+<section id="asset-replacement-decisions" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="asset-replacement-decisions">1 Asset Replacement Decisions</h3>
+<section id="asset-replacement-cycle" class="level4">
+<h4 class="anchored" data-anchor-id="asset-replacement-cycle">1.1 Asset Replacement Cycle</h4>
+<p>Assume a company has already decided it requires a particular non-current asset. A second decision is how often to replace the asset. For example, how often should the company replace its fleet of vehicles or its computer equipment? This is referred to as an asset replacement decision.</p>
+<p>The calculation of equivalent annual costs is a tool that can be used to assist in this decision-making process.</p>
+<p><strong>The EAC Method Involves the Following Steps:</strong></p>
+<p>Step 1 – calculate the net present value of cost for each potential replacement cycle.</p>
+<p>Step 2 – calculate the equivalent annual cost (EAC) for each potential replacement cycle.</p>
+<p>Step 3 - choose the replacement cycle with the lowest EAC.</p>
+<p>Equivalent annual cost - the annual cost of owning, operating and maintaining an asset over its entire life, can be calculated by the following formula:</p>
+<p>Equivalent annual cost (EAC) = Annual factor (r, n)</p>
+<p>Note: any revenues resulting from the use of the asset will be ignored since they will occur in any case, whatever the replacement cycles, and is therefore not a relevant cash flow.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_D/media/image12.png" style="width:5.91684in;height:0.86013in" class="figure-img"></p>
+<figcaption>::: {.callout-tip} example 1: Cavic (Dec 06)</figcaption>
+</figure>
+</div>
+<p><img src="media/Notes_D/media/image13.png" style="width:5.43623in;height:1.68875in"></p>
+<p><img src="media/Notes_D/media/image14.png" style="width:5.54839in;height:3.29179in"></p>
+<p><strong>Comments of Replacement Analysis</strong></p>
+<p>NPV cannot be compared directly for projects with different life. The calculation of EAC takes account of the different lifespans, allowing comparisons to be made.</p>
+<p><strong>Limitations:</strong></p>
 <ul>
-<li><a href="../technical-articles/dividend theory.pdf">Dividend theory</a></li>
-<li><a href="../technical-articles/CAPM-part 1.pdf">CAPM-part 1.pdf</a></li>
-<li><a href="../technical-articles/CAPM-part 2.pdf">CAPM-part 2.pdf</a></li>
-<li><a href="../technical-articles/CAPM-part 1.pdf">CAPM-theory, advantages and disadvantages.pdf</a></li>
-<li><a href="../technical-articles/cost of capital gearing and CAPM-part 1.pdf">Cost of capital gearing and CAPM-part 1</a></li>
-<li><a href="../technical-articles/cost of capital gearing and CAPM-part 2.pdf">Cost of capital gearing and CAPM-part 2</a></li>
-<li><a href="../technical-articles/Optimum capital structure.pdf">Optimum capital structure</a></li>
-<li><a href="../technical-articles/Analysing the suitability of financing alternatives.pdf">Analysing the suitability of financing alternatives</a></li>
-<li><a href="../technical-articles/business valuation.pdf">Business valuations</a></li>
-<li><a href="../technical-articles/Behavioural finance.pdf">Behavioural finance</a></li>
-<li><a href="https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/fa-receivables.html">Management of foreign accounts receivable</a></li>
-<li><a href="https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/arm.html">Accounts receivable management</a></li>
-<li><a href="https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/alternative-receivables-collection-techniques.html">Receivables collection</a></li>
-<li><a href="../../technical articles/inflation and investment appraisal.pdf">Inflation and investment appraisal.pdf</a></li>
-<li><a href="../../technical articles/advanced investment appraisal.pdf">Advanced investment appraisal.pdf</a></li>
-<li><a href="../technical-articles/equivalent annual cost and benefit.pdf">Equivalent annual cost and benefit.pdf</a></li>
-<li><a href="../technical-articles/business finance for SMEs.pdf">Business finance for SMEs</a></li>
-<li><a href="../technical-articles/Business finance.pdf">Business finance</a></li>
-<li><a href="../technical-articles/Introduction to Islamic finance.pdf">Introduction to Islamic finance</a></li>
+<li><p>The analysis assumes a like-with- replacement (in perpetuity), however, this is rarely possible in reality. Asset requirements may change over time.</p></li>
+<li><p>Changing technology may also require earlier replacement than the optimal solution suggests.</p></li>
+<li><p>Non-financial factors such as employees’ satisfaction are ignored</p></li>
+<li><p>The analysis ignores the impact of tax and inflation :::</p></li>
 </ul>
+</section>
+<section id="equivalent-annual-benefit" class="level4">
+<h4 class="anchored" data-anchor-id="equivalent-annual-benefit">1.2 Equivalent Annual Benefit</h4>
+<p>For mutually exclusive projects, the general rule is to choose the project with the highest NPV. However, if the same situation is faced repeatedly and the projects have different lives, the equivalent annual benefit (EAB) can be used.</p>
+<p>Equivalent Annual Benefit = NPV of project/ annuity factor</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 2</strong></p>
+<blockquote class="blockquote">
+<p>Project A with an NPV of $3.75m and a duration of 6 years, project B with an NPV of $4.45m and a duration of 7 years. The cost of capital is 12%. Which project should be chosen?</p>
+</blockquote>
+</div>
+</div>
+</section>
+</section>
+<section id="capital-rationing" class="level3">
+<h3 class="anchored" data-anchor-id="capital-rationing">2 Capital Rationing</h3>
+<p>The NPV decision rule, to accept all projects with a positive NPV, assumes the existence of a perfect market in which access to funds for investment is not restricted. However, in practice, companies are likely to find that funds available for investment are restricted or rationed.</p>
+<p><strong>Capital rationing</strong> – a situation in which there is not enough finance available to undertake all projects with positive NPV. Therefore, capital has to be rationed.</p>
+<p>The causes of capital rationing may be external (hard capital rationing) or internal (soft capital rationing).</p>
+<section id="causes-of-capital-rationing" class="level4">
+<h4 class="anchored" data-anchor-id="causes-of-capital-rationing">2.1 Causes of Capital Rationing</h4>
+<section id="hard-capital-rationing" class="level5">
+<h5 class="anchored" data-anchor-id="hard-capital-rationing">1. Hard Capital Rationing</h5>
+<p>Hard capital rationing – the capital markets limit the amount of finance available.</p>
+<p>Reasons why capital markets may restrict the funds available to a particular company include:</p>
+<ul>
+<li><p>High country/political risk (concerns about corporate governance or state appropriation of assets)</p></li>
+<li><p>High business risk (company’s operating cash flows are very sensitive to the economic cycle)</p></li>
+<li><p>High financial risk (the company already has high debt level)</p></li>
+<li><p>Lack of reliable independent information available about the company. this is especially relevant to small- and medium-sized entities.</p></li>
+</ul>
+</section>
+<section id="soft-capital-rationing" class="level5">
+<h5 class="anchored" data-anchor-id="soft-capital-rationing">2. Soft Capital Rationing</h5>
+<p>Soft capital rationing – the company internally sets limits on finance availability.</p>
+<p>There are several reasons why company mangers might restrict available funds for investment:</p>
+<ul>
+<li><p>A preference for slower organic growth to a sudden increase in size arising from accepting several large investment projects. This particularly applies to family-owned business.</p></li>
+<li><p>Managers wish to avoid raising new equity finance if this will dilute the control of existing shareholders.</p></li>
+<li><p>Managers wish to avoid issuing new debt to keep gearing under control and meet future interest payment.</p></li>
+<li><p>To create an internal market for investment funds, thereby channel funds to projects with better chances of success and larger margins.</p></li>
+</ul>
+</section>
+</section>
+<section id="dealing-with-capital-rationing" class="level4">
+<h4 class="anchored" data-anchor-id="dealing-with-capital-rationing">2.2 Dealing with Capital Rationing</h4>
+<p>Capital rationing may rise in a single-period or multi-period.</p>
+<p><strong>Single-period capital rationing -</strong> Capital is in short supply in only one period.</p>
+<p><strong>Multi-period capital rationing –</strong> Capital is rationed in two or more periods.</p>
+<p>Dealing with multi-period capital rationing - use of <strong>linear programming</strong> model to find the optimal investments strategy.</p>
+<p>Dealing with single-period capital rationing - depends on whether projects are divisible or not.</p>
+<p><img src="media/Notes_D/media/image15.png" style="width:3.78918in;height:2.29513in"></p>
+<section id="divisible-projects" class="level5">
+<h5 class="anchored" data-anchor-id="divisible-projects">1. Divisible Projects</h5>
+<p>A project is divisible if any partial or proportionate investment can be made in order to gain a pro rata NPV.</p>
+<p>The three steps required for rationing capital to divisible projects are as follows:</p>
+<ol type="1">
+<li>calculate a profitability index for each project:^[2]^</li>
+<li>rank projects according to their profitability index^[2]^ The profitability index is the ratio of the present value of the project’s future cash inflows divided by the initial investment.</li>
+</ol>
+<p><span class="math display">\[PI = \frac{PV\ of\ project\ net\ cash\ inflows}{initial\ investment}\]</span></p>
+<ol start="3" type="1">
+<li>allocate funds starting with the highest ranking to maximize the NPV.</li>
+</ol>
+<p>With this method, there will be no funds left over.</p>
+<p>For <strong>mutually exclusive divisible</strong> projects, steps are the same as above, but bearing in mind that any feasible combination of projects can include only one mutually exclusive project.</p>
+</section>
+<section id="non-divisible-projects" class="level5">
+<h5 class="anchored" data-anchor-id="non-divisible-projects">2. Non-Divisible Projects</h5>
+<p>A non-divisible project must be done 100% or not at all.</p>
+<p>The three steps for rationing capital to indivisible projects are as follows:</p>
+<ul>
+<li><p>simply list all possible <strong>combinations</strong> of projects which can be utilized given the capital budget.</p></li>
+<li><p>choose the combination with the highest NPV.</p></li>
+</ul>
+<p>With this approach, there will usually be some surplus funds remained. Surplus funds can be invested in the money markets (it is a problem of working capital management) in order to increase overall profitability.</p>
+<p><strong>Practical Solutions to Capital Rationing</strong></p>
+<ul>
+<li><p>Delaying project to a subsequent period where capital rationing may be less of an issue</p></li>
+<li><p>Finding new source of financing such as leasing or government grants</p></li>
+<li><p>Entering into a joint venture with a partner</p></li>
+<li><p>Issuing new capital if soft capital rationing exists</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_D/media/image16.png" style="width:5.63293in;height:2.98069in" class="figure-img"></p>
+<figcaption>::: {.callout-tip} Example 3: Basril (Dec 03)</figcaption>
+</figure>
+</div>
+<p><img src="media/Notes_D/media/image17.png" style="width:5.71065in;height:2.37243in"> :::</p>
+</section>
+</section>
+</section>
+<section id="lease-or-buy" class="level3">
+<h3 class="anchored" data-anchor-id="lease-or-buy">3 Lease or Buy</h3>
+<p>The decision of whether to lease or buy an asset is made once the decision has been made to acquire the asset for an investment project.</p>
+<p>The “lease or buy” decision is <strong>a financing decision</strong> which should be considered <strong>separately</strong> from the investment decision.</p>
+<ul>
+<li><p>For investment decision, discount cash flows from using the asset at the company’s WACC.</p></li>
+<li><p>For financing decision, discount cash flows specific to each financing options at the after-tax cost of debt.</p></li>
+</ul>
+<blockquote class="blockquote">
+
+</blockquote>
+<p><strong>Advantages of Leasing</strong></p>
+<ul>
+<li><p>For short-term leases, the lessor retains most of the risk of ownership, is responsible for servicing and maintaining the leased equipment</p></li>
+<li><p>Don’t need to pay large amount of money at the beginning</p></li>
+<li><p>As a long-term of source of finance, leasing may be cheaper than a bank loan if the lessor obtains bulk purchase discounts</p></li>
+<li><p>Avoiding loan covenants.</p></li>
+</ul>
+<p><strong>Relevant cash flows</strong> of leasing:</p>
+<ul>
+<li><p>Lease payments (tax-allowable deductions)</p></li>
+<li><p>Tax relief on the lease payments</p></li>
+</ul>
+<p>Relevant cash flow of buy:</p>
+<ul>
+<li><p>Purchase cost</p></li>
+<li><p>Residual value</p></li>
+<li><p>Running cost</p></li>
+<li><p>Tax relief on TAD and running cost</p></li>
+</ul>
+<p><strong>Evaluation Whether Lease or Borrow to Buy</strong></p>
+<p><strong>Steps:</strong></p>
+<ul>
+<li><p>Calculating the financing cash flows of leasing and buy</p></li>
+<li><p>Discounting these cash flows using the <strong>post-tax cost of borrowing</strong></p></li>
+</ul>
+<p>Post-tax cost of borrowing = cost of borrowing × (1-tax rate)</p>
+<ul>
+<li>Chose the decision with the <strong>least cost</strong></li>
+</ul>
+<p>Alternatively, you can compare:</p>
+<p>NPV of the cost of using lease – NPV of the benefit of using lease</p>
+<p>If the resulting NPV is positive, it means the cost of lease is cheaper than the borrow to buy.</p>
+<p><strong>Evaluation Using Pre-tax Cost of Debt</strong></p>
+<p>If the company is not in a tax-paying position, the implication for lease or buy decision:</p>
+<p>There would be no tax benefit from TAD, lease payments and no tax relief on debt. This means that the discount rate used to evaluate the financing options should be the pre-tax cost of debt.</p>
+<p><img src="media/Notes_D/media/image18.png" style="width:5.76806in;height:4.2125in" alt="::: {.callout-tip} Example 4: Hawker Co (Sep/Dec 2021)"> :::</p>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary">4 Summary</h3>
+<section id="overview" class="level4">
+<h4 class="anchored" data-anchor-id="overview">4.1 Overview</h4>
+<p><img src="media/Notes_D/media/image19.png" style="width:6.26021in;height:4.49913in"></p>
+</section>
+<section id="technical-articles" class="level4">
+<h4 class="anchored" data-anchor-id="technical-articles">4.2 Technical Articles</h4>
+<p><a href="../technical-articles/equivalent annual cost and benefit.pdf">equivalent annual cost and benefit.pdf</a></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -774,11 +1003,14 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../body/15 Interest Rate Risk.html" class="pagination-link" aria-label="Chapter 15 Interest Rate Risk">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></span>
+      <a href="../body/7 Project Appraisal under Risk.html" class="pagination-link" aria-label="Chapter 7 Project Appraisal under Risk">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="../body/9 Source of Finance.html" class="pagination-link" aria-label="Chapter 9 Source of Finance">
+        <span class="nav-page-text"><span class="chapter-title">Chapter 9 Source of Finance</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

@@ -35,39 +35,39 @@ book:
 
     - part: "Part A: Financial Management Function"
       chapters:
-        - body/Chapter 1 Financial Management Function.md
+        - body/1 Financial Management Function.md
 
     - part: "Part B: Financial Management Environment"
       chapters:
-        - body/Chapter 2 Financial Management Environment.md
+        - body/2 Financial Management Environment.md
 
     - part: "Part C: Working Capital Management"
       chapters:
-        - body/Chapter 3 Working Capital Management.md
-        - body/Chapter 4 Cash Management and Working Capital Finance.md
+        - body/3 Working Capital Management.md
+        - body/4 Cash Management and Working Capital Finance.md
 
     - part: "Part D: Investment Appraisal"
       chapters:
-        - body/Chapter 5 Investment Decision.md
-        - body/Chapter 6 Allowing for Inflation and Taxation.md
-        - body/Chapter 7 Project Appraisal under Risk.md
-        - body/Chapter 8 Specific Investment Decision.md
+        - body/5 Investment Decision.md
+        - body/6 Allowing for Inflation and Taxation.md
+        - body/7 Project Appraisal under Risk.md
+        - body/8 Specific Investment Decision.md
 
     - part: "Part E: Business Finance"
       chapters:
-        - body/Chapter 9 Source of Finance.md
-        - body/Chapter 10 Dividend Policy.md
-        - body/Chapter 11 the Cost of Capital.md
-        - body/Chapter 12 Gearing and Capital Structure.md
+        - body/9 Source of Finance.md
+        - body/10 Dividend Policy.md
+        - body/11 the Cost of Capital.md
+        - body/12 Gearing and Capital Structure.md
 
     - part: "Part F: Business Valuations"
       chapters:
-        - body/Chapter 13 Business Valuation.md
+        - body/13 Business Valuation.md
 
     - part: "Part G: Risk Management"
       chapters:
-        - body/Chapter 14 Foreign Currency Risk.md
-        - body/Chapter 15 Interest Rate Risk.md
+        - body/14 Foreign Currency Risk.md
+        - body/15 Interest Rate Risk.md
 
 #    - part: "Answers"
 #      chapters:

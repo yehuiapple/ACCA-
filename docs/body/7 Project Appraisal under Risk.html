@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Chapter 10 Dividend Policy – ACCA F9（财务管理）</title>
+<title>Chapter 7 Project Appraisal under Risk – ACCA F9（财务管理）</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../body/Chapter 11 the Cost of Capital.html" rel="next">
-<link href="../body/Chapter 9 Source of Finance.html" rel="prev">
+<link href="../body/8 Specific Investment Decision.html" rel="next">
+<link href="../body/6 Allowing for Inflation and Taxation.html" rel="prev">
 <link href="../images/book-logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -87,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 9 Source of Finance.html">Part E: Business Finance</a></li><li class="breadcrumb-item"><a href="../body/Chapter 10 Dividend Policy.html"><span class="chapter-title">Chapter 10 Dividend Policy</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/7 Project Appraisal under Risk.html"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -156,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
+  <a href="../body/1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
   </div>
 </li>
       </ul>
@@ -172,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 2 Financial Management Environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
+  <a href="../body/2 Financial Management Environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
   </div>
 </li>
       </ul>
@@ -188,12 +217,12 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
+  <a href="../body/3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
+  <a href="../body/4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
   </div>
 </li>
       </ul>
@@ -209,22 +238,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
+  <a href="../body/5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
+  <a href="../body/6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
+  <a href="../body/7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
+  <a href="../body/8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
   </div>
 </li>
       </ul>
@@ -240,22 +269,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
+  <a href="../body/9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 10 Dividend Policy.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
+  <a href="../body/10 Dividend Policy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 11 the Cost of Capital.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
+  <a href="../body/11 the Cost of Capital.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
+  <a href="../body/12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
   </div>
 </li>
       </ul>
@@ -271,7 +300,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
+  <a href="../body/13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
   </div>
 </li>
       </ul>
@@ -287,12 +316,12 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
+  <a href="../body/14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
+  <a href="../body/15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
   </div>
 </li>
       </ul>
@@ -324,9 +353,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
-  <li><a href="#internal-source-of-finance" id="toc-internal-source-of-finance" class="nav-link" data-scroll-target="#internal-source-of-finance">1 Internal Source of Finance</a></li>
-  <li><a href="#dividend-policy" id="toc-dividend-policy" class="nav-link" data-scroll-target="#dividend-policy">2 Dividend Policy</a></li>
-  <li><a href="#alternatives-to-cash-dividends" id="toc-alternatives-to-cash-dividends" class="nav-link" data-scroll-target="#alternatives-to-cash-dividends">3 Alternatives to Cash Dividends</a></li>
+  <li><a href="#risk-and-uncertainty" id="toc-risk-and-uncertainty" class="nav-link" data-scroll-target="#risk-and-uncertainty">1 Risk and Uncertainty</a></li>
+  <li><a href="#uncertainty-analysis" id="toc-uncertainty-analysis" class="nav-link" data-scroll-target="#uncertainty-analysis">2 Uncertainty Analysis</a></li>
   <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">4 Summary</a></li>
   </ul>
 </nav>
@@ -334,9 +362,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 9 Source of Finance.html">Part E: Business Finance</a></li><li class="breadcrumb-item"><a href="../body/Chapter 10 Dividend Policy.html"><span class="chapter-title">Chapter 10 Dividend Policy</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/7 Project Appraisal under Risk.html"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Chapter 10 Dividend Policy</span></h1>
+<h1 class="title"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></h1>
 </div>
 
 
@@ -355,204 +383,113 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="syllabus" class="level3 pagebreak">
 <h3 class="pagebreak anchored" data-anchor-id="syllabus">Syllabus</h3>
-<p><strong>E. Business Finance</strong></p>
-<p><strong>1. Sources of, and raising, business finance</strong></p>
-<p>e) Identify and discuss internal sources of finance, including:^[2]^ i. retained earnings</p>
-<ol start="2" type="i">
-<li><p>increasing working capital management efficiency</p></li>
-<li><p>the relationship between dividend policy and the financing decision</p></li>
-<li><p>the theoretical approaches to, and the practical influences on, the dividend decision, including legal constraints, liquidity, shareholder expectations and alternatives to cash dividends.</p></li>
+<p><strong>D. Investment Appraisal</strong></p>
+<p><strong>1. Investment Appraisal Techniques</strong></p>
+<p>c) Calculate discounted payback and discuss its usefulness as an investment appraisal method^.[2]^</p>
+<p><strong>3. Adjusting for Risk and Uncertainty in Investment Appraisal</strong></p>
+<p>a) Describe and discuss the difference between risk and uncertainty in relation to probabilities and increasing project life.^[2]^</p>
+<p>b) Apply sensitivity analysis to investment projects and discuss the usefulness of sensitivity analysis in assisting investment decisions.^[2]^</p>
+<ol start="3" type="a">
+<li>Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.^[2]^^[1]^</li>
+<li>Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:^[1]^</li>
+</ol>
+<ol type="i">
+<li><p>simulation^[1]^</p></li>
+<li><p>adjusted payback^[1]^</p></li>
+<li><p>risk-adjusted discount rates.^[2]^</p></li>
 </ol>
 </section>
-<section id="internal-source-of-finance" class="level3 pagebreak">
-<h3 class="pagebreak anchored" data-anchor-id="internal-source-of-finance">1 Internal Source of Finance</h3>
-<p>The internal source of finance includes:</p>
-<ul>
-<li>The primary source of internal finance is retained earnings (cash).</li>
-<li>can also be generated by increasing working capital management efficiency.</li>
-</ul>
-<section id="retained-earnings" class="level4">
-<h4 class="anchored" data-anchor-id="retained-earnings">1.1 Retained Earnings</h4>
-<p>Retained earnings in the statement of financial position may not be able to finance investment. Therefore, retained cash, rather than retained earnings, is the source of finance.</p>
-<p>Advantages of using retained cash as a source of finance:</p>
-<ul>
-<li>Is flexible in terms of amount used or repayment patterns</li>
-<li>no dilution of control</li>
-<li>no issue costs</li>
-</ul>
-<p>Disadvantages of using retained earnings:</p>
-<ul>
-<li>shareholder funds are an <strong>expensive</strong> source of finance</li>
-<li>shareholders may be sensitive to the dividend payments that will result from retention of reinvestment</li>
-<li>there is an opportunity cost in that if dividends were paid, the cash received could be invested by shareholders to earn a return.</li>
-</ul>
-<p>The three key decisions in financial management – investing, financing and dividend policy – are interrelated:</p>
-<ul>
-<li>an increase in dividends (the dividend decision), will reduce the level of retained cash available and increase the need for external finance (the financing decision) to fund investment project (the investment decision).</li>
-<li>An increase in asset expenditure (the investment decision), would also increase the need for finance (the financing decision) which may be sourced internally by reducing dividends (the dividend decision).</li>
-</ul>
-<p>Therefore, the company must decide whether to pay a dividend or retain earnings.</p>
+<section id="risk-and-uncertainty" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="risk-and-uncertainty">1 Risk and Uncertainty</h3>
+<p>The decisions makers must distinguish between risk and uncertainty.</p>
+<p><strong>Risk</strong> arises where there are several possible outcomes and, based on past relevant experience, probabilities can be assigned to the possible outcomes. Risk increases as the <strong>variability</strong> of a project’s cash flow increases. Risk can be <strong>quantified</strong> and built into a project’s NPV.</p>
+<p>Uncertainty arises where there are several possible outcomes and no information (experience) upon which to assign probabilities so the degree of uncertainty cannot be quantified. The uncertainty of a project cash flows increases as the project’s life rises, since cash flows in the distant future are less certain than cash flows in the short-term. Uncertainty cannot be quantified but it can be described/analyzed.</p>
 </section>
-<section id="improved-working-capital-management" class="level4">
-<h4 class="anchored" data-anchor-id="improved-working-capital-management">1.2 Improved Working Capital Management</h4>
-<p>a company’s ability to generate internal finance depends on generating operating cash flow exceeding interest and taxes.</p>
-<p>Potential internal finance available = operating cash flow − interest – tax</p>
-<p>Operating cash flows are calculated as follows:</p>
-<p>Operating profit before depreciation and amortization x</p>
-<p>Rise/fall in inventory (x)/x</p>
-<p>Rise/fall in receivables (x)/x</p>
-<p>Rise/fall in payables (x)/x</p>
-<p><strong>Operating cash flow</strong> (x)/x</p>
-<p>Improved working capital management can help to release more internal equity finance. Potential areas for improvement include:</p>
+<section id="uncertainty-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="uncertainty-analysis">2 Uncertainty Analysis</h3>
+<section id="sensitivity-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="sensitivity-analysis">2.1 Sensitivity Analysis</h4>
+<p>Sensitivity analysis is used to calculate what the value of a single variable would have to change by, to change a project’s NPV to zero. So, it enables an assessment to be made of how responsive the project’s NPV is to changes in a single variable that affects a project’s NPV.</p>
+<p><strong>Sensitivity Analysis Has Two Steps:</strong></p>
+<p>Step1 calculate the NPV of the project based on estimates.</p>
+<p>Step 2 for each element of the decision (cash flows, cost of capital), calculate the change necessary for the NPV to fall to zero.</p>
+<p>Sensitivity = <span class="math inline">\(\frac{NPV}{PV\ of\ relevant\ cash\ flow\ of\ the\ variable}\)</span></p>
+<p>The smaller the percentage, the more sensitive the NPV is to that project variable, as a small change percent would make the project non-viable.</p>
+<p><strong>Some Key Sensitivity Ratio:</strong></p>
 <ul>
-<li>Reducing the time taken to receive payments from customers (e.g.&nbsp;offering discounts for quick payment or outsourcing debt collection to a factor).</li>
-<li>Reducing inventory (e.g.&nbsp;through improved supply chain management or even moving to Just-in-Time (JIT) production).</li>
-<li>Taking increased credit from suppliers.</li>
+<li><p>Sensitivity of sales volume: NPV/PV of contribution.</p></li>
+<li><p>Sensitivity of price: NPV/PV of revenues</p></li>
+<li><p>Sensitivity of variable cost: NPV/ PV of variable cost</p></li>
+<li><p>Sensitivity of fixed cost: NPV/ PV of fixed cost</p></li>
+<li><p>Sensitivity of initial investment: NPV/PV of initial investment</p></li>
+<li><p>Sensitivity of cost of capital-先计算IRR；再算IRR相对于目前贴现率的变动百分比</p></li>
 </ul>
-</section>
-</section>
-<section id="dividend-policy" class="level3">
-<h3 class="anchored" data-anchor-id="dividend-policy">2 Dividend Policy</h3>
-<section id="dividend-theories" class="level4">
-<h4 class="anchored" data-anchor-id="dividend-theories">2.1 Dividend Theories</h4>
-<section id="the-dividend-valuation-model" class="level5">
-<h5 class="anchored" data-anchor-id="the-dividend-valuation-model">1. The Dividend Valuation Model</h5>
-<p>The dividend valuation model states that the value of a company’s shares depends on the expected future dividends. The formula for DVM is:</p>
-<p>P<sub>0</sub> = D<sub>0</sub>(1+g) / (k<sub>e</sub>-g)</p>
-<p>Where:</p>
-<ul>
-<li>P<sub>0</sub>: the ex-div share price at time 0</li>
-<li>D<sub>0</sub>: the time 0 dividend;</li>
-<li>K<sub>e</sub>: the rate of return of equity</li>
-<li>g: the future growth rate from current time onwards</li>
-</ul>
-<p>The formula can also be rewritten as:</p>
-<p>P<sub>0</sub> = D<sub>1</sub> / (k<sub>e</sub> – g)</p>
-<p>Where:</p>
-<ul>
-<li>D<sub>1</sub> is the Time 1 dividend</li>
-<li>g is the future growth rate from Time 1 onwards.</li>
-</ul>
-</section>
-<section id="the-gordon-growth-model" class="level5">
-<h5 class="anchored" data-anchor-id="the-gordon-growth-model">2. The Gordon Growth Model</h5>
-<p>If all earnings were distributed as dividend the company has no additional capital to invest, can acquire no more assets and cannot make higher profits.</p>
-<p>The dividend growth rate g is given by:</p>
-<p>g = bR</p>
-<ul>
-<li>b: the proportion of earnings retained; (1-b) is the proportion of earnings paid as a dividend</li>
-<li>R: the rate that profits are earned on new investment</li>
-</ul>
-<p>If earnings at time 1 are E<sub>1</sub>, then the DVM can become:</p>
-<p>P<sub>0</sub> = D<sub>1</sub>/(k<sub>e</sub>-g) = E<sub>1</sub>(1 – b)/(K<sub>e</sub>– bR)</p>
-<p>If the dividend policy is represented by b and 1-b, the formula predicts that the share price will change if b changes and other things remain unchanged.</p>
-</section>
-<section id="dividend-irrelevance-theory" class="level5">
-<h5 class="anchored" data-anchor-id="dividend-irrelevance-theory">3. Dividend Irrelevance Theory</h5>
-<p>Modigliani and Miller argue that shareholders are indifferent to dividend policy under certain conditions.</p>
-<ul>
-<li>If a company pays no dividend, the share price should rise due to reinvestment of retained earnings.</li>
-<li>shareholders can <strong>manufacture dividends</strong> by selling shares which will have risen in value because of the investments. The increase in the value of shares can compensates for the loss of dividend.</li>
-</ul>
-<p>Under this theory, the dividends pattern is irrelevant to shareholder wealth.</p>
-<p>However, Modigliani and Miller made a series of assumptions which may not hold in practice:</p>
-<ul>
-<li>dividends and capital gains are taxed at the same rate</li>
-<li>no transaction cost (investors can sell shares to create a home-made dividend without incurring any trading costs)</li>
-<li>perfect markets (if the company defers dividend payments, the current share price will fully reflect its value).</li>
-</ul>
-<p>Note: this equilibrium is reached only if the amounts retained are reinvested at the cost of equity.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
 <p><strong>Example 1</strong></p>
 <blockquote class="blockquote">
-<p>earnings are all paid as dividend</p>
-<p>Current EPS = $0.8 per share (all paid out as dividend); Ke =20%</p>
-<p>the price per share would be: P<sub>0</sub> = 0.8/0.2 = $4&nbsp;</p>
-<p>assumes from Time 1 onwards, half the earnings were paid out as dividend and half retained. what would happen to the share price?</p>
-<p>1)earnings are reinvested at the cost of equity and assumes R = 0.2</p>
-<p>So, no change in the share value, and so the dividends are irrelevant.</p>
-<p>2)earnings are reinvested at more than the cost of equity and assumes R = 0.3</p>
-<p>In this case, the share price rises because the extra earnings retained have been invested in a particularly valuable way.</p>
-<p>3)earnings are reinvested at less than the cost of equity and assumes R = 0.1</p>
+<p>An investment of $40,000 in year 0 is expected to give rise to annual contribution of $25,000 and annual fixed cost of $10,000 for each of years 1 to 4; the discount rate is 10%.</p>
+<p>Required:</p>
+<p>(1) Should we accept or reject the investment based on NPV analysis?</p>
+<p>(2) Calculate the sensitivity of your calculation to the following</p>
+<p>-initial investment</p>
+<p>-contribution</p>
+<p>-fixed costs</p>
+<p>-discount rate</p>
+<p>(c) The annual contribution of $25,000 is based on selling one product, with a sales volume of 10,000 units, selling price of $12.50 and variable costs of $10. Calculate the sensitivity margin for</p>
+<p>-the sales volume</p>
+<p>-the selling prices</p>
 </blockquote>
-</div>
-</div>
-<p>In summary:</p>
+<p>:::</p>
+<p><mark></mark></p>
+<p><strong>Comments of Sensitivity Analysis</strong></p>
+<p><strong>Advantages:</strong></p>
 <ul>
-<li>If the company retains earnings and uses those to ‘do more of the same’ then the share price should not be affected.</li>
-<li>If the company retains earnings and uses those to produce higher returns than demanded by investors then dividends should be cut as that will increase shareholder value.</li>
-<li>If the company retains earnings and uses those to produce lower returns than demanded by investors then dividends should be increased to avoid the share price falling. If the company can think of no-good use for its earnings, it should distribute them to shareholders who can then decide for themselves what to do with them.</li>
+<li><p>it offers a key method to analyze uncertainty and gives an idea of how sensitive the project is to changes in each of the original estimates.</p></li>
+<li><p>It prompts management to check the quality of data for the most sensitive variables.</p></li>
+<li><p>It identifies the critical success factors for the project and directs project management.</p></li>
+</ul>
+<p><strong>Limitations:</strong></p>
+<ul>
+<li><p>Sensitivity analysis is typically used to examine what happens when one variable changes and others remain constant. However, variables are often interdependent.</p></li>
+<li><p>It assumes data for all other variables is accurate</p></li>
+<li><p>It does not consider the probability of change in a variable</p></li>
+<li><p>It does not provide a decision rule. Management must decide the level of sensitivity that is acceptable.</p></li>
 </ul>
 </section>
-<section id="bird-in-hand-theory" class="level5">
-<h5 class="anchored" data-anchor-id="bird-in-hand-theory">4. Bird-in-hand Theory</h5>
-<p>The bird-in-hand theory argues that shareholders prefer higher dividends (and therefore lower potential capital gains) because a cash dividend is without risk, whereas future share price growth is uncertain.</p>
-</section>
-<section id="clientele-theory" class="level5">
-<h5 class="anchored" data-anchor-id="clientele-theory">5. Clientele Theory</h5>
-<p>The company’s historical dividend policy may have attracted investors with specific needs (e.g.&nbsp;for current income or their tax situation). An abrupt change in dividend policy will disturb investor’s portfolios and investors will have to adjust their mix of shares. Therefore, the company should maintain a stable dividend policy or losing major investors.</p>
-</section>
-</section>
-<section id="practical-considerations" class="level4">
-<h4 class="anchored" data-anchor-id="practical-considerations">2.2 Practical Considerations</h4>
-<p>Practical factors have a significant influence on the company’s dividend policy.</p>
-<ol type="1">
-<li><strong>Legal constraints</strong></li>
-</ol>
-<p>In most countries, a dividend can only be paid if there is a credit balance in the retained earnings account in the statement of financial position. No distributable reserves means no dividends.</p>
-<ol start="2" type="1">
-<li><strong>Company liquidity requirements</strong></li>
-</ol>
-<p>Companies have to maintain adequate liquidity. Dividend restrictions may be imposed to stay solvent or meet statutory capital maintenance requirements.</p>
-<ol start="3" type="1">
-<li><strong>Shareholder expectation</strong></li>
-</ol>
-<p>Most shares in quoted companies are held by influential institutional investors. A large dividend in current year may create expectations of the same or even higher in future. If these expectations are not met, key investors may sell their shares. So the company has to manage investor expectation of dividends.</p>
-<ol start="4" type="1">
-<li><strong>Signaling</strong></li>
-</ol>
-<p>There always exists information asymmetry between investors and the company. In a semi-strong form of the efficient market, public announcement of the level of dividends are signals of company’s strength or weakness, and share price will react to the announcement of a dividend.</p>
-<ul>
-<li>Usually, a dividend cut may be treated by investors as a negative signaling that the future prospects of the company are weak;</li>
-<li>an increase in dividend may be treated by shareholders as a positive signal of growing prospects of the company.</li>
-</ul>
-<p>This means that it is better for a company to follow a <strong>consistent dividend policy.</strong></p>
-<ol start="5" type="1">
-<li><strong>Borrowing covenants</strong></li>
-</ol>
-<p>A loan agreement may include clauses that limits dividend payments, for example a specified proportion of earnings. If less cash is paid as dividends, liquidity might be better.</p>
-</section>
-<section id="dividend-payment-policies" class="level4">
-<h4 class="anchored" data-anchor-id="dividend-payment-policies">2.3 Dividend Payment Policies</h4>
-<ul>
-<li><strong>Constant dividend</strong></li>
-</ul>
-<p>in this approach dividends are predictable but shareholders might be dissatisfied if they receive relatively low dividends if earnings are rising.</p>
-<ul>
-<li><strong>Constant growth</strong></li>
-</ul>
-<p>Constant growth is predictable and attractive to shareholders. However, the dividend growth rate might not match earnings growth rate.</p>
-<ul>
-<li><strong>Constant payout ratio</strong></li>
-</ul>
-<p>A constant payout ratio means paying a dividend that is a fixed proportion of earnings. This can create a variable number of dividends and is rarely adopted.</p>
-<ul>
-<li><strong>Dividends as residuals</strong></li>
-</ul>
-<p>retained earnings fund all positive NPV projects, any remaining earnings not needed to support such projects are paid out as a dividend.</p>
-<ul>
-<li>Zero dividend</li>
-</ul>
-<p>A high-growth company may find that, in the early years, all surplus cash can be profitably reinvested back into the business, particularly if the company lacks access to external finance.</p>
+<section id="discounted-payback-period" class="level4">
+<h4 class="anchored">2.2 Discounted Payback Period</h4>
+<p>The discounted payback period is the length of time it takes the discounted net cash inflows of a project to payback the initial investment.</p>
+<p>Discounted payback resolves one of the limitations of payback method: it allows for the time value of money (the usefulness of payback as a measure of risk is limited as it gives equal weighting to cash flows irrespective of when they are received). It also considers more of the project’s cash flows because the amounts are discounted. However, it does not overcome all the limitations of the payback method as it still ignores cash flows after the payback period.</p>
+<p>Lecture Example - limitation of payback</p>
+<p>Two projects each require an investment of $1,000,000 and have the following forecast cash flows ($000):</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Project A</td>
+<td style="text-align: left;">(1,000)</td>
+<td style="text-align: left;">600</td>
+<td style="text-align: left;">200</td>
+<td style="text-align: left;">200</td>
+<td style="text-align: left;">205</td>
+<td style="text-align: left;">150</td>
+</tr>
+</tbody>
+</table>
+<p>Project B (1,000) 100 300 600 205 150</p>
+<p>Each project has a payback period of 3 years, and on this measure, would be ranked equally in terms of liquidity and risk.</p>
+<p>However, project A produces strong cash flows in the early years, which may be less uncertain than later returns. This limitation can be delt with using the discounted payback period.</p>
+<p><strong>Example 2 -continued</strong></p>
+<p>If the cost of capital of 10% is believed to reflect the risk attached to project A and B in :::</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -563,73 +500,205 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>Example 2</strong></p>
+<p>example 2. Calculate the discounted payback period of each project.</p>
+<p>Project A</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Cash flow ($)</td>
+<td style="text-align: left;">(1,000)</td>
+<td style="text-align: left;">600</td>
+<td style="text-align: left;">200</td>
+<td style="text-align: left;">200</td>
+<td style="text-align: left;">205</td>
+<td style="text-align: left;">150</td>
+</tr>
+</tbody>
+</table>
+<p>Discount factor 10%</p>
+<p>Present value</p>
+<p>Cumulative CF</p>
+<p>Discounted payback =</p>
+<p>Project B</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Cash flow ($)</td>
+<td style="text-align: left;">(1,000)</td>
+<td style="text-align: left;">100</td>
+<td style="text-align: left;">300</td>
+<td style="text-align: left;">600</td>
+<td style="text-align: left;">205</td>
+<td style="text-align: left;">150</td>
+</tr>
+</tbody>
+</table>
+<p>Discount factor 10%</p>
+<p>Present value</p>
+<p>Cumulative CF</p>
+<p>Discounted payback=</p>
+<p>The discounted payback period produces a longer payback period than non-discounted payback approach.</p>
+<section id="risk-analysis-techniques" class="level3">
+<h3 class="anchored" data-anchor-id="risk-analysis-techniques">3 Risk Analysis Techniques</h3>
+<section id="probability-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="probability-analysis">3.1 Probability Analysis</h4>
+<p>When there are several possible outcomes for a decision and probabilities can be assigned to each, a probability analysis of expected cash flows can be used to measure risk.</p>
+<p><strong>Steps of Probability Analysis:</strong></p>
+<p><strong>Step 1</strong> calculated an expected value.</p>
+<p>An <strong>expected value</strong> is the weighted arithmetic mean of possible outcomes</p>
+<p>Expected Value=<span class="math inline">\(\sum_{}^{}{P(x).x}\)</span></p>
+<p>Where: x=value of an outcome</p>
+<p>P(x)=the probability of outcome x</p>
+<p><strong>Step 2</strong> measure risk</p>
+<p>A probability distribution of expected cash flows can also be used to measure risk by:</p>
+<ul>
+<li><p>calculating the worst possible outcome and its probability;</p></li>
+<li><p>calculating the probability that the project will fail to achieve a positive NPV</p></li>
+</ul>
+<p>{.callout-tip} <strong>Example 3</strong></p>
 <blockquote class="blockquote">
-<p>S company is a listed company on the stock market and 40% of shares are in the hands of public investors. The company’s profit growth and dividend policy are set out below. Will a continuation of the same dividend policy as in the past be suitable now?</p>
+<p>A company is considering a project of $300,000 which it estimates will generate cash flows over its two-year life at the probabilities in the following table.</p>
+<p>Cash flows for the project (in $000)</p>
+<p>Year 1 cash flow probability</p>
+<p>100 0.25</p>
+<p>200 0.50</p>
+<p>300 0.25</p>
 </blockquote>
+</section>
+</section>
 </div>
 </div>
-<p>Year 4 3 2 1 Current year</p>
-<p>Profits ($’000) 176 200 240 290 444</p>
-<p>Dividends ($’000) 88 104 120 150 222 (proposed)</p>
-<p><strong>Shares in issue</strong> 800,000 800,000 1,000,000 1,000,000 1,500,000</p>
+<p>Year 2</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 37%">
+<col style="width: 37%">
+<col style="width: 22%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Cash flow in year 1</th>
+<th>Cash flow in year 2</th>
+<th>probability</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="3">100</td>
+<td>0</td>
+<td>0.25</td>
+</tr>
+<tr class="even">
+<td>100</td>
+<td>0.50</td>
+</tr>
+<tr class="odd">
+<td>200</td>
+<td>0.25</td>
+</tr>
+<tr class="even">
+<td rowspan="3">200</td>
+<td>100</td>
+<td>0.25</td>
+</tr>
+<tr class="odd">
+<td>200</td>
+<td>0.50</td>
+</tr>
+<tr class="even">
+<td>300</td>
+<td>0.25</td>
+</tr>
+<tr class="odd">
+<td rowspan="3">300</td>
+<td>200</td>
+<td>0.25</td>
+</tr>
+<tr class="even">
+<td>300</td>
+<td>0.50</td>
+</tr>
+<tr class="odd">
+<td>350</td>
+<td>0.25</td>
+</tr>
+</tbody>
+</table>
+<p>The company’s cost of capital is 10%.</p>
+<p>Calculate the expected value of the project’s NPV and the probability that the NPV will be negative.</p>
+<p><strong>Advantages and Disadvantages of Probability Analysis</strong></p>
+<p><strong>Advantage:</strong></p>
+<ul>
+<li>expected values can be discounted to calculate an estimated value of a NPV and to measure risk.</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li><p>the probabilities of possible outcomes may be difficult to estimate</p></li>
+<li><p>the average may not correspond to any of the possible outcomes</p></li>
+<li><p>unless the same decision has to be made many times, the average will not be achieved. Therefore, it is not appropriate in “one-off” situation.</p></li>
+</ul>
 </section>
-</section>
-<section id="alternatives-to-cash-dividends" class="level3">
-<h3 class="anchored" data-anchor-id="alternatives-to-cash-dividends">3 Alternatives to Cash Dividends</h3>
-<section id="scrip-dividends" class="level4">
-<h4 class="anchored" data-anchor-id="scrip-dividends">3.1 Scrip Dividends</h4>
-<p>A scrip dividend is a choice between a cash dividend and shares instead of cash. The number of shares received is linked to the dividends and the market price of the shares so that roughly equivalent value is received.</p>
-<p>To attract the investors to choose shares, the value of shares offered is much greater than the cash alternative.</p>
-<p>Advantages of scrip dividend</p>
+<section id="other-techniques-for-managing-risk" class="level4">
+<h4 class="anchored" data-anchor-id="other-techniques-for-managing-risk">3.2 Other Techniques for Managing Risk</h4>
+<section id="simulation" class="level5">
+<h5 class="anchored" data-anchor-id="simulation">1. Simulation</h5>
+<p>A technique that allows more than one variable to change simultaneously.</p>
+<p>An example of simulation is the Monte Carlo simulation method. The output estimates not only a project’s outcomes but also their probabilities.</p>
+<p><strong>Stages in a Monte Carlo Simulation:</strong></p>
 <ul>
-<li>It allows investors to acquire new shares without transaction costs and the company can conserve its cash for reinvestment.</li>
-<li>In some countries investors can obtain beneficial tax effect.</li>
+<li><p>Specify the major variables and the relationship between the variables (e.g.&nbsp;revenue and costs)</p></li>
+<li><p>Attach probability distribution to each variable and assign random numbers to reflect the distribution</p></li>
+<li><p>Simulate the environment by generating random numbers for revenue and costs</p></li>
+<li><p>Record the outcome of each simulation (e.g.&nbsp;the profit based on the revenue and costs randomly selected)</p></li>
+<li><p>Repeat the simulation many times to obtain a probability distribution of the possible outcomes (e.g.&nbsp;the probabilities of achieving various profit levels).</p></li>
 </ul>
-<p>Disadvantages of dividend</p>
+<p><strong>Advantages and Limitations of Simulation</strong></p>
+<p><strong>Advantages:</strong></p>
 <ul>
-<li>If the dividend per share is maintained or increased, the future total cash paid as a dividend will increase</li>
-<li>Due to an increase in supply of shares, the share price may fall</li>
-<li>May be seen as a negative signal by the market i.e.&nbsp;the company is experiencing cash flow issues.</li>
+<li><p>It provides more information about the possible outcomes and their relative probabilities.</p></li>
+<li><p>The data can be used to calculate an expected NPV and the standard deviation of expected NPV.</p></li>
 </ul>
-</section>
-<section id="share-buyback" class="level4">
-<h4 class="anchored" data-anchor-id="share-buyback">3.2 Share Buyback</h4>
+<p><strong>Limitations:</strong></p>
 <ul>
-<li>A buyback can be performed by:</li>
-</ul>
-<blockquote class="blockquote">
-<p>-Writing directly to all shareholder with an offer to buy shares at a fixed price or;</p>
-<p>-Purchasing shares via the stock market at the prevailing price.</p>
-</blockquote>
-<ul>
-<li>The shares are either cancelled (and a non-distributable reserve created) or held by the company as treasury shares for possible future reissue (carrying no voting rights and receive no dividends).</li>
-</ul>
-<p>Effects of share buyback:</p>
-<ul>
-<li>share price should rise as there are fewer shares after buyback</li>
-<li>ratios such as EPS, gearing and ROE should also improve</li>
-<li>in many countries, a share buyback is treated as a capital gain rather than as income. This can have tax advantages if tax on capital gain is lower than tax on income.</li>
+<li><p>It is not a technique for making a decision, only for obtaining more information about the possible outcomes.</p></li>
+<li><p>Simulations are only as good as the probabilities, assumptions and estimates used</p></li>
+<li><p>It can be very time-consuming without a computer.</p></li>
+<li><p>It could prove expensive in designing and running the simulation, even on a computer.</p></li>
 </ul>
 </section>
-<section id="special-dividends" class="level4">
-<h4 class="anchored" data-anchor-id="special-dividends">3.3 Special Dividends</h4>
-<p>A larger-than-expected dividend may raise market expectations that future dividends will also be higher. So, a larger dividend may be announced as a <strong>special dividend</strong>- a <strong>bonus dividend</strong> to avoid creating expectations of an unsustainable level. Any exceptional cash surplus will be returned in this way but that this should not be built into dividend per share forecast.</p>
+<section id="risk-adjusted-discount-rate" class="level5">
+<h5 class="anchored" data-anchor-id="risk-adjusted-discount-rate">2. Risk Adjusted Discount Rate</h5>
+<p>Using risk-adjusted discount rate for both NPV and adjust payback. A higher discount rate should be applied to higher-risk projects, reducing the influence of more distant cash flows.</p>
+</section>
 </section>
 </section>
 <section id="summary" class="level3">
 <h3 class="anchored" data-anchor-id="summary">4 Summary</h3>
-<section id="overview" class="level4">
-<h4 class="anchored" data-anchor-id="overview">4.1 Overview</h4>
-<p><img src="media/Notes_E/media/image6.png" style="width:6.12174in;height:4.86248in"></p>
-</section>
-<section id="technical-articles" class="level4">
-<h4 class="anchored" data-anchor-id="technical-articles">4.2 Technical Articles</h4>
-<p>Related technical articles:</p>
-<p><a href="../../technicial articals/dividend theory.pdf">Dividend theory</a></p>
+<p><img src="media/Notes_D/media/image11.png" style="width:6.4557in;height:5.86881in"></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -1040,13 +1109,13 @@ Tip
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../body/Chapter 9 Source of Finance.html" class="pagination-link" aria-label="Chapter 9 Source of Finance">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 9 Source of Finance</span></span>
+      <a href="../body/6 Allowing for Inflation and Taxation.html" class="pagination-link" aria-label="Chapter 6 Allowing for Inflation and Taxation">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../body/Chapter 11 the Cost of Capital.html" class="pagination-link" aria-label="Chapter 11 the Cost of Capital">
-        <span class="nav-page-text"><span class="chapter-title">Chapter 11 the Cost of Capital</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../body/8 Specific Investment Decision.html" class="pagination-link" aria-label="Chapter 8 Specific Investment Decision">
+        <span class="nav-page-text"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Chapter 2 Financial Management Environment – ACCA F9（财务管理）</title>
+<title>Chapter 6 Allowing for Inflation and Taxation – ACCA F9（财务管理）</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../body/Chapter 3 Working Capital Management.html" rel="next">
-<link href="../body/Chapter 1 Financial Management Function.html" rel="prev">
+<link href="../body/7 Project Appraisal under Risk.html" rel="next">
+<link href="../body/5 Investment Decision.html" rel="prev">
 <link href="../images/book-logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -87,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 2 Financial Management Environment.html">Part B: Financial Management Environment</a></li><li class="breadcrumb-item"><a href="../body/Chapter 2 Financial Management Environment.html"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/6 Allowing for Inflation and Taxation.html"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -156,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
+  <a href="../body/1 Financial Management Function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 1 Financial Management Function</span></a>
   </div>
 </li>
       </ul>
@@ -172,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 2 Financial Management Environment.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
+  <a href="../body/2 Financial Management Environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a>
   </div>
 </li>
       </ul>
@@ -188,12 +217,12 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
+  <a href="../body/3 Working Capital Management.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 3 Working Capital Management</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
+  <a href="../body/4 Cash Management and Working Capital Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 4 Cash Management and Working Capital Finance</span></a>
   </div>
 </li>
       </ul>
@@ -209,22 +238,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
+  <a href="../body/5 Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 5 Investment Decision</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
+  <a href="../body/6 Allowing for Inflation and Taxation.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
+  <a href="../body/7 Project Appraisal under Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
+  <a href="../body/8 Specific Investment Decision.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 8 Specific Investment Decision</span></a>
   </div>
 </li>
       </ul>
@@ -240,22 +269,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
+  <a href="../body/9 Source of Finance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 9 Source of Finance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 10 Dividend Policy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
+  <a href="../body/10 Dividend Policy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 10 Dividend Policy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 11 the Cost of Capital.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
+  <a href="../body/11 the Cost of Capital.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 11 the Cost of Capital</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
+  <a href="../body/12 Gearing and Capital Structure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 12 Gearing and Capital Structure</span></a>
   </div>
 </li>
       </ul>
@@ -271,7 +300,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
+  <a href="../body/13 Business Valuation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 13 Business Valuation</span></a>
   </div>
 </li>
       </ul>
@@ -287,12 +316,12 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
+  <a href="../body/14 Foreign Currency Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 14 Foreign Currency Risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../body/Chapter 15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
+  <a href="../body/15 Interest Rate Risk.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 15 Interest Rate Risk</span></a>
   </div>
 </li>
       </ul>
@@ -324,19 +353,21 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
-  <li><a href="#economic-environment" id="toc-economic-environment" class="nav-link" data-scroll-target="#economic-environment">1 Economic Environment</a></li>
-  <li><a href="#financial-markets-and-institutions" id="toc-financial-markets-and-institutions" class="nav-link" data-scroll-target="#financial-markets-and-institutions">2 Financial Markets and Institutions</a></li>
-  <li><a href="#international-money-and-capital-markets" id="toc-international-money-and-capital-markets" class="nav-link" data-scroll-target="#international-money-and-capital-markets">3 International Money and Capital Markets</a></li>
-  <li><a href="#impact-of-fintech" id="toc-impact-of-fintech" class="nav-link" data-scroll-target="#impact-of-fintech">4 Impact of Fintech</a></li>
+  <li><a href="#relevant-cash-flows" id="toc-relevant-cash-flows" class="nav-link" data-scroll-target="#relevant-cash-flows">1 Relevant Cash Flows</a></li>
+  <li><a href="#taxation" id="toc-taxation" class="nav-link" data-scroll-target="#taxation">2 Taxation</a></li>
+  <li><a href="#inflation" id="toc-inflation" class="nav-link" data-scroll-target="#inflation">3 Inflation</a></li>
+  <li><a href="#working-capital" id="toc-working-capital" class="nav-link" data-scroll-target="#working-capital">4 Working Capital</a></li>
+  <li><a href="#npv-layout" id="toc-npv-layout" class="nav-link" data-scroll-target="#npv-layout">5 NPV Layout</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">6 Summary</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/Chapter 2 Financial Management Environment.html">Part B: Financial Management Environment</a></li><li class="breadcrumb-item"><a href="../body/Chapter 2 Financial Management Environment.html"><span class="chapter-title">Chapter 2 Financial Management Environment</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../body/5 Investment Decision.html">Part D: Investment Appraisal</a></li><li class="breadcrumb-item"><a href="../body/6 Allowing for Inflation and Taxation.html"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Chapter 2 Financial Management Environment</span></h1>
+<h1 class="title"><span class="chapter-title">Chapter 6 Allowing for Inflation and Taxation</span></h1>
 </div>
 
 
@@ -353,321 +384,256 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="syllabus" class="level3">
-<h3 class="anchored" data-anchor-id="syllabus">Syllabus</h3>
-<p><strong>B. Financial Management Environment</strong></p>
-<p><strong>1. The economic environment for business</strong></p>
-<p>a) Identify and explain the main macroeconomic policy targets.[1]</p>
-<p>b) Define and discuss the role of fiscal, monetary, interest rate and exchange rate policies in achieving macroeconomic policy targets.[1]</p>
-<p>c) Explain how government economic policy interacts with planning and decision-making in business.[2]</p>
-<p>d) Explain the need for, and the interaction with, planning and decision-making in business of:1</p>
-<p><strong>2. The Nature and Role of Financial Markets and Institutions</strong></p>
-<ol type="a">
-<li><p>Identify the nature and role of money and capital markets, both nationally and internationally.<sup>[2][2]</sup></p></li>
-<li><p>Explain the role of financial intermediaries.<sup>[1][1]</sup></p></li>
-<li><p>Explain the functions of a stock market and a corporate bond market.<sup>[2][2]</sup></p></li>
-<li><p>Explain the nature and features of different securities in relation to the risk/return trade-off.<sup>[2][2]</sup></p></li>
-<li><p>Explain the impact of Fintech in changing the nature and role of financial markets and institutions.<sup>[1][1]</sup></p></li>
-</ol>
-<p><strong>3. The Nature and Role of Money Markets</strong></p>
-<ol type="a">
-<li>Describe the role of the money markets in:<sup>[1][1]</sup></li>
-</ol>
-<ol type="1">
-<li>providing short-term liquidity to the private sector and the public sector</li>
-<li>providing short-term trade finance</li>
-<li>allowing an organization to manage its exposure to foreign currency risk and interest rate risk</li>
-</ol>
-<ol start="2" type="a">
-<li><p>Explain the role of banks and other financial institutions in the operation of the money markets.<sup>[2][2]</sup></p></li>
-<li><p>Explain and apply the characteristics and role of the principal money market instruments:<sup>[2][2]</sup></p></li>
-</ol>
-<ol type="1">
-<li>interest-bearing instruments</li>
-<li>discount instruments</li>
-<li>derivatives</li>
-</ol>
+<section id="syllabus" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="syllabus">Syllabus</h3>
+<p><strong>D. Investment Appraisal</strong></p>
+<p><strong>1. Investment Appraisal Techniques</strong></p>
+<p>a) Identify and calculate relevant cash flows for investment projects^.[2]^</p>
+<p><strong>2. Allowing for Inflation and Taxation in DCF</strong></p>
+<p>a) Apply and discuss the real-terms and nominal-terms approaches to investment appraisal.^[2]^</p>
+<p>b) Calculate the taxation effects of relevant cash flows, including the tax benefits of tax-allowable depreciation and the tax liabilities of taxable profit.^[2]^</p>
+<p>c) Calculate and apply before- and after-tax discount rates^.[2]^</p>
 </section>
-<section id="economic-environment" class="level3">
-<h3 class="anchored" data-anchor-id="economic-environment">1 Economic Environment</h3>
-<section id="macroeconomic-policy" class="level4">
-<h4 class="anchored" data-anchor-id="macroeconomic-policy">1.1 Macroeconomic Policy</h4>
-<p><strong>Macroeconomic policy</strong>– the setting of economic objectives by the government (e.g.&nbsp;full employment, economic growth, the avoidance of inflation) and the use of control instruments to achieve those objectives (e.g.&nbsp;fiscal policy and monetary policy).</p>
-<p><strong>Objectives</strong></p>
-<p>Macroeconomic policies&nbsp;are adopted to achieve the following objectives</p>
-<p><img src="media/Notes_AB/media/image9.png" style="width:3.32569in;height:2.19514in"></p>
-<p>The above objectives can often conflict (e.g.&nbsp;economic growth can lead to excess resource demand and an increase in inflation), so the government has to trade-off between objectives.</p>
-</section>
-<section id="monetary-policy" class="level4">
-<h4 class="anchored" data-anchor-id="monetary-policy">1.2 Monetary Policy</h4>
-<p><strong>Monetary policy</strong> – the set actions taken by the government or the central bank to achieve economic objectives using monetary instruments.</p>
-<p><strong>Monetary Policy Actions</strong></p>
+<section id="relevant-cash-flows" class="level3 pagebreak">
+<h3 class="pagebreak anchored" data-anchor-id="relevant-cash-flows">1 Relevant Cash Flows</h3>
+<p><strong>General rule:</strong> only cash inflows and outflows that are affected by a decision are relevant to the decision. This means using only <strong>future, incremental cash</strong> flow.</p>
+<p>Examples of Non-Relevant Cash Flows</p>
 <ul>
-<li>Directly control the amount of money supply; or</li>
-<li>Indirectly affect the demand for money through its price (interest rate)</li>
+<li><p>sunk costs – money already spent</p></li>
+<li><p>non-cash costs – e.g.&nbsp;depreciation</p></li>
+<li><p>unavoidable costs – money already committed and apportioned fixed costs</p></li>
+<li><p><strong>Finance costs</strong> – such as interest, because finances costs are accounted for by the discounting process.</p></li>
 </ul>
-<p><strong>Influence on Business</strong></p>
-<p>Increasing interest rate increase the cost of borrowing, therefore a lower rate of return on investment, this will deter companies’ expansion.</p>
-<p>Increasing interest rate increase the cost of borrowing, this will decrease the demand for goods and inflation rate.</p>
-</section>
-<section id="fiscal-policy" class="level4">
-<h4 class="anchored" data-anchor-id="fiscal-policy">1.3 Fiscal Policy</h4>
-<p><strong>Fiscal policy</strong>&nbsp;– government actions to achieve economic objectives through the fiscal instruments of taxation, public spending and the budget deficit or surplus. Governments can use public <strong>expenditure</strong> and taxation to regulate the level of demand within the economy.</p>
-<p><strong>Fiscal Policy Actions</strong></p>
-<p>If the economy is in recession (overheating), fiscal policy can be used to reflate the economy by taking the following actions:</p>
-<ul>
-<li>Increase(reduce) government spending to increase(decrease) the level of demand in the economy directly.</li>
-<li>Reduce(increase) taxation to boost(reduce) both consumption and investment.</li>
-</ul>
-</section>
-<section id="exchange-rate-policy" class="level4">
-<h4 class="anchored" data-anchor-id="exchange-rate-policy">1.4 Exchange Rate Policy</h4>
-<p><strong>Exchange rate</strong> is the rate at which one country’s currency can be traded in exchange for another country’s currency.</p>
-<p>Systems of exchange rate</p>
-<ul>
-<li>Fixed exchange rate - A fixed exchange rate regime is one in which the rate is kept fixed against another currency, or basket of currencies. No fluctuations are permitted; the central bank interveness to maintain the exchange rate.</li>
-<li>Floating exchange rate – a free-floating exchange rate means that the currency’s value is allowed to move freely with demand and supply market forces.</li>
-<li>Managed floating exchange rates – the exchange rates are allowed to float, but the central bank intervenes to prevent major fluctuations.</li>
-</ul>
-</section>
-<section id="government-intervention" class="level4">
-<h4 class="anchored" data-anchor-id="government-intervention">1.5 Government Intervention</h4>
-<p><strong>Market mechanism</strong>: the interaction of supply and demand can result in a market clearing price and quantity supplied/demanded. <strong>Market failure</strong> occurs when the market mechanism fails to result in economic efficiency, and there for the outcome is sub-optimal.</p>
-<p>Types of market failure (where need government intervention)</p>
-<p>(1) imperfect competition</p>
-<p>(2) Social costs</p>
-<p>(3) imperfect information</p>
-<p>(4) fairness</p>
-<section id="competition-policy" class="level5">
-<h5 class="anchored" data-anchor-id="competition-policy">1. Competition Policy</h5>
-<p><strong>Imperfect Competition</strong></p>
-<p>There are two market structures where large firms are often viewed as having excessive market power that may restrict consumer choice, and where competition is weak.</p>
-<ul>
-<li>Monopoly- one large firm dominates the market; in practice any firm with a market share of above 25% is viewed as having monopoly power.</li>
-<li>Oligopoly-a few large firms dominate the market.</li>
-</ul>
-<p>A large company can benefit from the kinds of economies of scale; however, monopolies often have several adverse consequences:</p>
-<ul>
-<li>large companies can charge high prices, and</li>
-<li>have no incentive to improve their products or offer a wide range of products or to improve the efficiency of its use resources.</li>
-</ul>
-<p><strong>Competition Policy</strong></p>
-<p>Government regulatory authorities (eg the Competition and Markets Authority In the UK) must decide whether the monopoly is acting against the public interest. A prospect merger may be made to the Competition and Markets Authority for investigation if a larger company will gain more than 25% market share and a merger is likely to lead to a substantial decrease in competition.</p>
-</section>
-<section id="green-policy-and-sustainability-issues" class="level5">
-<h5 class="anchored" data-anchor-id="green-policy-and-sustainability-issues">2. Green Policy and Sustainability Issues</h5>
-<p><strong>Social Costs / Externalities</strong></p>
-<p>These are impacts on a third party of an economic transaction. The failure of the free market to recognize positive and negative externalities ( eg pollution) may lead to government action.</p>
-<p><strong>Green Policy</strong></p>
-<p>The need for green policy arises from the existence of external environmental costs associated with some production or consumption. There are several policy approaches to pollution, such as polluter pays, tax on petrol, subsidies and direct legislation.</p>
-<p><strong>Sustainability</strong></p>
-<p>meeting the needs of the present without compromising the ability of future generations to meet their own needs.</p>
-<p>For investors, sustainable investing means investing in progress and recognising that companies solving the world’s biggest challenges can be best positioned to grow. Investors from global institutions to individuals now take a sustainable approach to pursuing their investment goals based on environmental, social and governance (ESG) insights.</p>
-<p>However, increasing demand for eco-friendly products and environmentally ethical business practices has led to increased greenwashing (i.e.&nbsp;making people believe that a company is doing more to protect the environment than it is).</p>
-</section>
-<section id="regulation" class="level5">
-<h5 class="anchored" data-anchor-id="regulation">3. Regulation</h5>
-<p><strong>Regulation</strong> can be defined as any form of state interference with the operation of the free market. The government may also resort to regulation to <strong>improve social justice</strong>, eg concerns about the fairness of expensive housing.</p>
-</section>
-</section>
-</section>
-<section id="financial-markets-and-institutions" class="level3">
-<h3 class="anchored" data-anchor-id="financial-markets-and-institutions">2 Financial Markets and Institutions</h3>
-<p>A firm can obtain finance directly from investors through the financial markets or indirectly through financial institutions (intermediaries).</p>
-<section id="financial-intermediaries" class="level4">
-<h4 class="anchored" data-anchor-id="financial-intermediaries">2.1 Financial Intermediaries</h4>
-<p>A financial intermediary brings together potential lenders and borrowers by obtaining deposits from lenders and then re-lending them to borrowers.</p>
-<p><img src="media/Notes_AB/media/image10.png" style="width:4.6771in;height:2.29913in"></p>
-<p><strong>The Role of Financial Intermediary</strong></p>
-<ul>
-<li>Maturity Transformation - a continuing stream of short-term deposits can be used to lend monies in the long term.</li>
-<li>Aggregation of fund - smaller deposits are combined and lent to large borrowers</li>
-<li>Risk diversification - risk is spread by investing in a range of investments across different markets</li>
-</ul>
-<p>The role of financial institutions as intermediaries that facilitate the flow of funds between two parties is threatened by the emergence of Fintech.</p>
-</section>
-<section id="financial-markets" class="level4">
-<h4 class="anchored" data-anchor-id="financial-markets">2.2 Financial Markets</h4>
-<p>The financial markets include the capital markets (for medium- and long-term capital) and the money markets (for short-term capital). The following activities take place in these markets:</p>
-<ul>
-<li>Primary market activity − selling new securities to raise new funds.</li>
-<li>Secondary market activity − trading existing securities.</li>
-</ul>
-<section id="money-markets" class="level5">
-<h5 class="anchored" data-anchor-id="money-markets">1. Money Markets</h5>
-<p>The money market is not a physical market; it is the term used to describe trading between banks and other financial institutions. Although the money markets principally involve borrowing and lending by banks, some large companies and the government&nbsp;are engaged in money market operations.</p>
-<ol type="1">
-<li><strong>Money market instruments</strong></li>
-</ol>
-<p>There are 3 types of money market instruments:</p>
-<ul>
-<li>(a) interest-bearing</li>
-<li>(b) discount instruments and</li>
-<li>(c) derivatives</li>
-</ul>
-<p><strong>Interest-bearing Instruments</strong></p>
-<p><strong>Money market deposits-</strong>very short-term loans normally between banks. The rate at which banks lend to each other in the London market is called Sterling Overnight Index Average (SONIA) and is the most widely used reference rate for short-term interest rate for the settlement of money market derivatives.</p>
-<p><strong>Certificates of deposit (CDs)</strong> - A saving certificate issued by a commercial bank entitling the holder to receive interest. A CD bears a maturity date and a specified fixed interest rate and can be issued in any denomination.&nbsp;CDs are fully negotiable, the holder can:</p>
-<ul>
-<li>hold it until maturity; or</li>
-<li>resell it on the secondary market</li>
-</ul>
-<p><strong>Repurchase Agreements (Repos)</strong> – short-term loans (normally for less than two weeks and often for one day) arranged by selling securities to an investor with agreement to repurchase them at a fixed price on a specified date.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
+<p>However, <strong>opportunity costs</strong> and revenues must be included.</p>
 <p><strong>Example 1</strong></p>
 <blockquote class="blockquote">
-<p>A listed company is to enter into a sale repurchase agreement on the money market. The company has agreed to sell $10m for treasury bills for $9.6m and will buy them back in 50 days’ time for $9.65m.</p>
-<p>Assume a 365-day year.</p>
-<p>What is the implicit annual interest rate in this transaction (to nearest 0.01%)?</p>
+<p>SW company has a barrel of chemicals in its warehouse that it purchased for a project a while ago at a cost of $1,000. It would cost $400 for a professional disposal company to collect the barrel and dispose of it safely. However, the chemicals could be used in a potential project which is currently being assessed.</p>
+<p>What is the relevant cost of using the chemicals in a new project proposal?</p>
+<p>A $1,000 cost</p>
+<p>B $400 benefit</p>
+<p>C $400 cost</p>
+<p>D zero</p>
 </blockquote>
-</div>
-</div>
-<p>The examining team advice to use <strong>Method 2</strong> in all areas of FM syllabus, this is technically correct method. However, all questions involving <strong>risk management calculations</strong> in the FM exam will be assessed using <strong>method 1</strong> as it is simpler. For example, considering money market hedge, the case Marigold, which was published in Sep/Dec 2020.</p>
-<p><strong>Discount Instruments</strong></p>
-<p>These instruments do not pay interest. They are issued and traded at a discount to the face value and redeemed at par value at maturity.</p>
-<p>Discounted instruments include:</p>
-<p><strong>Treasury bills –</strong> short-term debt instruments issued by government with maturity ranging from 3 to 12 months. These are issued at a discount to nominal value and pay a zero coupon.</p>
-<p><strong>banker’s acceptance –</strong> a short-term debt issued by a company that is guaranteed by a commercial bank. BA are issued at a discount to nominal value, pay zero coupon and are traded on a secondary market. They are considered relatively safe investments because the bank and the borrower are liable for the amount due when the instrument matures.</p>
-<p><strong>Commercial paper –</strong> unsecured, but high-quality corporate debt issued by large corporations with good credit ratings. It is sold at a discount to nominal value and pays a zero coupon. Commercial paper allows companies to raise large amounts of finance quickly but is only available to those companies with very high credit ratings.</p>
-<p>It is a negotiable instrument.</p>
-<p><strong>Bills of exchange –</strong> a short-term financial instrument consisting of a written order addressed by the seller of goods to the buyer requiring the latter to pay a certain sum of money on demand or at a future time. Bills of exchange are often used in international transactions, and the holder may convert it immediately into cash by selling it to a bank at a discount.</p>
-<p>It is a negotiable instrument.</p>
-<p><strong>Calculation of Discount Instruments</strong></p>
-<p>The relation between annual rate and period rate can be expressed as:</p>
-<p>1+R = (1+r) <sup>n</sup></p>
-<p>Where R is the annualized interest rate, r is the period interest rate, and n is the number periods in a year.</p>
-<p>(不考虑货币时间价值的年收益率= r × 365/n)</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tip
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Example 2 (Sep/Dec 2021 amended)</strong></p>
-<blockquote class="blockquote">
-<p>A large, listed company is to issue 90-day commercial paper with a nominal value of $10m. Each paper will have a nominal value of $100,000. The annual required rate of return is 4% assuming a 360-day year.</p>
-<p>What will be the issue price of each paper?</p>
-<p>$99,024</p>
-<p>$96,154</p>
-<p>$99,010</p>
-<p>$99,000</p>
-</blockquote>
-</div>
-</div>
-<p><strong>Derivatives</strong></p>
-<p>A financial instrument whose value or price depends on an underlying asset.</p>
-<p>Businesses can use derivatives to reduce the risk of adverse fluctuations in the value of an asset through “hedging”. Details of examples, including futures, forward contracts, options and swaps, are described in part G.</p>
-<ol start="2" type="1">
-<li><strong>Roles of Money Market</strong></li>
+<p>:::</p>
+</section>
+<section id="taxation" class="level3">
+<h3 class="anchored" data-anchor-id="taxation">2 Taxation</h3>
+<p>Building taxation into a discounted cash flow involves dealing with ‘the good the bad and the ugly’!.</p>
+<ul>
+<li><p>Tax is charged on operating results (=revenues – operating costs)</p></li>
+<li><p>Tax relief is given on non-current assets via tax-allowable depreciation (TAD)</p></li>
+<li><p>The timing of tax cash flows is complex. They may occur in the year of taxable profits; or tax is paid one year in arrears (i.e.&nbsp;in the following year).</p></li>
+<li><p>Any tax relief on finance cost is accounted for in the discount rate.</p></li>
+</ul>
+<p>Company may claim TAD according to the applicable tax regime. Exam questions will state the depreciation method (reducing balance or straight-line) and tax rate (%).</p>
+<p><strong>Tax benefits</strong> = allowance × tax rate</p>
+<p><strong>Example 2</strong></p>
+<p>An asset is bought for $8000 and will be used four years before being disposed of for $500.Tax-allowable depreciation is allowed at <strong>25% reducing balance</strong> and tax rate is 30%. tax is <strong>payable one year in arrears.</strong></p>
+<p>Calculate the tax allowable depreciation and tax savings for each year.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">beginning book value</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Tax-allowable depreciation</p>
+<p>Tax benefit on depreciation (30%)</p>
+<p>timing</p>
+<p>Simplifying assumptions:</p>
+<ul>
+<li><p>Tax rate is constant</p></li>
+<li><p>Sufficient taxable profits are available to use all tax deductions in full. This means even if the net cash flow for a year is negative, there will be a positive tax cash flow for the tax relief.</p></li>
+</ul>
+<p><strong>Dealing with Taxation</strong></p>
+<p>Operating Cash flow = sales- cash costs – tax payments</p>
+<p>= sales- cash costs - (sales- cash cost – depreciation) *tax rate</p>
+<p>= (sales- cash costs) - (sales- cash costs) * tax rate + depreciation * tax rate</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">revenues</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Cash operating costs (x) (x)</p>
+<p><strong>Taxable Cash Flow</strong> <strong>x</strong> <strong>x</strong></p>
+<p>Tax @ 30% (x) (x)</p>
+<p>Tax savings x x</p>
+<p>Initial investment (x)</p>
+<p>Scrap value x</p>
+<p><strong>Project Cash Flow</strong> <strong>(x)</strong> <strong>x</strong> <strong>x</strong> <strong>x</strong></p>
+<p>Discount factor (r%)</p>
+<p>Present value</p>
+<p>NPV</p>
+</section>
+<section id="inflation" class="level3">
+<h3 class="anchored" data-anchor-id="inflation">3 Inflation</h3>
+<p>Inflation’s impacts on NPV:</p>
+<ul>
+<li><p>Different costs and revenues will inflate at different rates</p></li>
+<li><p>the cost of capital (in nominal terms) will be altered</p></li>
+</ul>
+<section id="real-and-nominal-interest-rates" class="level4">
+<h4 class="anchored" data-anchor-id="real-and-nominal-interest-rates">3.1 Real and Nominal Interest Rates</h4>
+<p>When dealing with inflation, it is important to distinguish between real and nominal (money) interest rates:</p>
+<ul>
+<li><p>The real interest rate reflects the interest rate in the absence of inflation.</p></li>
+<li><p>The nominal interest rate reflects the real interest rate adjusted for the effect of general inflation.</p></li>
+</ul>
+<p>Relationship between the real and nominal interest rate (cost of capital) can be described by the following fisher formula:</p>
+<p>1+i=(1+r) (1+h)</p>
+<p>Where: r=real interest rate,</p>
+<p>h=general rate of inflation</p>
+<p>i=nominal interest rate</p>
+</section>
+<section id="methods-of-dealing-with-inflation" class="level4">
+<h4 class="anchored" data-anchor-id="methods-of-dealing-with-inflation">3.2 Methods of Dealing with Inflation</h4>
+<p><strong>General and Specific Inflation Rates</strong></p>
+<p>A specific inflation rate is the inflation rate on an individual item (e.g.&nbsp;Wage, material). A general inflation rate is weighted average of many specific inflation rates.</p>
+<p><strong>Real and Nominal Cash Flows</strong></p>
+<p>Real cash flows are cash flows expressed in current price, i.e.&nbsp;do not include the effect of inflation rate.</p>
+<p>Nominal cash flows are cash flows that have been inflated into future values, i.e.&nbsp;include the effect of inflation rate.</p>
+<p>Nominal cash flow in year i = cash flow in current price <span class="math inline">\(\times\)</span> <span class="math inline">\({(1 + h)}^{i}\)</span></p>
+<p><strong>Two Methods of Calculating NPV</strong></p>
+<ol type="1">
+<li>Real NPV</li>
 </ol>
 <ul>
-<li>Providing short-term liquidity to companies, banks and the public sector</li>
-<li>Providing short-term finance</li>
-<li>Allowing firms to manage its exposure to foreign currency risk and interest rate risk.</li>
+<li><p>cash flows are expressed at current prices (before the effects of inflation)</p></li>
+<li><p>discounting these cash flows at a real cost of capital (excluding general inflation)</p></li>
 </ul>
-</section>
-<section id="capital-markets" class="level5">
-<h5 class="anchored" data-anchor-id="capital-markets">2. Capital Markets</h5>
-<p>The principal capital markets in UK:</p>
+<p>2)Nominal NPV</p>
 <ul>
-<li>The stock exchange - main market</li>
-<li>The Alternative investment market (AIM) – has fewer regulations and less cost, and is thereforee attractive to small companies.</li>
-<li>The Eurobond market, where bonds are generally issued by large international companies with a 10- to 15-year term. These bonds are denominated in any currency other than that of the national currency of the issuer.</li>
+<li><p>cash flows are expressed in nominal terms (include the effects of inflation).</p></li>
+<li><p>Discounting these nominal (money) cash flows at a nominal cost of capital.</p></li>
 </ul>
-<p>Capital markets provide long-term capital: equity capital(ordinary shares), preference shares, or debt capital such as loan notes. Companies requiring funds for five years or more will use the capital markets.</p>
-<p><strong>The Risk-Return Trade-off</strong></p>
-<p>There is a trade-off between risk and return, this means that investments carrying a higher degree of risk will demand a higher rate of return.</p>
-<p>Increasing risk to the investor</p>
-<ul>
-<li>Secured bonds</li>
-<li>Unsecured bonds (junk bonds)</li>
-<li>Shares traded on the main market</li>
-<li>Shares in the AIM</li>
-</ul>
-<p><strong>Reverse Yield Gap</strong></p>
-<p>because debt involves lower risk than equity investment, we might expect yield on debt to be lower than yield on shares. However, sometimes the yield on shares is lower than the interest yield on low-risk debt, this situation is known as a <strong>reverse yield gap</strong>. This can occur because shareholders will accept lower returns on their investment in the short-term, in anticipation that they will make capital gains in future.</p>
-</section>
-</section>
-</section>
-<section id="international-money-and-capital-markets" class="level3">
-<h3 class="anchored" data-anchor-id="international-money-and-capital-markets">3 International Money and Capital Markets</h3>
-<p>Larger companies wishing to raise significant amounts of finance can use international money and capital markets.</p>
-<p>Eurocurrency market are the international money markets, where Eurobond markets are the international capital markets.</p>
-<p>The Eurocurrency market involve depositing funds with a bank outside the country of origin of the currency and relending these funds, usually for a short-term.</p>
-<p>Eurobonds are raised by international companies and sold to investors in several countries simultaneously, and typically have a term of 10-15 years. borrowers must consider the exchange rate risk.</p>
-</section>
-<section id="impact-of-fintech" class="level3">
-<h3 class="anchored" data-anchor-id="impact-of-fintech">4 Impact of Fintech</h3>
-<section id="introduction" class="level4">
-<h4 class="anchored" data-anchor-id="introduction">4.1 Introduction</h4>
-<p><strong>Fintech</strong>&nbsp;– technologically enabled innovation in financial services that could result in new business models, applications, processes or products with an associated material effect on financial markets and institutions and the provision of financial services.</p>
-<p>One of the main features of Fintech is that it may reduce or eliminate the costs of financial intermediation, especially in the three broad areas of finance: raising, allocating and transferring capital.</p>
-<p>Fintech has affected all the primary functions of banks:</p>
-<ul>
-<li>maturity transformation (through competition in lending);</li>
-<li>allocation (through “bot” advisors and crowd investing platforms);</li>
-<li>payment services (through new payment platforms and interfaces); and</li>
-<li>information processing (big data, machine learning and artificial intelligence).</li>
-</ul>
-<p>Many organizations and individuals now use Fintech for a wide range of financial activities without the assistance of a bank or financial advisor:</p>
-<ul>
-<li>depositing money and making money transfers using a smartphone;</li>
-<li>applying for credit;</li>
-<li>raising money for a business start-up (e.g.&nbsp;through crowd funding);</li>
-<li>managing an investment portfolio.</li>
-</ul>
-</section>
-<section id="impact-of-fintech-1" class="level4">
-<h4 class="anchored" data-anchor-id="impact-of-fintech-1">4.2 Impact of Fintech</h4>
-<p>The impacts of Fintech on financial markets and institutions include:</p>
-<ul>
-<li>Disintermediation;</li>
-<li>Availability of credit;</li>
-<li>Potential source of finance (security token offering).</li>
-</ul>
-<section id="disintermediation" class="level5">
-<h5 class="anchored" data-anchor-id="disintermediation">1. Disintermediation</h5>
-<p>The main advantage of the role of financial institutions as intermediaries is their ability to provide safety, liquidity and economies of scale. <strong>Disintermediation&nbsp;</strong>involves transferring funds between parties directly, without a financial intermediary. Fintech enables efficient banking services, directly matching lenders and borrowers, investors and investment opportunities and, thereforee, disintermediates the flow of funds.</p>
-<p><strong>Securitization</strong> is the process of converting illiquid assets into marketable securities. These securities are backed by specific assets and are normally called asset-backed securities (ABS). The development of securitization has led to disintermediation and reduction in the role of financial intermediaries.</p>
-</section>
-<section id="availability-of-credit" class="level5">
-<h5 class="anchored" data-anchor-id="availability-of-credit">2. Availability of Credit</h5>
-<p>Fintech has expanded the availability of credit by allowing borrowers rejected by the traditional banks to access the funding they need.</p>
-<ul>
-<li><strong>P2P loan</strong> - enables individuals to lend money to small businesses without using an official financial institution as an intermediary. P2P loans can offer relatively attractive interest rates because the costs of the intermediary, the formal banking system, are eliminated.</li>
-</ul>
-<p>However, in some countries where P2P lending is unregulated, investors have lost significant sums. And P2P lending is illegal in some countries.</p>
-<ul>
-<li><strong>Crowdfunding</strong> – crowdfunding allows a company to access equity finance via online crowdfunding platform, to pitch for finance from a large number of potential investors.</li>
-</ul>
-</section>
-<section id="potential-source-of-finance-security-token-offering" class="level5">
-<h5 class="anchored" data-anchor-id="potential-source-of-finance-security-token-offering">3. Potential Source of Finance (security Token Offering)</h5>
-<p>A security token is a digital representation of ownership of a share in an asset (e.g.&nbsp;gold or property) or economic rights (e.g.&nbsp;a share of profits or revenue). Whereas a traditional share in a company is issued in a physical document (a share certificate), a security token is a digital certificate (and may be stored in a digital wallet).</p>
-<p><strong>Security token offering (STO)</strong>&nbsp;– the first issue of tokens (or crypto coins) that represent an investment contract in an underlying asset.</p>
-<p>Fintech has increased the availability of long-term finance by creating new financial markets such as electronic platforms used for crowdfunding, peer to peer lending and security token offerings. These forms of finance allow firms to access a wide pool of funds without using a financial intermediary and are examples of <strong>disintermediation</strong>.</p>
-<p><a href="../technical-articles/past exam examples.docx">::: {.callout-tip} example 3</a>Sep 2016, Q2</p>
+<p>Using fisher formula to calculate a real (nominal) rate from a nominal (real) rate and the general inflation rate.</p>
+<p>{.callout-tip} <strong>Example 3</strong></p>
 <blockquote class="blockquote">
-<p>Which of the following financial instruments will NOT be traded on a money market?</p>
-<p>A Commercial paper</p>
-<p>B Convertible loan notes</p>
-<p>C Treasury bills</p>
-<p>D Certificates of deposit</p>
+<p>A three-year project:</p>
+<p>Requires an initial investment of $5m at time 0, with a scrap value of $1m at the end of year 3;</p>
+<p>The selling price (in current price) are $5.3 per unit and is expected to rise at 5% per year. Assuming sales volume are 200,000 units per year;</p>
+<p>The variable cost in at current prices are $4 per unit and is expected to rise at 3% per year.</p>
+<p>The general inflation rate is expected to be 4% and the nominal cost of capital is 10%.</p>
+<p>Calculated the NPV of the project in nominal terms. Ignore tax.</p>
 </blockquote>
-<p>[ :::</p>
+<p>:::</p>
+<p><strong>NPV in Nominal Method:</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">$</td>
+<td style="text-align: left;">$</td>
+<td style="text-align: left;">$</td>
+<td style="text-align: left;">$</td>
+</tr>
+</tbody>
+</table>
+<p>Inflated Revenues (w1)</p>
+<p>Inflated Costs (w2)</p>
+<p>Investment</p>
+<p>Scrap value</p>
+<p>Project cash flows</p>
+<p>Discount factor ( )</p>
+<p>Present value of cash flows</p>
+<p>NPV</p>
+<p>Workings</p>
+<ol type="1">
+<li>Working 1 nominal sales revenues</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th></th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Current selling price($/unit)</td>
+<td></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Inflated selling price ($) = current price ×1.05^i</p>
+<p>Sales volume(units)</p>
+<p>nominal sales revenue ($) =inflated selling price × units</p>
+<ol start="2" type="1">
+<li>Working 1 nominal variable costs</li>
+</ol>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th></th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Current variable cost($/unit)</td>
+<td></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Inflated variable cost ($) = current cost ×1.03^i</p>
+<p>Sales volume(units)</p>
+<p>nominal variable costs ($) = inflated costs × units</p>
+<p><strong>Which method to use?</strong></p>
+<p>If selling prices and costs have different inflation rates, using nominal method:</p>
+<ul>
+<li><p>Forecasting each cash flow in nominal terms; and</p></li>
+<li><p>discounting nominal cash flow at nominal cost of capital</p></li>
+</ul>
+<p>The only situation in which the real method is valid is when revenues and costs all increase at the general inflation rate. in this case, inflation will have no impact on a project’s NPV, so both nominal method and real method are appropriate.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -678,20 +644,274 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>example 4](../technical-articles/past exam examples.docx)Dec 2016, Q6</p>
+<p><strong>Example 4</strong></p>
 <blockquote class="blockquote">
-<p>Max Co is a large multinational company which expects to have a $10m cash deficit in one month’s time. The deficit is expected to last no more than two months. Max Co wishes to resolve its short-term liquidity problem by issuing an appropriate instrument on the money market.</p>
-<p>Which of the following instruments should Max Co issue?</p>
-<p>○Commercial paper</p>
-<p>○Interest rate futures</p>
-<p>○Corporate loan notes</p>
-<p>○Treasury bills</p>
+<p>S company has a money cost of capital of 10%. If inflation is 4%, what is S company’s real cost of capital?</p>
+<p>A 6%</p>
+<p>B 5.8%</p>
+<p>C 14%</p>
+<p>D 14.4%</p>
 </blockquote>
 </div>
 </div>
-
-
+<p>In questions there is more than one rate of inflation, if you are asked to <strong>calculate an NPV in real terms</strong>, the approach to required is:</p>
+<ul>
+<li>deflate nominal operating cash flows using general rate of inflation so that they become real cash flows.</li>
+</ul>
+<p>Real cash flow = nominal cash flow ÷ (1+general inflation rate) ^n</p>
+<ul>
+<li>discount the real cash flows at the real cost of capital</li>
+</ul>
+<p>Deflating process</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th></th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Nominal cash flows ($)</td>
+<td></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Deflated by 1/ (1+h)<sup>i</sup></p>
+<p>Real cash flows ($)</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 5</strong></p>
+<blockquote class="blockquote">
+<p>AM company will receive a perpetuity starting in 2 years’ time of $10,000 per annum, increasing by the general rate of inflation (which is 2%).</p>
+<p>What is the NPV of this perpetuity assuming a money cost of capital of 10.2%?</p>
+<p>A $90,910</p>
+<p>B $125,000</p>
+<p>C $115,740</p>
+<p>D $74,403</p>
+</blockquote>
+</div>
+</div>
 </section>
+</section>
+<section id="working-capital" class="level3">
+<h3 class="anchored" data-anchor-id="working-capital">4 Working Capital</h3>
+<p>Many projects also will require an investment in net current assets, i.e.&nbsp;working capital. Working capital is defined as inventory + accounts receivable – accounts payable for project appraisal. The relevant cash flow is calculated as the change in working capital.</p>
+<p><strong>Steps to Calculate the Working Capital Cash Flows</strong></p>
+<p>step1: calculate the amounts of working capital needed in each year</p>
+<p>step2: work out the incremental cash flows required each year</p>
+<ul>
+<li><p>increase in working capital = cash outflow</p></li>
+<li><p>decrease in working capital = cash inflow</p></li>
+<li><p>unless the question specifies otherwise, working capital is assumed to be <strong>released</strong> at the end of the project (i.e.&nbsp;a cash inflow)</p></li>
+</ul>
+<p>It is assumed that changes in the level of working capital have no tax effects.</p>
+<p><strong>Example 6</strong></p>
+<p>Darn co has undertaken a new project with four years life and the expected sales revenue are as follows.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Sales revenue ($000)</td>
+<td style="text-align: left;">1,300</td>
+<td style="text-align: left;">2,800</td>
+<td style="text-align: left;">7,900</td>
+<td style="text-align: left;">5,400</td>
+</tr>
+</tbody>
+</table>
+<p>The level of working capital investment at the start of each year is expected to be 10% of sales revenue in that year.</p>
+<p>Calculate the relevant cash flow of working capital.</p>
+</section>
+<section id="npv-layout" class="level3">
+<h3 class="anchored" data-anchor-id="npv-layout">5 NPV Layout</h3>
+<p>To evaluate a project, management should consider and determine followings:</p>
+<ul>
+<li><p>project’s life or time horizon</p></li>
+<li><p>operating cash flow</p></li>
+<li><p>tax and tax benefits</p></li>
+<li><p>working capital</p></li>
+<li><p>initial investment and scrap value</p></li>
+<li><p>discount factor</p></li>
+</ul>
+<p>Operating Cash flow = sales- cash costs – tax payments</p>
+<p>= sales- cash costs - (sales- cash cost – depreciation) *tax rate</p>
+<p>= (sales- cash costs) - (sales- cash costs) * tax rate + depreciation * tax rate</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+<th style="text-align: left;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Sales revenues (w1)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;">x</td>
+<td style="text-align: left;">x</td>
+</tr>
+</tbody>
+</table>
+<p>variable costs (W2)</p>
+<p>fixed costs</p>
+<p><strong>Taxable Cash Flow</strong></p>
+<p>Tax @30%</p>
+<p>Tax benefit on capital allowance (W3)</p>
+<p>Initial investment</p>
+<p>residual value</p>
+<p>Working capital changes (W4)</p>
+<p>project Cash Flows</p>
+<p>Discount factor (<span class="citation" data-cites="cost">@cost</span> of capital)</p>
+<p>Present value of project cash flow</p>
+<p>NPV</p>
+<p>W1: inflated revenue sales</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Selling price per unit ($)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Inflated selling price per unit ($)</p>
+<p>Sales volume (unit)</p>
+<p>Inflated sales revenue per year</p>
+<p>W2: inflated variable costs</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Variable cost per unit ($)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Inflated variable cost per unit ($)</p>
+<p>sales volume (unit)</p>
+<p>Inflated variable costs per year</p>
+<p>W3: tax benefit on capital allowance depreciation</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">beginning balance</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Tax-allowable depreciation</p>
+<p>Tax benefit on depreciation (30%)</p>
+<p>timing</p>
+<p>W4: relevant working capital cash flow</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">0</th>
+<th style="text-align: left;">1</th>
+<th style="text-align: left;">2</th>
+<th style="text-align: left;">3</th>
+<th style="text-align: left;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Working capital level needed ($)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Incremental working capital ($)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Notes_D/media/image8.png" style="width:5.76806in;height:3.2084in" class="figure-img"></p>
+<figcaption>::: {.callout-tip} Example 7: Trector</figcaption>
+</figure>
+</div>
+<p><img src="media/Notes_D/media/image9.png" style="width:5.76806in;height:1.46206in"> :::</p>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary">6 Summary</h3>
+<section id="overview" class="level4">
+<h4 class="anchored" data-anchor-id="overview">6.1 Overview</h4>
+<p><img src="media/Notes_D/media/image10.png" style="width:6.32066in;height:5.99146in"></p>
+</section>
+<section id="technical-articles" class="level4">
+<h4 class="anchored" data-anchor-id="technical-articles">6.2 Technical Articles</h4>
+<p>Related technical articles available.</p>
+<p><a href="../../technical articles/inflation and investment appraisal.pdf">inflation and investment appraisal.pdf</a></p>
+<p><a href="../../technical articles/advanced investment appraisal.pdf">advanced investment appraisal.pdf</a></p>
+
+
 </section>
 </section>
 
@@ -1103,13 +1323,13 @@ Tip
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../body/Chapter 1 Financial Management Function.html" class="pagination-link" aria-label="Chapter 1 Financial Management Function">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 1 Financial Management Function</span></span>
+      <a href="../body/5 Investment Decision.html" class="pagination-link" aria-label="Chapter 5 Investment Decision">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 5 Investment Decision</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../body/Chapter 3 Working Capital Management.html" class="pagination-link" aria-label="Chapter 3 Working Capital Management">
-        <span class="nav-page-text"><span class="chapter-title">Chapter 3 Working Capital Management</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../body/7 Project Appraisal under Risk.html" class="pagination-link" aria-label="Chapter 7 Project Appraisal under Risk">
+        <span class="nav-page-text"><span class="chapter-title">Chapter 7 Project Appraisal under Risk</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -6,14 +6,14 @@ numbered: false
 
 # 欢迎阅读 ACCA F9（财务管理）讲义 {.unnumbered}
 
-本书为 ACCA 财务管理（Financial Management, FM）科目的学习讲义，系统覆盖考试大纲所有知识点。
+本书为 ACCA 财务管理（Financial Management）科目的学习讲义，系统覆盖考试大纲所有知识点。
 
 ## 内容概览 {.unnumbered}
 
 - **Part A** — 财务管理职能
 - **Part B** — 财务管理环境
-- **Part C** — 营运资金管理
-- **Part D** — 投资评估
+- **Part C** — 营运资本管理
+- **Part D** — 投资评价
 - **Part E** — 企业融资
 - **Part F** — 企业估值
 - **Part G** — 风险管理
