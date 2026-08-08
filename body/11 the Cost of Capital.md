@@ -559,7 +559,11 @@ When evaluating a project, the WACC is a more appropriate discount rate than the
 
 The existing WACC can be used as a discount rate if the project has the same risk as the company's existing activities. However, if the project has a different risk, the existing WACC will not be appropriate. In this case, a tailor-made discount rate for that project must be determined using the CAPM.
 
-![Past paper example: BURSE,2008 JUNE](media/Notes_E/media/image9.png){width="5.768055555555556in" height="2.3652777777777776in"}
+::: {.callout-tip}
+**Past paper example: BURSE, 2008 JUNE**
 
-![](media/Notes_E/media/image10.png){width="5.768055555555556in" height="1.7729166666666667in"}
+![](media/Notes_E/media/image9.png){width="5.768055555555556in"}
+
+![](media/Notes_E/media/image10.png){width="5.768055555555556in"}
+:::
 

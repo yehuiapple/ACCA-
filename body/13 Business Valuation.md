@@ -685,25 +685,29 @@ K~P~ is the required return of investors.
 
 Market interest rates and the market value of bonds have an inverse relationship. This is because the market value of a loan note equals the present value of the fixed future payments it will make to the investor. If market interest rates (i.e. discount rates) fall, the present value of a loan note's future cash flows will rise, and with it, the loan note's market price.
 
-![Past example: Bluebell Co (March/June 2019)](media/Notes_F/media/image7.png){width="5.768055555555556in" height="4.615972222222222in"}
+::: {.callout-tip}
+**Past example: Bluebell Co (March/June 2019)**
 
-![](media/Notes_F/media/image8.png){width="5.768055555555556in" height="4.077083333333333in"}
+![](media/Notes_F/media/image7.png){width="5.768055555555556in"}
 
-\(1\) ![](media/Notes_F/media/image9.png){width="5.768055555555556in" height="1.1805555555555556in"}
+![](media/Notes_F/media/image8.png){width="5.768055555555556in"}
+
+\(1\) ![](media/Notes_F/media/image9.png){width="5.768055555555556in"}
 
 \(2\)
 
-![](media/Notes_F/media/image10.png){width="5.768055555555556in" height="1.163888888888889in"}
+![](media/Notes_F/media/image10.png){width="5.768055555555556in"}
 
 \(3\)
 
-![](media/Notes_F/media/image11.png){width="5.768055555555556in" height="1.3708333333333333in"}
+![](media/Notes_F/media/image11.png){width="5.768055555555556in"}
 
 \(4\)
 
-![](media/Notes_F/media/image12.png){width="5.768055555555556in" height="1.61875in"}
+![](media/Notes_F/media/image12.png){width="5.768055555555556in"}
 
 \(5\)
 
-![](media/Notes_F/media/image13.png){width="5.768055555555556in" height="1.7048611111111112in"}
+![](media/Notes_F/media/image13.png){width="5.768055555555556in"}
+:::
 

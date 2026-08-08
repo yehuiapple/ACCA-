@@ -366,12 +366,16 @@ Example 4
 
 Asset beta and Business risk will be understated. The difference between an asset beta and an equity beta reflects the impact of financial risk, the difference will be higer if debt beta is assumed to be zero.
 
-![Example 5- Mar/Jun 2021 Zeddemore](media/Answers_E/media/image8.png){width="6.20751968503937in" height="3.7083683289588802in"}
+::: {.callout-tip}
+**Example 5- Mar/Jun 2021 Zeddemore**
 
-![](media/Answers_E/media/image9.png){width="6.494755030621173in" height="0.8710761154855643in"}
+![](media/Answers_E/media/image8.png){width="6.20752in"}
 
-![](media/Answers_E/media/image10.png){width="6.532456255468066in" height="2.8871478565179354in"}
+![](media/Answers_E/media/image9.png){width="6.49476in"}
 
-![](media/Answers_E/media/image11.png){width="6.6898939195100615in" height="0.8545603674540683in"}
+![](media/Answers_E/media/image10.png){width="6.53246in"}
 
-![](media/Answers_E/media/image12.png){width="6.479926727909011in" height="3.0152799650043747in"}
+![](media/Answers_E/media/image11.png){width="6.68989in"}
+
+![](media/Answers_E/media/image12.png){width="6.47993in"}
+:::
