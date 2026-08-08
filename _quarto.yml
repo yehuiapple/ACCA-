@@ -13,7 +13,7 @@ book:
   sidebar:    # 侧边栏配置
     title: "ACCA F9（财务管理）"
     logo: images/book-logo.png
-    logo-href: https://yehuiapple.github.io/quarto_book/
+    logo-href: https://yehuiapple.github.io/ACCA-F9/
     style: floating
     search: true
     tools:
@@ -21,7 +21,7 @@ book:
         href: https://github.com/yehuiapple/quarto_book
 
   favicon: images/book-logo.png   # URL logo
-  site-url: https://yehuiapple.github.io/quarto_book/ # 主页地址, 否则点击右上角链接会乱码
+  site-url: https://yehuiapple.github.io/ACCA-F9/ # 主页地址, 否则点击右上角链接会乱码
   editor: source    # 始终采用源代码模式编辑
 
 #----------------------- Chapters ---------------
