@@ -86,8 +86,8 @@ format:
     toc: true            # 启用页面内目录
     toc-depth: 3         # 显示 Chapter → H3 节标题（不显示 1.1 子节）
     theme: cosmo         # 可选：cosmo, flatly, litera, litera, yeti 等  主题模版
-    linestretch: 1.7          # 行间距
-    fontsize: 13pt            # 字号
+    linestretch: 1.6          # 行间距
+    fontsize: 11.5pt          # 字号
     number-sections: false    # 关闭自动编号（章节已有自定义编号）
     link-external-newwindow: true
     highlight: true            # 代码高亮
