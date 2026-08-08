@@ -52,19 +52,13 @@ Potential internal finance available = operating cash flow − interest -- tax
 
 Operating cash flows are calculated as follows:
 
-
-
-  Operating profit before depreciation and amortization          x
-
-
-
-  Rise/fall in inventory                                         (x)/x
-
-  Rise/fall in receivables                                       (x)/x
-
-  Rise/fall in payables                                          (x)/x
-
-**Operating cash flow**                                            (x)/x
+|                                                         |       |
+|---------------------------------------------------------|-------|
+| Operating profit before depreciation and amortization   | x     |
+| Rise/fall in inventory                                  | (x)/x |
+| Rise/fall in receivables                                | (x)/x |
+| Rise/fall in payables                                   | (x)/x |
+| **Operating cash flow**                                 | (x)/x |
 
 Improved working capital management can help to release more internal equity finance. Potential areas for improvement include:
 
@@ -235,23 +229,14 @@ A high-growth company may find that, in the early years, all surplus cash can be
 **Example 2**
 
 > S company is a listed company on the stock market and 40% of shares are in the hands of public investors. The company's profit growth and dividend policy are set out below. Will a continuation of the same dividend policy as in the past be suitable now?
-
-
-
-
+>
+> |                    | 4       | 3       | 2         | 1         | Current year   |
+> |--------------------|---------|---------|-----------|-----------|----------------|
+> | Profits (\$'000)   | 176     | 200     | 240       | 290       | 444            |
+> | Dividends (\$'000) | 88      | 104     | 120       | 150       | 222 (proposed) |
+> | **Shares in issue**| 800,000 | 800,000 | 1,000,000 | 1,000,000 | 1,500,000      |
+>
 :::
-
-  Year                 4         3         2           1           Current year
-
-
-
-  Profits (\$'000)     176       200       240         290         444
-
-  Dividends (\$'000)   88        104       120         150         222 (proposed)
-
-
-
-**Shares in issue**      800,000   800,000   1,000,000   1,000,000   1,500,000
 
 
 

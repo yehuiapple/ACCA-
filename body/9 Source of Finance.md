@@ -313,13 +313,11 @@ Disadvantages of listing:
 **Ways of Become Listed**
 
 - Initial public offer
-- introduction
+- Introduction
 
--stock market grants a quotation, given that shares must already be wildly held, so that a market can be seen to exist.
-
--No shares are made available to the market, so no new finance is raised.
-
--Useful to gain greater marketability of shares, or further easier access to additional capital.
+  - Stock market grants a quotation, given that shares must already be wildly held, so that a market can be seen to exist.
+  - No shares are made available to the market, so no new finance is raised.
+  - Useful to gain greater marketability of shares, or further easier access to additional capital.
 
 **Stock Exchanges for Different Sorts of Listing**
 
@@ -373,6 +371,7 @@ In theory, shareholders can take up or dispose of their rights, shareholder weal
 
 
 
+::: {.callout-tip}
 **Example 1**
 
 > Gopher has issued 3,000,000 ordinary shares of \$1 each, which are at present selling for \$4 per share. The company plans to issue rights to purchase 1 new equity share at a price of \$3.2 per share for every 3 shares held.
@@ -413,6 +412,7 @@ What is the theoretical ex rights price (TERP) per share and the rights issue pr
 TERP = \$( )
 
 Rights issue price \$( )
+:::
 
 > Summary: Public Offer, Placing and Right Issue Compared
 
@@ -733,5 +733,4 @@ That involves Islamic bonds where the sukuk holder's return for providing financ
 **Hibah (gift)**: this is where Islamic banks voluntarily pay their customers a \"gift\" on savings account balances. This gift represents a portion of the profit made using those balances in other activities.
 
 **Qard hassan (good loan/benevolent loan)**: this involves a loan extended on a goodwill basis, and the debtor is only required to repay the amount borrowed. However, the debtor may, at their discretion, pay an extra amount to the creditor.
-:::
 

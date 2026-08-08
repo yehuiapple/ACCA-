@@ -54,9 +54,7 @@ Even if a company has matched its assets and liabilities with a variable rate of
 
 This is an example of basis risk.
 
-
-
-
+::: {.callout-tip}
 **Example 1**
 
 > Which of the following is a description of gap exposure?
@@ -68,12 +66,6 @@ This is an example of basis risk.
 > C The difference between spot interest rates and futures interest rates
 >
 > D The difference between fixed and floating interest rates
-
-
-
-
-
-
 :::
 
 ### 2 Causes of Interest Rate Fluctuations
@@ -180,25 +172,13 @@ Steps of FRA：
 - If the actual interest rate is higher than the rate in the FRA, the FRA bank **pays the company the difference**.
 - If the actual interest rate is lower than the FRA rate, the company **pays the** FRA **bank** the difference.
 
-
-
-
 ::: {.callout-tip}
 **Example 2**
 
 > It is now 1 January. Enfield need a￡10m bank loan for 6 month fixed rate loan from 1 April. Enfield wants to hedge its exposure to the risk of interest rise before April using an FRA. A 3-9 FRA at 6% is agreed.
 >
 > Calculate the interest payable if in three months' time the market rate is: 9% or 5%.
-
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 3**
@@ -214,12 +194,6 @@ Steps of FRA：
 > C A receives \$40,000 from the bank
 >
 > D A receives \$20,000 from the bank
-
-
-
-
-
-
 :::
 
 ##### 2. Interest Rate Futures
@@ -269,9 +243,6 @@ Interest rate options allow businesses to protect themselves against adverse int
 
 This is a cheaper hedge than just using a cap or a floor.
 
-
-
-
 ::: {.callout-tip}
 **Example 4**
 
@@ -290,16 +261,7 @@ This is a cheaper hedge than just using a cap or a floor.
 > C 2 and 3 only
 >
 > D 1, 2 and 3
-
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 5**
@@ -308,7 +270,6 @@ Indicate, by clicking on the relevant boxes, whether the following statements ab
 
 ![](media/Notes_G/media/image12.png){width="5.390573053368329in" height="2.0103073053368328in"}
 :::
-
 
 ##### 4. Interest Rate Swaps
 
@@ -329,9 +290,6 @@ Lecture Example
 
 > A company has a \$200m floating loan and the treasurer believes that the interest rates are likely to rise over the next five years. He could enter into a five-year swap with a counter-party to swap into a fixed rate of interest for the next five years. From year six onwards, the company will once again pay a floating rate of interest.
 
-
-
-
 ::: {.callout-tip}
 **Example 6**
 
@@ -344,16 +302,7 @@ Lecture Example
 > \[ \] forward rate agreement
 >
 > \[ \] swap
-
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 7**
@@ -369,16 +318,7 @@ Lecture Example
 > C Herd Co can hedge its interest rate risk by buying interest rate futures now in order to sell them at a future date
 >
 > D Taking out a variable rate overdraft will allow Herd Co to hedge the interest rate risk through matching
-
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 8-Wren Co (Sep/Dec 2022)**
@@ -411,7 +351,7 @@ C The lead payment costs \$46,392 more than the FEC
 
 D The lead payment costs \$28,608 more than the FEC
 
-(2) if Wren Co takes out the relevant FRA and borrows at a base rate of 10.5% per year, in three months' time, what is the company's net cost of borrowing?
+(3) if Wren Co takes out the relevant FRA and borrows at a base rate of 10.5% per year, in three months' time, what is the company's net cost of borrowing?
 
 A S20,000
 
@@ -453,4 +393,3 @@ D Neither 1 nor 2
 
 - [Foreign currency risk and its management](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/forex.html)
 - [Hedging techniques for interest rate risk](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/hedging.html)
-

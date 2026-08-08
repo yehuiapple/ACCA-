@@ -41,9 +41,10 @@ d\) Explain the relevance of pecking order theory to the selection of sources of
 
 **Financial risk** is the additional variability in shareholder returns due to introducing fixed-interest debt in the capital structure. As a committed fixed cost, interest on debt creates more volatile "bottom-line" profits for shareholders.
 
-![
 ::: {.callout-tip}
-Lecture example 1](media/Notes_E/media/image12.png){width="5.001221566054244in" height="1.8846041119860018in"}
+**Lecture example 1**
+
+![](media/Notes_E/media/image12.png){width="5.001221566054244in" height="1.8846041119860018in"}
 
 The more highly geared a company is, the more fixed interest it has to pay regardless of profits; therefore, the greater the risk that there will be little or nothing available to distribute as a dividend to shareholders. High financial gearing makes a company more vulnerable to poor trading conditions.
 :::
@@ -67,23 +68,12 @@ Debt (prior charge capital) includes:
 
 Gearing can be calculated either based on **book Value** or on **market value**.
 
-Book value
-
-- Bonds: Face value (usually 100) ×number of bonds
-
-
-- Bank loan:
-- Preference share: face value× number of preference shares
-
-
-- Equity: Share capital + share premium + reserve
-
-Market value:
-
-- Bonds: market price of bond × number of bonds
-- Bank loan: MV=BV
-- Preference share: share price× number of preference share
-- Equity: Share price\* number of ordinary shares
+| Component | Book Value | Market Value |
+|---|---|---|
+| Bonds | Face value (usually 100) × number of bonds | Market price of bond × number of bonds |
+| Bank loan | -- | MV = BV |
+| Preference share | Face value × number of preference shares | Share price × number of preference shares |
+| Equity | Share capital + share premium + reserve | Share price × number of ordinary shares |
 
 (2) **Interest coverage ratio**
 
@@ -95,9 +85,10 @@ Debt ratio=total debt/ total assets
 
 A higher debt ratio means higher financial risk. As a general rule, 50% might be seen as a safety limit to the debt.
 
-![
 ::: {.callout-tip}
-Lecture example 2a](media/Notes_E/media/image13.png){width="5.580919728783902in" height="3.937007874015748in"}
+**Lecture example 2a**
+
+![Lecture example 2a](media/Notes_E/media/image13.png){width="5.580919728783902in" height="3.937007874015748in"}
 
 ![](media/Notes_E/media/image14.png){width="5.604646762904637in" height="3.543307086614173in"}
 :::
@@ -113,11 +104,8 @@ A new issue of 50 million equity shares at an issue price of \$1.50 is being con
 Assume that operating profit (profit before interest and tax) remains constant. If the equity issue goes ahead and the bank loan is redeemed, what will be the new earnings per share figure?
 
 A \$0.399
-
 B \$0.367
-
 C \$0.598
-
 D \$0.388
 :::
 
@@ -162,22 +150,17 @@ a high operational gearing indicates higher business risk.
 **Lecture example 3: Heskey and Owen**
 
 > Two companies are concerned about their potential profitability in the forthcoming year and wish to forecast their profitability given that volumes change by [+]{.underline}50%
->
-> Company Heskey Owen
->
-> \$m \$m
->
-> Sales 12.0 12.0
->
-> Variable Cost 1.0 9.0
->
-> Fixed Cost 9.0 1.0
->
-> Profit before interest and tax 2.0 2.0
->
+
+|  | Heskey (\$m) | Owen (\$m) |
+|---|---|---|
+| Sales | 12.0 | 12.0 |
+| Variable Cost | 1.0 | 9.0 |
+| Fixed Cost | 9.0 | 1.0 |
+| Profit before interest and tax | 2.0 | 2.0 |
+
 > Required:
 >
-> 1)Prepare an analysis of profit at all three suggested levels of activity
+> 1) Prepare an analysis of profit at all three suggested levels of activity
 >
 > which company is riskier?
 >
@@ -238,7 +221,7 @@ MM's assumptions include the following:
 
 **Propositions of MM theory**:
 
-- k~e~ would increase at a constant rate as gearing increase due to the perceived increased financial risk. k~d~ would remain constant (at R~f~) whatever the gearing level. The rising k~e~ would offset the benefit of cheaper debt so the WACC remains constant.
+- k~e~ would increase at a constant rate as gearing increase due to the perceived increased financial risk. k~d~ would remain constant (at R~f~) whatever the gearing level. The rising k~e~ would offset the benefit of cheaper debt so the WACC remains constant.
 
 
 - The market value will also remain constant at all levels of gearing.
@@ -249,9 +232,9 @@ This can be illustrated as follows:
 
 **Conclusions:**
 
-- Only investment decisions affect the value of the company.
+- Only investment decisions affect the value of the company.
 - The value of the company is independent of the financing decision (i.e. capital structure is irrelevant).
-- There is no optimal gearing level.
+- There is no optimal gearing level.
 
 Of course, this is not true in practice because the assumptions are too simplistic.
 
@@ -263,7 +246,7 @@ In 1963, M&M allowed for corporation tax, their conclusions regarding capital st
 
 In the with-tax theory:
 
-When gearing increase, k~e~ rises (as before) due to perceived financial risk; cost of debt is constant but falls significantly from K~d~ to K~d~(1-t). As debt became even cheaper due to tax shield on interest payments, thus, the decrease in the WACC is now greater than the increase in the WACC, so, WACC must fall and the company's value must rise.
+When gearing increase, k~e~ rises (as before) due to perceived financial risk; cost of debt is constant but falls significantly from K~d~ to K~d~(1-t). As debt became even cheaper due to tax shield on interest payments, thus, the decrease in the WACC is now greater than the increase in the WACC, so, WACC must fall and the company's value must rise.
 
 The relationships are shown as:
 
@@ -271,7 +254,7 @@ The relationships are shown as:
 
 **Conclusions**
 
-MM's theory with tax implies that there is an optimal gearing level and that this is to maximize debt in the capital structure to generate maximum value for shareholders. This is **not true** in practice (because companies' capital structures are not geared as much as possible). M&M failed to take account of factors like bankruptcy costs, agency costs and tax exhaustion, which discourage companies from totally debt finance.
+MM's theory with tax implies that there is an optimal gearing level and that this is to maximize debt in the capital structure to generate maximum value for shareholders. This is **not true** in practice (because companies' capital structures are not geared as much as possible). M&M failed to take account of factors like bankruptcy costs, agency costs and tax exhaustion, which discourage companies from totally debt finance.
 
 - **Bankruptcy Costs** -- very high levels of debt will cause a significant possibility of default on its interest payments and hence bankruptcy. As the high possibility of bankruptcy risk, the cost of debt and cost of equity will increase to compensate for shareholders and debt-holders' additional risk, WACC will increase and the share price reduces.
 - **Agency cost** -- As gearing increases, debt-holders would want to impose more constraints on the management to safeguard their increased investment. Extensive covenants reduce the company's operating freedom, investment flexibility (positive NPV projects may have to be forgone) and may lead to a reduction in share price.
@@ -281,7 +264,10 @@ MM's theory with tax implies that there is an optimal gearing level and that t
 
 According to pecking order theory, a company should simply follow an established pecking order to raise finance simply and efficiently.
 
-1. Use retained earnings available\^\[2\]\^2. Then issue debt\^\[2\]\^3. Then issue equity, as a last resort.\^\[2\]\^
+1. Use retained earnings available\^\[2\]\^
+2. Then issue debt\^\[2\]\^
+3. Then issue equity, as a last resort\^\[2\]\^
+
 **Reasons for Following Pecking Order**
 
 \(1\) The first reason for this theory is to minimize issue costs:
@@ -320,7 +306,7 @@ The following practical factors should be considered:
 
 - The project's business risk. It is not advisable to finance high-risk projects with debt, as interest payment is a legally binding commitment.
 - The existing level of financial gearing.
-- The existing level of operational gearing (i.e. the proportion of fixed to variable operating costs). If already high, the company may prefer to avoid more debt as this increases fixed costs even further.
+- The existing level of operational gearing (i.e. the proportion of fixed to variable operating costs). If already high, the company may prefer to avoid more debt as this increases fixed costs even further.
 - The type and quality of assets that the company can offer as security.
 - Tax exhaustion (i.e. not enough profit to fully utilize the interest tax shield).
 - Issue costs associated with new debt or equity finance.
@@ -329,12 +315,12 @@ The following practical factors should be considered:
 
 ### 4 Project Specific Cost of Capital
 
-The existing WACC can be used as the discount rate only if the project has the same risk with the company. However, when:
+The existing WACC can be used as the discount rate only if the project has the same risk with the company. However, when:
 
-- The business risk of the project differs from the business risk of investing company (i.e. it does not change its business or industry); and
-- the financial risk of the project differs from the financial risk of the investing company (i.e. it does not change its gearing).
+- The business risk of the project differs from the business risk of investing company (i.e. it does not change its business or industry); and
+- the financial risk of the project differs from the financial risk of the investing company (i.e. it does not change its gearing).
 
-it is **not appropriate** to use existing cost of capital as the discount rate for the investment project. instead, the CAPM can be used to calculate a **project-specific** discount rate that reflects the business risk of the new project.
+it is **not appropriate** to use existing cost of capital as the discount rate for the investment project. instead, the CAPM can be used to calculate a **project-specific** discount rate that reflects the business risk of the new project.
 
 #### 4.1 Equity Beta and Asset Beta
 
@@ -346,8 +332,8 @@ Suppose company A is ungeared. As it has no debt, it has no financial risk, and 
 
 Suppose another company B is identical to A except that its capital structure includes debt. The financial risk will be added to business risk and this will increase the systematic risk investors face. The beta factor for company B's shares is called the equity beta (also called the geared beta) which increases as gearing increases.
 
-- In the all-equity financed company (**ungeared** company)**:** βa = βe.
-- in the **geared** company: βe \> βa.
+- In the all-equity financed company (**ungeared** company)**:** βa = βe.
+- in the **geared** company: βe \> βa.
 
 The mathematical relationship between ungeared and geared beta is as follows.
 
@@ -405,12 +391,14 @@ E(r~i~)=R~f~+$\mathbf{\beta}_{\mathbf{e}}$ (R~m~ -R~f~)
 
 Are the following statements true or false?
 
-1. The asset beta reflects both business risk and financial risk\^\[2\]\^2. Total risk is the sum of systematic risk and unsystematic risk\^\[2\]\^3. Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beta\^\[1\]\^
-![
-
+1. The asset beta reflects both business risk and financial risk\^\[2\]\^
+2. Total risk is the sum of systematic risk and unsystematic risk\^\[2\]\^
+3. Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beta\^\[1\]\^
 
 ::: {.callout-tip}
-Lecture example 5-Mar/Jun 2021 Zeddemore](media/Notes_E/media/image19.png){width="6.141773840769904in" height="3.6535640857392826in"}
+**Lecture example 5 -- Mar/Jun 2021 Zeddemore**
+
+![](media/Notes_E/media/image19.png){width="6.141773840769904in" height="3.6535640857392826in"}
 
 ![](media/Notes_E/media/image20.png){width="6.131422790901137in" height="2.3356397637795276in"}
 
@@ -420,4 +408,3 @@ Lecture example 5-Mar/Jun 2021 Zeddemore](media/Notes_E/media/image19.png){width
 
 ![](media/Notes_E/media/image23.png){width="6.212270341207349in" height="0.5639359142607174in"}
 :::
-

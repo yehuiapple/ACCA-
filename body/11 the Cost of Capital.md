@@ -136,14 +136,11 @@ cum-div Price = ex-div share price + dividend
 > A company's current dividend cover ratio is 4 times and after-tax profits are \$20m. The company has one million \$1 ordinary shares in issue and the current market capitalization of the company is \$50m.
 >
 > What is the cost of equity capital if?
-
+>
+> - expects zero growth in dividends
+> - expects a growth rate of 4% in dividends in future?
 
 :::
-
-- > expects zero growth in dividends
-  >
-- > expects a growth rate of 4% in dividends in future?
-  >
 
 
 
@@ -182,15 +179,13 @@ r~e~=$\frac{profit\ (for\ the\ year)}{shareholders'fund} = \frac{profit\ (for\ t
 
 Cg company has 4 million shares in issue, and has done for many years. Its dividend payments in the years 2009 to 2013 were as follows.
 
-
-  End of year                   Dividends (\$000)
-...
-
-  2009                          220\^\[2\]\^
-  2010                          257\^\[2\]\^
-  2011                          310\^\[2\]\^
-  2012                          356\^\[2\]\^
-2013                          423\^\[2\]\^---------------------------------
+| End of year | Dividends (\$000) |
+|---|---|
+| 2009 | 220 |
+| 2010 | 257 |
+| 2011 | 310 |
+| 2012 | 356 |
+| 2013 | 423 |
 
 dividends are expected to continue to growth at the same average rate into the future. The current ex-div share price of the company at year 2013 is \$1.73.
 
@@ -204,9 +199,6 @@ what is cost of equity for Cg company?
 > IPA company is about to pay a \$0.50 dividend on each ordinary share. Its EPS was \$1.5. Net assets per share is \$6. Current share price is \$4.50 per share.
 >
 > What is the cost of equity?
-
-
-
 
 :::
 
@@ -325,9 +317,6 @@ E(r~m~-R~f~) is called the equity/market risk *premium* (i.e. the extra return
 >
 > What will be the expected rate of return from ordinary shares in B, which have a beta of 1.8?
 
-
-
-
 :::
 
 **Assumptions of CAPM**
@@ -410,13 +399,6 @@ K~dat~ = I × (1- tax rate) / P~0~
 >
 > What is the cost of bonds?
 
-
-
-
-
-
-
-
 :::
 
 
@@ -424,11 +406,6 @@ K~dat~ = I × (1- tax rate) / P~0~
 **Example 6**
 
 > Henry has 12% irredeemable bonds in issue with a nominal value of \$100. The market price is \$95 ex-interest. Assuming the tax rate is 30%. Calculated the cost of capital if interest is paid half-yearly.
-
-
-
-
-
 
 :::
 
@@ -438,17 +415,12 @@ For redeemable debt, the cost of any source of funds is the IRR of the cash flow
 
 Finding the IRR of the following cash flows:
 
-
-  Year   cash flow \$                   DF(a%)     PV \$    DF(b%)     PV \$
-...
-
-  0      Ex-interest MV      \(x\)      1                   1
-
-  1-n    Post-tax Interest   x
-
-  n      Redemption value    x
-
-NPV~a~              NPV~b~
+| Year | Cash flow \$ | DF(a%) | PV \$ | DF(b%) | PV \$ |
+|---|---|---|---|---|---|
+| 0 | Ex-interest MV | \(x\) | 1 | | 1 | |
+| 1-n | Post-tax Interest | x | | | | |
+| n | Redemption value | x | | | | |
+| | | | NPV~a~ | | NPV~b~ |
 
 
 
@@ -459,7 +431,6 @@ NPV~a~              NPV~b~
 > L co. has issued bonds 10% bonds of a nominal value of \$100. The current market price of the bonds is \$90 ex-interest. Assuming the tax rate is 30%.
 >
 > What is the cost of the bonds if it is redeemable at par after ten years?
-
 
 :::
 
@@ -482,19 +453,12 @@ Conversion value = conversion ratio \* market price
 
 - Find the IRR of the after-tax cash flows:
 
-
-
-  Year   cash flow \$                                      DF(a%)    PV \$    DF(b%)       PV \$
-
-
-
-  0      (ex-interest MV)                                  1                  1
-
-  1-n    Post-tax Interest
-
-  n      Higher of redemption value and conversion value
-
-  NPV~a~                NPV~b~
+| Year | Cash flow \$ | DF(a%) | PV \$ | DF(b%) | PV \$ |
+|---|---|---|---|---|---|
+| 0 | (ex-interest MV) | 1 | | 1 | |
+| 1-n | Post-tax Interest | | | | |
+| n | Higher of redemption value and conversion value | | | | |
+| | | | NPV~a~ | | NPV~b~ |
 
 K~dat~=
 
@@ -507,11 +471,6 @@ K~dat~=
 > A co. has issued 8% convertible bonds which are due to be redeemed in five years' time. They are currently quoted at \$82 per \$100 nominal. The bonds can be converted into 25 shares in five years' time. The share price is currently \$3.5 and is expected to grow at a rate of 3% per year. Assume a 30% rate of tax.
 >
 > What is the cost of the convertible bonds?
-
-
-
-
-
 
 :::
 
@@ -536,11 +495,6 @@ Preference dividends are typically quoted as a percentage (e.g. 10% preference s
 > An 8％ irredeemable \$0.50 preference share is being traded for \$0.30 cum-dividend in a company that pays corporation tax at a rate of 30%.
 >
 > What is the cost of preference shares?
-
-
-
-
-
 
 :::
 
@@ -577,18 +531,12 @@ MV of preference share = No. of preference share × Share price
 
 IDO company has a capital structure as follows.
 
-
-    \$m
-
-
-  \$0.50 ordinary shares                                       5
-
-  reserves                                                     20
-
-  13% irredeemable loan notes                                  7
-
-32
---
+| | \$m |
+|---|---|
+| \$0.50 ordinary shares | 5 |
+| reserves | 20 |
+| 13% irredeemable loan notes | 7 |
+| **Total** | **32** |
 
 The ordinary shares are currently quoted at \$3, and the loan notes at \$90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.
 

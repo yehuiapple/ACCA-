@@ -16,7 +16,7 @@ Quarto 是一个开源的文档编译工具，支持多种格式的文档（如 
 - 编译书稿：参见 [创建流程](https://lianxhcn.github.io/quarto_book/body/01_intro.html)。
 - 发布书稿：参见 [使用 GitHub Pages 发布](https://lianxhcn.github.io/quarto_book/body/04_github_page.html)。
 
-最终发布的主页：
+最终发布的主页：https://github.com/yehuiapple/ACCA-F9
 
 ## 下载本仓库
 

@@ -61,7 +61,6 @@ The smaller the percentage, the more sensitive the NPV is to that project variab
 
 
 
-
 **Example 1**
 
 > An investment of \$40,000 in year 0 is expected to give rise to annual contribution of \$25,000 and annual fixed cost of \$10,000 for each of years 1 to 4; the discount rate is 10%.
@@ -85,11 +84,6 @@ The smaller the percentage, the more sensitive the NPV is to that project variab
 > -the sales volume
 >
 > -the selling prices
-
-
-:::
-
-[]{.mark}
 
 
 
@@ -121,16 +115,14 @@ The discounted payback period is the length of time it takes the discounted net 
 
 Discounted payback resolves one of the limitations of payback method: it allows for the time value of money (the usefulness of payback as a measure of risk is limited as it gives equal weighting to cash flows irrespective of when they are received). It also considers more of the project's cash flows because the amounts are discounted. However, it does not overcome all the limitations of the payback method as it still ignores cash flows after the payback period.
 
-Lecture Example - limitation of payback
+**Lecture Example - limitation of payback**
 
 Two projects each require an investment of \$1,000,000 and have the following forecast cash flows (\$000):
 
-
-  Year                 0          1        2        3        4        5
-  -------------------- ---------- -------- -------- -------- -------- --------
-  Project A            (1,000)    600      200      200      205      150
-
-  Project B            (1,000)    100      300      600      205      150
+| Year       | 0      | 1   | 2   | 3   | 4   | 5   |
+|------------|--------|-----|-----|-----|-----|-----|
+| Project A  | (1,000)| 600 | 200 | 200 | 205 | 150 |
+| Project B  | (1,000)| 100 | 300 | 600 | 205 | 150 |
 
 Each project has a payback period of 3 years, and on this measure, would be ranked equally in terms of liquidity and risk.
 
@@ -138,48 +130,37 @@ However, project A produces strong cash flows in the early years, which may be l
 
 
 
-
 **Example 2 -continued**
 
-If the cost of capital of 10% is believed to reflect the risk attached to project A and B in
-:::
-
+If the cost of capital of 10% is believed to reflect the risk attached to project A and B in example 2. Calculate the discounted payback period of each project.
 
 ::: {.callout-tip}
-example 2. Calculate the discounted payback period of each project.
 
 Project A
 
-
-  Year                  0          1        2        3        4        5
-  --------------------- ---------- -------- -------- -------- -------- --------
-  Cash flow (\$)        (1,000)    600      200      200      205      150
-
-  Discount factor 10%                                                  
-
-  Present value                                                        
-
-  Cumulative CF                                                        
+| Year                | 0       | 1   | 2   | 3   | 4   | 5   |
+|---------------------|---------|-----|-----|-----|-----|-----|
+| Cash flow (\$)      | (1,000) | 600 | 200 | 200 | 205 | 150 |
+| Discount factor 10% |         |     |     |     |     |     |
+| Present value       |         |     |     |     |     |     |
+| Cumulative CF       |         |     |     |     |     |     |
 
 Discounted payback =
 
 Project B
 
-
-  Year                  0          1        2        3        4        5
-  --------------------- ---------- -------- -------- -------- -------- --------
-  Cash flow (\$)        (1,000)    100      300      600      205      150
-
-  Discount factor 10%                                                  
-
-  Present value                                                        
-
-  Cumulative CF                                                        
+| Year                | 0       | 1   | 2   | 3   | 4   | 5   |
+|---------------------|---------|-----|-----|-----|-----|-----|
+| Cash flow (\$)      | (1,000) | 100 | 300 | 600 | 205 | 150 |
+| Discount factor 10% |         |     |     |     |     |     |
+| Present value       |         |     |     |     |     |     |
+| Cumulative CF       |         |     |     |     |     |     |
 
 Discounted payback=
 
 The discounted payback period produces a longer payback period than non-discounted payback approach.
 
+:::
 
 ### 3 Risk Analysis Techniques 
 
@@ -209,51 +190,38 @@ A probability distribution of expected cash flows can also be used to measure ri
 
 
 
- {.callout-tip}
+::: {.callout-tip}
 **Example 3**
 
 > A company is considering a project of \$300,000 which it estimates will generate cash flows over its two-year life at the probabilities in the following table.
 >
 > Cash flows for the project (in \$000)
 >
-> Year 1 cash flow probability
->
-> 100 0.25
->
-> 200 0.50
->
-> 300 0.25
-
-
-:::
+> | Year 1 cash flow | probability |
+> |-----------------|-------------|
+> | 100             | 0.25        |
+> | 200             | 0.50        |
+> | 300             | 0.25        |
 
 Year 2
 
-+--------------------------+--------------------------+---------------+
-| Cash flow in year 1      | Cash flow in year 2      | probability   |
-+==========================+==========================+===============+
-| 100                      | 0                        | 0.25          |
-|                          +--------------------------+---------------+
-|                          | 100                      | 0.50          |
-|                          +--------------------------+---------------+
-|                          | 200                      | 0.25          |
-+--------------------------+--------------------------+---------------+
-| 200                      | 100                      | 0.25          |
-|                          +--------------------------+---------------+
-|                          | 200                      | 0.50          |
-|                          +--------------------------+---------------+
-|                          | 300                      | 0.25          |
-+--------------------------+--------------------------+---------------+
-| 300                      | 200                      | 0.25          |
-|                          +--------------------------+---------------+
-|                          | 300                      | 0.50          |
-|                          +--------------------------+---------------+
-|                          | 350                      | 0.25          |
-+--------------------------+--------------------------+---------------+
+| Cash flow in year 1 | Cash flow in year 2 | probability |
+|---------------------|---------------------|-------------|
+| 100                 | 0                   | 0.25        |
+| 100                 | 100                 | 0.50        |
+| 100                 | 200                 | 0.25        |
+| 200                 | 100                 | 0.25        |
+| 200                 | 200                 | 0.50        |
+| 200                 | 300                 | 0.25        |
+| 300                 | 200                 | 0.25        |
+| 300                 | 300                 | 0.50        |
+| 300                 | 350                 | 0.25        |
 
 The company's cost of capital is 10%.
 
 Calculate the expected value of the project's NPV and the probability that the NPV will be negative.
+
+:::
 
 
 
@@ -314,4 +282,3 @@ An example of simulation is the Monte Carlo simulation method. The output estima
 ##### 2. Risk Adjusted Discount Rate
 
 Using risk-adjusted discount rate for both NPV and adjust payback. A higher discount rate should be applied to higher-risk projects, reducing the influence of more distant cash flows.
-

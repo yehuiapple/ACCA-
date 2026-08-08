@@ -43,15 +43,14 @@ Step 3 - choose the replacement cycle with the lowest EAC.
 
 Equivalent annual cost - the annual cost of owning, operating and maintaining an asset over its entire life, can be calculated by the following formula:
 
-
-
-Equivalent annual cost (EAC) = Annual factor (r, n)
+$$EAC = \frac{PV\ of\ costs}{Annuity\ Factor(r,n)}$$
 
 Note: any revenues resulting from the use of the asset will be ignored since they will occur in any case, whatever the replacement cycles, and is therefore not a relevant cash flow.
 
-![
 ::: {.callout-tip}
-example 1: Cavic (Dec 06)](media/Notes_D/media/image12.png){width="5.916841644794401in" height="0.8601334208223972in"}
+**Example 1: Cavic (Dec 06)**
+
+![](media/Notes_D/media/image12.png){width="5.916841644794401in" height="0.8601334208223972in"}
 
 ![](media/Notes_D/media/image13.png){width="5.436228127734033in" height="1.6887543744531934in"}
 
@@ -77,20 +76,12 @@ NPV cannot be compared directly for projects with different life. The calculatio
 
 For mutually exclusive projects, the general rule is to choose the project with the highest NPV. However, if the same situation is faced repeatedly and the projects have different lives, the equivalent annual benefit (EAB) can be used.
 
-Equivalent Annual Benefit = NPV of project/ annuity factor
-
-
-
+$$EAB = \frac{NPV\ of\ project}{Annuity\ Factor}$$
 
 ::: {.callout-tip}
 **Example 2**
 
 > Project A with an NPV of \$3.75m and a duration of 6 years, project B with an NPV of \$4.45m and a duration of 7 years. The cost of capital is 12%. Which project should be chosen?
-
-
-
-
-
 
 :::
 
@@ -186,9 +177,10 @@ With this approach, there will usually be some surplus funds remained. Surplus f
 
 - Issuing new capital if soft capital rationing exists
 
-![
 ::: {.callout-tip}
-Example 3: Basril (Dec 03)](media/Notes_D/media/image16.png){width="5.632926509186352in" height="2.980693350831146in"}
+**Example 3: Basril (Dec 03)**
+
+![](media/Notes_D/media/image16.png){width="5.632926509186352in" height="2.980693350831146in"}
 
 ![](media/Notes_D/media/image17.png){width="5.710652887139108in" height="2.372425634295713in"}
 :::
@@ -256,8 +248,8 @@ If the company is not in a tax-paying position, the implication for lease or buy
 
 There would be no tax benefit from TAD, lease payments and no tax relief on debt. This means that the discount rate used to evaluate the financing options should be the pre-tax cost of debt.
 
-![
 ::: {.callout-tip}
-Example 4: Hawker Co (Sep/Dec 2021)](media/Notes_D/media/image18.png){width="5.768055555555556in" height="4.2125in"}
-:::
+**Example 4: Hawker Co (Sep/Dec 2021)**
 
+![](media/Notes_D/media/image18.png){width="5.768055555555556in" height="4.2125in"}
+:::

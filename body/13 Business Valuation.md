@@ -260,17 +260,14 @@ Step 4 using the DVM formula.
 > Information of company A: Dividend/share just paid = \$0.12, Historical dividend growth rate = 5%/year. This is expected to be maintained in the future.
 >
 > Information of a suitable listed company (same business and same gearing):
-
+>
+> - Share price = \$2.40
+> - Dividend just paid = \$0.22
+> - Historical dividend growth rate = 10%/year. This is expected to be maintained in the future.
+>
+> What is the share value of the unlisted company A?
 
 :::
-
-- > Share price = \$2.40,
-
-- > Dividend just paid = \$0.22,
-
-- > Historical dividend growth rate = 10%/year. This is expected to be maintained in the future.
-
-> What is the share value of the unlisted company A?
 
 
 
@@ -288,9 +285,10 @@ As an investor with control can change the dividend policy, so this method is su
 
 - Shareholder influence -- It has less relevance for valuing a majority shareholding.
 
-![
 ::: {.callout-tip}
-Example 4 (March 2016)](media/Notes_F/media/image4.png){width="4.84251968503937in" height="0.984251968503937in"}
+**Example 4 (March 2016)**
+
+![](media/Notes_F/media/image4.png){width="4.84251968503937in" height="0.984251968503937in"}
 
 ![](media/Notes_F/media/image5.png){width="4.55511811023622in" height="0.984251968503937in"}
 :::
@@ -336,9 +334,9 @@ Although it enables a more precise assessment of a company's worth, it still has
 D company wishes to make a bid for TED. TED makes after-tax profits of \$40,000 a year. D believes that if further money is spent on additional investments, the after-tax and interest cash flows could be as follows.
 
 
-  year        0           1          2          3          4          5
-  ----------- ----------- ---------- ---------- ---------- ---------- ----------
-  Cash flow   (100,000)   (80,000)   60,000     100,000    150,000    150,000
+| Year | 0 | 1 | 2 | 3 | 4 | 5 |
+|------|---|---|---|---|---|---|
+| Cash flow | (100,000) | (80,000) | 60,000 | 100,000 | 150,000 | 150,000 |
 
 
 
@@ -348,11 +346,10 @@ The cost of equity of TED is 15% and the company expects all its investments to 
 
 - \(2\) What is the maximum price that the company should be willing to pay for shares of TED if it decides to value the business on the basis of cash flows in perpetuity, and annual cash flows from year 6 onwards are expected to be \$120,000?
 
-![
-
-
 ::: {.callout-tip}
-Example 6](media/Notes_F/media/image6.png){width="4.866141732283465in" height="2.3622047244094486in"}
+**Example 6**
+
+![](media/Notes_F/media/image6.png){width="4.866141732283465in" height="2.3622047244094486in"}
 :::
 
 
@@ -656,11 +653,6 @@ Floor value = the value of convertible bonds assuming investors will redemption
 
 **Different Conversion/redemption Dates**
 
-
-
-
-
-
 ::: {.callout-tip}
 **Lecture example 13**
 
@@ -669,13 +661,11 @@ Floor value = the value of convertible bonds assuming investors will redemption
 > Required:
 >
 > Calculate the current MV of each bond, assuming the share price increases by:
-
+>
+> - 4% per year
+> - 6% per year
 
 :::
-
-- > 4% per year;
-
-- > 6% per year.
 
 
 

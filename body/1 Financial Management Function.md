@@ -330,7 +330,7 @@ $$
 Efficiency ratios measure how well a company utilizes its assets and manages its liabilities. Key efficiency ratios include:
 
 - **Receivable Collection Period** - the average number of days it takes to collect payment from customers.
-- **Payables Payment Period** -the average number of days it takes to pay suppliers.
+- **Payables Payment Period** - the average number of days it takes to pay suppliers.
 - **Inventory Holding Period** - the average number of days inventory is held before being sold.
 - **Cash Operating Cycle** - the total time between paying for inventory and receiving cash from customers.
 - **Sales / Net Working Capital** - measures how efficiently working capital is used to generate sales.

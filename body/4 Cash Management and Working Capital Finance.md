@@ -29,7 +29,7 @@ v\) management attitudes to risk, previous funding decisions and organisation si
 
 ### 1 Treasury Management {.pagebreak}
 
-Treasury management -- the efficient management of liquidity and risk in a business including the management of funds (generated from internal and external sources), currencies and cash flow.
+Treasury management&nbsp;-- the efficient management of liquidity and risk in a business including the management of funds (generated from internal and external sources), currencies and cash flow.
 
 As companies and financial markets have become larger, more sophisticated and increasingly international, there has been a trend towards establishing separate treasury departments where cash control is centralised to ensure efficient use.
 
@@ -100,66 +100,46 @@ A major task for the treasurer is cash flow forecasting. It will allow the busin
 
 (1) **Typical format**
 
-
-                                        January     February     March
-  ------------------------------------- ----------- ------------ ---------
-                                        \$          \$           \$
-
-**Cash Inflows**
-
-  Cash from Sales (W1)                  X           X            X
-
-  Non-current asset disposals           X           X            X
-
-  Share/debt issues                                 X            
-
-**Total Cash Inflows** **X** **X** **X**
-
-  Cash payments to supplier(W2)         \(X\)       \(X\)        \(X\)
-
-  Wages                                 \(X\)       \(X\)        \(X\)
-
-  Dividends                             \(X\)                    
-
-  Purchase of non-current assets                                 \(X\)
-
-  Interest/principal on debt            \(X\)       \(X\)        \(X\)
-
-**Total Cash Outflows** **(X)** **(X)** **(X)**
-
-  Net Cash flow                         X           X            \(X\)
-
-  Opening balance                       X           X            X
-
-  Closing balance                       X           X            \(X\)
+|                              | January | February | March |
+|------------------------------|---------|----------|-------|
+|                              | \$      | \$       | \$    |
+| **Cash Inflows**             |         |          |       |
+| Cash from Sales (W1)         | X       | X        | X     |
+| Non-current asset disposals  | X       | X        | X     |
+| Share/debt issues            |         | X        |       |
+| **Total Cash Inflows**       | **X**   | **X**    | **X** |
+| **Cash Outflows**            |         |          |       |
+| Cash payments to supplier(W2)| \(X\)   | \(X\)    | \(X\) |
+| Wages                        | \(X\)   | \(X\)    | \(X\) |
+| Dividends                    | \(X\)   |          |       |
+| Purchase of non-current assets|        |          | \(X\) |
+| Interest/principal on debt   | \(X\)   | \(X\)    | \(X\) |
+| **Total Cash Outflows**      | **(X)** | **(X)**  | **(X)** |
+|                              |         |          |       |
+| Net Cash flow                | X       | X        | \(X\) |
+| Opening balance              | X       | X        | X     |
+| Closing balance              | X       | X        | \(X\) |
 
 Workings
 
 W1: cash from sales
 
-
-                                             Jan      Feb       Mar
-  ------------------------------------------ -------- --------- ----------
-  Cash sales                                 X        X         X
-
-  Cash from receivables                      X        X         X
-
-  Cash sales for the month                   X        X         X
+|                        | Jan | Feb | Mar |
+|------------------------|-----|-----|-----|
+| Cash sales             | X   | X   | X   |
+| Cash from receivables  | X   | X   | X   |
+| Cash sales for the month| X  | X   | X   |
 
 W2: cash payments to suppliers
 
-
-                                                Jan     Feb      Mar
-  --------------------------------------------- ------- -------- ---------
-  cash purchase                                 X       X        X
-
-  cash payments of payables                     X       X        X
-
-  Cash payments for the month                   X       X        X
+|                             | Jan | Feb | Mar |
+|-----------------------------|-----|-----|-----|
+| cash purchase               | X   | X   | X   |
+| cash payments of payables   | X   | X   | X   |
+| Cash payments for the month | X   | X   | X   |
 
 
-
-
+::: {.callout-tip}
 **Example 1: Flit-(a) (Dec 2014)**
 
 > Flit Co is preparing a cash flow forecast for the three-month period from January to the end of March. The following sales volumes have been forecast:
@@ -188,38 +168,25 @@ W2: cash payments to suppliers
 >
 > (c)If Flit Co expects to have a short-term cash surplus during the three-month period, discuss whether this should be invested in shares listed on a large stock market. (3 marks)
 
-
 :::
 
 (2) **Analysis of cash flow Risk**
 
-Simulation models (e.g. Monte Carlo) can simulate future economic scenarios to estimate the *probability* that cash flows will be higher/lower than expected. Through generating probabilities, such models provide a better analysis of cash flow risk.
+Simulation models (e.g. Monte Carlo) can simulate future economic scenarios to estimate the&nbsp;*probability*&nbsp;that cash flows will be higher/lower than expected. Through generating probabilities, such models provide a better analysis of cash flow risk.
 
 
-
-
-
-
-
-
+::: {.callout-tip}
 **Example 2**
 
 Zombie Co is worried about exceeding its overdraft limit of \$5m.
 
 The company has used Monte Carlo analysis to produce the following forecasts of net cash flows for the next two periods and their associated probabilities.
 
-  ************************************************************************-
-  Period 1             Probability         Period 2         Probability
-  ----------------- ------------------ ----------------- ------------------
-  Cash flow                                Cash flow     
-
-  \$000                                      \$000       
-
-  6,000                    20%               8,000              35%
-
-  3,000                    50%               4,000              40%
-
-  (2,500)                  30%              (8,000)             25%
+| Period 1 Cash flow (\$000) | Probability (Period 1) | Period 2 Cash flow (\$000) | Probability (Period 2) |
+|---------------------------|------------------------|---------------------------|------------------------|
+| 6,000                     | 20%                    | 8,000                     | 35%                    |
+| 3,000                     | 50%                    | 4,000                     | 40%                    |
+| (2,500)                   | 30%                    | (8,000)                   | 25%                    |
 
 Zombie Co expects to be overdrawn at the start of period 1 by \$1.5m.
 
@@ -235,6 +202,7 @@ Required:
 
 (b)Comment on how this analysis can assist Zombie Co in managing its cash flows
 
+:::
 
 ##### 2. Investing/Borrowing Short-term
 
@@ -289,9 +257,7 @@ Drawbacks of the Baumol model
 
 - In reality, interest rates and transaction costs are not constant; interest rates, in particular, can change frequently.
 
-- The model assumes a constant use of cash financed by selling investments. This is unlikely in reality.
-
-
+- The model assumes a&nbsp;constant&nbsp;use of cash financed by selling investments. This is unlikely in reality.
 
 
 ::: {.callout-tip}
@@ -308,11 +274,6 @@ Drawbacks of the Baumol model
 > C \$54,772
 >
 > D \$63,246
-
-
-
-
-
 
 :::
 
@@ -346,9 +307,9 @@ Where: spread = upper limit-lower limit
 
 Transaction cost = the fixed cost of buying or selling marketable securities
 
-Variance = variance (i.e. standard deviation2) of the net daily cash flows
+Variance = variance (i.e. standard deviation2) of the net&nbsp;daily&nbsp;cash flows
 
-Interest rate = daily interest rate on marketable securities (i.e. daily opportunity cost of holding cash)
+Interest rate = daily&nbsp;interest rate on marketable securities (i.e. daily opportunity cost of holding cash)
 
 **Drawbacks of Miller-Orr Model**
 
@@ -359,29 +320,22 @@ Interest rate = daily interest rate on marketable securities (i.e. daily opport
 - The complexity of estimating future volatility of cash flows.
 
 
-
-
 ::: {.callout-tip}
 **example 4**
 
 > if a company sets its minimum cash balance at \$8,000 and estimate the following:
-
+>
+> - Transaction cost = \$50 per sale
+>
+> - Daily cash flow variance = \$4m; and
+>
+> - daily interest rate = 0.025%
+>
+> (a) Calculate the spread, the upper limit and the return point;
+>
+> (b) Interpret the result.
 
 :::
-
-- > Transaction cost = \$50 per sale
-
-- > Daily cash flow variance = \$4m; and
-
-- > daily interest rate = 0.025%
-
-(a) > Calculate the spread, the upper limit and the return point;
-
-(b) > Interpret the result.
-
-
-
-
 
 ### 3 Working Capital Financing
 
@@ -452,8 +406,6 @@ Working capital investment policy is concerned with the level of investment in c
 Both working capital investment policy and funding policy use the terms conservative, moderate and aggressive. In investment policy, the terms are used to indicate the comparative level of investment in current assets on an inter-company basis. In funding policy, the terms are used to indicate the way in which fluctuating current assets and permanent current assets are matched to short-term and long-term finance sources.
 
 
-
-
 ::: {.callout-tip}
 **example 5: Sep 2016, Q7**
 
@@ -466,13 +418,6 @@ Both working capital investment policy and funding policy use the terms conserva
 > C Interest rate risk will decrease
 >
 > D Overcapitalization risk will decrease
-
-
-
-
-
-
-
 
 :::
 
@@ -549,4 +494,3 @@ C Fluctuating current assets should be financed from a short-term source
 
 D A moderate or matching strategy finances current assets from a short-term source.
 :::
-

@@ -6,37 +6,37 @@
 
 **1. The economic environment for business**
 
-a\) Identify and explain the main macroeconomic policy targets.\[1\]
+a\) Identify and explain the main macroeconomic policy targets.^[1]^
 
-b\) Define and discuss the role of fiscal, monetary, interest rate and exchange rate policies in achieving macroeconomic policy targets.\[1\]
+b\) Define and discuss the role of fiscal, monetary, interest rate and exchange rate policies in achieving macroeconomic policy targets.^[1]^
 
-c\) Explain how government economic policy interacts with planning and decision-making in business.\[2\]
+c\) Explain how government economic policy interacts with planning and decision-making in business.^[2]^
 
-d\) Explain the need for, and the interaction with, planning and decision-making in business of:1
+d\) Explain the need for, and the interaction with, planning and decision-making in business.^[1]^
 
 **2. The Nature and Role of Financial Markets and Institutions**
 
-a) Identify the nature and role of money and capital markets, both nationally and internationally.^\[2\]^^\[2\]^
+a) Identify the nature and role of money and capital markets, both nationally and internationally.^[2]^
 
-b) Explain the role of financial intermediaries.^\[1\]^^\[1\]^
+b) Explain the role of financial intermediaries.^[1]^
 
-c) Explain the functions of a stock market and a corporate bond market.^\[2\]^^\[2\]^
+c) Explain the functions of a stock market and a corporate bond market.^[2]^
 
-d) Explain the nature and features of different securities in relation to the risk/return trade-off.^\[2\]^^\[2\]^
+d) Explain the nature and features of different securities in relation to the risk/return trade-off.^[2]^
 
-e) Explain the impact of Fintech in changing the nature and role of financial markets and institutions.^\[1\]^^\[1\]^
+e) Explain the impact of Fintech in changing the nature and role of financial markets and institutions.^[1]^
 
 **3. The Nature and Role of Money Markets**
 
-a) Describe the role of the money markets in:^\[1\]^^\[1\]^
+a) Describe the role of the money markets in:^[1]^
 
 1. providing short-term liquidity to the private sector and the public sector
 2. providing short-term trade finance
 3. allowing an organization to manage its exposure to foreign currency risk and interest rate risk
 
-b) Explain the role of banks and other financial institutions in the operation of the money markets.^\[2\]^^\[2\]^
+b) Explain the role of banks and other financial institutions in the operation of the money markets.^[2]^
 
-c) Explain and apply the characteristics and role of the principal money market instruments:^\[2\]^^\[2\]^
+c) Explain and apply the characteristics and role of the principal money market instruments:^[2]^
 
 1. interest-bearing instruments
 2. discount instruments
@@ -369,9 +369,8 @@ A security token is a digital representation of ownership of a share in an asset
 
 Fintech has increased the availability of long-term finance by creating new financial markets such as electronic platforms used for crowdfunding, peer to peer lending and security token offerings. These forms of finance allow firms to access a wide pool of funds without using a financial intermediary and are examples of **disintermediation**.
 
-[
 ::: {.callout-tip}
-example 3](../technical-articles/past exam examples.docx)Sep 2016, Q2
+**Example 3** (Sep 2016, Q2)
 
 > Which of the following financial instruments will NOT be traded on a money market?
 >
@@ -383,24 +382,23 @@ example 3](../technical-articles/past exam examples.docx)Sep 2016, Q2
 >
 > D Certificates of deposit
 
-[
 :::
 
 
 ::: {.callout-tip}
-example 4](../technical-articles/past exam examples.docx)Dec 2016, Q6
+**Example 4** (Dec 2016, Q6)
 
 > Max Co is a large multinational company which expects to have a \$10m cash deficit in one month's time. The deficit is expected to last no more than two months. Max Co wishes to resolve its short-term liquidity problem by issuing an appropriate instrument on the money market.
 >
 > Which of the following instruments should Max Co issue?
 >
-> ○Commercial paper
+> A Commercial paper
 >
-> ○Interest rate futures
+> B Interest rate futures
 >
-> ○Corporate loan notes
+> C Corporate loan notes
 >
-> ○Treasury bills
+> D Treasury bills
 
 :::
 

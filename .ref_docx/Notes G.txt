@@ -1,0 +1,598 @@
+Chapter 14 Foreign Currency Risk
+
+## 0 syllabus coverage
+
+G Risk Management
+1. The nature and types of risk and approaches to risk management
+a) Describe and discuss different types of foreign currency risk:[2]
+i) translation risk
+ii) transaction risk
+iii) economic risk.
+2. Causes of exchange rate differences and interest rate fluctuations
+a) Describe the causes of exchange rate fluctuations, including:
+i) balance of payments [1]
+ii) purchasing power parity theory [2]
+iii) interest rate parity theory [2]
+iv) four-way equivalence.[2]
+b) Forecast exchange rates using:[2]
+i) purchasing power parity
+ii) interest rate parity.
+3. Hedging techniques for foreign currency risk
+a) Discuss and apply traditional and basic methods of foreign currency risk management, including:
+i) currency of invoice [1]
+ii) netting and matching [2]
+iii) leading and lagging [2]
+iv) forward exchange contracts [2]
+v) money market hedging [2]
+vi) asset and liability management.[1]
+b) Compare and evaluate traditional methods of foreign currency risk management.[2] c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging.[1] (No numerical questions will be set on this topic)
+
+## 1 Foreign currency risk
+
+
+### 1.1 Exchange Rate
+
+Increasingly, many businesses have dealings in foreign currencies and, unless exchange rates are fixed with respect to one another, this introduces risk. An exchange rate is the rate at which one country's currency can be traded in exchange for another country's currency.
+Exchange rate can be expressed as:
+$/£ 1.3425± 0.0025 or $/£ of 1.340-1.3450
+bid prices-the bank’s buying rate
+offer price-the bank’s selling rate
+To remember which of the two prices is relevant to any particular foreign exchange transaction, just remember the bank will always trade at the rate that is more favorable to itself.
+Spot exchange rate – the market exchange rate for buying/selling the currency for immediate delivery.
+Forward exchange rate – the exchange rate for buying or selling the currency at a specific date in the future.
+
+### 1.2 Types of foreign currency risks
+
+Foreign exchange risk (currency risk) is the risk arising from unforeseen changes in an exchange rate or the value of a currency. There are three types of currency risk: transaction risk, translation risk and economic risk.
+
+##### 1.Transaction risk
+
+This arises when a company is importing or exporting. If the exchange rate moves between agreeing the contract in a foreign currency and paying or receiving the cash, the amount of home currency paid or received will alter, making those future cash flows uncertain.
+example 1
+An UK exporter now agrees to sell $100,000 to a US customer, payable in 6 months.
+Assuming the current spot rate is 1.5 $/£, and the spot rate is $/£:1.8 after 6 months. the impact of this movement on an exporter will be:
+The UK exporter is expecting to receive
+However, as $ weakens over 6 months the amount received would be worth only
+The exporter will loss      due to foreign currency $ weakens.
+If the spot rate is $/£:1.2 after 6 months, the impact of this movement on an exporter will be:
+the UK exporter is expecting to receive
+however, as $ strengthens over 6 months the amount received would be worth
+The exporter will gain     due to foreign currency $ strengthens.
+The effect of exchange rate movements
+If a foreign currency weakens it is simply worth less in our home currency.
+Exporter suffers because they will receive less
+Importer gains because they will pay less
+If a foreign currency strengthens it is simply worth more in our home currency.
+Exporter gains because they will receive more
+Importer suffers because they will pay more
+
+##### 2.Economic risk
+
+The risk that cash flows will be affected by long-term exchange rate movements. (The source of economic risk comes from the change in the competitive strength of imports and exports due to movements in the exchange rate. It is a longer-term effect.
+As the value of the company is the present value of its future cash flows, economic risk is a significant issue for the financial manager.
+Lecture example
+The UK company is exporting to a eurozone country and the euro weakens from say €/£ 1.1 to €/£ 1.3 (euro depreciation).
+Any exports from the UK will be more expensive when priced in euros (e.g. goods where the UK price is £100 will cost €130 instead of €110), making those goods less competitive in the European market.
+Similarly, goods imported from Europe will be cheaper in sterling than they had been, so those goods will have become more competitive in the UK market.
+Note that a company can experience economic risk even if it has no overt dealings with overseas countries. If competing imports could become cheaper you are suffering risk arising from currency rate movements.
+Economic risk is difficult to mitigate, especially for small companies with limited international dealings. In general, diversification of the customer and supplier base across different countries will reduce exposure to this type of risk to an extent.
+Try to export or import from more than one currency zone and hope that the zones don’t all move together, or if they do, at least to the same extent.
+Make your goods in the country you sell them. Although raw materials might still be imported and affected by exchange rates, other expenses (such as wages) will not subject to exchange rate movements.
+
+##### 3.Translation risk
+
+Translation risk occurs when a company has foreign subsidiaries or branches.
+If the subsidiary is in a country whose currency weakens, the subsidiary’s assets will be less valuable in the statement of financial position of the parent company, resulting in foreign exchange losses.
+Although such gains/losses can be significant, they are not cash flows. So, in theory, they should not affect the value of the company. However:
+Debt covenants often use book values, so foreign currency gains and losses may have real economic consequences if a debt covenant is breached
+Shareholders may attribute great importance to reported profits/losses
+Translation risk can be managed by:
+Match the foreign currency-dominated assets with that of foreign currency-dominated liabilities.
+
+## 2 causes of Exchange Rates fluctuations
+
+Factors that influence exchange rates include:
+Balance of payments in services and goods
+comparative rate of inflation in different countries
+Comparative interest rate in different countries
+Sentiment of foreign exchange market participants
+Speculation
+government policy on intervention to influence exchange rate
+
+### 2.1 Interest Rate Parity
+
+The interest Rate Parity theory claims that the forward exchange rates is based on the spot rate and the interest rate differential between the two currencies.
+The expected return on different currency deposits will be equal. If this is not so, investors holding the currency with the lower interest rates would switch to the other currency ensuring that they would not make a loss. This is known as arbitrage.
+If enough investors acted in this way, forces of supply and demand would lead to a change in the forward exchange rate to eliminate any additional benefit in interests.
+Formula:
+F0: forward rate
+S0: spot rate
+Ic: interest rate in foreign country
+Ib: interest rate in base country
+IRPT predicts that the country with the higher interest rate will see the forward rate for its currency subject to a depreciation.
+Using IRPT to forecast forward rate
+The expectations theory claims that the forward rate is an unbiased predictor of the future spot rate.
+example 2
+Assume the interest rate of a one-year US bond is 9% and the interest rate of a UK bond with similar risk is 7%. Current spot rate is ﹩/￡:1.5.
+Predict what the exchange rate is likely to be in one year.
+
+### 2.2 Purchasing Power Parity Theory (PPPT)
+
+Purchasing power parity theory predicts that the future spot exchange rate is based on the current spot rate (the purchasing power of one currency relative to another) and the inflation rate differential between the two currencies (relative price changes). For example, if the inflation rate is higher in the Us than in the Uk, PPP predicts that the value of the dollar will fall.
+The formula:
+S1: expected spot rate after one year
+S0: current spot rate
+hc: expected inflation rate in country c
+hb: expected inflation rate in country b
+example 3
+the current spot rate between UK sterling and US dollar is $/£ 1.50. assuming that there is purchasing parity, an amount of commodity costing £2,00 in UK will cost $300 in US. Over the next year, price inflation in US is expected to be 5% while inflation in UK is expected to be 8%.
+What is the expected spot exchange rate at the end of the year?
+Using PPPT to predict future spot rate
+Purchasing power model is a poor predictor of short-term changes in exchange rates.
+The market is dominated by speculative transactions (98%) as opposed to trade transactions; therefore, purchasing power theory breaks down.
+Governments may manage exchange rate
+It is likely that the purchasing power parity model may be more useful for predicting long-run changes in exchange rates since these are more likely to be determined by the underlying competitiveness of economies.
+
+### 2.3 The international fisher effect
+
+According to the fisher effect, countries with a higher rate of inflation have higher nominal interest rates to offer the same real return as countries with low inflation.
+According to the international fisher effect, the spot exchange rate will change of offset nominal interest rate difference between countries.
+The international effect assumes that the real interest rate will be equal across countries as a result of adjustment to spot exchange rate.
+So, the interest rate differential between two countries should be equal to the expected inflation differential.
+Therefore, countries with higher expected inflation rates will have higher nominal interest rates.
+Ia: the nominal interest rate in country a
+Ib: the nominal interest rate in country b
+ha: the inflation rate in country a
+hb: the inflation rate in country b
+
+### 2.4 Four-Way Equivalence
+
+The four-way equivalence model states that in equilibrium, theories that we have been examining are linked.
+If interest rates are only different between two countries due to inflation (ie real interest rates are the same in both countries) then:
+Inflation rates can be used to predict the future spot rate (PPPT)
+Long-term interest rates can be used to predict the future spot rate (international fisher effect)
+If short-term interest rate differences explain the difference between the forward rate and the spot rate, then over the long-term this can be seen as an unbiased indicator of expected changes in the spot rate.
+Example 4
+Handria is a country that has the peso for its currency and Wengry is a country that has the $ for its currency. The current spot rate is 1.5134 pesos = $1.
+Using interest rate differentials, the one year forward exchange rate is 1.5346 pesos = $1.
+The currency market between the peso and the dollar is assumed perfect and the international fisher effect holds.
+Which of the following statements is true?
+A Wengry has a higher forecast rate of inflation than Handria
+B Handria has a higher nominal rate of interest than Wengry
+C Handria has a higher real rate of interest than Wengry
+D the forecast future spot rate of exchange will differ from the forward exchange rate
+Example 5
+Indicate, by clicking on the relevant boxes, whether the following statements are correct or incorrect?
+
+## 3 Managing transaction risk
+
+
+### 3.1 internal methods
+
+Exchange rate risk may be managed internally in the following ways:
+(1) Invoice in domestic currency - Arrange for the contract and the invoice to be in home currency. This will transfer the transaction risk to the customer. However, this may lead to lost sales.
+(2) Netting - when there are both sales/receivables and purchases/payables in a foreign currency, so the net exposure is only on the difference between receivables and payables. This is only effectively when there are many sales and purchases in the foreign currency and transaction occur relatively closely.
+By netting off group currency flows the net exposure is only for $0.1m.
+(2) Matching of receipts and payments – offsetting payments against receipts in a foreign currency using a foreign currency bank account. The left unmatched portion will exposure to currency fluctuations. However, transactions must be relatively close together as few companies can afford keep money in a foreign currency bank account and not use it for months.
+(4) Leading and lagging - if the currency is expected to strengthen, converting domestic currency into foreign currency earlier than needed to pay suppliers, this is leading; or, if the foreign currency is expected to weaken, then delaying conversion and pay suppliers late (although taking longer than the agreed credit period is questionable business practice). This is lagging.
+Note, leading will reduce exposure to risk; lagging does not reduce risk, it is simply taking a gamble.
+(5) Asset and liability management - overseas subsidiaries borrow locally rather than receive finance from the parent. This reduces the net assets of the subsidiary, and reduces exposure to translation risk on consolidation of the subsidiaries' net assets in the group accounts.
+
+### 3.2 external techniques
+
+Transaction risk can be managed using a variety of external hedges, including:
+Forward exchange contracts;
+Money market hedges;
+Currency options;
+Currency futures contracts;
+Currency swaps.
+
+##### 1.Forward exchange contracts
+
+A forward exchange contract is a legally binding agreement to sell or buy:
+an agreed amount of a specified currency;
+on an agreed future date (delivery date);
+at an exchange rate fixed today (the forward rate).
+Forward contracts are not traded but agreements between a company and a counterparty (e.g. a bank). They are customized to match the company's exact requirements regarding quantity and delivery date.
+The spot rate is the rate at which you can buy or sell a currency immediately.
+Forward rate is he exchange rate that given in a forward contract.
+example 6-Nedwen
+Nedwen Co is a UK-based company which has the following expected transactions.
+One month:    Expected receipt of $140,000
+One month:    Expected payment of $240,000
+Three months:  Expected receipts of $300,000
+The finance manager has collected the following information:
+Spot rate ($ per £):                  1.7820 ± 0.0002
+One-month forward rate ($ per £):   1.7829 ± 0.0003
+Three-month forward rate ($ per £):  1.7846 ± 0.0004
+Money market rates for Nedwen Co:
+Borrowing     Deposit
+One-year sterling interest rate: 4.9%      4.6
+One-year dollar interest rate:  5.4%      5.1
+Assume that it is now 1 April.
+Required:
+(a)Calculate the expected sterling payments in one month and receipts in three months using the forward market.
+(b)Calculate the expected sterling payments in one month using a money-market hedge and recommend whether a forward market hedge or a money market hedge should be used.
+a forward contract can remove uncertainty about exchange rate changes in the future. it can hedge against the risk of an adverse movement in the future exchange rate, and also loses the opportunity to gain from a favorable movement in the spot rate.
+Lecture example – what happens if sale falls through?
+Suppose a UK company has $30,000 receipts in 6 months. The current spot rate is $/£: 1.4. worrying the exchange rate will increase, the company contracts a 6-month forward exchange contract of selling $30,000 with a bank, the 6-month forward rate is $/£: 1.5. The spot rate becomes $/£: 1.2 after 6 months.
+What happens if the US customer fails to pay after 6 months?
+The company should fulfil that commitment: sell $30,000 to the bank at the forward rate.
+firstly, the company has to buy $30,000 using the spot of $/£: 1.2, which costs the company 30, 000/1.2=£25,000.
+then, the company sell the $30,000 to the bank at the forward rate and get 30, 000/1.5=£20,000.
+the fulfillment of the contract will incur a loss of £5,000 to the company. This process is known as closing out, the company could win or lose on it depends the spot rate at the time.
+Advantages of forward contracts
+It is OTC transactions and can be tailored to the exact requirement regarding quantity and delivery date.
+It can be available for many currencies
+It does not require any margin to be posed (unlike future contracts). However, there will be a small fee to set up a forward contract.
+The main disadvantages of forward contracts
+it is a legally binding contract with a bank; the physical delivery must occur.
+No opportunity to benefit from favorable movements in exchange rates
+Therefore, forward contracts are not a flexible method of hedging.
+
+##### 2. Money Market Hedge
+
+A technique to lock in the value of a foreign currency transaction in terms of the organization’s domestic currency using a combination of investing, borrowing and a spot currency exchange.
+Hedging steps for an UK exporter (has $ receipts)
+borrowing dollars $ now (the intention is that the dollar receipts will pay the dollar loan)
+the amount of borrowing: X× (1+interest rate of borrowing) = foreign currency receipts
+(2) converting these dollars into sterling at current spot rate
+amount of domestic funds: X/S0
+Depositing the sterling received in domestic bank for the same period with foreign receipt.
+Using the future dollar receipt to repay the dollar bank loan.
+A money market hedge effectively produces a "homemade" forward exchange rate.
+Hedging steps for an importer (has dollar payment)
+borrowing an amount of sterling now and converting these sterlings into dollars at current spot rate
+amount of borrowing funds: X/S0
+depositing the amount of dollar in foreign bank account
+The amount of deposit: X× (1+deposit rate) = $ payments
+then pay the dollar payments with the dollar deposit
+Because the money is changed now at the spot rate, the transaction is immune from future changes in the exchange rate. however, market hedge has obvious cash flow effect:
+for an exporter, the company will have money now rather than have to wait several months.
+for an importer with cash flow deficit, this method may bring a greater liquidity risk.
+whether a forward contract or a money market hedge should be used?
+example 6 –Nedwen(b)
+
+##### 3.currency futures
+
+A standard contract for buying or selling a fixed amount of a currency (the contract size) at a fixed price (the future price) on a specified date (the delivery date).
+Futures are exchange-traded forward contracts and have various "delivery dates" (e.g. March, June, September and December).
+A company can choose:
+whether to buy or sell futures; and
+which delivery date to use.
+The price of a currency futures contract represents the forward exchange rate for the currencies specified in the contract.
+The difference between the futures price and the spot exchange rate is known as the basis in the futures contract. The basis in a futures contract will naturally amortize to zero by the contract's delivery date.
+Steps for foreign currency futures ($) are as follows:
+step 1: enter into a futures contract now according to basic transaction
+buy (or sell) futures now
+Step 2: complete the currency transaction on the spot market later
+the currency transaction will have a loss (or profit) due to exchange rate movement
+Step 3: close out the futures contract by doing the opposite of step 1
+sell (or buy) futures later
+If the futures hedge is correctly performed, any gain on future market will offset a loss (or profit) made on the spot currency markets (and vice versa).
+A currency future is like a forward contract in that it fixes the exchange rate to use in the future. Currency futures are traded on markets, each contract fixes the exchange rate on a large, standard amount of currency and contracts expire at the end of each quarter (march, June, September and December) but can be used on any date up to the expire date. for example, Chicago Mercantile Exchange trade sterling futures contracts with a standard size of £62,500. Only whole number multiplies of this amount can be bought or sold.
+Lecture example -illustration of futures
+It is currently February and a US company expects to receive £500,000 in June.
+The current Spot rate is $/£: 1.65
+The quote for June sterling futures is $/£: 1.65
+standard size future contract is £62,500
+The US company wants to hedge against the currency risk, how to set up the hedge?
+Step 1: Worrying sterling depreciate (exchange rate fall), so selling futures now (and buy later)
+in February -Sell futures now at $/£ 1.65
+Number of contracts = £500,000 /62,500=8
+Step 2: Assume the spot rate in June moves to $/£: 1.70, the future rate in June is also $/£: 1.70
+In June the company receives £500,000
+Outcomes on foreign currency markets in June:
+in February- Values of £500,000=500,000×1.65=$825,000
+in June-     Values of £500,000=500,000×1.70=$850,000
+profit in currency transaction                 =$25,000
+step 3:in June, do the opposite transaction of step 1 in future market
+Outcomes on futures market in June:
+Sell £ for   $1.65
+buy £ for   ($1.70)
+(0.05)
+Loss on futures market = 0.05×8×62,500 = $25,000
+This loss made on future market will offset the profit made on currency transactions.
+Advantages of futures
+Transaction costs are generally lower than other hedging methods
+Most currency futures contracts are closed out before delivery, it is more flexible than a forward contract which is only valid on a specific day.
+Disadvantages of futures
+Currency futures are only available in large, standard, contract sizes, and for a narrow range of currencies (compared to forward contracts). This makes currency futures less suitable for small transactions
+it cannot be tailored to the user’s exact requirements.
+It requires to place a deposit (called a margin) with the exchange
+Hedging inefficiencies may be caused by the following reasons:
+-futures contract is a standard contract;
+-basic risk.
+Basic risk occurs when changes in futures prices are not correlated with changes in exchange rates (or interest rates) on a given date.
+example 7
+Which of the following are descriptions of basis risk?
+(1) It is the difference between the spot exchange rate and currency futures exchange rate
+(2) It is the possibility that the movements in the currency futures price and spot price will be different
+(3) It is the difference between fixed and floating interest rates
+(4) It is one of the reasons for an imperfect currency futures hedge
+A 1 only
+B 1 and 3
+C 2 and 4 only
+D 2, 3 and 4
+Difference between currency futures and forward contracts:
+
+##### 4.currency options
+
+Options are an example of derivatives (i.e. a financial instrument based on an underlying asset). In the case of currency options, the underlying asset is a currency.
+A currency option gives the right but not the obligation to buy or sell currency:
+A specified quantity of a specified currency;
+at a fixed exchange rate (the exercise price);
+on or before a specified date (expiry date).
+the owner of the option can either:
+exercise their right; or
+allow it to lapse (i.e. not exercise it).
+however, the company must pay for this flexibility. the cost of an option is known as option premium, and this premium is paid at the date the option is bought and are non-refundable.
+A company may buy options:
+on a derivatives market; or
+directly from a bank − known as OTC ("over-the-counter").
+Call option – give the holder the right to buy the underlying asset.
+Put option - give the holder the right to sell the underlying asset.
+Lecture example
+A UK importer is due to pay €100m in 6 months’ time. The financial manager worries the exchange rate fall and buy a call option on €100m at an exercise rate of €1.155 per £ with a premium of £ 20,000.
+If the spot rate moves to €/£ 1.100 in 6 months:
+Payment at the exercise rate = 100/1,155 = £ 86.58m
+Payment at the spot rate    = 100/1,100 = £ 90.91m
+The company will exercise the option because the exercise rate in the option is more favorable than the spot rate.
+If the spot rate moves to €/£ 1.200 in 6 months:
+Payment at the exercise rate = 100/1,155= £ 86.58m
+Payment at the spot rate    = 100/1,200= £ 83.33m
+the company will pay at the spot rate and let the option lapse as the spot rate is more favorable than the exercise rate.
+Advantages of currency options
+Currency options protect against adverse exchange rate movements while allow a company to benefit from a favorable exchange rate movement. It is flexible.
+Exchange-traded options can be sold on if not needed.
+Disadvantages of currency options
+The cost of options (premium) can be expensive
+Exchange-traded options are only available in large, standard, contract sizes, and for a narrow range of currencies
+example 8
+
+##### 5.Currency swaps
+
+An agreement in which two parties exchange the principal amount of a loan and the interest in one currency for the principal and interest in another currency.
+Currency swaps can eliminate exchange rate risk on foreign currency loans as follows:
+On commencement of the swap – an exchange of agreed principal amounts, usually at the prevailing spot rate.
+Over the life of the swap – an exchange of interest payments.
+At the end of the swap – a re-exchange of principals, usually at the original spot rate (thereby removing foreign currency risk).
+Liability on the main debt is not transferred and the parties are liable to counterparty risk: if the other party defaults on the agreement to pay interest, the original borrower remains liable to the lender.
+Currency swaps provide a means of hedging against exchange rate exposure over a longer period, and can be used to restructure the currency base of the company’s liabilities.
+Lecture example-swaps
+Consider a UK company X, wishes to invest in Germany. Y is a Germany company wishes to finance funds to pay for up-to-date capital equipment imported from UK. Current spot exchange rate is €1.5 per X and Y could swap currencies.
+Step 1: X could borrow £20m from its bank and pay interest at 5%, Y could borrow 30m from its bank and pay interest at 6%. X arranges to swap the £20m for 30m with Y.
+Step 2 each year when interest is due:
+X receives cash from its German investment and passes the amount of 1.8m (= 30m*6%) to Y so that Y can settle this interest liability.
+Y passes to X £1m (=£20m*5%) and X settles its interest liability of £1m.
+Step 3 at the end of the swap, the original payments are reversed with X receiving back from Y the £20m, X uses this £20m to repay the loan it originally received from its UK bank.
+Chapter 15 Interest rate risk
+
+## 0 Study guide
+
+G Risk Management
+1. The nature and types of risk and approaches to risk management
+b) Describe and discuss different types of interest rate risk:[1]
+i) gap exposure
+ii) basis risk.
+2. Causes of exchange rate differences and interest rate fluctuations
+c) Describe the causes of interest rate fluctuations, including: [2]
+i) structure of interest rates and yield curves
+ii) expectations theory
+iii) liquidity preference theory
+iv) market segmentation.
+4. Hedging techniques for interest rate risk
+a) Discuss and apply traditional and basic methods of interest rate risk management, including:
+i) matching and smoothing [1]
+ii) asset and liability management [1]
+iii) forward rate agreements.[2]
+b) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging.[1] (No numerical questions will be set on this topic)
+
+## 1 interest rate risk
+
+Interest rate risk refers to the risk of an adverse movement in interest rates and thus a reduction in the company’s cash flow.
+Gap exposure
+Gap exposure is the difference between the amounts of interest-sensitive assets and liabilities (i.e. their market prices are vulnerable to changes in interest rates).
+An organization’s gap exposure can be identified through "gap analysis", grouping interest-sensitive assets and liabilities according to maturity dates. Two different types of gap may occur:
+Negative exposure – arises when the amount of liabilities maturing at a specific time exceeds assets maturing simultaneously. This will result in a net exposure if interest rate rise by the time of maturity;
+Positive exposure - arises when the amount of liabilities maturing at a specific time exceeds assets maturing simultaneously. The company will face the risk of interest rate falls by maturity.
+Basis risk
+Even if a company has matched its assets and liabilities with a variable rate of interest, there may still be a risk if the variable interest rates are determined on different bases. For example, deposit may be linked to one-month LIBOR rate, and borrowing may be based on the 12-month LIBOR rate. It is unlikely that these rates will move perfectly in line with each other and therefore this is a source of interest rate risk.
+This is an example of basis risk.
+Example 1
+Which of the following is a description of gap exposure?
+A The difference between short-term and long-term interest rates
+B The difference between the amounts of interest-sensitive assets and liabilities
+C The difference between spot interest rates and futures interest rates
+D The difference between fixed and floating interest rates
+
+## 2 Causes of interest rate fluctuations
+
+
+### 2.1 Influences
+
+Factors Determining the interest rate for a particular financial instrument are:
+General level of interest rates in the economy: These rates are affected by:
+-Inflation;
+-Government monetary policy;
+-The demand for borrowing;
+-Investors' preference for cash;
+-International factors (e.g. interest rates overseas and exchange rate movements).
+Level of risk: the higher the level of risk, the greater return an investor will expect.
+Duration of the loan: the longer the length of the loan, the higher the interest rate will be. This is because lending money in the longer term exposes the lender to additional risk (e.g. the risk of default increases).
+The need for the financial intermediaries to make a profit.
+Size: if a large sum of money is lent or borrowed, a lender may be willing to offer a lower interest rate to a borrower than would normally be the case if a smaller amount were transacted.
+Term structure of interest rates: the return provided by a security will vary according to the length of time before the security matures.
+
+### 2.2 Yield Curve
+
+The term structure of interest rates refers to how the yield on a security varies according to the borrowing term. If the graph shows the yield to maturity of various government securities against the number of years to maturity, the following “yield curve” might result.
+Normally, the yield curve is upward sloping, the longer the term to maturity, the higher the rate of interest is. Occasionally, the yield curve is downward sloping, interest rates may be higher for short-term maturities than long-term maturities.
+Yield curve
+Theories explaining the shape of yield curve
+(1) Liquidity preference theory
+Yields will rise as the term to maturity increases, as investors require higher returns to compensate for increased illiquidity of long-term bonds.
+The upwards sloping yield curve can be explained by liquidity preference theory.
+(2) Expectations theory
+This theory states that the interest rates reflect expectations of future change in interest rates. If the interest rates are expected to rise in the future, the yield curve may rise even more steeply. On the other hand, the curve may fall if interest rates are expected to fall.
+(3) Market segmentation theory
+different investors have a preference for and are interested in different segments of the yield curve. For example,
+Short-term yields are of interest to financial intermediaries such as banks. Therefore, the shape of the yield curve in that segment reflects the attitudes of the investors active in that sector.
+Pension fund managers often prefer investing in long-dated bonds to match against the long-term liabilities of the fund. This can drive up the price of long-dated bonds, lower their yield and possibly result in an inverted (falling) yield curve.
+Where two sectors meet, there is often a disturbance or apparent discontinuity in the yield curve, as shown in the above diagram.
+The significance of Yield Curve
+Financial managers need to be aware of the shape of the yield curve, as it indicates the likely future movements in interest rates; therefore, it assists in the choice of finance for the company.
+For example, a yield curve sloping steeply upwards suggests that interest rate will rise in the future, Long-term fixed rate borrowing may be more appropriate.
+
+## 3 managing Interest rate risk
+
+
+### 3.1 Internal Techniques
+
+Internal techniques to hedge interest rate risk include:
+Asset and liability management
+Not only links assets and liabilities to the same interest rate, but also attempts to match the maturity of assets and liabilities.
+(2) Matching
+this approach aims to have a common interest rate for liabilities and assets.
+For example, subsidiary A of a company might be investing in money markets at LIBOR and subsidiary B is borrowing through the same markets. If LIBOR increases, the increase in interest paid can be almost offset by the increase in interest received.
+(3) Smoothing
+Smoothing is where a company keeps an appropriate balance between fixed-rate and floating-rate loan (or deposit). For example, if interest rates rise, only the variable rate loans will cost more and this will have less impact than if all borrowings had been at variable rate.
+
+### 3.2 External Techniques
+
+
+##### 1.Forward rate agreement (FRA)
+
+An agreement by a bank to enter into a notional loan or accept a notional deposit from a customer for a specified period.
+Forward rate agreements (FRAs) allow companies to fix, in advance, either a future borrowing rate or a future deposit rate, based on a notional principal amount over a given period.
+Terms of FRA
+A $5m 3-9 FRA at 5%
+$5m: Size of loan (or deposit)
+3-9: begins in 3 months and ends after 9 months
+agreed interest rate
+The FRA can be with same financial institution or a different institution.
+Steps of FRA：
+the actual loan contract is signed and Interests on the loan are paid according to actual interest rate
+Compensation relates to FRA:
+If the actual interest rate is higher than the rate in the FRA, the FRA bank pays the company the difference.
+If the actual interest rate is lower than the FRA rate, the company pays the FRA bank the difference.
+Example 2
+It is now 1 January. Enfield need a￡10m bank loan for 6 month fixed rate loan from 1 April. Enfield wants to hedge its exposure to the risk of interest rise before April using an FRA. A 3-9 FRA at 6% is agreed.
+Calculate the interest payable if in three months’ time the market rate is: 9% or 5%.
+Example 3
+Interest rates are currently 5%. A company needs a $4m 6-month loan in 3 months’ time and buys a 3-9 FRA at 8%. When A signs the loan it agrees to a rate of 7%.
+What is the payment or receipt A company will make or receive under the FRA?
+A A pays the bank $40,000
+B A pays the bank $20,000
+C A receives $40,000 from the bank
+D A receives $20,000 from the bank
+
+##### 2.Interest Rate Futures
+
+Exchange-traded contracts whose value is determined by interest rates.
+The difference between the interest rate in the futures contract and the spot interest rate is known as the basis in the futures contract. The basis in a futures contract will naturally amortize to zero by the contract's delivery date.
+Interest rate futures are priced at 100 minus the implied interest rate. Therefore, if interest rates rise, the price of interest rate futures falls.
+Steps of hedge against rising interest rates:
+Future markets:
+Sell interest rate futures today
+close out the futures by buying the same contracts that were originally sold.
+actual transactions:
+Take a loan at the market interest rates;
+Pay interest on the principal the actual borrowing contract
+will have a loss (or profit) due to interest rate movement
+if interest rate rise, there should be a gain on futures (sold high and buy low), and this will offset the higher interest payments the company will pay on its debts.
+Basis risk
+In practice, futures price does not move exactly with interest rates. Therefore, the result of futures hedge cannot be known in advance, this is known as basis risk.
+
+##### 3.Interest Rate Options
+
+An interest rate option gives the option holder the right, but not obligation to deal at an agreed interest rate a future maturity date.
+Interest rate options allow businesses to protect themselves against adverse interest rate movements while allowing them to benefit from favorable movements.
+pay a non-returnable premium to acquire the options
+If interest rates move in an unfavorable direction, exercise the option
+If interest rates move favorable, just ignore the option
+Interest Rate Caps, Floors and Collars
+Interest rate cap – borrowers can set a maximum on the interest they have to pay by buying an interest rate cap (put option). It protects against interest rate rises for a borrower.
+Interest rate floors – lenders can set a minimum on the interest they receive by buying an interest rate floor option (call options). It protects against interest rate falls for an investor.
+Interest rate Collar – this combination of an interest rate cap and a floor keep an interest rate between an upper and a lower limit. A borrower pays a premium to buy a cap and at the same time sells a floor, thereby offsetting the cost of buying a cap. A depositor would buy a floor and sell a cap.
+The is a cheaper hedge than just using a cap or a floor.
+Example 4
+Which of the following statements are correct?
+1 interest rate options allow the buyer to take advantage of favorable interest rate movements
+2 a forward rate agreement does not allow a borrower to benefit from a decrease in interest rates
+3 borrowers hedging against an interest rate increase will buy interest rate futures now and sell them at a future date
+A 1 and 2 only
+B 1 and 3 only
+C 2 and 3 only
+D 1, 2 and 3
+Example 5
+Indicate, by clicking on the relevant boxes, whether the following statements about interest rate risk hedging are correct or incorrect?
+
+##### 4.Interest rate swaps
+
+An interest rate swap is an exchange between two parties of interest obligations or receipts in the same currency on an agreed amount of notional principal for an agreed period.
+Interest rate swaps are a flexible method for companies to change the interest rate profile of their underlying loans or investments or to hedge against adverse interest rate movements.
+The most common interest rate swap is a plain vanilla swap, where fixed interest payments based on a notional principal are swapped for floating interest payments based on the same notional principal.
+Why bother to swap?
+To manage exposure to interest rate risk.
+To take advantage of a comparative advantage of finance in different markets.
+Terminating an original loan early may involve significant fee and taking out a new loan will involve issue costs, arranging a swap can be significantly cheaper.
+Arranging a swap can be significantly cheaper.
+Lecture Example
+A company has a $200m floating loan and the treasurer believes that the interest rates are likely to rise over the next five years. He could enter into a five-year swap with a counter-party to swap into a fixed rate of interest for the next five years. From year six onwards, the company will once again pay a floating rate of interest.
+Example 6
+Which of the following derivative instruments are characterized by a standard contract size?
+[    ] future contracts
+[    ] exchange-traded option
+[    ] forward rate agreement
+[    ] swap
+Example 7
+Herd Co has in issue loan notes with a total nominal value of $4m which can be redeemed in 10 years’ time. The interest paid on the loan notes is at a variable rate linked to LIBOR. The finance director of Herd Co believes that interest rates may increase in the near future.
+As regards the interest rate risk faced by Herd Co, which of the following statements is correct?
+A In exchange for a premium, Herd Co could hedge its interest rate risk by buying interest rate options
+B Buying a floor will give Herd Co a hedge against interest rate increases
+C Herd Co can hedge its interest rate risk by buying interest rate futures now in order to sell them at a future date
+D Taking out a variable rate overdraft will allow Herd Co to hedge the interest rate risk through matching
+Example 8-Wren Co (Sep/Dec 2022)
+The home currency of Wren Co is the dollar ($) and the company has a supplier in a foreign country whose currency is the dinar (D). In six months’ time, Wren Co must make a payment to the supplier, of D3 million, and the company is concerned about exchange rate risk.
+Wren Co wants to compare making a lead payment of D3 million now, with taking out a forward exchange contract for D3 million, that can be exercised in six months’ time. As the company is short of cash, it would need to borrow money for any exchange rate risk hedging.
+Wren Co is considering raising $500,000 in three months’ time in order to ease its cash flow problems. The company would borrow the money for a period of six months and it would hedge interest rate risk by using a forward rate agreement (FRA). Wren Co has been offered two different FRAs by its bank: a 3-9 FRA at 10.0 - 8.0 and a 3 - 6 FRA at 9.8 - 7.8, but the company is also considering interest rate derivative hedging.
+(1) In relation to interest rate derivatives, which of the following statements is correct?
+A interest rate futures hedges can be closed out any time
+B Forward rate agreements fix the interest rate on future long-term borrowing
+C if interest rate options are allowed to lapse, there is no overall cost to the holder
+D Buying both an interest rate cap and an interest rate floor is an example of an interest
+(2) Considering future values on the D3 million payment date, and comparing the lead payment with the forward exchange contract (FEC), which of the following statements is true?
+A The FEC costs $46,392 more than the lead payment
+B The FEC costs $28.608 more than the lead payment
+C The lead payment costs $46,392 more than the FEC
+D The lead payment costs $28,608 more than the FEC
+if Wren Co takes out the relevant FRA and borrows at a base rate of 10.5% per year, in three months’ time, what is the company's net cost of borrowing?
+A S20,000
+B S25,000
+C $24,500
+D $27.500
+(4) According to the four-way equivalence model, which of the following statements is correct?
+A if the exchange rate is 2.00 dinars per dollar, a relative increase in dollar interest rates will cause the dollar forward rate to appreciate against the dinar
+B The international Fisher effect states that the expected change in the spot rate is equal to the expected difference in inflation rates
+C Forward exchange rates reflect interest rate parity。
+D Purchasing power parity relates exchange rates and long-term interest rates
+In relation to foreign currency risk, which of the following statements is/are correct?
+Economic risk is exchange rate risk that can be avoided by operating in domestic markets only
+Exchange rate risk arises because of changes in exchange rates that have not been
+anticipated
+A 1only
+B 2only
+C Both 1 and 2
+D Neither 1 nor 2
+Technical articles
+Foreign currency risk and its management
+Hedging techniques for interest rate risk
+
+[TABLE 1]
+Currency futures | Forward contracts
+Standard contracts | tailored contracts定制
+Traded on the open market | Traded over the counter
+Flexible close out dates | Fixed settlement date
+Underlying transactions take place at the spot rate | Underlying transactions take place at the forward rate
+Cheaper than forwards | Relatively high premium required

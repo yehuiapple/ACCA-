@@ -59,7 +59,7 @@ iii\) the industry in which the organization operates.
 
 Working capital represents the net current assets which is available for day-to-day operational activities.
 
-It is defined as a business's current assets (e.g. inventories, trade receivables and cash) less its current liabilities (e.g. trade payables).
+It is defined as a business's current assets (e.g. inventories, trade receivables and cash) less its current liabilities (e.g. trade payables).
 
 #### 1.1 Importance of Working Capital
 
@@ -83,9 +83,7 @@ Two major questions must be considered:
 - How much to invest in working capital?
 - How to finance working capital?
 
-
-
-
+::: {.callout-tip}
 **Example 1**
 
 > Which TWO of the following are correct descriptions of net working capital?
@@ -97,11 +95,6 @@ Two major questions must be considered:
 > C Current assets / current liabilities
 >
 > D The long-term capital invested in net current assets
-
-
-
-
-
 
 :::
 
@@ -120,20 +113,20 @@ Therefore, when determining the appropriate level of working capital there is a 
 
 Businesses must avoid the extremes:
 
-- Overtrading arises when there is insufficient working capital to support the level of business activity. This also can be described as under-capitalization and is characterized by an increasing proportion of short-term to long-term finance.
-- Over-capitalization is an excessive level of working capital, leading to inefficiency.
+- Overtrading arises when there is insufficient working capital to support the level of business activity. This also can be described as under-capitalization and is characterized by an increasing proportion of short-term to long-term finance.
+- Over-capitalization is an excessive level of working capital, leading to inefficiency.
 
 #### 1.3 Working Capital Investment Policy
 
 Even within the same industry sector, companies will have different policies regarding the level of investment in current assets, depending on management's attitude to risk.
 
-(1) **conservative approach**
+(1) **conservative approach**
 
 This approach involves investing a relatively high level of net working capital. A firm allows high levels of receivables and inventories, and keeps payables low. This policy will reduce the risk of liquidity problems, and would be also less profitable.
 
 This approach is more appropriate if cash flows are erratic and unpredictable.
 
-(2) **aggressive approach**
+(2) **aggressive approach**
 
 This approach involves investing a relatively low level of net working capital. A firm choose to keep inventories and receivables as low as possible, and payables are maximized. This policy would potentially be more profitable, and would also be more risky. A moderate approach falls between the conservative and aggressive approaches.
 
@@ -167,18 +160,12 @@ It is the time taken for customers to pay. Everything else being equal a busines
 
 This shows how quickly receivable is converted into cash.
 
-
-
-
 ::: {.callout-tip}
 **Example 2**
 
 > The management of Lamara Co has annual credit sales of \$20m and accounts receivables of \$4m. working capital is financed by an overdraft at 12% interest per year. Assume 365 days in a year.
 >
 > Calculate the annual finance cost saving if management reduces the collection period to 60 days (to the nearest dollar)
-
-
-
 
 :::
 
@@ -192,19 +179,14 @@ This shows how quickly inventory is sold; higher turnover reflects faster-moving
 
 In exam questions: Use year-end figures in the statement of financial positions if averages are not available.
 
-
-
-
-
-
 ::: {.callout-tip}
 **Example 3: Sep 2016, Q5**
 
 > Crag Co has sales of \$200m per year and the gross profit margin is 40%. Finished goods inventory days vary throughout the year within the following range:
 >
-> Maximum            Minimum
->
-> Inventory (days)    120                     90
+> |                  | Maximum | Minimum |
+> | ---------------- | ------- | ------- |
+> | Inventory (days) | 120     | 90      |
 >
 > All purchases and sales are made on a cash basis and no inventory of raw materials or work in progress is carried. Crag Co intends to finance its current assets with its overdraft.
 >
@@ -217,7 +199,6 @@ In exam questions: Use year-end figures in the statement of financial positions 
 > C \$30m
 >
 > D \$40m
-
 
 :::
 
@@ -237,38 +218,27 @@ $$
 
 If production cost cannot be calculated, cost of goods sold gives a good approximation.
 
-
-
 **Payables payment period =** $\frac{average\ trade\ payables}{average\ credit\ purchase} \times 365\ days$
 
 The time taken to pay suppliers. A business would prefer to increase its payables days, unless this proves expensive in terms of lost settlement discounts or leads to other problems such as a damaged reputation.
-
-
-
-
-
 
 **Example 4: Dec 2016,Q11**
 
 > Mile Co is looking to change its working capital policy to match the rest of the industry. The following results are expected for the coming year:
 >
-> \$'000
->
-> Revenue 20,500
->
-> Cost of sales (12,800)
->
-> Gross profit 7,700
+> |               | \$'000   |
+> | ------------- | -------- |
+> | Revenue       | 20,500   |
+> | Cost of sales | (12,800) |
+> | Gross profit  | 7,700    |
 >
 > Revenue and cost of sales can be assumed to be spread evenly throughout the year. The working capital ratios of Mile Co, compared with the industry, are as follows:
 >
-> Mile Co Industry
->
-> Receivable days 50 42
->
-> Inventory days 45 35
->
-> Payable days 40 35
+> |                 | Mile Co | Industry |
+> | --------------- | ------- | -------- |
+> | Receivable days | 50      | 42       |
+> | Inventory days  | 45      | 35       |
+> | Payable days    | 40      | 35       |
 >
 > Assume there are 365 days in each year.
 >
@@ -281,18 +251,13 @@ The time taken to pay suppliers. A business would prefer to increase its payable
 > ○\$835,600
 >
 > ○\$975,300
-
-
-
-
+>
 
 **Sales/net working capital** = $\frac{annual\ sales}{average\ working\ capital}$
 
 It indicates how efficiently a business uses its working capital to generate sales. Everything else being equal, management would prefer sales/working capital to rise.
 
 Always bear in mind that ratios are of little value unless compared with industry averages.
-
-
 
 #### 2.2 Cash Operating Cycle
 
@@ -378,7 +343,6 @@ example 5: 2012 JUNE- wobnig (a)-overtrading](media/Notes_C/media/image4.png){wi
 
 ![](media/Notes_C/media/image7.png){width="5.76875in" height="2.70625in"}
 
-
 ### 3 Managing Inventory
 
 #### 3.1 Objective of Inventory Management
@@ -414,15 +378,11 @@ Then average number of units held can be expressed as Q/2, and number of orders 
 
 Annual total relevant cost:
 
-
-
-  Annual Holding costs                 C~h~ × Q /2
-
-
-
-  Annual ordering costs                C~o~ × D/Q
-
-Total relevant costs                 C~h~ × Q /2+ C~o~ × D/Q
+|                       |                             |
+| --------------------- | --------------------------- |
+| Annual Holding costs  | C~h~ × Q /2               |
+| Annual ordering costs | C~o~ × D/Q                |
+| Total relevant costs  | C~h~ × Q /2+ C~o~ × D/Q |
 
 **Total cost is minimized when** EOQ=$\sqrt{\frac{2Co\ D}{Ch}}$
 
@@ -444,23 +404,19 @@ these assumptions are critical and should be discussed when considering the vali
 
 If bulk purchase discounts are available, purchase costs are relevant and the decision whether the discount is worthwhile can be dealt with as follows.
 
-EOQ policy bulk purchase policy
-
-Holding costs X X
-
-Ordering costs X X
-
-Purchase costs X X
-
-Total costs X X
+|                | EOQ policy | Bulk purchase policy |
+| -------------- | ---------- | -------------------- |
+| Holding costs  | X          | X                    |
+| Ordering costs | X          | X                    |
+| Purchase costs | X          | X                    |
+| Total costs    | X          | X                    |
 
 Inventory related costs = purchase cost + ordering cost + holding cost
 
 Select the order quantity that minimizes inventory related costs.
 
-[
 ::: {.callout-tip}
-example 6: Nesud]{.mark}-(b) （Sep 2016）
+**Example 6: Nesud (b) (Sep 2016)**
 
 > From a different supplier, Nesud Co purchases \$2·4 million per year of Component K at a price of \$5 per component. Consumption of Component K can be assumed to be at a constant rate throughout the year. The company orders components at the start of each month in order to meet demand and the cost of placing each order is \$248·44. The holding cost for Component K is \$1·06 per unit per year.
 >
@@ -468,21 +424,21 @@ example 6: Nesud]{.mark}-(b) （Sep 2016）
 >
 > \(c\) Critically discuss how Nesud Co could improve the management of its trade receivables. (10 marks)
 
+:::
+
 **Buffer Inventory**
 
 In reality, a company may hold buffer inventory to reduce the risk of stock-outs. If buffer inventory is required, the average inventory level becomes B+Q/2
-:::
-
 
 ##### 2. Re-Order Level System
 
 Use this method to build safety inventory and minimizes the risk of running out of inventory.
 
-**Re-order level** (ROL) -- the level to which inventory should fall before placing a purchase order for replenishment.
+**Re-order level** (ROL) -- the level to which inventory should fall before placing a purchase order for replenishment.
 
 - **Re-order level =** maximum usage ×maximum lead time
 
-**Lead time** -- the time between placing and receiving an order.
+**Lead time** -- the time between placing and receiving an order.
 
 Maximum inventory level
 
@@ -498,9 +454,9 @@ Average inventory
 
 ##### 3. Just-in-time
 
-A just-in-time *purchasing* system aims to minimize the cost of holding inventory by placing orders so that delivery is timed for when the goods are needed. 
+A just-in-time *purchasing* system aims to minimize the cost of holding inventory by placing orders so that delivery is timed for when the goods are needed.
 
-A JIT *production* system aims to minimize the cost of manufacturing by only producing goods as they are needed. Such a system should have only minimal inventory of raw materials and minimal wait time in production.
+A JIT *production* system aims to minimize the cost of manufacturing by only producing goods as they are needed. Such a system should have only minimal inventory of raw materials and minimal wait time in production.
 
 JIT *inventory management* aligns purchasing and production to weekly, or even daily sales demand. It aims to create a continuous flow of raw materials inventory into work-in-progress, which becomes finished goods to go immediately to the customer.
 
@@ -551,9 +507,6 @@ Where: d = discount (i.e. d%)
 
 n = credit period --discount period
 
-
-
-
 ::: {.callout-tip}
 **Example 7**
 
@@ -561,39 +514,33 @@ n = credit period --discount period
 >
 > Required: Determine whether the discount should be offered.
 
-
 :::
 
 Note: the AER is calculated using compound interest, the simple interest = $\frac{d}{1 - d}$×$\frac{365}{t}$ would also be acceptable in the exam.
 
 **(2) Annual Cost/Benefit**
 
-|                            | \$       |
-|----------------------------|----------|
-| **Annual benefit**         |          |
-| Finance cost savings (W1)  | x        |
-| Profits on extra sales     | x        |
-| **Annual cost**            |          |
-| Extra administration costs | (x)      |
-| Discount cost              | (x)      |
-| **Net benefit**            | **X**    |
+|                            | \$          |
+| -------------------------- | ----------- |
+| **Annual benefit**   |             |
+| Finance cost savings (W1)  | x           |
+| Profits on extra sales     | x           |
+| **Annual cost**      |             |
+| Extra administration costs | (x)         |
+| Discount cost              | (x)         |
+| **Net benefit**      | **X** |
 
 If the net benefit is positive, a company should offer discount on financial grounds.
 
 Working 1: finance cost savings on reduced receivables
 
-|                                   | Existing  | Revised   |
-|-----------------------------------|-----------|-----------|
-| Receivable collection period      |           |           |
-| Receivables                       |           |           |
-| Annual finance cost               | X~1~      | X~2~      |
+|                              | Existing | Revised |
+| ---------------------------- | -------- | ------- |
+| Receivable collection period |          |         |
+| Receivables                  |          |         |
+| Annual finance cost          | X~1~    | X~2~   |
 
 Annual finance cost saving = X~1~ − X~2~
-
-
-
-
-
 
 ::: {.callout-tip}
 **Example 8 Melvin**
@@ -601,22 +548,16 @@ Annual finance cost saving = X~1~ − X~2~
 > Melvin Co has annual revenue of \$900,000 (90% of which is on credit). The receivables collection period is 42 days despite offering only 30 days' credit. Melvin Co has a contribution margin of 30% and finances receivables using an overdraft with an annual interest rate of 8%.
 >
 > Melvin Co is considering introducing an early settlement discount while extending its standard credit terms to 50 days. Under the scheme:
-
-
-:::
-
-- > Customers will be offered a 1% discount for payment within 14 days.
-  >
-- > It is anticipated that 40% of customers will take the discount, while those who do not will keep to the new standard credit terms. 
-  >
-- > As a result of the extended credit terms, credit sales are expected to rise by 10%.
-  >
-
+>
+> - Customers will be offered a 1% discount for payment within 14 days.
+> - It is anticipated that 40% of customers will take the discount, while those who do not will keep to the new standard credit terms.
+> - As a result of the extended credit terms, credit sales are expected to rise by 10%.
+>
 > due to the extra administration involved, administration costs are expected to rise by \$10,000 a year.
 >
 > **Required:** **Evaluate whether Melvin Co should offer the discount.**
 
-
+:::
 
 **Key Advantages** of offering cash discounts:
 
@@ -628,8 +569,6 @@ Annual finance cost saving = X~1~ − X~2~
 - it is difficult to decide on suitable discount terms.
 - the introduction of such a discount will make the management of the sales ledger more complex and costly to run and is likely to make the budgeting of receipts from customers more difficult as the company could not be sure whether the discount will or will not be taken.
 - Too often customers will abuse the discount by taking it despite not paying early.
-
-
 
 ##### 2. Factoring
 
@@ -649,25 +588,25 @@ As factors have significant expertise, debts will be collected from customers mo
 
 **Evaluate Whether Use the Factor**
 
-|                            | \$       |
-|----------------------------|----------|
-| **Annual cost**            |          |
-| Factor fees (% of sales)   | (x)      |
-| **Annual benefit**         |          |
-| Administration cost savings| x        |
-| Reduced bad debt           | x        |
-| Finance cost savings (W1)  | x        |
-| **Net benefit**            | **X**    |
+|                             | \$          |
+| --------------------------- | ----------- |
+| **Annual cost**       |             |
+| Factor fees (% of sales)    | (x)         |
+| **Annual benefit**    |             |
+| Administration cost savings | x           |
+| Reduced bad debt            | x           |
+| Finance cost savings (W1)   | x           |
+| **Net benefit**       | **X** |
 
 If the net benefit is positive, it will be financially acceptable to use the factor's service.
 
 Working 1: finance cost savings on reduced receivables
 
-|                                   | Existing  | Revised   |
-|-----------------------------------|-----------|-----------|
-| Receivable collection period      |           |           |
-| Receivables                       |           |           |
-| Annual finance cost               | X~1~      | X~2~      |
+|                              | Existing | Revised |
+| ---------------------------- | -------- | ------- |
+| Receivable collection period |          |         |
+| Receivables                  |          |         |
+| Annual finance cost          | X~1~    | X~2~   |
 
 Annual finance cost saving = X~1~ − X~2~
 
@@ -684,9 +623,6 @@ Annual finance cost saving = X~1~ − X~2~
 - damage to customer relationships: loss of control over customer interactions and factor's "vigour" manner may damage customer relationship
 - selective factor: if the business cannot factor all receivables, managing accounts will be fragmented.
 
-
-
-
 ::: {.callout-tip}
 **Example 9 Velmin Co**
 
@@ -696,18 +632,13 @@ Annual finance cost saving = X~1~ − X~2~
 >
 > Required: Evaluate whether or not Velmin Co should use the factor.
 
-
-
-
-
-
 :::
 
 ##### 3. Invoice Discounting
 
 The selling of selected sales invoices to a third party for a discounted cash sum, while retaining full control over the receivables ledger.
 
-When a business enters into an invoice discounting arrangement, a finance company will provide a cash advance as a percentage of the outstanding sales invoices -- usually in the region of 80%. As customers pay their invoices or new sales invoices are issued, the amount advanced will fall or rise to maintain the level of finance at 80% of the receivables.
+When a business enters into an invoice discounting arrangement, a finance company will provide a cash advance as a percentage of the outstanding sales invoices -- usually in the region of 80%. As customers pay their invoices or new sales invoices are issued, the amount advanced will fall or rise to maintain the level of finance at 80% of the receivables.
 
 **Advantages of Invoice Discounting**
 
@@ -790,7 +721,7 @@ The exporter may choose to:
 - Hold the bill until maturity (and then receive payment from the customer); or
 - Discount the bill with a bank to receive the cash earlier.
 
-However, if the customer does not pay the bill, the bank will have recourse to the exporter (i.e. default risk stays with the exporter).
+However, if the customer does not pay the bill, the bank will have recourse to the exporter (i.e. default risk stays with the exporter).
 
 (2) **Forfaiting (票据买断\\未偿债务买卖)**
 
@@ -868,9 +799,6 @@ Annual benefit of accepting early settlement
 
 If the net benefit is positive, the early settlement discount should be accepted on financial grounds.
 
-
-
-
 ::: {.callout-tip}
 **Example 10 Dec 2016, Q15**
 
@@ -888,15 +816,7 @@ If the net benefit is positive, the early settlement discount should be accepted
 >
 > \(2\) If the cost of overdraft is 8%, whether or not should Swap accept the early settlement discount?
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 11 Nesud (SEP 2016)**
@@ -907,10 +827,4 @@ If the net benefit is positive, the early settlement discount should be accepted
 >
 > (a)Evaluate whether Nesud Co should accept the early settlement discount offered by its supplier.
 
-
-
-
-
-
 :::
-

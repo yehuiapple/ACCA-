@@ -1,0 +1,1216 @@
+Chapter 9 Source of Finance
+Syllabus Coverage
+E. Business Finance
+1. Sources of, and raising, business finance
+a) Identify and discuss the range of short-term sources of finance available to businesses, including:[2]
+overdraft
+short-term loan
+trade credit
+lease finance.
+b) Identify and discuss the range of long-term sources of finance available to businesses, including:[2]
+equity finance
+debt finance
+lease finance
+venture capital.
+c) Identify and discuss methods of raising equity finance, including:[2]
+rights issue
+placing
+public offer
+stock exchange listing.
+d) Identify and discuss methods of raising short- and long-term Islamic finance, including: [1]
+major differences between Islamic finance and the other forms of business finance.
+the concept of riba (interest) and how returns are made by Islamic financial securities.
+Islamic financial instruments available to businesses including:
+murabaha (trade credit)
+ijara (lease finance)
+mudaraba (equity finance)
+sukuk (debt finance)
+musharaka (venture capital). (note: calculations are not required)
+5. Finance for small and medium sized entities (SMEs)
+a) Describe the financing needs of small businesses.[2]
+b) Describe the nature of the financing problem for small businesses in terms of the funding gap, the maturity gap and inadequate security.[2]
+c) Explain measures that may be taken to ease the financing problems of SMEs, including the responses of government departments and financial institutions.[1]
+d) Identify and evaluate the financial impact of sources of finance for SMEs, including sources already referred previous and also [2]
+Business angel financing
+Government assistance
+Supply chain financing
+Crowdfunding / peer-to-peer funding.
+1 Short-term Finance
+Source of finance can be classified as short-term and long-term finance.
+Short-term finance mainly includes:
+bank overdrafts
+short-term bank loans
+trade payables
+
+##### 1. Bank Overdraft
+
+A bank overdraft is a borrowing facility with a current account. where bank overdraft is allowed, it is often the liquidity fallback of choice for SMEs.
+Advantages and disadvantages of overdraft:
+Advantages:
+flexible terms of borrowing and repayment allow companies to borrow funds as needed up to an approved limit, and repay when cash flow permits.
+It can be established relatively quickly, providing immediate access to cash.
+Interest paid on the amount of the facility used is more cost effective.
+Disadvantages:
+Potential uncertainty as banks can withdraw or reduce facilities with little notice
+Overdrafts are unsuitable for long-term financing needs and ongoing cash flow issues.
+Interest rates can be higher than other forms of short-term financing, making overdrafts expensive if used regularly.
+
+##### 2.Short-term bank loans
+
+Advantages and disadvantages of short-term bank loan
+Advantages:
+Quick access to funds for immediate financial needs
+Typically, unsecured
+Short-term interest rates are usually lower than long-term interest rates due to lower credit risk on short-term debt.
+Disadvantages:
+Arrangement fees may be high when expressed as an annual effective cost
+Refinancing risk – when short-term loan matures, the borrower faces the risk that it cannot be easily replaced or refinance or that interest rates have risen.
+
+##### 3. Trade payables
+
+Customers can take advantage of trade credit by delaying payments to existing suppliers. It is obviously a very short period but very important source of finance.
+Advantages and disadvantages of trade credit
+Advantages:
+It allows a company to delay payment, providing a free finance for a period
+Extending the time between receipt of goods/services and payment improves cash flow management.
+Adhering to terms can build supplier relationship, potentially leading to more favorable terms and discounts.
+Disadvantages:
+The loss of settlement (prompt payment) discounts is potentially costly
+Late payments may result in penalties and damage supplier relationship.
+It is specific to purchase from suppliers; it does not meet other short-term needs.
+2 Long-Term Finance
+
+## 2.1 Debt Finance
+
+
+##### 1.Bank Loans
+
+Bank loans – companies agree to borrow from the bank at a fixed rate for a specified period and with an agreed repayment schedule.
+Advantages and disadvantages of bank loan
+Advantages:
+As the loan is for a fixed term, there is no risk of early recall (unlike overdrafts that are repayable on demand). This helps with financial stability.
+A predetermined repayment schedule makes it easier to budget and plan for loan repayments. This helps cash flow management.
+Interest will be tax deductible, and is cost effective.
+disadvantages:
+Terms and conditions are inflexible, fixed repayment schedule may be non-negotiable. A bank may also restrict how a loan can be used.
+Banks may require security (collateral). Assets are pledged as security will be at risk if the company defaults on the repayment schedule.
+It may require covenants to protect the debtholder, which are restrictions on the company (e.g. limits on dividend payments, limitations on future borrowing)
+Penalties or fees for early repayment may exist if a company want to repay a loan ahead of schedule.
+A mortgage loan is typically a long-term loan secured by property.
+Given the security, mortgage loans have a lower interest rate than short-term debt. However, there are likely to be restrictive covenants concerning the use of property and potential disposal. In the event of default on repayments, the lender may force the sale of property to recover the loan. This is a significant risk to the company.
+
+##### 2. Bonds (Loan Notes, debenture)
+
+A negotiable security evidencing a debt governed by a contract which specifies, for example, the coupon rate, repayment schedule, security (if any), principal value, seniority (if subordinate to other debt) and other covenants.
+Bonds may be secured by:
+A fixed charge over a specific asset (normally land or building), which cannot be sold unless the debt is repaid;
+A floating charge over a class of asset which changes. On default, the floating charge becomes fixed, and the asset class can no longer be traded until the debt is repaid. In event of default lenders appoint receiver（接管人制度）rather than lay claim to asset.
+Bonds may redeemable or irredeemable.
+Bonds are usually issued with a face (nominal/par) value of $100. They can be traded on the bond market and reach a market price. Interest is usually a fix coupon expressed as a percentage of nominal value.
+Interest payments = face value ($100) × coupon rate
+Types of bonds
+Deep discount bonds
+Bonds issued at a substantial discount to nominal value and redeemable at par value (or above) on maturity.
+Investors receive a large capital gain on redemption but are paid a low coupon during the loan term. This is especially useful for financing projects which produce weak cash flows in the early years.
+Zero-coupon rate bonds
+Bonds issued at a discount to nominal value and which pay no interest.
+Advantages of zero-coupon rate bonds:
+The issuing company pays no cash interest; the only cash payout is at bonds maturity
+Return to investors is wholly a capital gain.
+
+##### 3. Convertible bonds
+
+Bonds which can be converted into a pre-determined number of shares.
+Pay a fix coupon rate until converted
+May be converted into ordinary shares:
+-on a pre-determined rate
+-at a pre-determined rate (conversion ratio); and
+-at the holder’s option
+Advantages of convertible bonds:
+For the issuer, they can offer a lower coupon rate than would have to be paid on a straight bonds/preference share.
+For investors, they are a relatively low-risk investment with the opportunity to make high returns on conversion to ordinary shares.
+For newer companies, investors may not want to risk investing in equity but may be prepared to invest in less risky debentures. If the company does well, investors can opt to convert and benefit from capital growth or keep safe loan notes.
+loan notes with warrants
+Warrant – the investor’s right, but not the obligation to purchase new shares at a future date at a fixed price (the exercise or subscription price).
+Features of warrants:
+They may be attached to loan notes to make them more attractive
+They are an option to buy shares in the issuing company
+They may be separated from the underling debt and can be traded independently
+Advantages of warrants:
+The coupon rate on the loan note will be lower than for comparable straight debt. This is because investors have the right to purchase new shares at an attractive price.
+They may make an issue of unsecured debt possible when the company has inadequate assets to secure the debt.
+
+##### 4. Preference Shares
+
+Shares with a fixed rate of dividend that have a prior claim on profits available for distribution.
+Preference shares are legally equity they are often treated as debt (under IFRS accounting standards) as they are similar to debt.
+Features of preference shares:
+Have a fixed percentage dividend payable before ordinary dividends. The dividend is expressed as a percentage of share’s nominal value.
+The dividend is only payable if there are sufficient distributable profits. Any dividend arrears are payable before ordinary dividends.
+Dividends are not tax deductible.
+Preference shareholders rank before ordinary shareholders and after debt holders on liquidation.
+Advantages and disadvantages of preference share
+Advantages:
+No voting rights; therefore, no dilution of control right
+Compared to the issue of debt:
+-dividends do not have to be paid in any specific year, e.g. if profits are poor
+-Preference shares are not secured on company assets
+-non-payment of a dividend does not give holders the right to appoint a liquidator
+Disadvantages:
+Dividends are not tax deductible (unlike interest on debt is tax deductible), so preference shares are a relatively rare source of finance in practice.
+To attractive investors to buy preference shares, the company must pay a higher return than debt to compensate for the additional risk.
+Creates extra risk for ordinary shareholders because the preference dividend has to be made before the ordinary dividend.
+
+##### 5.Factors influence what types of debt finance is sought
+
+Availability
+Only listed companies are able to make a public issue of bonds. smaller companies are only able to obtain debt finance from a bank.
+Credit rating
+Credit ratings are given to bond issues by credit rating agencies and this will affect the interest yield that investor will require.
+Amount-Bonds issue is usually for large amounts.
+Duration
+If the loan is sought to buy a particular asset, the length of the loan should match the length of time that asset will be generating revenues.
+Fixed or floating rate
+Expectation of interest rate movements will determine whether a company wants to borrow at a fixed or floating rate. Fixed-rate finance may be more expensive, but the business runs the risk of adverse upward rate movements if it chooses floating rate finance.
+Security and covenants
+The choice of finance may be determined by the assets that the business is willing or able to offer as security, and by the restrictions in covenants that the lenders wish to impose.
+
+## 2.2 Equity Finance
+
+Equity finance can be internal or external finance. Internal source of finance is retained earnings which will be covered in chapter of dividend policy.
+A company can issue new shares to finance tis projects, i.e. external finance.
+
+##### 1.Methods of Share Issue
+
+(1) options for unquoted companies
+For unquoted companies, methods of share issue include:
+To become quoted, raise new equity finance at the same time as becoming listed. This is known as initial public offering (IPO) or listing. It is an expensive process.
+To say unquoted, use a rights issue or private placing. However, sources of funds are limited to existing owners and new private investors.
+Advantages and disadvantages of listing
+Advantages:
+access to a wider pool of finance
+Improved marketability of shares
+Enhanced public images
+Easier to seek growth by acquisition.
+Original owners realizing part or all of their holdings
+Disadvantages of listing:
+Greater public regulation, accountability and scrutiny.
+Additional cost involved in making share issue, including brokerage commissions and underwriting fees.
+Increase in costs arising from the strengthening of the company’s reporting function (accountancy and auditing fee).
+Many factors will affect share price
+Ways of become listed
+Initial public offer
+introduction
+-stock market grants a quotation, given that shares must already be wildly held, so that a market can be seen to exist.
+-No shares are made available to the market, so no new finance is raised.
+-Useful to gain greater marketability of shares, or further easier access to additional capital.
+stock exchanges for different sorts of listing
+London Stock Exchange-the Main Market and Alternative Investment Market (AIM). AIM focuses on helping smaller and growing companies raise the capital they need for expansion.
+NASDAQ: This is an electronic stock exchange in the US and has the NASDAQ National Market for large, established companies (market value at least $70m) and the NASDAQ Capital market for smaller companies.
+(2) options for quoted companies
+If a company is already listed, there are three main ways of issuing new shares and raising equity finance:
+Public offer
+-for subscription: a direct sale to the public. This is generally the most expensive method of issuing new shares.
+-for sale – an indirect sale to the public is achieved by selling shares directly to an issuing house (investment bank), which then sells them to the public. (The issuing house guarantees to buy the shares.)
+Placing - Shares are offered to a selection of investors (usually pension fund and insurance companies) rather than the general public. This is generally the least expensive method of issuing new shares.
+Right issue – an offer to existing shareholders to buy new shares in proportion to their existing holdings.
+Rights issue
+In a right issue, the existing shareholders are offered new shares (usually at a discount to the current market price) in proportion to existing holdings.
+Theoretical Ex-Right Price (TERP) - The expected share price after the right issue.
+It is simply the forecast total market value of the company’s equity after the rights issue divided into the number of shares that will be in issue after the rights issue.
+TERP =
+Note for the calculation of TERP：
+Proceeds of the rights issue should be added net of any issue costs;
+If the project has already been announced, and if the market is semi-strong efficienct, the project's NPV will already be reflected in the existing share price and it should not be included again in the formula above.
+So, when issue costs are ignored and the project’s NPV is already reflected in existing share price, calculation of TERP can be simplified as:
+TERP=
+Where: N is the number of shares required to have the right to buy 1 new share.
+Value of a right = theoretical ex-right price – issue price
+The value of a right per existing share = the value of a right / N
+The actual market price after a right issue may differ from the TERP. This will occur when expected yield from new funds raised are not equate to earnings yield form existing funds.
+Right issue and shareholder wealth
+In theory, shareholders can take up or dispose of their rights, shareholder wealth will not change.
+Example 1
+Gopher has issued 3,000,000 ordinary shares of $1 each, which are at present selling for $4 per share. The company plans to issue rights to purchase 1 new equity share at a price of $3.2 per share for every 3 shares held.
+Required:
+(1) Calculate the TERP
+(2) Value of rights
+A shareholder owns 900 shares in Gopher before the rights issue. Assuming that the actual market value of shares will be equal to the theoretical ex-rights price, what would the effect on the shareholder’s wealth be if the shareholder
+(1) buy the new shares
+(2) sell the right
+(3) do nothing
+Example 2 (Sep/Dec 2020)
+Simon Co is planning a 1 for 4 rights issue. The value of rights has been calculated as $0.40per existing share. Simon Co's market price is currently $7.00 per share.
+What is the theoretical ex rights price (TERP) per share and the rights issue price pershare?
+TERP = $(               )
+Rights issue price $(              )
+Summary: Public Offer, Placing and Right Issue Compared
+Public offer and placing will dilute the ownership existing shareholders, while right issue will not affect the voting right if shareholders all take up their right
+Public offer is more expensive than right issue, as the new issues can incur costs (such as underwriting, advertising costs), right issue is relatively cheaper and simpler than public offer
+(3) Other Types of Share issue
+Bonus issue (Scrip issue)
+Reserves are converted into share capital, which is distributed as new shares to existing shareholders in proportion to their existing holdings.
+No finance is raised.
+The purpose is to increase the marketability of shares, as it increases the number of shares and reduces their price.
+Sigal a company’s strength to the market.
+Stock split
+Stock split occurs where ordinary shares are split in value (e.g. each of $1 share is converted into two 50cent shares) this reduces the market price per share, increasing their marketability.
+A stock split changes the share capital but does not raise any new equity finance for the company, and does not dilute the ownership interests of existing shareholders.
+Exam advice
+If asked to recommend a suitable equity source of financing method, consider the following factors (in so far as the information permits):
+(1) Availability
+Quoted companies are able to use any of equity resources, unquoted companies are restricted to right issues, private placing, retained earnings
+(2) Amount of finance
+Right issue
+Public offer
+(3) Cost of issue procedure
+Internal funds
+Placing
+Right issue
+Public offer
+(4) Pricing of the issue
+New issue: if the price is high, the issue may not be fully taken up; if it is underpriced, some of the benefits of the project will accrue to new shareholders
+Placing: price will be negotiated so as to be attractive
+Right issue: completely by-pass the price problem, as any gain on new shares would go to the existing shareholders
+Unquoted: more complex, as no existing market price to refer
+(5) Control right
+There is no change with internal funds and right issue (if they are taken up by existing shareholders)
+Placing and public offer introduce new shareholders
+There is no rigid rule concerning the choice. Use of Internal funds is the best, but subject to sufficient availability and dividend policy considerations. Of the new issue methods, the order of preference will be right issue, placing, and public offer.
+
+## 2.3 Leasing (Medium-term)
+
+Under a lease contract, the lessee has the right to use an asset owned by the lessor in exchange for a series of payments.
+Advantages of leasing
+Leasing offers more flexibility than borrowing to buy. Lease periods can be less than an asset’s useful life. If technology changes and the asset becomes out of date before the end of its expected life, the lessee does not have to keep on using it.
+Some leasing includes repairs and maintenance; this helps reduce the costs of asset maintenance.
+Under the leasing contract, the risk of failing to achieve a disposal value would be transferred to the lessor.
+the company may have difficulty to obtain a bank loan to buy the asset, leasing may be the only way of getting use of the asset, but there are many leasing providers (often associated with asset manufactures).
+Disadvantages of leasing:
+at the end of lease, the company typically does not own the asset unless it has an option to purchase it at an additional cost.
+
+## 2.4 Venture Capital
+
+Venture capitalists are a potential source of finance for SMEs. venture capital is equity capital provided to small and growing business. It is a venture capital firm that manages a venture capital fund, or a high-risk, potentially high-return subsidiary of an organization with significant cash to invest. Typically, a $1m minimum is involved for any one investment.
+Venture capital trusts also serve as a potential financing source. VCTs are listed investment trust companies which invest at least 70% of their funds in a spread of small unquoted trading companies.
+3 Finances for SMEs
+
+## 3.1 What is an SME?
+
+Characteristics of an SME
+is likely to be unquoted;
+ownership of the business is restricted to a few individuals, typically a family group;
+it is not a macro business, i.e. a very small business created for the self-employment of its owners.
+Importance of SMEs
+SMEs contribute in a significant way to many economies in the world. Besides generating income (often a large proportion of the gross national product), they are frequently major employers and the sector most identified with new ideas and entrepreneurial spirit. These latter factors help sustain and support growth rates in many economies.
+
+## 3.2 Difficulties in raising finance
+
+Funding gap and maturity gap
+Initial owner finance is nearly always the first source of finance for an SME, whether from the owner or family connections. Many of assets be intangible at this stage, making external financing difficult. The funding gap is the difference between the finance available to SMEs and the finance they could productively use.
+For small business, long-term loans are often easier to obtain than medium-term loans because the longer-term loans are easily secured with mortgage against property. As medium-term loans are hard to obtain for SMEs, and many resort to financing medium-term assets with short-term finance such as overdrafts, this is known as maturity gap as there is a mismatch of the maturity of the assets and liabilities within the business.
+Reasons of difficulties in raising finance
+perceptions of risk and uncertainty
+SMEs are often viewed as unattractive investment opportunities because they have high levels of risk and uncertainty attached to them. Reasons include:
+SMEs typically do not have a track record
+SMEs often have no or very limited internal controls
+SMEs don’t require audits, and the press is not interest in them. Therefore, they have fewer external regulatory and controls.
+The potential investors in an SME have much information about the business than its managers (i.e. information asymmetry) contributes to their perception of high risk.
+SMEs often have one dominant owner-manager whose decisions are rarely questioned
+SMEs often have limited assets to offer as security.
+absence of security
+if an SME seeks a bank loan, the bank will require security available for any loan provided. Many SMEs are based in the service factor, where the main asset is likely the human capital rather than physical assets. Therefore, the directors may pledge personal asset (e.g. homes) to secure bank loans.
+shares lack marketability
+the equity issued by small companies is unquoted and difficult to buy and sell. The lack of marketability means that small companies may be unable to offer new equity to anyone other than family and friends.
+Therefore, SMEs have to rely on retained earnings for equity finance, but this source is limited, especially when profits are low. They may have to rely on debt if the amount of equity they can raise is restricted.
+
+## 3.3 Potential Sources of Finance
+
+Government policy can influence the level of funds available.
+tax policy such as higher taxes on dividends or concessions to encourage companies to invest (e.g. tax-allowable depreciation)
+interest rate policy, for example, low rates, means borrowing is cheaper and the supply of funds increases as there is less incentive for investors to save.
+
+##### 1.debt finance
+
+Source of debt finance available to SMEs include:
+trade credit (obtaining goods from suppliers on credit terms).
+factoring and invoice discounting (whereby a company effectively raises finance against the security of its outstanding receivables)
+leasing is useful for SMEs as it avoids raising capital to acquire assets. For SMEs, leasing can be cheaper than borrowing because:
+-large leasing companies have bargaining power with suppliers, and so the reduced cost of assets can be partially passed on to lessees.
+-leasing companies can usually dispose of old assets more effectively than SMEs.
+-the finance cost to a large lease company will likely be less than that for an SME.
+Bank finance, typically an overdraft or longer-term loans secured on major assets, is usually supported by business plans and backed by personal guarantees of owner of the SME.
+
+##### 2. government sources
+
+governments are often keen to support SMEs in raising finance. government source include:
+Grants and subsidies
+Depending on the location and nature of the SME, regional, national or even international grants may be available to help start up the business. Subsidiaries may take the form of government loans offered to SMEs at interest rates below commercial levels.
+government loan guarantee schemes
+government loan guarantee schemes exist in various countries to support businesses and stimulate economic activity. for instance, the ‘Enterprise Finance Guarantee’ scheme in the UK, helping SMEs to finance from a bank.
+Providing equity investment
+many countries have government-backed venture capital organizations that are willing to invest in the equity of SMEs.
+
+##### 3.Business Angels
+
+business angels are private individuals (or small groups of individuals) prepared to invest equity in small business with considerable potential. Angels provide not only finance, they also offer advice, experience and business contract.
+
+##### 4.Crowdfunding
+
+Crowdfunding – using a large, evolving, relatively open group of people (usually assembled via the internet) to provide finance for the project.
+Under crowdfunding, there is no financial intermediary: each individual in the crowd has a direct relationship with the entity funded. Crowdfunding may be appropriate for the early stages of “seed” finance for an SME.
+Crowdfunding can be very beneficial for SMEs as it allows them to reach out directly to investors who may be willing to take the risk associated with funding technologies and innovations often pioneered by SMEs.
+Crowdfunding may also be debt-based.
+
+##### 5.Supply chain financing
+
+The use of financial instruments, practices and technologies to optimize the management of the working capital and liquidity tied up in supply chain processes for collaborating business partners.
+SCF provide short-term credit that optimizes working capital for both the buyer and the seller. It generally involves using a technology platform to automate transactions and track invoice approval and settlement processes from initiation to completion.
+Obviously, SCF could be of great help to SMEs with a poor credit rating (or lacking a credit history) that supply goods or services to a large company with a good credit rating. It allows the SME to take advantage of its customer’s superior credit rating and receive immediate payment at a small discount to the sales invoice’s face value. The customer may also benefit from its bank offering extended payment terms on the invoice.
+However, a disadvantage for SME suppliers is that large trading partners may be able to abuse their power by demanding lower prices from them in exchange for arranging SCF.
+
+##### 6.peer-to-peer lending
+
+A method of debt financing that enables individuals to lend money to small businesses without using an official financial institution as an intermediary.
+P2P lending is also referred to as debt-based crowdfunding.
+Summary: debt finance compared to equity
+Advantages of debt finance compared to equity
+debt is a cheaper source of finance
+debt will not dilute EPS and control right
+debt is quicker and cheaper to issue than a share issue
+interest payments attract tax relief
+the use of debt is a discipline on managers
+using debt can be interpreted as a signal of confidence in future cash flows
+disadvantages of debt finance compared to equity
+debt creates higher variability in dividends ie higher financial risk
+using debt worsens interest cover and gearing ratios, and creates higher default risk
+debt payments must be paid even if the company is not making profit
+Exam advice
+If asked to recommend a suitable financing method, consider the following factors (in so far as the information permits):
+(1) Availability
+Finance may be limited if recent performance is poor and an SME will find it difficult to raise equity.
+(2) cash flow
+Debt requires to pay out cash in the form of interest; therefore, the company’s ability to generate cash will be relevant.
+control
+raising equity will lead to a change in control, but debt will not.
+cost
+debt finance is cheaper than equity finance, so if the company can take on more debt, there could be a cost advantage.
+ease and cost of issue
+raising equity is more difficult, time consuming and expensive than raising debt.
+maturity
+in general, the term of finance should match the term of needs. However, the maturity dates of existing debt should also be considered.
+risk
+company must control the total risk. If business risk rises, the company may seek to reduce financial risk and vice versa.
+security and covenants
+debt may require security (is this available?) or covenants (are these acceptable?) to maintain a certain liquidity level.
+yield curve
+if the yield curve is getting steeper, there is an expectation that interest rate will rise. Therefore, fixed-rate debt may be appropriate if a company wishes to raise more debt.
+4 Islamic Finance
+
+## 4.1 Background
+
+Islamic finance – a system of banking consistent with the principles of Islamic law (Sharia). Sharia prohibits:
+the payment or acceptance of interest (riba); and
+Investing in businesses that provide goods or services considered contrary to its principles.
+Islamic finance is based on Islamic law, or Sharia. Sharia emphasizes justice and partnership.
+Main Principles
+Wealth must be generated from legitimate trade and asset-based investment. The use of money for the purposes of making money is forbidden.
+Investment should also have a social and an ethical benefit to wider society beyond pure return.
+Risk should be shared
+All harmful activities should be avoided.
+Islamic banks must obtain their earnings through profit-sharing investments or fee-based returns. When loans are given, the lender should take part in the risk. Otherwise, the receipt of any gain over the amount loaned is regarded as interest.
+The Shariah board
+The Shariah board is responsibility for ensuring that all products and services offered by that institution are compliant with the principles of Shariah law. Boards are made up of a committee of Islamic scholars and different institutions can have different boards.
+Developments
+The main problem is the absence of a single, worldwide body to set standards for Sharia compliance. Some financial aspects of Sharia law can be open to interpretation; therefore, a contract might be unexpectedly declared incompatible with Sharia law and rendered invalid.
+In Malaysia, the world's biggest sukuk (debt finance) market, the Sharia Advisory Council ensures consistency to help create certainty across the market. Some industry bodies, notably the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI) in Bahrain, also work towards common standards.
+However, despite these movements towards consistency, some differences between national jurisdictions will likely remain.
+
+## 4.2 Prohibitions
+
+Charging and receiving interest (riba). (Islamic banking is based on profit sharing rather than interest.)
+Investment in companies with too much borrowing (debt totalling more than 33% of the company's stock market value).
+Investments in businesses dealing with alcohol, gambling, drugs, or anything else the Sharia considers unlawful or undesirable.
+speculating on the futures and options markets.
+selling something that one does not own, complex derivative instruments and short selling
+
+## 4.3 Islamic financial instruments
+
+
+##### 1.Mudaraba (equity finance)
+
+A bank provides all the capital, and its customer provides expertise and knowledge and invests the capital. Profits are distributed in a predetermined ratio. Any losses are borne by the capital provider, thereby exposing the bank to considerable investment risk.
+
+##### 2.Musharaka (venture capital)
+
+A joint venture or partnership between two parties provide both capital and expertise for financing new projects. Profits are shared on a pre-agreed ratio, with losses shared based on the relative amounts of equity invested.
+
+##### 3.Murabaha (trade credit)
+
+Trade credit for asset acquisition that is structured to avoid the payment of interest. A bank buys the asset and then sells it to the customer on a deferred basis at a price that includes an agreed mark-up. The mark-up cannot be increased, even if the client does not take the asset within the time agreed in the contract.
+
+##### 4.Ijara (lease finance)
+
+lease finance whereby the bank buys an item for a customer and then lease it to the customer over a specific period at an agreed amount. The customer's payments include a contribution to the purchase price, rent for use of the property and insurance charges. At the end of the finance term, the customer can exercise an option to have the property transferred into their name.
+Ownership of the asset remains with the lessor bank, which will seek to recover the capital cost of the equipment plus a profit margin out of the rentals payable.
+
+##### 5.Sukuk (debt finance)
+
+That involves Islamic bonds where the sukuk holder's return for providing finance is a share of the income generated by the project’s assets. This entitlement to a share of the income generated by the assets (rather a return based on interest on money loaned) can make the arrangement sharia-compliant.
+Hibah (gift): this is where Islamic banks voluntarily pay their customers a "gift" on savings account balances. This gift represents a portion of the profit made using those balances in other activities.
+Qard hassan (good loan/benevolent loan): this involves a loan extended on a goodwill basis, and the debtor is only required to repay the amount borrowed. However, the debtor may, at their discretion, pay an extra amount to the creditor.
+5 Summary
+
+## 5.1 overview
+
+
+## 5.2 technical articles
+
+Business finance for SMEs
+Business finance
+Introduction to Islamic finance
+chapter 10 Dividend Policy
+syllabus coverage
+E. Business Finance
+1. Sources of, and raising, business finance
+e) Identify and discuss internal sources of finance, including:[2]
+retained earnings
+increasing working capital management efficiency
+the relationship between dividend policy and the financing decision
+the theoretical approaches to, and the practical influences on, the dividend decision, including legal constraints, liquidity, shareholder expectations and alternatives to cash dividends.
+1 Internal Source of Finance
+The internal source of finance includes:
+The primary source of internal finance is retained earnings (cash).
+can also be generated by increasing working capital management efficiency.
+
+## 1.1 retained earnings
+
+Retained earnings in the statement of financial position may not be able to finance investment. Therefore, retained cash, rather than retained earnings, is the source of finance.
+Advantages of using retained cash as a source of finance:
+Is flexible in terms of amount used or repayment patterns
+no dilution of control
+no issue costs
+Disadvantages of using retained earnings:
+shareholder funds are an expensive source of finance
+shareholders may be sensitive to the dividend payments that will result from retention of reinvestment
+there is an opportunity cost in that if dividends were paid, the cash received could be invested by shareholders to earn a return.
+The three key decisions in financial management – investing, financing and dividend policy – are interrelated:
+an increase in dividends (the dividend decision), will reduce the level of retained cash available and increase the need for external finance (the financing decision) to fund investment project (the investment decision).
+An increase in asset expenditure (the investment decision), would also increase the need for finance (the financing decision) which may be sourced internally by reducing dividends (the dividend decision).
+Therefore, the company must decide whether to pay a dividend or retain earnings.
+
+## 1.2 improved working capital management
+
+a company’s ability to generate internal finance depends on generating operating cash flow exceeding interest and taxes.
+Potential internal finance available = operating cash flow − interest – tax
+Operating cash flows are calculated as follows:
+Improved working capital management can help to release more internal equity finance. Potential areas for improvement include:
+Reducing the time taken to receive payments from customers (e.g. offering discounts for quick payment or outsourcing debt collection to a factor).
+Reducing inventory (e.g. through improved supply chain management or even moving to Just-in-Time (JIT) production).
+Taking increased credit from suppliers.
+2 Dividend Policy
+
+## 2.1 Dividend Theories
+
+
+##### 1.The Dividend Valuation Model
+
+The dividend valuation model states that the value of a company’s shares depends on the expected future dividends. The formula for DVM is:
+P0 = D0(1+g) / (ke-g)
+Where:
+P0: the ex-div share price at time 0
+D0: the time 0 dividend;
+Ke: the rate of return of equity
+g: the future growth rate from current time onwards
+The formula can also be rewritten as:
+P0 = D1 / (ke – g)
+Where:
+D1 is the Time 1 dividend
+g is the future growth rate from Time 1 onwards.
+
+##### 2.the Gordon growth model
+
+If all earnings were distributed as dividend the company has no additional capital to invest, can acquire no more assets and cannot make higher profits.
+The dividend growth rate g is given by:
+g = bR
+b: the proportion of earnings retained; (1-b) is the proportion of earnings paid as a dividend
+R: the rate that profits are earned on new investment
+If earnings at time 1 are E1, then the DVM can become:
+P0 = D1/(ke-g) = E1(1 – b)/(Ke– bR)
+If the dividend policy is represented by b and 1-b, the formula predicts that the share price will change if b changes and other things remain unchanged.
+
+##### 3. dividend Irrelevance theory
+
+Modigliani and Miller argue that shareholders are indifferent to dividend policy under certain conditions.
+If a company pays no dividend, the share price should rise due to reinvestment of retained earnings.
+shareholders can manufacture dividends by selling shares which will have risen in value because of the investments. The increase in the value of shares can compensates for the loss of dividend.
+Under this theory, the dividends pattern is irrelevant to shareholder wealth.
+However, Modigliani and Miller made a series of assumptions which may not hold in practice:
+dividends and capital gains are taxed at the same rate
+no transaction cost (investors can sell shares to create a home-made dividend without incurring any trading costs)
+perfect markets (if the company defers dividend payments, the current share price will fully reflect its value).
+Note: this equilibrium is reached only if the amounts retained are reinvested at the cost of equity.
+Example 1
+earnings are all paid as dividend
+Current EPS = $0.8 per share (all paid out as dividend); Ke =20%
+the price per share would be: P0 = 0.8/0.2 = $4
+assumes from Time 1 onwards, half the earnings were paid out as dividend and half retained. what would happen to the share price?
+1)earnings are reinvested at the cost of equity and assumes R = 0.2
+So, no change in the share value, and so the dividends are irrelevant.
+2)earnings are reinvested at more than the cost of equity and assumes R = 0.3
+In this case, the share price rises because the extra earnings retained have been invested in a particularly valuable way.
+3)earnings are reinvested at less than the cost of equity and assumes R = 0.1
+In summary:
+If the company retains earnings and uses those to ‘do more of the same’ then the share price should not be affected.
+If the company retains earnings and uses those to produce higher returns than demanded by investors then dividends should be cut as that will increase shareholder value.
+If the company retains earnings and uses those to produce lower returns than demanded by investors then dividends should be increased to avoid the share price falling. If the company can think of no-good use for its earnings, it should distribute them to shareholders who can then decide for themselves what to do with them.
+
+##### 4. bird-in-hand theory
+
+The bird-in-hand theory argues that shareholders prefer higher dividends (and therefore lower potential capital gains) because a cash dividend is without risk, whereas future share price growth is uncertain.
+
+##### 5.clientele theory
+
+The company’s historical dividend policy may have attracted investors with specific needs (e.g. for current income or their tax situation). An abrupt change in dividend policy will disturb investor’s portfolios and investors will have to adjust their mix of shares. Therefore, the company should maintain a stable dividend policy or losing major investors.
+
+## 2.2 Practical Considerations
+
+practical factors have a significant influence on the company’s dividend policy.
+Legal constraints
+In most countries, a dividend can only be paid if there is a credit balance in the retained earnings account in the statement of financial position. No distributable reserves means no dividends.
+Company liquidity requirements
+Companies have to maintain adequate liquidity. Dividend restrictions may be imposed to stay solvent or meet statutory capital maintenance requirements.
+Shareholder expectation
+Most shares in quoted companies are held by influential institutional investors. A large dividend in current year may create expectations of the same or even higher in future. If these expectations are not met, key investors may sell their shares. So the company have to manage investor expectation of dividends.
+Signaling
+There always exists information asymmetry between investors and the company. In a semi-strong form of the efficient market, public announcement of the level of dividends are signals of company’s strength or weakness, and share price will react to the announcement of a dividend.
+Usually, a cut dividend may be treated by investors as a negative signaling that the future prospects of the company are weak;
+an increase in dividend may be treated by shareholders as a positive signal of growing prospects of the company.
+This means that it is better for a company to follow a consistent dividend policy.
+Borrowing covenants
+A loan agreement may include clauses that limits dividend payments, for example a specified proportion of earnings. If less cash is paid as dividends, liquidity might be better.
+
+## 2.3 Dividend Payment Policies
+
+Constant dividend
+in this approach dividends are predictable but shareholders might be dissatisfied if they receive relatively low dividends if earnings are rising.
+Constant growth
+Constant growth is predictable and attractive to shareholders. However, the dividend growth rate might not match earnings growth rate.
+Constant payout ratio
+A constant payout ratio means paying a dividend that is a fixed proportion of earnings. This can create a variable number of dividends and is rarely adopted.
+Dividends as residuals
+retained earnings fund all positive NPV projects, any remaining earnings not needed to support such projects are paid out as a dividend.
+Zero dividend
+A high-growth company may find that, in the early years, all surplus cash can be profitably reinvested back into the business, particularly if the company lacks access to external finance.
+Example 2
+S company is a listed company on the stock market and 40% of shares are in the hands of public investors. The company’s profit growth and dividend policy are set out below. Will a continuation of the same dividend policy as in the past be suitable now?
+3 Alternatives to Cash Dividends
+
+## 3.1 Scrip dividends
+
+A scrip dividend is a choice between a cash dividend and shares instead of cash. The number of shares received is linked to the dividends and the market price of the shares so that roughly equivalent value is received.
+To attract the investors to choose shares, the value of shares offered is much greater than the cash alternative.
+Advantages of scrip dividend
+It allows investors to acquire new shares without transaction costs and the company can conserve its cash for reinvestment.
+In some countries investors can obtain beneficial tax effect.
+Disadvantages of dividend
+If the dividend per share is maintained or increased, the future total cash paid as a dividend will increase
+Due to an increase in supply of shares, the share price may fall
+May be seen as a negative signal by the market i.e. the company is experiencing cash flow issues.
+
+## 3.2 Share buyback
+
+A buyback can be performed by:
+-Writing directly to all shareholder with an offer to buy shares at a fixed price or;
+-Purchasing shares via the stock market at the prevailing price.
+The shares are either cancelled (and a non-distributable reserve created) or held by the company as treasury shares for possible future reissue (carrying no voting rights and receive no dividends).
+Effects of share buyback:
+share price should rise as there are fewer shares after buyback
+ratios such as EPS, gearing and ROE should also improve
+in many countries, a share buyback is treated as a capital gain rather than as income. This can have tax advantages if tax on capital gain is lower than tax on income.
+
+## 3.3 Special Dividends
+
+A larger-than-expected dividend may raise market expectations that future dividends will also be higher. So, a larger dividend may be announced as a special dividend- a bonus dividend to avoid creating expectations of an unsustainable level. Any exceptional cash surplus will be returned in this way but that this should not be built into dividend per share forecast.
+4 Summary
+
+## 4.1 overview
+
+
+## 4.2 technical articles
+
+Related technical articles:
+Dividend theory
+Chapter 11 the Cost of Capital
+syllabus coverage
+B. Financial Management Environment
+2.The nature and role of financial markets and institutions
+d) Explain the nature and features of different securities in relation to the risk/return trade-off.
+E. Business finance
+2. Estimating the cost of capital
+a) Estimate the cost of equity including:[2]
+application of the dividend growth model, its assumptions, advantages and disadvantages.
+explanation and discussion of systematic and unsystematic risk
+relationship between portfolio theory and the capital asset pricing model (CAPM)
+application of the CAPM, its assumptions, advantages and disadvantages.
+b) Estimating the cost of debt:[2]
+irredeemable debt
+redeemable debt
+convertible debt
+preference shares
+bank debt.
+c) Estimating the overall cost of capital including:[2]
+distinguishing between average and marginal cost of capital
+calculating the weighted average cost of capital (WACC) using book value and market value weightings.
+3. Sources of finance and their relative costs
+a) Describe the relative risk-return relationship and the relative costs of equity and debt.[2]
+b) Describe the creditor hierarchy and its connection with the relative costs of sources of finance.[2]
+1 Risk and Return
+The relative risk return relationship of equity and debt is based on their relative priority for repayment on liquidation – the creditor hierarchy:
+secured creditors (loans and loan notes)
+Unsecured creditors (trade payables and unsecured debt)
+Preference shares
+Ordinary shares
+The risk faced by each class of investor drives the required return of investors (there is a risk/return pay off) and the required return drives the company’s cost of each finance.
+Providers of debt holders will face low risk because:
+Debt holders will receive interest payment each year
+Are paid before providers of share capital in the event of liquidation
+Preference shareholders face higher risk because:
+a dividend will only be paid after providers of debt have been paid
+in a liquidation the debt holders will be paid before preference shareholders.
+Ordinary shareholders face the highest risk because:
+A dividend will only be paid after the providers of debt and preference shareholders have been paid
+In a liquidation the debt holders and preference shareholders will be paid before ordinary shareholders
+The cost of capital is the rate of return that the company must pay to satisfy the providers of funds, and it reflects different levels of risk of providing funds. The higher the risk faced, the higher return that will be expected.
+Investor’s rate of return and cost of capital
+For equity and preference share, cost of capital equals to investor’s required rate of return
+for debt finance, cost of capital does not equal to investor’s required rate of return because a company receive tax relief on interest payments.
+2 Cost of Equity
+The cost of equity can be estimated in two ways:
+the dividend growth model
+the capital asset pricing model
+
+## 2.1 the Dividend growth Model
+
+The DVM
+According to the DVM, the market value of share:
+Ex-div market value at time 0 = Present value of the future dividends discounted at the shareholder’s required rate of return.
+The DVM model then becomes:
+P0 =         for constant dividend to infinity;
+or
+P0 =  =    for dividend grow at a constant rate in perpetuity.
+If the company is listed and the share price is known, the DVM can be rearranged and used to estimate shareholders’ required return:
+Ke =           for constant dividend to infinity;
+or
+for dividend grow at a constant rate in perpetuity
+Where:
+Ke = the cost of equity
+D = constant annual dividend per share
+D0 =the current dividend per share
+g = expected dividend growth rate in future
+Po =current ex-div price per share
+The ex-div market value is the market value of the share, assuming that the current dividend has just been paid.
+A cum-div market value includes the value of the dividend just about to be paid. The relationship between cum-div price and ex-div price is below:
+cum-div Price = ex-div share price + dividend
+Lecture example 1
+A company’s current dividend cover ratio is 4 times and after-tax profits are $20m. The company has one million $1 ordinary shares in issue and the current market capitalization of the company is $50m.
+What is the cost of equity capital if?
+expects zero growth in dividends
+expects a growth rate of 4% in dividends in future?
+Estimating the growth rate of dividends
+The growth rate of dividends can be estimated using either of two methods:
+extrapolation of past dividends
+Gordon’s growth model
+
+##### 1.from historic growth
+
+This method analyses historical growth to predict future growth rate. For uneven but steady growth, take an average overall growth – the geometric mean.
+growth rate=
+
+##### 2.gorden’s growth model
+
+According to Gordon’s growth model, growth is achieved by retaining and reinvesting profits:
+g = bre
+where: re= rate of return on reinvested funds (ROCE)
+b= % of profits reinvested (retention ratio)
+re=
+Lecture example 2
+Cg company has 4 million shares in issue, and has done for many years. Its dividend payments in the years 2009 to 2013 were as follows.
+dividends are expected to continue to growth at the same average rate into the future. The current ex-div share price of the company at year 2013 is $1.73.
+what is cost of equity for Cg company?
+Example 3
+IPA company is about to pay a $0.50 dividend on each ordinary share. Its EPS was $1.5. Net assets per share is $6. Current share price is $4.50 per share.
+What is the cost of equity?
+Underlying assumptions of the DVM include:
+The same expectations for all investors; therefore, they all require the same rate of return.
+Perfect capital market assumptions:
+-rational investors;
+-no taxes or transaction costs;
+-large number of buyers and sellers of shares;
+-no individual can affect the share price; and
+-perfect information is freely available to all investors.
+Dividends are paid just once a year and one year apart.
+Dividends are either constant or are growing at a constant rate.
+Advantages and disadvantages of DVM
+Advantages:
+It is easy to understand and can be applied to any share that offers a dividend.
+For minority shareholders without control over a company’s policies, dividends are the only available metric.
+It is particularly suitable for “mature” companies paying regular dividends.
+Disadvantages:
+It cannot be applied to shares that do not pay dividends therefore, it cannot be used for smaller businesses and startups.
+It does not explicitly incorporate risk.
+Dividends don’t grow smoothly in reality so it is only an approximation
+It makes no allowance for non-dividend factors that influence the value of a share (e.g. brand loyalty and other internally generated intangible assets).
+It assumes there are no issue costs for new shares
+current market price P0 can be subject to short-term influence which will distort the estimate of cost of equity
+It’s difficult to estimate growth rate, and the future growth rate may not equal historical growth rate
+
+## 2.2 Capital Asset Pricing Mode (CAPM)
+
+
+##### 1.systematic and unsystematic risk
+
+If an investor has a portfolio of investments in the shares of several different companies, the risk of the portfolio is less than the average due to diversification.
+Investment risk has two elements:
+Systematic risk; and
+Unsystematic risk.
+Unsystematic risk – The risk which is unique to each company’s shares (also called diversifiable or industry-specific risk). Unsystematic risk can be eliminated by a diversified portfolio.
+Systematic risk - The risk is associated with the financial system which affects the market as a whole rather than a specific company’s shares (also called market risk or undiversifiable risk). Systematic risk cannot be eliminated by a diversified portfolio.
+The sum of systematic risk and unsystematic risk is called total risk.
+As more different shares are added to the portfolio, the unsystematic risk is diversified away and the total risk reduces to approach systematic risk.
+This means that investors should only be rewarded for risks they cannot avoid − systematic risk.
+
+##### 2. measurement of systematic risk
+
+Beta factor describes a share's degree of sensitivity to changes in the market's returns caused by systematic risk.
+Beta factors for quoted shares are measured using historical data and published in "beta books". They are determined by comparing changes in a share's returns to changes in the stock market returns as a whole over many years (at least five years).
+Typically, beta lies between 0.2 and 1.6:
+βi=1, indicate a neutral share that is as sensitive as the market to systematic risk. Such shares should earn the market return.
+ßi>1, indicate an aggressive share that is more sensitive than the market.
+ßi<1, indicates a “defensive” share that is less sensitive than the market and is likely to rise and fall in value less than the market in general.
+
+##### 3.the Capital and Asset Pricing Model
+
+The CAPM is a method of calculating the return required on an investment based on its risk.
+The Security Market Line (SML) plots the required return (E(ri)) from any investment according to its systematic risk, as measured by its beta.
+Comparing forecast returns from an investment against the required return indicates whether an investment is undervalued or overvalued.
+Any share with a return above the SML (e.g. A has higher returns than predicted) would be sought after as it appears to be temporarily underpriced. It is, therefore, underpriced and will be sought after. This will drive up its price and reduce its expected return until it earns only the required return indicated by the SML. A is a “positive alpha” investment.
+Any share with a return below the SML (e.g. B) would be sold as it appears to be temporarily overpriced. This will drive down the price and increase the expected return until it earns the required return indicated by the SML. B is referred to as a “negative alpha” investment.
+In the long run, market forces should ensure that all investments give the returns predicted by the SML.
+CAPM is the equation of the SML that relates required returns to beta values as measures of systematic risk. CAPM assumes that investors hold fully diversified portfolios. This means that investors are concerned only with systematic risk.
+The formula for the CAPM is:
+E(ri)= Rf + βi(E(rm)-Rf)
+Where:
+E(ri)=expected / required return of equity investors
+Rf =Risk-free rate of return.
+βi=beta of the investment
+E(rm)=expected return from the market portfolio
+E(rm-Rf) is called the equity/market risk premium (i.e. the extra return an investor expects for holding a diversified portfolio of shares rather than a risk-free security).
+Lecture example 4
+Investors have an expected rate of return of 8% from ordinary shares in A company, which have a beta of 1.2. the expected returns to the market are 7%.
+What will be the expected rate of return from ordinary shares in B, which have a beta of 1.8?
+Assumptions of CAPM
+The assumptions of the CAPM can be summarized as follows:
+Total risk can be split between systematic risk and unsystematic risk.
+Unsystematic risk can be diversified away entirely.
+Shareholders hold well-diversified portfolios.
+A risk-free security exists which provides a minimum level of return required by investors.
+Investors can borrow and lend at the risk-free rate (for which the yield on short-dated government debt is taken as a proxy).
+A standardized holding period (usually one year) to make the returns on different securities comparable (e.g. a return over six months cannot be compared with a return over 12 months).
+A perfect capital market exists, as for the dividend valuation model, so all securities are valued correctly.
+Advantages and disadvantages of CAPM:
+advantages:
+It considers systematic risk
+It generates a theoretically derived relationship between required return and systematic risk.
+It is a much better method of calculating the cost of equity than the DVM in that it explicitly allows for a company's level of systematic risk relative to the stock market as a whole.
+Disadvantages:
+It is a single-period model – whereas company projects are often for multiple periods.
+CAPM tends to overstate the required return on high-risk companies and understate the returns on low-risk companies.
+Assumptions do not hold in the real world. For example, the assumption that investors can borrow and lend at the risk-free rate (for which the yield on short-dated government debt is taken as a proxy) is unrealistic.
+
+## 2.3 Comparing CAPM and the DVM
+
+The DVM can be readily applied to any listed companies that offer dividends. However, the model gives no explanation as to why different shares have different costs of equity. The reason that different shares have different rates of return is that they have different risks, but this is not made explicit by the DVM. The formula suggest that the rate of return would be lowered if the company reduced its dividends or the growth rate, however, a business cannot alter its cost of equity by changing its dividends.
+Compared to the DVM, CAPM is generally a more stable method for calculating the cost of equity. The CAPM explicitly takes into account of a company’s level of systematic risk and gives a clear link between required return and risk, so explains why different companies give different returns.
+3 Cost of Debt
+
+## 3.1 bank loan
+
+A profitable company should be able to claim tax relief on bank interest; therefore, the post-tax cost of bank loans is:
+Kdat = quoted interest rate × (1- tax rate)
+As bank loans are not traded, their book value must be used as a proxy for market value.
+
+## 3.2 irredeemable debt
+
+The market value of debt can be calculated using the DVM:
+MV (ex-interest) = PV of future interest payments discounted at the debtholder's required rate of return.
+Annual interest payment = coupon rate × nominal value
+For irredeemable bons the interest is a perpetuity.
+P0 =I / Kd
+Where: P0 =ex-interest market price
+I = annual interest payment
+Kd = bondholder’s required return
+The pre-tax cost of irredeemable bonds is the debtholder’s required return:
+Kd = I / P0
+As the company gets tax relief on interest expense, the cost to the company (pos-tax cost of debt) will be:
+Kdat = I × (1- tax rate) / P0
+Example 5
+L co. has issued bonds of $100 nominal value with annual interest of 9% per year, based on the nominal value. The current ex-interest market price of the bonds is $90. Assuming the tax rate of L is 30%.
+What is the cost of bonds?
+Example 6
+Henry has 12% irredeemable bonds in issue with a nominal value of $100. The market price is $95 ex-interest. Assuming the tax rate is 30%. Calculated the cost of capital if interest is paid half-yearly.
+
+## 3.3 redeemable debt
+
+For redeemable debt, the cost of any source of funds is the IRR of the cash flows associated with that source.
+Finding the IRR of the following cash flows:
+Lecture example 7
+L co. has issued bonds 10% bonds of a nominal value of $100. The current market price of the bonds is $90 ex-interest. Assuming the tax rate is 30%.
+What is the cost of the bonds if it is redeemable at par after ten years?
+If interest is paid every six months rather than annually, the calculations for the cost of debt as follows:
+calculation the IRR based on cash flows at six-month intervals
+The IRR will then be a six-month cost of debt and must be adjusted to determine the annual cost of debt.
+
+## 3.4 convertible debt
+
+Holders of convertible bond can choose between redemption at some future date or conversion into a predetermined number of equity shares. Debt holders will only convert if the MV of the shares is greater than the redemption value of the debt. So calculation of cost of convertible bonds involves:
+Calculate the conversion value and determine whether or not converse
+Conversion value = conversion ratio * market price
+Find the IRR of the after-tax cash flows:
+Kdat=
+Example 8
+A co. has issued 8% convertible bonds which are due to be redeemed in five years’ time. They are currently quoted at $82 per $100 nominal. The bonds can be converted into 25 shares in five years’ time. The share price is currently $3.5 and is expected to grow at a rate of 3% per year. Assume a 30% rate of tax.
+What is the cost of the convertible bonds?
+
+## 3.5 preference share
+
+A preference shareholder will receive a fixed income based upon the nominal value of the shares hold.
+Kp=
+Where:  D = constant annual dividend
+Po = ex-div market price of the preference share
+Preference dividends are typically quoted as a percentage (e.g. 10% preference shares). This means the annual dividend will be 10% of the nominal value, not the market value.
+Lecture example 9
+An 8％ irredeemable $0.50 preference share is being traded for $0.30 cum-dividend in a company that pays corporation tax at a rate of 30%.
+What is the cost of preference shares?
+4 Weighted Average Cost of Capital (WACC)
+
+## 4.1 Formula for WACC
+
+Companies are usually financed by combination of debt and equity (i.e. they use some degree of financial/capital gearing). The WACC represents a company's average cost of long-term finance.
+The formula is given below:
+Where:  Ke = cost of equity,
+Kdat = after-tax cost of debt
+Ve = market value of shares i.e. market capitalization
+Vd = market value of debt
+Market values of equity/debt (where available) are used to weight the individual costs of capital.
+MV of Equity = No. of ordinary share × Share price
+MV of Debenture = Book value of debenture/100 × Debenture price
+MV of loan = Book value
+MV of preference share = No. of preference share × Share price
+Example 10
+IDO company has a capital structure as follows.
+The ordinary shares are currently quoted at $3, and the loan notes at $90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.
+What is the company’s WACC?
+
+## 4.2 weightings used in WACC
+
+But market values should always be better than book value.
+As book value are based on historical costs, and the market value of shares are usually much higher than its book value, therefore, using book value will seriously underestimate the impact of cost of equity finance on WACC, that is WACC will be seriously underestimated if they are calculated based on book value.
+If WACC is underestimated, projects that do not in fact deliver a high return to finance providers may be accepted.
+
+## 4.3 WACC and project appraisal
+
+Marginal cost of capital (MCC) is the cost of raising the most recent dollar of finance.
+When evaluating a project, the WACC is a more appropriate discount rate than the MCC, as the WACC is an average of the cost of equity (which measures business risk) and the cost of debt.
+The existing WACC can be used as a discount rate if the project has the same risk as the company's existing activities. However, if the project has a different risk, the existing WACC will not be appropriate. In this case, a tailor-made discount rate for that project must be determined using the CAPM.
+Past paper example: BURSE,2008 JUNE
+5 Summary
+
+## 5.1 overview
+
+
+## 5.2 technical articles
+
+CAPM-part 1.pdf
+CAPM-part 2.pdf
+CAPM-theory,advantages and disadvantages.pdf
+chapter 12 Gearing and Capital Structure
+Syllabus Coverage
+E. Business Finance
+3. Sources of finance and their relative costs
+c) Identify and discuss the problem of high levels of gearing.[2]
+d) Assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriate measures, including:[2]
+ratio analysis using statement of financial position gearing, operational and financial gearing, interest coverage ratio and other relevant ratios
+cash flow forecasting
+leasing or borrowing to buy.
+e) Impact of cost of capital on investments including:[2]
+the relationship between company value and cost of capital.
+the circumstances under which WACC can be used in investment appraisal
+the advantages of the CAPM over WACC in determining a project-specific cost of capital.
+the application of the CAPM in calculating a project-specific discount rate.
+4. Capital structure theories and practical considerations
+a) Describe the traditional view of capital structure and its assumptions.[2]
+b) Describe the views of Miller and Modigliani on capital structure, both without and with corporate taxation, and their assumptions.[2]
+c) Identify a range of capital market imperfections and describe their impact on the views of Miller and Modigliani on capital structure.[2]
+d) Explain the relevance of pecking order theory to the selection of sources of finance.[1]
+1 Gearing
+
+## 1.1 Financial Gearing
+
+Financial risk is the additional variability in shareholder returns due to introducing fixed-interest debt in the capital structure. Asa committed fixed cost, interest on debt creates more volatile “bottom-line” profits for shareholders.
+Lecture example 1
+The more highly geared a company is, the more fixed interest it has to pay regardless of profits; therefore, the greater the risk that there will be little or nothing available to distribute as a dividend to shareholders. High financial gearing makes a company more vulnerable to poor trading conditions.
+
+##### 1. Measurement of Financial Gearing
+
+A company’s financial gearing may be considered relatively high when:
+Gearing is significantly above the industry average and/or
+Interest cover ratio is relatively low
+Financial gearing= debt / equity
+Debt (prior charge capital) includes:
+bonds and long-term loans
+Preference share capital
+(Possibly bank overdraft will be included in debt if overdraft if significant)
+Gearing can be calculated either based on book Value or on market value.
+Book value
+Bonds: Face value (usually 100) ×number of bonds
+Bank loan:
+Preference share: face value× number of preference shares
+Equity: Share capital + share premium + reserve
+Market value:
+Bonds: market price of bond × number of bonds
+Bank loan: MV=BV
+Preference share: share price× number of preference share
+Equity: Share price* number of ordinary shares
+Interest coverage ratio
+Interest Cover = operating Profit / Interest expense
+Debt ratio
+Debt ratio=total debt/ total assets
+A higher debt ratio means higher financial risk. As a general rule, 50% might be seen as a safety limit to the debt.
+Lecture example 2a
+Lecture example 2b (March/June 2022)
+Beaver Co has 100 million equity shares in issue and has just reported a profit, after tax, of$55m.
+A new issue of 50 million equity shares at an issue price of $1.50 is being considered. All proceeds would be used to redeem a bank loan with an annual cost of 8%. Beaver Co pays corporation tax at a rate of 20%.
+Assume that operating profit (profit before interest and tax) remains constant. If the equity issue goes ahead and the bank loan is redeemed, what will be the new earnings per share figure?
+A $0.399
+B $0.367
+C $0.598
+D $0.388
+
+### 2.Impact of financial Gearing
+
+(1) Impact on ratios
+Ratios related to shareholders such as EPS and ROE will be affected by gearing. high gearing will increase the volatile of EPS and ROE.
+The indifference points of EPS
+Financial gearing = % change in EPS / % change in PBIT
+Determine the PBIT indifference points among the various alternative financing plans
+At a given level of PBIT which is greater than the indifference point, it will be better to issue debt
+At a given level of PBIT which is less than the indifference point, it will be better to issue equity
+Potential problems of high financial gearing
+High level of financial risk: The high levels of committed interest expense make earnings to equity investors more volatile, pushing up the cost of equity.
+Financial distress costs
+Increased credit risk: The rating agencies may cut the company's credit rating, pushing up its cost of debt.
+Agency costs: Debt contracts include increasingly restrictive covenants (e.g. limiting dividend payments or forcing the company to stay within low-risk projects). In this way the directors become agents of debt holders rather than of the equity investors and shareholder returns are subsequently damaged.
+
+## 1.2 Operational Gearing
+
+Business risk refers to the variability in the company’s operating earnings associated with the industry in which it operates. It is general business and economic conditions.
+Business risk can be measured by operational gearing.
+Operational gearing =contribution/ PBIT= (sales-variable cost of sales)/ (sales-variable cost-fixed cost)
+a high operational gearing indicates higher business risk.
+Lecture example 3: Heskey and Owen
+Two companies are concerned about their potential profitability in the forthcoming year and wish to forecast their profitability given that volumes change by +50%
+Company                           Heskey                 Owen
+$m                      $m
+Sales                                     12.0                   12.0
+Variable Cost                          1.0                    9.0
+Fixed Cost                               9.0                    1.0
+Profit before interest and tax   2.0                    2.0
+Required:
+1)Prepare an analysis of profit at all three suggested levels of activity
+which company is riskier?
+2) Calculate the operational gearing
+2 Capital Structure Theories
+The capital structure of a company refers to the mixture of equity and debt finance used by the company to finance its assets. The decision on what mixture of equity and debt capital to have is called the financing decision.
+Gearing and WACC
+two things will happen as gearing increases:
+The effect of increased gearing on WACC depends on the relative sizes of these two opposing effects. There are two views on gearing and capital structure:
+Traditional view
+Modigliani and Miller's theories
+
+## 2.1 Traditional Theory
+
+Traditional theory is based on the trade-off caused by gearing. This view assumes the following:
+WACC will fall initially as gearing rises because the benefits of using lower-cost debt finance outweighs the increase in cost of equity due to increasing financial risk. The WACC will fall until it reaches its minimum value, the optimal capital structure.
+After a certain level of gearing, WACC will increase as gearing rises because the increase in financial risk outweighs the benefit of cheaper debt. At very high levels of gearing, bankruptcy risk causes the cost of equity rise at a steeper rate and also cause the cost of debt to start to rise.
+The relationships are shown in below:
+Conclusions
+As the market value of a company is equal to the present value of its future cash flows discounted by its WACC, the lower the WACC and the higher the market value of the company. So, there is an optimal gearing level at which WACC is minimized and the total value of the company is maximized. Hence, if we can change the capital structure to lower WACC, we can increase the market value of the company and thus increase shareholder wealth.
+Therefore, it is the duty of all financial managers to find the optimal capital structure that minimize WACC and maximize the company value. However, the optimal capital structure can only be found by trial and error.
+
+## 2.2 Modigliani & Miller theory
+
+
+##### 1. M&M theory with no tax
+
+In 1958, Modigliani and Miller (MM) constructed a mathematical model to provide a basis for company managers to make financing decisions.
+MM's assumptions include the following:
+All investors are rational, have the same expectations and are indifferent to personal and corporate borrowing.
+Capital markets are perfect: all investors have equal access to information, no transaction costs
+no tax
+There is a single risk-free rate of borrowing (Rf).
+no financial distress risk even at very high debt levels.
+Propositions of MM theory:
+ke would increase at a constant rate as gearing increase due to the perceived increased financial risk. kd would remain constant (at Rf) whatever the gearing level. The rising ke would offset the benefit of cheaper debt so the WACC remains constant.
+The market value will also remain constant at all levels of gearing.
+This can be illustrated as follows:
+Conclusions:
+Only investment decisions affect the value of the company.
+The value of the company is independent of the financing decision (i.e. capital structure is irrelevant).
+There is no optimal gearing level.
+Of course, this is not true in practice because the assumptions are too simplistic.
+
+##### 2.3 M&M theory (with tax)
+
+In 1963, M&M allowed for corporation tax, their conclusions regarding capital structure were altered. This is because of tax relief on debt interest.
+Proposition
+In the with-tax theory:
+When gearing increase, ke rises (as before) to due to perceived financial risk; cost of debt is constant but falls significantly from Kd to Kd(1-t). As debt became even cheaper due to tax shield on interest payments, thus, the decrease in the WACC is now greater than the increase in the WACC, so, WACC must fall and the company’s value must rise.
+The relationships are shown as:
+Conclusions
+MM’s theory with tax implies that there is an optimal gearing level and that this is to maximize debt in the capital structure to generate maximum value for shareholders. This is not true in practice (because companies’ capital structures are not geared as much as possible). M&M failed to take in account of factors like bankruptcy costs, agency costs and tax exhaustion, which discourage companies from totally debt finance.
+Bankruptcy Costs – very high levels of debt will cause a significant possibility of default on its interest payments and hence bankruptcy. As the high possibility of bankruptcy risk, the cost of debt and cost of equity will increase to compensate for shareholders and debt-holders’ additional risk, WACC will increase and the share price reduces.
+Agency cost – As gearing increases, debt-holders would want to impose more constrains on the management to safeguard their increased investment. Extensive covenants reduce the company’s operating freedom, investment flexibility (positive NPV projects may have to be forgone) and may lead to a reduction in share price.
+Tax exhaustion – as a company gears up, interest payments pay rise and reach a point that they are equal to the profits from which they are to be deducted; therefore, any additional interest payments beyond this point will not receive any tax relief. This is the point where companies become tax - exhausted, ie interest payments are no longer tax deductible. Once this point is reached, debt loses its tax advantage and a company may restrict its level of gearing.
+
+## 2.3 pecking order theory
+
+According to pecking order theory, a company should simply follow an established pecking order to raise finance simply and efficiently.
+Use retained earnings available
+Then issue debt
+Then issue equity, as a last resort.
+Reasons for following pecking order
+(1) The first reason for this theory is to minimize issue costs:
+retained earnings have no issue costs.
+Issue new debt will incur moderate issue costs
+issuing new equity will incur high levels of issue costs
+(2) The second reason for this theory is to minimize the time and expense involved in persuading outside investors of the merits of the project:
+For retained earnings, it does not have to spend time persuading outside investors.
+the time and expense associated with issuing debt is usually significantly less than that associated with issuing share.
+A further reason is the existence of asymmetric information and signal that result from managers
+Managers know more about their companies’ prospect than outside investors. Because of this asymmetry in information, management’s actions are often interpreted as the insiders’ view on the future prospects of the company.
+Management with favorable inside information would want to avoid issuing shares because they would be undervalued. Conversely, outside investors assume that managers with unfavorable inside information would like to issue shares as they would be overvalued. Therefore, an equity issue is interpreted as a “bad” sign.
+Implication of Pecking Order Theory
+highly profitable companies would borrow the least, because they have higher levels of retained earnings to fund investment projects.
+companies should hold cash for speculative reasons, so that if in the future the company has insufficient retained earnings to finance all positive NPV projects, they use these cash reserves and therefore not need to raise external finance.
+The pecking order theory Explains what businesses actually do, rather than what they should do.
+Conclusion
+As the primary financial objective is to maximize shareholder wealth, then companies should seek to minimize their weighted average cost of capital (WACC). In practical terms, this can be achieved by having some debt in the capital structure, since debt is relatively cheaper than equity, while avoiding the extremes of too much gearing.
+Companies should be aware of the pecking order theory which takes a totally different approach, and ignores the search for an optimal capital structure.
+3 Practical capital structure issues
+The following practical factors should be considered:
+The project's business risk. It is not advisable to finance high-risk projects with debt, as interest payment is a legally binding commitment.
+The existing level of financial gearing.
+The existing level of operational gearing (i.e. the proportion of fixed to variable operating costs). If already high, the company may prefer to avoid more debt as this increases fixed costs even further.
+The type and quality of assets that the company can offer as security.
+Tax exhaustion (i.e. not enough profit to fully utilize the interest tax shield).
+Issue costs associated with new debt or equity finance.
+Agency costs. At high levels of financial gearing, control of the company may move away from the shareholders towards the debt investors (e.g. restrictive debt covenants may restrict dividends or limit operations to low-risk areas). Limiting operations to low-risk areas may reduce returns to shareholders.
+Costs of financial distress. At dangerous levels of financial gearing, the company may find that operating costs start to rise (e.g. suppliers may ask for payment in advance, staff turnover may increase and customers may lose faith in the company’s product warranties).
+4 Project Specific Cost of Capital
+The existing WACC can be used as the discount rate only if the project has the same risk with the company. However, when:
+The business risk of the project differs from the business risk of investing company (i.e. it does not change its business or industry); and
+the financial risk of the project differs from the financial risk of the investing company (i.e. it does not change its gearing).
+it is not appropriate to use existing cost of capital as the discount rate for the investment project. instead, the CAPM can be used to calculate a project-specific discount rate that reflects the business risk of the new project.
+
+## 4.1 equity beta and asset beta
+
+Asset beta
+Suppose company A is ungeared. As it has no debt, it has no financial risk, and so it faces only business risk. Because investors can diversify away unsystematic business risk, they face only systematic business risk. The beta factor for such a company is called the ‘asset beta’ (because the company has assets, no debt) βa.
+Equity beta
+Suppose another company B is identical to A except that its capital structure includes debt. The financial risk will be added to business risk and this will increase the systematic risk investors face. The beta factor for company B’s shares is called the equity beta (also called the geared beta) which increases as gearing increases.
+In the all-equity financed company (ungeared company): βa = βe.
+in the geared company: βe > βa.
+The mathematical relationship between ungeared and geared beta is as follows.
++
+Where:  = beta of corporate debt
+= asset beta
+= equity beta
+Ve = market value of equity
+Vd = market value of debt
+T = corporate tax rate
+Usually in the exam question, it does not give a beta for debt, assume that debt is risk free, i.e.  =0, then the formula becomes:
+the debt beta is usually very small compared to the equity beta.
+the market value of a company’s debt is usually very small in comparison to the market value of its equity, and the tax efficiency of debt reduces the weighting of the debt beta even further.
+
+## 4.2 Calculating the Project-Specific Cost of Capital
+
+Step1 calculating ungearing proxy beta
+Finding a proxy company (with business operations similar to that of the new project), removing the effect of the financial risk (gearing) from the proxy equity beta to find the asset beta that reflects business risk alone.
+Step 2 re-gearing the asset beta
+The asset beta represents the business risk of the proposed project. then regear the asset beta to reflect the gearing and the financial risk of the investing company.
+Step 3 using the CAPM to calculate the project-specific discount rate
+The re-geared equity beta reflects the new risk of the project, using the CAPM formula to calculate a project-specific cost of equity or WACC.
+E(ri)=Rf+ (Rm -Rf)
+Example 4 – June 2015
+Are the following statements true or false?
+The asset beta reflects both business risk and financial risk
+Total risk is the sum of systematic risk and unsystematic risk
+Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beita
+Lecture example 5-Mar/Jun 2021 Zeddemore
+5 Summary
+
+## 5.1 overview
+
+
+## 5.2 technical articles
+
+Cost of capital gearing and CAPM-part 1
+Cost of capital gearing and CAPM-part 2
+Optimum capital structure
+Analysing the suitability of financing alternatives
+
+[TABLE 1]
+Operating profit before depreciation and amortization | x
+Rise/fall in inventory | (x)/x
+Rise/fall in receivables | (x)/x
+Rise/fall in payables | (x)/x
+Operating cash flow | (x)/x
+
+[TABLE 2]
+Year | 4 | 3 | 2 | 1 | Current year
+Profits ($’000) | 176 | 200 | 240 | 290 | 444
+Dividends ($’000) | 88 | 104 | 120 | 150 | 222 (proposed)
+Shares in issue | 800,000 | 800,000 | 1,000,000 | 1,000,000 | 1,500,000
+
+[TABLE 3]
+End of year | Dividends ($000)
+2009 | 220
+2010 | 257
+2011 | 310
+2012 | 356
+2013 | 423
+
+[TABLE 4]
+Year | cash flow $ |  | DF(a%) | PV $ | DF(b%) | PV $
+0 | Ex-interest MV | (x) | 1 |  | 1 | 
+1-n | Post-tax Interest | x |  |  |  | 
+n | Redemption value | x |  |  |  | 
+ |  |  |  | NPVa |  | NPVb
+
+[TABLE 5]
+Effective annual cost = (1 + semi-annual cost)2 -1
+
+[TABLE 6]
+Year | cash flow $ | DF(a%) | PV $ | DF(b%) | PV $
+0 | (ex-interest MV) | 1 |  | 1 | 
+1-n | Post-tax Interest |  |  |  | 
+n | Higher of redemption value and conversion value |  |  |  | 
+ |  |  | NPVa |  | NPVb
+
+[TABLE 7]
+ | $m
+$0.50 ordinary shares | 5
+reserves | 20
+13% irredeemable loan notes | 7
+ | 32

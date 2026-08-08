@@ -355,6 +355,7 @@ window.Quarto = {
   <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a></li>
   <li><a href="#risk-and-uncertainty" id="toc-risk-and-uncertainty" class="nav-link" data-scroll-target="#risk-and-uncertainty">1 Risk and Uncertainty</a></li>
   <li><a href="#uncertainty-analysis" id="toc-uncertainty-analysis" class="nav-link" data-scroll-target="#uncertainty-analysis">2 Uncertainty Analysis</a></li>
+  <li><a href="#risk-analysis-techniques" id="toc-risk-analysis-techniques" class="nav-link" data-scroll-target="#risk-analysis-techniques">3 Risk Analysis Techniques</a></li>
   </ul>
 </nav>
     </div>
@@ -437,8 +438,6 @@ window.Quarto = {
 <p>-the sales volume</p>
 <p>-the selling prices</p>
 </blockquote>
-<p>:::</p>
-<p><mark></mark></p>
 <p><strong>Comments of Sensitivity Analysis</strong></p>
 <p><strong>Advantages:</strong></p>
 <ul>
@@ -455,40 +454,48 @@ window.Quarto = {
 </ul>
 </section>
 <section id="discounted-payback-period" class="level4">
-<h4 class="anchored">2.2 Discounted Payback Period</h4>
+<h4 class="anchored" data-anchor-id="discounted-payback-period">2.2 Discounted Payback Period</h4>
 <p>The discounted payback period is the length of time it takes the discounted net cash inflows of a project to payback the initial investment.</p>
 <p>Discounted payback resolves one of the limitations of payback method: it allows for the time value of money (the usefulness of payback as a measure of risk is limited as it gives equal weighting to cash flows irrespective of when they are received). It also considers more of the project’s cash flows because the amounts are discounted. However, it does not overcome all the limitations of the payback method as it still ignores cash flows after the payback period.</p>
-<p>Lecture Example - limitation of payback</p>
+<p><strong>Lecture Example - limitation of payback</strong></p>
 <p>Two projects each require an investment of $1,000,000 and have the following forecast cash flows ($000):</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th style="text-align: left;">Year</th>
-<th style="text-align: left;">0</th>
-<th style="text-align: left;">1</th>
-<th style="text-align: left;">2</th>
-<th style="text-align: left;">3</th>
-<th style="text-align: left;">4</th>
-<th style="text-align: left;">5</th>
+<th>Year</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Project A</td>
-<td style="text-align: left;">(1,000)</td>
-<td style="text-align: left;">600</td>
-<td style="text-align: left;">200</td>
-<td style="text-align: left;">200</td>
-<td style="text-align: left;">205</td>
-<td style="text-align: left;">150</td>
+<td>Project A</td>
+<td>(1,000)</td>
+<td>600</td>
+<td>200</td>
+<td>200</td>
+<td>205</td>
+<td>150</td>
+</tr>
+<tr class="even">
+<td>Project B</td>
+<td>(1,000)</td>
+<td>100</td>
+<td>300</td>
+<td>600</td>
+<td>205</td>
+<td>150</td>
 </tr>
 </tbody>
 </table>
-<p>Project B (1,000) 100 300 600 205 150</p>
 <p>Each project has a payback period of 3 years, and on this measure, would be ranked equally in terms of liquidity and risk.</p>
 <p>However, project A produces strong cash flows in the early years, which may be less uncertain than later returns. This limitation can be delt with using the discounted payback period.</p>
 <p><strong>Example 2 -continued</strong></p>
-<p>If the cost of capital of 10% is believed to reflect the risk attached to project A and B in :::</p>
+<p>If the cost of capital of 10% is believed to reflect the risk attached to project A and B in example 2. Calculate the discounted payback period of each project.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -499,66 +506,117 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>example 2. Calculate the discounted payback period of each project.</p>
 <p>Project A</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th style="text-align: left;">Year</th>
-<th style="text-align: left;">0</th>
-<th style="text-align: left;">1</th>
-<th style="text-align: left;">2</th>
-<th style="text-align: left;">3</th>
-<th style="text-align: left;">4</th>
-<th style="text-align: left;">5</th>
+<th>Year</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Cash flow ($)</td>
-<td style="text-align: left;">(1,000)</td>
-<td style="text-align: left;">600</td>
-<td style="text-align: left;">200</td>
-<td style="text-align: left;">200</td>
-<td style="text-align: left;">205</td>
-<td style="text-align: left;">150</td>
+<td>Cash flow ($)</td>
+<td>(1,000)</td>
+<td>600</td>
+<td>200</td>
+<td>200</td>
+<td>205</td>
+<td>150</td>
+</tr>
+<tr class="even">
+<td>Discount factor 10%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Present value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cumulative CF</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<p>Discount factor 10%</p>
-<p>Present value</p>
-<p>Cumulative CF</p>
 <p>Discounted payback =</p>
 <p>Project B</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th style="text-align: left;">Year</th>
-<th style="text-align: left;">0</th>
-<th style="text-align: left;">1</th>
-<th style="text-align: left;">2</th>
-<th style="text-align: left;">3</th>
-<th style="text-align: left;">4</th>
-<th style="text-align: left;">5</th>
+<th>Year</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Cash flow ($)</td>
-<td style="text-align: left;">(1,000)</td>
-<td style="text-align: left;">100</td>
-<td style="text-align: left;">300</td>
-<td style="text-align: left;">600</td>
-<td style="text-align: left;">205</td>
-<td style="text-align: left;">150</td>
+<td>Cash flow ($)</td>
+<td>(1,000)</td>
+<td>100</td>
+<td>300</td>
+<td>600</td>
+<td>205</td>
+<td>150</td>
+</tr>
+<tr class="even">
+<td>Discount factor 10%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Present value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cumulative CF</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<p>Discount factor 10%</p>
-<p>Present value</p>
-<p>Cumulative CF</p>
 <p>Discounted payback=</p>
 <p>The discounted payback period produces a longer payback period than non-discounted payback approach.</p>
+</div>
+</div>
+</section>
+</section>
 <section id="risk-analysis-techniques" class="level3">
 <h3 class="anchored" data-anchor-id="risk-analysis-techniques">3 Risk Analysis Techniques</h3>
 <section id="probability-analysis" class="level4">
@@ -576,26 +634,45 @@ Tip
 <li><p>calculating the worst possible outcome and its probability;</p></li>
 <li><p>calculating the probability that the project will fail to achieve a positive NPV</p></li>
 </ul>
-<p>{.callout-tip} <strong>Example 3</strong></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example 3</strong></p>
 <blockquote class="blockquote">
 <p>A company is considering a project of $300,000 which it estimates will generate cash flows over its two-year life at the probabilities in the following table.</p>
 <p>Cash flows for the project (in $000)</p>
-<p>Year 1 cash flow probability</p>
-<p>100 0.25</p>
-<p>200 0.50</p>
-<p>300 0.25</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Year 1 cash flow</th>
+<th>probability</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>100</td>
+<td>0.25</td>
+</tr>
+<tr class="even">
+<td>200</td>
+<td>0.50</td>
+</tr>
+<tr class="odd">
+<td>300</td>
+<td>0.25</td>
+</tr>
+</tbody>
+</table>
 </blockquote>
-</section>
-</section>
-</div>
-</div>
 <p>Year 2</p>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 37%">
-<col style="width: 37%">
-<col style="width: 22%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Cash flow in year 1</th>
@@ -605,41 +682,47 @@ Tip
 </thead>
 <tbody>
 <tr class="odd">
-<td rowspan="3">100</td>
+<td>100</td>
 <td>0</td>
 <td>0.25</td>
 </tr>
 <tr class="even">
 <td>100</td>
+<td>100</td>
 <td>0.50</td>
 </tr>
 <tr class="odd">
+<td>100</td>
 <td>200</td>
 <td>0.25</td>
 </tr>
 <tr class="even">
-<td rowspan="3">200</td>
+<td>200</td>
 <td>100</td>
 <td>0.25</td>
 </tr>
 <tr class="odd">
 <td>200</td>
+<td>200</td>
 <td>0.50</td>
 </tr>
 <tr class="even">
+<td>200</td>
 <td>300</td>
 <td>0.25</td>
 </tr>
 <tr class="odd">
-<td rowspan="3">300</td>
+<td>300</td>
 <td>200</td>
 <td>0.25</td>
 </tr>
 <tr class="even">
 <td>300</td>
+<td>300</td>
 <td>0.50</td>
 </tr>
 <tr class="odd">
+<td>300</td>
 <td>350</td>
 <td>0.25</td>
 </tr>
@@ -647,6 +730,8 @@ Tip
 </table>
 <p>The company’s cost of capital is 10%.</p>
 <p>Calculate the expected value of the project’s NPV and the probability that the NPV will be negative.</p>
+</div>
+</div>
 <p><strong>Advantages and Disadvantages of Probability Analysis</strong></p>
 <p><strong>Advantage:</strong></p>
 <ul>

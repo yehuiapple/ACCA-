@@ -78,6 +78,7 @@ This arises when a company is importing or exporting. If tthe exchange rate move
 
 
 
+::: {.callout-tip}
 **example 1**
 
 > An UK exporter now agrees to sell \$100,000 to a US customer, payable in 6 months.
@@ -190,6 +191,7 @@ The **expectations theory** claims that the forward rate is an unbiased predicto
 
 
 
+::: {.callout-tip}
 **example 2**
 
 > Assume the interest rate of a one-year US bond is 9% and the interest rate of a UK bond with similar risk is 7%. Current spot rate is ﹩/￡:1.5.
@@ -222,6 +224,7 @@ h~b~: expected inflation rate in country b
 
 
 
+::: {.callout-tip}
 **example 3**
 
 > the current spot rate between UK sterling and US dollar is \$/£ 1.50. assuming that there is purchasing parity, an amount of commodity costing £2,00 in UK will cost \$300 in US. Over the next year, price inflation in US is expected to be 5% while inflation in UK is expected to be 8%.
@@ -254,9 +257,7 @@ According to the international fisher effect, the spot exchange rate will change
 - So, the interest rate differential between two countries should be equal to the expected inflation differential.
 - Therefore, countries with higher expected inflation rates will have higher nominal interest rates.
 
-  $$
-  $$\frac{1 + i_{a}}{1 + i_{b}} = \frac{1 + h_{a}}{1 + h_{b}}
-  $$
+  $$\frac{1 + i_{a}}{1 + i_{b}} = \frac{1 + h_{a}}{1 + h_{b}}$$
 
 I~a~: the nominal interest rate in country a
 
@@ -281,6 +282,7 @@ If interest rates are only different between two countries due to inflation (ie 
 
 
 
+::: {.callout-tip}
 **Example 4**
 
 > Handria is a country that has the peso for its currency and Wengry is a country that has the \$ for its currency. The current spot rate is 1.5134 pesos = \$1.
@@ -404,6 +406,8 @@ Forward contracts are not traded but agreements between a company and a counterp
 
 
 
+:::
+
 a forward contract can remove uncertainty about exchange rate changes in the future. it can hedge against the risk of an adverse movement in the future exchange rate, and also loses the opportunity to gain from a favorable movement in the spot rate.
 
 Lecture example -- what happens if sale falls through?
@@ -480,7 +484,7 @@ Because the money is changed now at the spot rate, the transaction is immune fro
 
 
 
- {.callout-tip}
+::: {.callout-tip}
 **example 6 --Nedwen(b)**
 :::
 
@@ -580,9 +584,10 @@ Lecture example -illustration of futures
 
 **Basic risk** occurs when changes in futures prices are not correlated with changes in exchange rates (or interest rates) on a given date.
 
-![
 ::: {.callout-tip}
-example 7](media/Notes_G/media/image7.png){width="3.6618055555555555in" height="2.045138888888889in"}
+**example 7**
+
+![example 7](media/Notes_G/media/image7.png){width="3.6618055555555555in" height="2.045138888888889in"}
 
 > Which of the following are descriptions of basis risk?
 >
@@ -601,24 +606,19 @@ example 7](media/Notes_G/media/image7.png){width="3.6618055555555555in" height="
 > C 2 and 4 only
 >
 > D 2, 3 and 4
+:::
 
 Difference between currency futures and forward contracts:
 
 
 
-  Currency futures                                      Forward contracts
-
-
-
-  Standard contracts                                    tailored contracts定制
-
-  Traded on the open market                             Traded over the counter
-
-  Flexible close out dates                              Fixed settlement date
-
-  Underlying transactions take place at the spot rate   Underlying transactions take place at the forward rate
-
-Cheaper than forwards                                 Relatively high premium required
+| Currency futures | Forward contracts |
+|---|---|
+| Standard contracts | Tailored contracts |
+| Traded on the open market | Traded over the counter |
+| Flexible close out dates | Fixed settlement date |
+| Underlying transactions take place at the spot rate | Underlying transactions take place at the forward rate |
+| Cheaper than forwards | Relatively high premium required |
 
 
 ##### 4. Currency Options
@@ -677,8 +677,10 @@ Lecture example
 - The cost of options (premium) can be expensive
 - Exchange-traded options are only available in large, standard, contract sizes, and for a narrow range of currencies
 
-![](media/Notes_G/media/image8.png){width="5.472222222222222in" height="1.78125in"} {.callout-tip}
-example 8
+::: {.callout-tip}
+**example 8**
+
+![](media/Notes_G/media/image8.png){width="5.472222222222222in" height="1.78125in"}
 :::
 
 

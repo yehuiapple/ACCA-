@@ -357,7 +357,6 @@ window.Quarto = {
   <li><a href="#cost-of-equity" id="toc-cost-of-equity" class="nav-link" data-scroll-target="#cost-of-equity">2 Cost of Equity</a></li>
   <li><a href="#cost-of-debt" id="toc-cost-of-debt" class="nav-link" data-scroll-target="#cost-of-debt">3 Cost of Debt</a></li>
   <li><a href="#weighted-average-cost-of-capital-wacc" id="toc-weighted-average-cost-of-capital-wacc" class="nav-link" data-scroll-target="#weighted-average-cost-of-capital-wacc">4 Weighted Average Cost of Capital (WACC)</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">32</a></li>
   </ul>
 </nav>
     </div>
@@ -489,17 +488,13 @@ Tip
 <blockquote class="blockquote">
 <p>A company’s current dividend cover ratio is 4 times and after-tax profits are $20m. The company has one million $1 ordinary shares in issue and the current market capitalization of the company is $50m.</p>
 <p>What is the cost of equity capital if?</p>
+<ul>
+<li>expects zero growth in dividends</li>
+<li>expects a growth rate of 4% in dividends in future?</li>
+</ul>
 </blockquote>
 </div>
 </div>
-<ul>
-<li><blockquote class="blockquote">
-<p>expects zero growth in dividends</p>
-</blockquote></li>
-<li><blockquote class="blockquote">
-<p>expects a growth rate of 4% in dividends in future?</p>
-</blockquote></li>
-</ul>
 <p><strong>Estimating the Growth Rate of Dividends</strong></p>
 <p>The growth rate of dividends can be estimated using either of two methods:</p>
 <ul>
@@ -530,8 +525,36 @@ Tip
 <div class="callout-body-container callout-body">
 <p><strong>Lecture example 2</strong></p>
 <p>Cg company has 4 million shares in issue, and has done for many years. Its dividend payments in the years 2009 to 2013 were as follows.</p>
-<p>End of year Dividends ($000) …</p>
-<p>2009 220^[2]^ 2010 257^[2]^ 2011 310^[2]^ 2012 356^[2]^ 2013 423^[2]^———————————</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>End of year</th>
+<th>Dividends ($000)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2009</td>
+<td>220</td>
+</tr>
+<tr class="even">
+<td>2010</td>
+<td>257</td>
+</tr>
+<tr class="odd">
+<td>2011</td>
+<td>310</td>
+</tr>
+<tr class="even">
+<td>2012</td>
+<td>356</td>
+</tr>
+<tr class="odd">
+<td>2013</td>
+<td>423</td>
+</tr>
+</tbody>
+</table>
 <p>dividends are expected to continue to growth at the same average rate into the future. The current ex-div share price of the company at year 2013 is $1.73.</p>
 <p>what is cost of equity for Cg company?</p>
 </div>
@@ -745,11 +768,52 @@ Tip
 <h4 class="anchored" data-anchor-id="redeemable-debt">3.3 Redeemable Debt</h4>
 <p>For redeemable debt, the cost of any source of funds is the IRR of the cash flows associated with that source.</p>
 <p>Finding the IRR of the following cash flows:</p>
-<p>Year cash flow $ DF(a%) PV $ DF(b%) PV $ …</p>
-<p>0 Ex-interest MV (x) 1 1</p>
-<p>1-n Post-tax Interest x</p>
-<p>n Redemption value x</p>
-<p>NPV<sub>a</sub> NPV<sub>b</sub></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Cash flow $</th>
+<th>DF(a%)</th>
+<th>PV $</th>
+<th>DF(b%)</th>
+<th>PV $</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>Ex-interest MV</td>
+<td>(x)</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>1-n</td>
+<td>Post-tax Interest</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td>Redemption value</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>NPV<sub>a</sub></td>
+<td></td>
+<td>NPV<sub>b</sub></td>
+</tr>
+</tbody>
+</table>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -781,13 +845,54 @@ Tip
 </ul>
 <p>Conversion value = conversion ratio * market price</p>
 <ul>
-<li><p>Find the IRR of the after-tax cash flows:</p>
-<p>Year cash flow $ DF(a%) PV $ DF(b%) PV $</p>
-<p>0 (ex-interest MV) 1 1</p>
-<p>1-n Post-tax Interest</p>
-<p>n Higher of redemption value and conversion value</p>
-<p>NPV<sub>a</sub> NPV<sub>b</sub></p></li>
+<li>Find the IRR of the after-tax cash flows:</li>
 </ul>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Cash flow $</th>
+<th>DF(a%)</th>
+<th>PV $</th>
+<th>DF(b%)</th>
+<th>PV $</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>(ex-interest MV)</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1-n</td>
+<td>Post-tax Interest</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td>Higher of redemption value and conversion value</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>NPV<sub>a</sub></td>
+<td></td>
+<td>NPV<sub>b</sub></td>
+</tr>
+</tbody>
+</table>
 <p>K<sub>dat</sub>=</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -850,16 +955,35 @@ Tip
 <p>MV of preference share = No.&nbsp;of preference share × Share price</p>
 <p><strong>Example 10</strong></p>
 <p>IDO company has a capital structure as follows.</p>
-<pre><code>\$m</code></pre>
-<p>$0.50 ordinary shares 5</p>
-<p>reserves 20</p>
-<p>13% irredeemable loan notes 7</p>
-</section>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">32</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>$m</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>$0.50 ordinary shares</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>reserves</td>
+<td>20</td>
+</tr>
+<tr class="odd">
+<td>13% irredeemable loan notes</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td><strong>Total</strong></td>
+<td><strong>32</strong></td>
+</tr>
+</tbody>
+</table>
 <p>The ordinary shares are currently quoted at $3, and the loan notes at $90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.</p>
 <p>What is the company’s WACC?</p>
+</section>
 <section id="weightings-used-in-wacc" class="level4">
 <h4 class="anchored" data-anchor-id="weightings-used-in-wacc">4.2 Weightings Used in WACC</h4>
 <p>But market values should always be better than book value.</p>
