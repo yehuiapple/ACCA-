@@ -7,20 +7,20 @@ Quarto 是一个开源的文档编译工具，支持多种格式的文档（如 
 以本项目 (`quarto_book`) 为例：
 
 - 在你的 github 账号下创建一个名为 `quarto_book` 的仓库。
-  - 我的仓库名为 `lianxhcn/quarto_book`，完整网址为：<https://github.com/lianxhcn/quarto_book>
+  - 我的仓库名为 `yehuiapple/ACCA-F9`，完整网址为：https://github.com/yehuiapple/ACCA-F9
 - 使用 git 命令或 GitHub Desktop 将本仓库克隆到本地。
-  - 例如，我的本地文件夹为：`D:\Github_lianxh\quarto_book`
+  - 例如，我的本地文件夹为：`/Users/yehui/坚果云/2_Area/quarto_book`
 - 创建 quarto book 项目，编写书稿。详情参见 [创建流程](https://lianxhcn.github.io/quarto_book/body/01_intro.html)。
   - 最简单的方法：将 我的 `quarto_book 仓库` [下载](https://github.com/lianxhcn/quarto_book/archive/refs/heads/main.zip) 到本地，解压；把里面的内容复制到你的仓库下。
   - 你可以使用 VScode 编辑器来创建和编辑 Quarto Book 项目。
 - 编译书稿：参见 [创建流程](https://lianxhcn.github.io/quarto_book/body/01_intro.html)。
 - 发布书稿：参见 [使用 GitHub Pages 发布](https://lianxhcn.github.io/quarto_book/body/04_github_page.html)。
 
-最终发布的主页：<https://lianxhcn.github.io/quarto_book/>
+最终发布的主页：
 
 ## 下载本仓库
 
-- 点击绿色 **<font color=green><>Code</font>** 按钮，选择 **Download ZIP** 下载本仓库。
+- 点击绿色 **`<font color=green>`<>Code`</font>`** 按钮，选择 **Download ZIP** 下载本仓库。
 - 解压缩后，使用 VS Code 打开文件夹即可。
 - 各章节文档存放在 **./body** 文件夹中，文件名与 [quarto_book](https://lianxhcn.github.io/quarto_book/) 的网址中的文件名对应。
 

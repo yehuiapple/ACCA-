@@ -6,15 +6,15 @@
 
 **1. The nature and purpose of financial management**
 
-a) Explain the nature and purpose of financial management.
+a) Explain the nature and purpose of financial management. [1]
 
-b) Explain the relationship between financial management and financial and management accounting.
+b) Explain the relationship between financial management and financial and management accounting. [1]
 
 **2. Financial objectives and the relationship with corporate strategy**
 
-a) Discuss the relationship between financial objectives, corporate objectives and corporate strategy.
+a) Discuss the relationship between financial objectives, corporate objectives and corporate strategy. [2]
 
-b) Identify and describe a variety of financial objectives, including:
+b) Identify and describe a variety of financial objectives, including: [2]
 
 1. shareholder wealth maximization
 2. profit maximization
@@ -22,29 +22,29 @@ b) Identify and describe a variety of financial objectives, including:
 
 **3. Stakeholders and impact on corporate objectives**
 
-a) Identify the range of stakeholders and their objectives.
+a) Identify the range of stakeholders and their objectives. [2]
 
-b) Discuss the possible conflict between stakeholder objectives.
+b) Discuss the possible conflict between stakeholder objectives. [2]
 
-c) Discuss the role of management in meeting stakeholder objectives, including the application of agency theory.
+c) Discuss the role of management in meeting stakeholder objectives, including the application of agency theory. [2]
 
-d) Describe and apply ways of measuring achievement of corporate objectives including:
+d) Describe and apply ways of measuring achievement of corporate objectives including: [2]
 
 1. ratio analysis (using appropriate ratios such as ROCE, ROE, EPS and DPS)
 2. changes in dividends and share prices as part of total shareholder return
 
-e) Explain ways to encourage the achievement of stakeholder objectives, including:
+e) Explain ways to encourage the achievement of stakeholder objectives, including: [2]
 
 1. managerial reward schemes such as share options and performance related pay
 2. regulatory requirements such as corporate governance codes of best practice and stock exchange listing regulations.
 
 **4. Financial and other objectives in not-for-profit organizations**
 
-a) Discuss the impact of not-for-profit status on financial and other objectives.
+a) Discuss the impact of not-for-profit status on financial and other objectives. [2]
 
-b) Discuss the nature and importance of Value for Money as an objective in not-for-profit organizations.
+b) Discuss the nature and importance of Value for Money as an objective in not-for-profit organizations. [2]
 
-c) Discuss ways of measuring the achievement of objectives in not-for-profit organizations.
+c) Discuss ways of measuring the achievement of objectives in not-for-profit organizations. [2]
 
 ### 1 Nature and Purpose of Financial Management
 
