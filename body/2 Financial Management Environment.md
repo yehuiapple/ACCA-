@@ -6,37 +6,37 @@
 
 **1. The economic environment for business**
 
-a\) Identify and explain the main macroeconomic policy targets.^[1]^
+a\) Identify and explain the main macroeconomic policy targets.[1]
 
-b\) Define and discuss the role of fiscal, monetary, interest rate and exchange rate policies in achieving macroeconomic policy targets.^[1]^
+b\) Define and discuss the role of fiscal, monetary, interest rate and exchange rate policies in achieving macroeconomic policy targets.[1]
 
-c\) Explain how government economic policy interacts with planning and decision-making in business.^[2]^
+c\) Explain how government economic policy interacts with planning and decision-making in business.[2]
 
-d\) Explain the need for, and the interaction with, planning and decision-making in business.^[1]^
+d\) Explain the need for, and the interaction with, planning and decision-making in business.[1]
 
 **2. The Nature and Role of Financial Markets and Institutions**
 
-a) Identify the nature and role of money and capital markets, both nationally and internationally.^[2]^
+a) Identify the nature and role of money and capital markets, both nationally and internationally.[2]
 
-b) Explain the role of financial intermediaries.^[1]^
+b) Explain the role of financial intermediaries.[1]
 
-c) Explain the functions of a stock market and a corporate bond market.^[2]^
+c) Explain the functions of a stock market and a corporate bond market.[2]
 
-d) Explain the nature and features of different securities in relation to the risk/return trade-off.^[2]^
+d) Explain the nature and features of different securities in relation to the risk/return trade-off.[2]
 
-e) Explain the impact of Fintech in changing the nature and role of financial markets and institutions.^[1]^
+e) Explain the impact of Fintech in changing the nature and role of financial markets and institutions.[1]
 
 **3. The Nature and Role of Money Markets**
 
-a) Describe the role of the money markets in:^[1]^
+a) Describe the role of the money markets in:[1]
 
 1. providing short-term liquidity to the private sector and the public sector
 2. providing short-term trade finance
 3. allowing an organization to manage its exposure to foreign currency risk and interest rate risk
 
-b) Explain the role of banks and other financial institutions in the operation of the money markets.^[2]^
+b) Explain the role of banks and other financial institutions in the operation of the money markets.[2]
 
-c) Explain and apply the characteristics and role of the principal money market instruments:^[2]^
+c) Explain and apply the characteristics and role of the principal money market instruments:[2]
 
 1. interest-bearing instruments
 2. discount instruments

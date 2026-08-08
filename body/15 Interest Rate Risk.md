@@ -33,7 +33,7 @@ ii. asset and liability management
 
 iii. forward rate agreements.
 
-b\) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging. (No numerical questions will be set on this topic)^[2]^
+b\) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
 ### 1 Interest Rate Risk {.pagebreak}
 
