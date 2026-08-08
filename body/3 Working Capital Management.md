@@ -334,14 +334,17 @@ If a business suffers from liquidity problems due to overtrading, the aim will b
 
 Over-capitalization -- an excessive level of working capital, leading to inefficiency.
 
-![
-example 5: 2012 JUNE- wobnig (a)-overtrading](media/Notes_C/media/image4.png){width="5.76875in" height="2.553472222222222in"}
+::: {.callout-tip}
+**Example 5: 2012 JUNE- Wobnig (a)-Overtrading**
 
-![](media/Notes_C/media/image5.png){width="5.76875in" height="4.2965277777777775in"}
+![](media/Notes_C/media/image4.png){width="5.76875in"}
 
-![](media/Notes_C/media/image6.png){width="6.1642497812773405in" height="1.4329790026246718in"}
+![](media/Notes_C/media/image5.png){width="5.76875in"}
 
-![](media/Notes_C/media/image7.png){width="5.76875in" height="2.70625in"}
+![](media/Notes_C/media/image6.png){width="6.16425in"}
+
+![](media/Notes_C/media/image7.png){width="5.76875in"}
+:::
 
 ### 3 Managing Inventory
 
