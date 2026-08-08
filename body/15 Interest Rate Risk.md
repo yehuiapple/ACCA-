@@ -447,6 +447,7 @@ B 2only
 C Both 1 and 2
 
 D Neither 1 nor 2
+:::
 
 ![](media/Notes_G/media/image14.png){width="5.768055555555556in" height="7.679258530183727in"}**Technical articles**
 

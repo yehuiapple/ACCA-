@@ -548,6 +548,7 @@ B Short-term finance has a higher cost than long-term finance
 C Fluctuating current assets should be financed from a short-term source
 
 D A moderate or matching strategy finances current assets from a short-term source.
+:::
 
 
 ### 4 Summary

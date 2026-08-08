@@ -733,6 +733,7 @@ That involves Islamic bonds where the sukuk holder's return for providing financ
 **Hibah (gift)**: this is where Islamic banks voluntarily pay their customers a \"gift\" on savings account balances. This gift represents a portion of the profit made using those balances in other activities.
 
 **Qard hassan (good loan/benevolent loan)**: this involves a loan extended on a goodwill basis, and the debtor is only required to repay the amount borrowed. However, the debtor may, at their discretion, pay an extra amount to the creditor.
+:::
 
 ### 5 Summary
 
