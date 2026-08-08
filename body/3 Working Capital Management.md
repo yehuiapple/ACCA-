@@ -914,14 +914,3 @@ If the net benefit is positive, the early settlement discount should be accepted
 
 :::
 
-### 6 Summary
-
-### 7 Overview
-
-![](media/Notes_C/media/image10.png){width="5.76875in" height="7.928994969378827in"}
-
-#### 7.1 Technical Articles
-
-- [Management of foreign accounts receivable (s.2)](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/fa-receivables.html)
-- [Accounts receivable management (s.1 -- s.4)](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/arm.html)
-- [Receivables collection (s.3 and s.4)](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/alternative-receivables-collection-techniques.html)

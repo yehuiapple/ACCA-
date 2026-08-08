@@ -261,14 +261,3 @@ There would be no tax benefit from TAD, lease payments and no tax relief on debt
 Example 4: Hawker Co (Sep/Dec 2021)](media/Notes_D/media/image18.png){width="5.768055555555556in" height="4.2125in"}
 :::
 
-
-### 4 Summary 
-
-#### 4.1 Overview 
-
-![](media/Notes_D/media/image19.png){width="6.260211067366579in" height="4.49912510936133in"}
-
-#### 4.2 Technical Articles
-
-[equivalent annual cost and benefit.pdf](../technical-articles/equivalent annual cost and benefit.pdf)
-

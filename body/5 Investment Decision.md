@@ -715,7 +715,3 @@ Which should be chosen?
 
 D     project D       \$1.5m      12%       18%          7 years
 
-
-### 5 Summary
-
-![](media/Notes_D/media/image7.png){width="6.1233519247594055in" height="7.086862423447069in"}

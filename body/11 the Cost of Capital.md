@@ -615,17 +615,3 @@ The existing WACC can be used as a discount rate if the project has the same ris
 
 ![](media/Notes_E/media/image10.png){width="5.768055555555556in" height="1.7729166666666667in"}
 
-### 5 Summary
-
-#### 5.1 Overview
-
-![](media/Notes_E/media/image11.png){width="6.2811570428696415in" height="7.195254811898513in"}
-
-#### 5.2 Technical Articles
-
-[CAPM-part 1.pdf](../technical-articles/CAPM-part 1.pdf)
-
-[CAPM-part 2.pdf](../technical-articles/CAPM-part 2.pdf)
-
-[CAPM-theory,advantages and disadvantages.pdf](../technical-articles/CAPM-part 1.pdf)
-

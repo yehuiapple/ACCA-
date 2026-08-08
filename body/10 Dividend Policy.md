@@ -294,15 +294,3 @@ Effects of share buyback:
 
 A larger-than-expected dividend may raise market expectations that future dividends will also be higher. So, a larger dividend may be announced as a **special dividend**- a **bonus dividend** to avoid creating expectations of an unsustainable level. Any exceptional cash surplus will be returned in this way but that this should not be built into dividend per share forecast.
 
-### 4 Summary
-
-#### 4.1 Overview
-
-![](media/Notes_E/media/image6.png){width="6.121736657917761in" height="4.862479221347332in"}
-
-#### 4.2 Technical Articles
-
-Related technical articles:
-
-[Dividend theory](<../../technicial%20articals/dividend%20theory.pdf>)
-

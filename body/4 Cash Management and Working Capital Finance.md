@@ -550,8 +550,3 @@ C Fluctuating current assets should be financed from a short-term source
 D A moderate or matching strategy finances current assets from a short-term source.
 :::
 
-
-### 4 Summary
-
-![](media/Notes_C/media/image17.png){width="6.0877712160979875in" height="8.468823272090988in"}
-

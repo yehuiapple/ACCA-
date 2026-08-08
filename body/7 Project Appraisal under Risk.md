@@ -315,7 +315,3 @@ An example of simulation is the Monte Carlo simulation method. The output estima
 
 Using risk-adjusted discount rate for both NPV and adjust payback. A higher discount rate should be applied to higher-risk projects, reducing the influence of more distant cash flows.
 
-### 4 Summary
-
-![](media/Notes_D/media/image11.png){width="6.455695538057743in" height="5.868814523184602in"}
-

@@ -717,15 +717,3 @@ Market interest rates and the market value of bonds have an inverse relationship
 
 ![](media/Notes_F/media/image13.png){width="5.768055555555556in" height="1.7048611111111112in"}
 
-### 4 Summary 
-
-#### 4.1 Overview
-
-![](media/Notes_F/media/image14.png){width="5.9542727471566055in" height="8.202825896762905in"}
-
-#### 4.2 Technical Articles
-
-[Business valuations](../../technicial%20articals/business%20valuation.pdf)
-
-[Behavioural finance](../../technicial%20articals/Behavioural%20finance.pdf)
-

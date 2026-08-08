@@ -421,20 +421,3 @@ Lecture example 5-Mar/Jun 2021 Zeddemore](media/Notes_E/media/image19.png){width
 ![](media/Notes_E/media/image23.png){width="6.212270341207349in" height="0.5639359142607174in"}
 :::
 
-
-### 5 Summary
-
-#### 5.1 Overview
-
-![](media/Notes_E/media/image24.png){width="6.182481408573929in" height="8.478464566929134in"}
-
-#### 5.2 Technical Articles
-
-[Cost of capital gearing and CAPM-part 1](../technical-articles/cost of capital gearing and CAPM-part 1.pdf)
-
-[Cost of capital gearing and CAPM-part 2](../technical-articles/cost of capital gearing and CAPM-part 2.pdf)
-
-[Optimum capital structure](../technical-articles/Optimum capital structure.pdf)
-
-[Analysing the suitability of financing alternatives](../technical-articles/Analysing the suitability of financing alternatives.pdf)
-

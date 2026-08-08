@@ -735,17 +735,3 @@ That involves Islamic bonds where the sukuk holder's return for providing financ
 **Qard hassan (good loan/benevolent loan)**: this involves a loan extended on a goodwill basis, and the debtor is only required to repay the amount borrowed. However, the debtor may, at their discretion, pay an extra amount to the creditor.
 :::
 
-### 5 Summary
-
-#### 5.1 Overview
-
-![](media/Notes_E/media/image5.png){width="5.977703412073491in" height="6.378722659667542in"}
-
-#### 5.2 Technical Articles
-
-[Business finance for SMEs](../technical-articles/business finance for SMEs.pdf)
-
-[Business finance](../technical-articles/Business finance.pdf)
-
-[Introduction to Islamic finance](../technical-articles/Introduction to Islamic finance.pdf)
-

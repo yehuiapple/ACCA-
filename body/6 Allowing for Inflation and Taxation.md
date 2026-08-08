@@ -485,18 +485,3 @@ Example 7: Trector](media/Notes_D/media/image8.png){width="5.768055555555556in" 
 ![](media/Notes_D/media/image9.png){width="5.768055555555556in" height="1.462062554680665in"}
 :::
 
-
-### 6 Summary 
-
-#### 6.1 Overview 
-
-![](media/Notes_D/media/image10.png){width="6.3206627296587925in" height="5.991463254593175in"}
-
-#### 6.2 Technical Articles
-
-Related technical articles available.
-
-[inflation and investment appraisal.pdf](../../technical%20articles/inflation%20and%20investment%20appraisal.pdf)
-
-[advanced investment appraisal.pdf](../../technical%20articles/advanced%20investment%20appraisal.pdf)
-
