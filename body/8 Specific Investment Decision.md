@@ -1,4 +1,4 @@
-## Chapter 8 Specific Investment Decision
+## 8 Specific Investment Decision
 
 ### Syllabus  {.pagebreak}
 **D. Investment Appraisal**

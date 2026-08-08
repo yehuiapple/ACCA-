@@ -1,4 +1,4 @@
-## Chapter 12 Gearing and Capital Structure
+## 12 Gearing and Capital Structure
 
 ### Syllabus  {.pagebreak}
 **E. Business Finance**

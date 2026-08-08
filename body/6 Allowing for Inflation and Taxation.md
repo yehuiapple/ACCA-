@@ -1,4 +1,4 @@
-## Chapter 6 Allowing for Inflation and Taxation
+## 6 Allowing for Inflation and Taxation
 
 ### Syllabus  {.pagebreak}
 **D. Investment Appraisal**

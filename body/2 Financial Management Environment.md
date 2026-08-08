@@ -1,4 +1,4 @@
-## Chapter 2 Financial Management Environment
+## 2 Financial Management Environment
 
 ### Syllabus
 

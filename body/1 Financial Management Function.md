@@ -1,4 +1,4 @@
-## Chapter 1 Financial Management Function
+## 1 Financial Management Function
 
 ### Syllabus
 

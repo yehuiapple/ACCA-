@@ -1,4 +1,4 @@
-## Chapter 7 Project Appraisal under Risk
+## 7 Project Appraisal under Risk
 
 ### Syllabus  {.pagebreak}
 **D. Investment Appraisal**

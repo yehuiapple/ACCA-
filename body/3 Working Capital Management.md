@@ -1,4 +1,4 @@
-## Chapter 3 Working Capital Management
+## 3 Working Capital Management
 
 ### Syllabus
 

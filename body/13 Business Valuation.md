@@ -1,4 +1,4 @@
-## Chapter 13 Business Valuation
+## 13 Business Valuation
 
 ### Syllabus {.pagebreak}
 **F. Business Valuation**

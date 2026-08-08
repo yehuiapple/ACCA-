@@ -1,4 +1,4 @@
-## Chapter 4 Cash Management and Working Capital Finance
+## 4 Cash Management and Working Capital Finance
 
 ### Syllabus  {.pagebreak}
 **2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**

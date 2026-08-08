@@ -1,4 +1,4 @@
-## Chapter 14 Foreign Currency Risk
+## 14 Foreign Currency Risk
 
 ### Syllabus  {.pagebreak}
 **G. Risk Management**

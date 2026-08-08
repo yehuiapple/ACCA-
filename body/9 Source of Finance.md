@@ -1,4 +1,4 @@
-## Chapter 9 Source of Finance
+## 9 Source of Finance
 
 ### Syllabus  {.pagebreak}
 **E. Business Finance**

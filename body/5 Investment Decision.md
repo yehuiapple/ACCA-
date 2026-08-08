@@ -1,4 +1,4 @@
-## Chapter 5 Investment Decision
+## 5 Investment Decision
 
 ### Syllabus
 

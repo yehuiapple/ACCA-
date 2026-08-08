@@ -1,4 +1,4 @@
-## Chapter 10 Dividend Policy
+## 10 Dividend Policy
 
 ### Syllabus  {.pagebreak}
 **E. Business Finance**

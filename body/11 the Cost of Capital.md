@@ -1,4 +1,4 @@
-## Chapter 11 the Cost of Capital
+## 11 the Cost of Capital
 
 ### Syllabus  {.pagebreak}
 **B. Financial Management Environment**

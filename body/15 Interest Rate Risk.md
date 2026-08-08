@@ -1,4 +1,4 @@
-## Chapter 15 Interest Rate Risk
+## 15 Interest Rate Risk
 
 ### Syllabus  {.pagebreak}
 **G. Risk Management**
