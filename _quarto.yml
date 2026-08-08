@@ -33,38 +33,38 @@ book:
       chapters:
         - body/Introduction.md
 
-    - part: "Part A: Financial Management Function"
+    - part: "A: Financial Management Function"
       chapters:
         - body/1 Financial Management Function.md
 
-    - part: "Part B: Financial Management Environment"
+    - part: "B: Financial Management Environment"
       chapters:
         - body/2 Financial Management Environment.md
 
-    - part: "Part C: Working Capital Management"
+    - part: "C: Working Capital Management"
       chapters:
         - body/3 Working Capital Management.md
         - body/4 Cash Management and Working Capital Finance.md
 
-    - part: "Part D: Investment Appraisal"
+    - part: "D: Investment Appraisal"
       chapters:
         - body/5 Investment Decision.md
         - body/6 Allowing for Inflation and Taxation.md
         - body/7 Project Appraisal under Risk.md
         - body/8 Specific Investment Decision.md
 
-    - part: "Part E: Business Finance"
+    - part: "E: Business Finance"
       chapters:
         - body/9 Source of Finance.md
         - body/10 Dividend Policy.md
         - body/11 the Cost of Capital.md
         - body/12 Gearing and Capital Structure.md
 
-    - part: "Part F: Business Valuations"
+    - part: "F: Business Valuations"
       chapters:
         - body/13 Business Valuation.md
 
-    - part: "Part G: Risk Management"
+    - part: "G: Risk Management"
       chapters:
         - body/14 Foreign Currency Risk.md
         - body/15 Interest Rate Risk.md
