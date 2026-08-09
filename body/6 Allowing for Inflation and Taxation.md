@@ -5,7 +5,7 @@
 
 **1. Investment Appraisal Techniques**
 
-a\) Identify and calculate relevant cash flows for investment projects^.\[2\]\^
+a\) Identify and calculate relevant cash flows for investment projects.[2]
 
 **2. Allowing for Inflation and Taxation in DCF**
 
@@ -13,7 +13,7 @@ a\) Apply and discuss the real-terms and nominal-terms approaches to investment 
 
 b\) Calculate the taxation effects of relevant cash flows, including the tax benefits of tax-allowable depreciation and the tax liabilities of taxable profit.[2]
 
-c\) Calculate and apply before- and after-tax discount rates^.\[2\]\^
+c\) Calculate and apply before- and after-tax discount rates.[2]
 
 ### 1 Relevant Cash Flows {.pagebreak}
 

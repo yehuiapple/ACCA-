@@ -18,7 +18,7 @@ b\) Explain and apply relevant accounting ratios, including:[2]
 
 i\) current ratio and quick ratio
 
-ii. inventory turnover ratio, average collection period and average payable period[1]
+ii. inventory turnover ratio, average collection period and average payable period
 iii\) sales revenue/net working capital ratio.
 
 c\) Discuss, apply and evaluate the use of relevant techniques in managing inventory, including the Economic Order Quantity model and Just-in-Time techniques.[2]

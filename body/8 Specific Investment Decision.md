@@ -21,7 +21,7 @@ iii. a discussion of the reasons for capital rationing.
 
 **3. Source of Finance and Their Relative Costs**
 
-d\) assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriated measures, including
+d\) assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriated measures, including:[2]
 
 iii. leasing or borrowing to buy
 

@@ -5,7 +5,7 @@
 
 **1. The nature and types of risk and approaches to risk management**
 
-b\) Describe and discuss different types of interest rate risk:
+b\) Describe and discuss different types of interest rate risk:[1]
 
 i. gap exposure
 
@@ -13,7 +13,7 @@ ii. basis risk.
 
 **2. Causes of exchange rate differences and interest rate fluctuations**
 
-c\) Describe the causes of interest rate fluctuations, including: 
+c\) Describe the causes of interest rate fluctuations, including: [2]
 
 i. structure of interest rates and yield curves
 
@@ -27,11 +27,11 @@ iv. market segmentation.
 
 **4. Discuss and Apply Traditional and Basic Methods of Interest Rate Risk Management, Including:**
 
-i. matching and smoothing 
+i. matching and smoothing [1]
 
-ii. asset and liability management 
+ii. asset and liability management [1]
 
-iii. forward rate agreements.
+iii. forward rate agreements.[2]
 
 b\) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 

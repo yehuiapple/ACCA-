@@ -5,7 +5,7 @@
 
 **1. Investment Appraisal Techniques**
 
-c\) Calculate discounted payback and discuss its usefulness as an investment appraisal method^.\[2\]\^
+c\) Calculate discounted payback and discuss its usefulness as an investment appraisal method.[2]
 
 **3. Adjusting for Risk and Uncertainty in Investment Appraisal**
 
@@ -13,8 +13,8 @@ a\) Describe and discuss the difference between risk and uncertainty in relation
 
 b\) Apply sensitivity analysis to investment projects and discuss the usefulness of sensitivity analysis in assisting investment decisions.[2]
 
-c) Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.[2][1]
-d) Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:[1]
+c) Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.[2]
+d) Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:
 i. simulation[1] 
 
 ii. adjusted payback[1] 
