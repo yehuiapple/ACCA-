@@ -301,10 +301,24 @@ div.cell-output-stdout {
 }
 
 /* ============================================
-   打印样式：Syllabus 与正文分页
+   打印样式：Syllabus 与正文分页 + 例题留白
    ============================================ */
 @media print {
   .pagebreak {
     page-break-after: always;
+  }
+
+  .callout-tip .callout-body {
+    min-height: 12rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .callout-tip .callout-body::after {
+    content: "Notes:";
+    display: block;
+    margin-top: 2rem;
+    color: #999;
+    border-top: 1px dashed #ccc;
+    padding-top: 0.4rem;
   }
 }
