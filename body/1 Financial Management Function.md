@@ -414,7 +414,7 @@ Three comparisons can be made:
 - The change in the ratio from one year to the next
 - Other benchmark company's ratio, if this information is available
 - A given target ratio
-  :::
+:::
 
 ### 4 Not-For-Profit Organizations
 
