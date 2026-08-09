@@ -6,17 +6,17 @@
 
 **1. Investment Appraisal Techniques**
 
-b\) Calculate payback period and discuss its usefulness as an investment appraisal method.\^\[2\]\^
+b\) Calculate payback period and discuss its usefulness as an investment appraisal method.[2]
 
-d\) Calculate return on capital employed (accounting rate of return) and discuss its usefulness as an investment appraisal method.\^\[2\]\^
+d\) Calculate return on capital employed (accounting rate of return) and discuss its usefulness as an investment appraisal method.[2]
 
-e\) Calculate net present value and discuss its usefulness as an investment appraisal method^.\^\[2\]\^
+e\) Calculate net present value and discuss its usefulness as an investment appraisal method^.[2]
 
-f\) Calculate internal rate of return and discuss its usefulness as an investment appraisal method.\^\[2\]\^
+f\) Calculate internal rate of return and discuss its usefulness as an investment appraisal method.[2]
 
-g\) Discuss the superiority of discounted cash flow (DCF) methods over non-DCF methods.\^\[2\]\^
+g\) Discuss the superiority of discounted cash flow (DCF) methods over non-DCF methods.[2]
 
-h\) Discuss the relative merits of NPV and IRR.\^\[2\]\^
+h\) Discuss the relative merits of NPV and IRR.[2]
 
 ### 1 Decision-Making Process
 
@@ -379,10 +379,10 @@ usually, the cost of capital is used as the discount rate in NPV method of inves
 
 The **NPV method** is applied as follows:
 
-1. forecast the relevant cash flows from the project\^\[2\]\^
-2. estimate the discount rate and discount each cash flow to its present value\^\[2\]\^
-3. sum present value to give the NPV of the project\^\[2\]\^
-4. the decision rule of NPV:\^\[2\]\^
+1. forecast the relevant cash flows from the project[2]
+2. estimate the discount rate and discount each cash flow to its present value[2]
+3. sum present value to give the NPV of the project[2]
+4. the decision rule of NPV:[2]
 
 - If NPV is positive, accept the project as it provides a higher return than investor require (i.e. the cost of capital);
 - if NPV is negative, reject the project as it provides a lower return than investor require

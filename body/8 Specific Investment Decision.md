@@ -5,11 +5,11 @@
 
 **4. Specific Investment Decisions**
 
-a\) Evaluate leasing and borrowing to buy using the before- and after-tax costs of debt.\^\[2\]\^
+a\) Evaluate leasing and borrowing to buy using the before- and after-tax costs of debt.[2]
 
-b\) Evaluate asset replacement decisions using equivalent annual cost and equivalent annual benefit.\^\[2\]\^
+b\) Evaluate asset replacement decisions using equivalent annual cost and equivalent annual benefit.[2]
 
-c\) Evaluate investment decisions under single-period capital rationing, including:\^\[2\]\^
+c\) Evaluate investment decisions under single-period capital rationing, including:[2]
 
 i.  the calculation of profitability indexes for divisible investment projects
 
@@ -143,8 +143,8 @@ A project is divisible if any partial or proportionate investment can be made in
 
 The three steps required for rationing capital to divisible projects are as follows:
 
-1.  calculate a profitability index for each project:\^\[2\]\^
-2.  rank projects according to their profitability index\^\[2\]\^
+1.  calculate a profitability index for each project:[2]
+2.  rank projects according to their profitability index[2]
 The profitability index is the ratio of the present value of the project's future cash inflows divided by the initial investment.
 
 $$PI = \frac{PV\ of\ project\ net\ cash\ inflows}{initial\ investment}$$

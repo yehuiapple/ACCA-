@@ -5,9 +5,9 @@
 
 **3. Sources of finance and their relative costs**
 
-c\) Identify and discuss the problem of high levels of gearing.\^\[2\]\^
+c\) Identify and discuss the problem of high levels of gearing.[2]
 
-d\) Assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriate measures, including:\^\[2\]\^
+d\) Assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriate measures, including:[2]
 
 i.  ratio analysis using statement of financial position gearing, operational and financial gearing, interest coverage ratio and other relevant ratios
 
@@ -15,7 +15,7 @@ ii. cash flow forecasting
 
 iii. leasing or borrowing to buy.
 
-e\) Impact of cost of capital on investments including:\^\[2\]\^
+e\) Impact of cost of capital on investments including:[2]
 
 i.  the relationship between company value and cost of capital.
 
@@ -27,13 +27,13 @@ iv. the application of the CAPM in calculating a project-specific discount rate.
 
 **4. Capital structure theories and practical considerations**
 
-a\) Describe the traditional view of capital structure and its assumptions.\^\[2\]\^
+a\) Describe the traditional view of capital structure and its assumptions.[2]
 
-b\) Describe the views of Miller and Modigliani on capital structure, both without and with corporate taxation, and their assumptions.\^\[2\]\^
+b\) Describe the views of Miller and Modigliani on capital structure, both without and with corporate taxation, and their assumptions.[2]
 
-c\) Identify a range of capital market imperfections and describe their impact on the views of Miller and Modigliani on capital structure.\^\[2\]\^
+c\) Identify a range of capital market imperfections and describe their impact on the views of Miller and Modigliani on capital structure.[2]
 
-d\) Explain the relevance of pecking order theory to the selection of sources of finance.\^\[1\]\^
+d\) Explain the relevance of pecking order theory to the selection of sources of finance.[1]
 
 ### 1 Gearing {.pagebreak}
 
@@ -264,9 +264,9 @@ MM's theory with tax implies that there is an optimal gearing level and that thi
 
 According to pecking order theory, a company should simply follow an established pecking order to raise finance simply and efficiently.
 
-1. Use retained earnings available\^\[2\]\^
-2. Then issue debt\^\[2\]\^
-3. Then issue equity, as a last resort\^\[2\]\^
+1. Use retained earnings available[2]
+2. Then issue debt[2]
+3. Then issue equity, as a last resort[2]
 
 **Reasons for Following Pecking Order**
 
@@ -391,9 +391,9 @@ E(r~i~)=R~f~+$\mathbf{\beta}_{\mathbf{e}}$ (R~m~ -R~f~)
 
 Are the following statements true or false?
 
-1. The asset beta reflects both business risk and financial risk\^\[2\]\^
-2. Total risk is the sum of systematic risk and unsystematic risk\^\[2\]\^
-3. Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beta\^\[1\]\^
+1. The asset beta reflects both business risk and financial risk[2]
+2. Total risk is the sum of systematic risk and unsystematic risk[2]
+3. Assuming that the beta of debt is zero will understate financial risk when ungearing an equity beta[1]
 
 ::: {.callout-tip}
 **Lecture example 5 -- Mar/Jun 2021 Zeddemore**

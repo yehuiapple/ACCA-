@@ -3,7 +3,7 @@
 ### Syllabus  {.pagebreak}
 **2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
 
-f\) Explain the various reasons for holding cash, and discuss and apply the use of relevant techniques in managing cash, including:\^\[2\]\^
+f\) Explain the various reasons for holding cash, and discuss and apply the use of relevant techniques in managing cash, including:[2]
 
 i\) preparing cash flow forecasts to determine future cash flows and cash balances
 
@@ -17,15 +17,15 @@ iv\) investing short-term.
 
 b\) Evaluate and discuss the key factors in determining working capital funding strategies, including:
 
-i\) the distinction between permanent and fluctuating current assets\^\[2\]\^ 
+i\) the distinction between permanent and fluctuating current assets[2] 
 
-ii\) the relative cost and risk of short-term and long-term finance\^\[2\]\^ 
+ii\) the relative cost and risk of short-term and long-term finance[2] 
 
-iii\) the matching principle\^\[2\]\^ 
+iii\) the matching principle[2] 
 
-iv\) the relative costs and benefits of aggressive, conservative and matching funding policies\^\[2\]\^ 
+iv\) the relative costs and benefits of aggressive, conservative and matching funding policies[2] 
 
-v\) management attitudes to risk, previous funding decisions and organisation size.\^\[1\]\^
+v\) management attitudes to risk, previous funding decisions and organisation size.[1]
 
 ### 1 Treasury Management {.pagebreak}
 

@@ -4,50 +4,50 @@
 
 **1. The Nature, Elements and Importance of Working Capital**
 
-a\) Describe the nature of working capital and identify its elements.\^\[1\]\^
+a\) Describe the nature of working capital and identify its elements.[1]
 
-b\) Identify the objectives of working capital management in terms of liquidity and profitability, and discuss the conflict between them.\^\[2\]\^
+b\) Identify the objectives of working capital management in terms of liquidity and profitability, and discuss the conflict between them.[2]
 
-c\) Discuss the central role of working capital management in financial management.\^\[2\]\^
+c\) Discuss the central role of working capital management in financial management.[2]
 
 **2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
 
-a\) Explain the cash operating cycle and the role of accounts payable and accounts receivable.\^\[2\]\^
+a\) Explain the cash operating cycle and the role of accounts payable and accounts receivable.[2]
 
-b\) Explain and apply relevant accounting ratios, including:\^\[2\]\^
+b\) Explain and apply relevant accounting ratios, including:[2]
 
 i\) current ratio and quick ratio
 
-ii. inventory turnover ratio, average collection period and average payable period\^\[1\]\^
+ii. inventory turnover ratio, average collection period and average payable period[1]
 iii\) sales revenue/net working capital ratio.
 
-c\) Discuss, apply and evaluate the use of relevant techniques in managing inventory, including the Economic Order Quantity model and Just-in-Time techniques.\^\[2\]\^
+c\) Discuss, apply and evaluate the use of relevant techniques in managing inventory, including the Economic Order Quantity model and Just-in-Time techniques.[2]
 
 d\) Discuss, apply and evaluate the use of relevant techniques in managing accounts receivable, including:
 
-i\) assessing creditworthiness\^\[1\]\^
+i\) assessing creditworthiness[1]
 
-ii\) managing accounts receivable\^\[1\]\^
+ii\) managing accounts receivable[1]
 
-iii\) collecting amounts owing\^\[1\]\^
+iii\) collecting amounts owing[1]
 
-iv\) offering early settlement discounts\^\[2\]\^
+iv\) offering early settlement discounts[2]
 
-v\) using factoring and invoice discounting\^\[2\]\^
+v\) using factoring and invoice discounting[2]
 
-vi\) managing foreign accounts receivable.\^\[2\]\^
+vi\) managing foreign accounts receivable.[2]
 
 e\) Discuss and apply the use of relevant techniques in managing accounts payable, including:
 
-i\) using trade credit effectively\^\[1\]\^
+i\) using trade credit effectively[1]
 
-ii\) evaluating the benefits of early settlement and bulk purchase discounts\^\[2\]\^
+ii\) evaluating the benefits of early settlement and bulk purchase discounts[2]
 
-iii\) managing foreign accounts payable.\^\[1\]\^
+iii\) managing foreign accounts payable.[1]
 
 **3. Determining Working Capital Needs and Funding Strategies**
 
-a\) Calculate the level of working capital investment in current assets and discuss the key factors determining this level, including:\^\[2\]\^
+a\) Calculate the level of working capital investment in current assets and discuss the key factors determining this level, including:[2]
 
 i\) the length of the working capital cycle and terms of trade
 
@@ -473,7 +473,7 @@ Examples of hidden costs include: failing to deal with unreliable suppliers, def
 
 ![](media/Notes_C/media/image9.png){width="3.9316863517060368in" height="1.7155610236220473in"}
 
-1. reliable suppliers/staff, good quality, no lead-time\^\[2\]\^
+1. reliable suppliers/staff, good quality, no lead-time[2]
    **Drawbacks of JIT**
 
 JIT will not be appropriate if **production processes and suppliers are unreliable,** and especially where the consequences of a stock-out are serious. for example, in a hospital, a stock-out could be fatal.

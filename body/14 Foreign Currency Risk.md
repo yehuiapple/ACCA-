@@ -5,7 +5,7 @@
 
 **1. The nature and types of risk and approaches to risk management**
 
-a\) Describe and discuss different types of foreign currency risk:\^\[2\]\^
+a\) Describe and discuss different types of foreign currency risk:[2]
 
 i. translation risk
 
@@ -17,15 +17,15 @@ iii. economic risk.
 
 a\) Describe the causes of exchange rate fluctuations, including:
 
-i. balance of payments\^\[1\]\^ 
+i. balance of payments[1] 
 
-ii. purchasing power parity theory\^\[2\]\^ 
+ii. purchasing power parity theory[2] 
 
-iii. interest rate parity theory\^\[2\]\^ 
+iii. interest rate parity theory[2] 
 
-iv. four-way equivalence.\^\[2\]\^
+iv. four-way equivalence.[2]
 
-b\) Forecast exchange rates using:\^\[2\]\^
+b\) Forecast exchange rates using:[2]
 
 i. purchasing power parity
 
@@ -35,19 +35,19 @@ ii. interest rate parity.
 
 a\) Discuss and apply traditional and basic methods of foreign currency risk management, including:
 
-i. currency of invoice\^\[1\]\^ 
+i. currency of invoice[1] 
 
-ii. netting and matching\^\[2\]\^ 
+ii. netting and matching[2] 
 
-iii. leading and lagging\^\[2\]\^ 
+iii. leading and lagging[2] 
 
-iv. forward exchange contracts\^\[2\]\^ 
+iv. forward exchange contracts[2] 
 
-v. money market hedging\^\[2\]\^ 
+v. money market hedging[2] 
 
-vi. asset and liability management.\^\[1\]\^
+vi. asset and liability management.[1]
 
-b\) Compare and evaluate traditional methods of foreign currency risk management. c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging. (No numerical questions will be set on this topic)\^\[2\]\^
+b\) Compare and evaluate traditional methods of foreign currency risk management. c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
 ### 1 Foreign Currency Risk {.pagebreak}
 

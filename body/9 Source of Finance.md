@@ -5,7 +5,7 @@
 
 **1. Sources of, and raising, business finance**
 
-a\) Identify and discuss the range of short-term sources of finance available to businesses, including:\^\[2\]\^
+a\) Identify and discuss the range of short-term sources of finance available to businesses, including:[2]
 
 i.  overdraft
 
@@ -15,7 +15,7 @@ iii. trade credit
 
 iv. lease finance.
 
-b\) Identify and discuss the range of long-term sources of finance available to businesses, including:\^\[2\]\^
+b\) Identify and discuss the range of long-term sources of finance available to businesses, including:[2]
 
 i.  equity finance
 
@@ -25,7 +25,7 @@ iii. lease finance
 
 iv. venture capital.
 
-c\) Identify and discuss methods of raising equity finance, including:\^\[2\]\^
+c\) Identify and discuss methods of raising equity finance, including:[2]
 
 i.  rights issue
 
@@ -35,7 +35,7 @@ iii. public offer
 
 iv. stock exchange listing.
 
-d\) Identify and discuss methods of raising short- and long-term Islamic finance, including:\^\[1\]\^ 
+d\) Identify and discuss methods of raising short- and long-term Islamic finance, including:[1] 
 
 i.  major differences between Islamic finance and the other forms of business finance.
 
@@ -52,13 +52,13 @@ iii. Islamic financial instruments available to businesses including:
 
 **5. Finance for small and medium sized entities (SMEs)**
 
-a\) Describe the financing needs of small businesses.\^\[2\]\^
+a\) Describe the financing needs of small businesses.[2]
 
-b\) Describe the nature of the financing problem for small businesses in terms of the funding gap, the maturity gap and inadequate security.\^\[2\]\^
+b\) Describe the nature of the financing problem for small businesses in terms of the funding gap, the maturity gap and inadequate security.[2]
 
-c\) Explain measures that may be taken to ease the financing problems of SMEs, including the responses of government departments and financial institutions.\^\[1\]\^
+c\) Explain measures that may be taken to ease the financing problems of SMEs, including the responses of government departments and financial institutions.[1]
 
-d\) Identify and evaluate the financial impact of sources of finance for SMEs, including sources already referred previous and also\^\[2\]\^ 
+d\) Identify and evaluate the financial impact of sources of finance for SMEs, including sources already referred previous and also[2] 
 
 i.  Business angel financing
 

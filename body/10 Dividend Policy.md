@@ -5,7 +5,7 @@
 
 **1. Sources of, and raising, business finance**
 
-e\) Identify and discuss internal sources of finance, including:\^\[2\]\^
+e\) Identify and discuss internal sources of finance, including:[2]
 i.  retained earnings
 
 ii. increasing working capital management efficiency

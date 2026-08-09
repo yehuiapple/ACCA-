@@ -9,17 +9,17 @@ c\) Calculate discounted payback and discuss its usefulness as an investment app
 
 **3. Adjusting for Risk and Uncertainty in Investment Appraisal**
 
-a\) Describe and discuss the difference between risk and uncertainty in relation to probabilities and increasing project life.\^\[2\]\^
+a\) Describe and discuss the difference between risk and uncertainty in relation to probabilities and increasing project life.[2]
 
-b\) Apply sensitivity analysis to investment projects and discuss the usefulness of sensitivity analysis in assisting investment decisions.\^\[2\]\^
+b\) Apply sensitivity analysis to investment projects and discuss the usefulness of sensitivity analysis in assisting investment decisions.[2]
 
-c) Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.\^\[2\]\^\^\[1\]\^
-d) Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:\^\[1\]\^
-i. simulation\^\[1\]\^ 
+c) Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.[2][1]
+d) Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:[1]
+i. simulation[1] 
 
-ii. adjusted payback\^\[1\]\^ 
+ii. adjusted payback[1] 
 
-iii. risk-adjusted discount rates.\^\[2\]\^ 
+iii. risk-adjusted discount rates.[2] 
 
 ### 1 Risk and Uncertainty {.pagebreak}
 

@@ -5,13 +5,13 @@
 
 **1. Nature and purpose of the valuation of business and financial assets**
 
-a\) Identify and discuss reasons for valuing businesses and financial assets.\^\[2\]\^
+a\) Identify and discuss reasons for valuing businesses and financial assets.[2]
 
-b\) Identify information requirements for valuation and discuss the limitations of different types of information.\^\[2\]\^
+b\) Identify information requirements for valuation and discuss the limitations of different types of information.[2]
 
 **2. Models for the valuation of shares**
 
-a\) Discuss and apply asset-based valuation models, including:\^\[2\]\^
+a\) Discuss and apply asset-based valuation models, including:[2]
 
 i. net book value (statement of financial position) basis
 
@@ -19,13 +19,13 @@ ii. net realizable value basis
 
 iii. net replacement cost basis.
 
-b\) Discuss and apply income-based valuation models, including:\^\[2\]\^
+b\) Discuss and apply income-based valuation models, including:[2]
 
 i. price/earnings ratio method
 
 ii. earnings yield method.
 
-c\) Discuss and apply cash flow-based valuation models, including:\^\[2\]\^
+c\) Discuss and apply cash flow-based valuation models, including:[2]
 
 i. dividend valuation model and the dividend growth model
 
@@ -33,7 +33,7 @@ ii. discounted cash flow basis.
 
 **3. The valuation of debt and other financial assets**
 
-a\) Discuss and apply appropriate valuation methods to:\^\[2\]\^
+a\) Discuss and apply appropriate valuation methods to:[2]
 
 i. irredeemable debt
 
@@ -45,9 +45,9 @@ iv. preference shares.
 
 **4. EMH and practical considerations in the valuation of shares**
 
-a\) Distinguish between and discuss weak form efficiency, semi-strong form efficiency and strong form efficiency.\^\[2\]\^
+a\) Distinguish between and discuss weak form efficiency, semi-strong form efficiency and strong form efficiency.[2]
 
-b\) Discuss practical considerations in the valuation of shares and businesses, including:\^\[2\]\^
+b\) Discuss practical considerations in the valuation of shares and businesses, including:[2]
 
 i. marketability and liquidity of shares
 
@@ -57,7 +57,7 @@ iii. market imperfections and pricing anomalies
 
 iv. market capitalization.
 
-c\) Describe the significance of investor speculation and the explanations of investor decisions offered by behavioral finance.\^\[1\]\^
+c\) Describe the significance of investor speculation and the explanations of investor decisions offered by behavioral finance.[1]
 
 ### 1 Nature and Purpose for Business Valuations {.pagebreak}
 
