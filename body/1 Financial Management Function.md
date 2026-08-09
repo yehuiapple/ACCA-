@@ -44,7 +44,6 @@ b) Discuss the nature and importance of Value for Money as an objective in not-f
 
 c) Discuss ways of measuring the achievement of objectives in not-for-profit organizations. [2]
 
-
 <div class="pagebreak"></div>
 
 ### 1 Nature and Purpose of Financial Management
@@ -316,9 +315,6 @@ $$
 
 ![Question image](media/Notes_AB/media/image6.png){width="6.518692038495188in" height="2.9877996500437445in"}
 
-
-
-
 :::
 
 #### 3.2 Liquidity and Gearing Ratios
@@ -403,9 +399,6 @@ $$
 Geeh Co paid an interim dividend of \$0.06 per ordinary share on 31 October 2006 and declared a final dividend of \$0.08 on 31 December 2006. The ordinary shares in Geeh are trading at a cum-div price of \$1.83.
 
 **What is the dividend yield (to one decimal place)?**
-
-
-
 
 :::
 
