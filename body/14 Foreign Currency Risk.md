@@ -562,7 +562,7 @@ Lecture example -illustration of futures
 > C 2 and 4 only
 >
 > D 2, 3 and 4
-> :::
+:::
 
 Difference between currency futures and forward contracts:
 

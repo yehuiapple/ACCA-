@@ -68,7 +68,7 @@ NPV cannot be compared directly for projects with different life. The calculatio
 - Changing technology may also require earlier replacement than the optimal solution suggests.
 - Non-financial factors such as employees' satisfaction are ignored
 - The analysis ignores the impact of tax and inflation
-  :::
+:::
 
 #### 1.2 Equivalent Annual Benefit
 

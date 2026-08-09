@@ -40,7 +40,6 @@ c) Explain and apply the characteristics and role of the principal money market 
 2. discount instruments
 3. derivatives
 
-
 <div class="pagebreak"></div>
 
 ### 1 Economic Environment
@@ -107,7 +106,7 @@ Types of market failure (where need government intervention)
 
 \(4\) fairness
 
-##### 1. Competition Policy
+##### 1.5.1 Competition Policy
 
 **Imperfect Competition**
 
@@ -125,7 +124,7 @@ A large company can benefit from the kinds of economies of scale; however, monop
 
 Government regulatory authorities (eg the Competition and Markets Authority In the UK) must decide whether the monopoly is acting against the public interest. A prospect merger may be made to the Competition and Markets Authority for investigation if a larger company will gain more than 25% market share and a merger is likely to lead to a substantial decrease in competition.
 
-##### 2. Green Policy and Sustainability Issues
+##### 1.5.2 Green Policy and Sustainability Issues
 
 **Social Costs / Externalities**
 
@@ -143,7 +142,7 @@ For investors, sustainable investing means investing in progress and recognising
 
 However, increasing demand for eco-friendly products and environmentally ethical business practices has led to increased greenwashing (i.e. making people believe that a company is doing more to protect the environment than it is).
 
-##### 3. Regulation
+##### 1.5.3 Regulation
 
 **Regulation** can be defined as any form of state interference with the operation of the free market. The government may also resort to regulation to **improve social justice**, eg concerns about the fairness of expensive housing.
 
@@ -172,11 +171,11 @@ The financial markets include the capital markets (for medium- and long-term cap
 - Primary market activity − selling new securities to raise new funds.
 - Secondary market activity − trading existing securities.
 
-##### 1. Money Markets
+##### 2.2.1 Money Markets
 
 The money market is not a physical market; it is the term used to describe trading between banks and other financial institutions. Although the money markets principally involve borrowing and lending by banks, some large companies and the government are engaged in money market operations.
 
-(1) **Money market instruments**
+**1.Money market instruments**
 
 There are 3 types of money market instruments:
 
@@ -184,7 +183,7 @@ There are 3 types of money market instruments:
 - \(b\) discount instruments and
 - \(c\) derivatives
 
-**Interest-bearing Instruments**
+**(a)Interest-bearing Instruments**
 
 **Money market deposits-**very short-term loans normally between banks. The rate at which banks lend to each other in the London market is called Sterling Overnight Index Average (SONIA) and is the most widely used reference rate for short-term interest rate for the settlement of money market derivatives.
 
@@ -204,14 +203,11 @@ There are 3 types of money market instruments:
 >
 > What is the implicit annual interest rate in this transaction (to nearest 0.01%)?
 
-
-
-
 :::
 
 The examining team advice to use **Method 2** in all areas of FM syllabus, this is technically correct method. However, all questions involving **risk management calculations** in the FM exam will be assessed using **method 1** as it is simpler. For example, considering money market hedge, the case Marigold, which was published in Sep/Dec 2020.
 
-**Discount Instruments**
+**(b)Discount Instruments**
 
 These instruments do not pay interest. They are issued and traded at a discount to the face value and redeemed at par value at maturity.
 
@@ -256,19 +252,19 @@ Where R is the annualized interest rate, r is the period interest rate, and n is
 
 :::
 
-**Derivatives**
+**(c)Derivatives**
 
 A financial instrument whose value or price depends on an underlying asset.
 
 Businesses can use derivatives to reduce the risk of adverse fluctuations in the value of an asset through "hedging". Details of examples, including futures, forward contracts, options and swaps, are described in part G.
 
-(2) **Roles of Money Market**
+**2.Roles of Money Market**
 
 - Providing short-term liquidity to companies, banks and the public sector
 - Providing short-term finance
 - Allowing firms to manage its exposure to foreign currency risk and interest rate risk.
 
-##### 2. Capital Markets
+##### 2.2.2 Capital Markets
 
 The principal capital markets in UK:
 
@@ -333,13 +329,13 @@ The impacts of Fintech on financial markets and institutions include:
 - Availability of credit;
 - Potential source of finance (security token offering).
 
-##### 1. Disintermediation
+##### 4.2.1 Disintermediation
 
 The main advantage of the role of financial institutions as intermediaries is their ability to provide safety, liquidity and economies of scale. **Disintermediation **involves transferring funds between parties directly, without a financial intermediary. Fintech enables efficient banking services, directly matching lenders and borrowers, investors and investment opportunities and, thereforee, disintermediates the flow of funds.
 
 **Securitization** is the process of converting illiquid assets into marketable securities. These securities are backed by specific assets and are normally called asset-backed securities (ABS). The development of securitization has led to disintermediation and reduction in the role of financial intermediaries.
 
-##### 2. Availability of Credit
+##### 4.2.2 Availability of Credit
 
 Fintech has expanded the availability of credit by allowing borrowers rejected by the traditional banks to access the funding they need.
 
@@ -349,7 +345,7 @@ However, in some countries where P2P lending is unregulated, investors have lost
 
 - **Crowdfunding** -- crowdfunding allows a company to access equity finance via online crowdfunding platform, to pitch for finance from a large number of potential investors.
 
-##### 3. Potential Source of Finance (security Token Offering)
+##### 4.2.3 Potential Source of Finance (security Token Offering)
 
 A security token is a digital representation of ownership of a share in an asset (e.g. gold or property) or economic rights (e.g. a share of profits or revenue). Whereas a traditional share in a company is issued in a physical document (a share certificate), a security token is a digital certificate (and may be stored in a digital wallet).
 
@@ -371,7 +367,6 @@ Fintech has increased the availability of long-term finance by creating new fina
 > D Certificates of deposit
 
 :::
-
 
 ::: {.callout-tip}
 **Example 4** (Dec 2016, Q6)

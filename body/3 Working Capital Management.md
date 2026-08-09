@@ -55,7 +55,6 @@ ii\) an organization's policy on the level of investment in current assets
 
 iii\) the industry in which the organization operates.
 
-
 <div class="pagebreak"></div>
 
 ### 1 Working Capital
@@ -143,7 +142,7 @@ A moderate approach falls between the conservative and aggressive approaches.
 
 #### 2.1 Working Capital Ratios
 
-##### 1. Liquidity Ratios
+##### 2.1.1 Liquidity Ratios
 
 **Current Ratio** = $\frac{Current\ Assets}{Current\ Liabilities}$
 
@@ -153,7 +152,7 @@ If the current ratio falls below 1 this may indicate problems in meeting obligat
 
 This measure is particularly useful where inventory moves slow and cannot be converted into cash quickly. The quick ratio is particularly relevant where inventory is slow moving. A company with slow-moving inventory should ideally have a quick ratio of at least 1. For a company with fast-moving inventory, the quick ratio can be less than 1 without suggesting that it is facing cash-flow problems.
 
-##### 2. Efficiency Ratios
+##### 2.2.2 Efficiency Ratios
 
 **Receivables collection period** $= \frac{average\ trade\ receivables}{annual\ credit\ sales} \times 365$
 
@@ -299,7 +298,7 @@ Although an optimal level of working capital may exist it may not be achievable 
 - Overtrading
 - Over-capitalization
 
-##### 1. Overtrading
+##### 2.4.1 Overtrading
 
 Overtrading occurs when a company tries to support a large volume of trade from a small working capital base. Also called undercapitalization, it often occurs when a business grows rapidly without an increase in long-term finance.
 
@@ -332,7 +331,7 @@ If a business suffers from liquidity problems due to overtrading, the aim will b
 >
 > -using factor, discounting invoice, cash discounts to speed cash collection.
 
-##### 2. Over-capitalization
+##### 2.4.2 Over-capitalization
 
 Over-capitalization -- an excessive level of working capital, leading to inefficiency.
 
@@ -365,7 +364,7 @@ Keeping inventory levels high will lead to high holding cost, however, keeping i
 
 #### 3.2 Inventory Models/systems
 
-##### 1. EOQ Model
+##### 3.2.1 EOQ Model
 
 The Economic Order Quantity (EOQ) is the optimal quantity of inventory that should be ordered each time a purchase order is placed. This quantity will minimize the total costs relevant to ordering and holding inventory.
 
@@ -435,7 +434,7 @@ Select the order quantity that minimizes inventory related costs.
 
 In reality, a company may hold buffer inventory to reduce the risk of stock-outs. If buffer inventory is required, the average inventory level becomes B+Q/2
 
-##### 2. Re-Order Level System
+##### 3.2.2 Re-Order Level System
 
 Use this method to build safety inventory and minimizes the risk of running out of inventory.
 
@@ -457,7 +456,7 @@ Average inventory
 
 = Buffer safety inventory +Re-order quantity/2
 
-##### 3. Just-in-time
+##### 3.2.3 Just-in-time
 
 A just-in-time *purchasing* system aims to minimize the cost of holding inventory by placing orders so that delivery is timed for when the goods are needed.
 
@@ -495,7 +494,7 @@ Whether or not offer credit (extend credit) should be assessed by comparing whet
 
 #### 4.1 Methods of Speeding Cash Collection
 
-##### 1. Early Settlement Discount
+##### 4.1.1 Early Settlement Discount
 
 Offering customers a percentage discount on an invoice for early settlement of amounts due.
 
@@ -575,7 +574,7 @@ Annual finance cost saving = X~1~ − X~2~
 - the introduction of such a discount will make the management of the sales ledger more complex and costly to run and is likely to make the budgeting of receipts from customers more difficult as the company could not be sure whether the discount will or will not be taken.
 - Too often customers will abuse the discount by taking it despite not paying early.
 
-##### 2. Factoring
+##### 4.1.2 Factoring
 
 Businesses offering a range of services in the area of sales administration and the collection of amounts due from customers.
 
@@ -639,7 +638,7 @@ Annual finance cost saving = X~1~ − X~2~
 
 :::
 
-##### 3. Invoice Discounting
+##### 4.1.3 Invoice Discounting
 
 The selling of selected sales invoices to a third party for a discounted cash sum, while retaining full control over the receivables ledger.
 
@@ -660,7 +659,7 @@ When a business enters into an invoice discounting arrangement, a finance compan
 
 The key areas of accounts receivable management are assessing creditworthiness, setting credit terms, monitoring and effective cash collection.
 
-##### 1. Assessing Creditworthiness
+##### 4.2.1 Assessing Creditworthiness
 
 The company must balance the risk inherent in granting credit against the necessity to allow enough credit to support the level of business.
 
@@ -673,7 +672,7 @@ To assess the creditworthiness of a customer or potential customer, a company ma
 - **information from the financial media** - information in the national and local press, and in suitable trade journals and on the internet, may give an indication of the current situation of a company.
 - A visit to discuss their exact needs and impress them with good customer service and to "get a feel" for whether the business should be given credit.
 
-##### 2. Setting Credit Terms and Monitoring Account Receivables
+##### 4.2.2 Setting Credit Terms and Monitoring Account Receivables
 
 Once the decision has been taken to grant credit, then suitable credit terms must be set and the receivables that arise must be monitored efficiently if the costs of giving credit are to be kept under control.
 
@@ -686,7 +685,7 @@ The accounts receivable should be continuously monitored. In order to do this a 
 
 In larger organizations, customers may be classified by trade and country as it is then possible to evaluate exposure by both country and trade.
 
-##### 3. Collection Cash
+##### 4.2.3 Collection Cash
 
 Methods to help ensure customers pay on a timely basis include:
 

@@ -83,7 +83,7 @@ Therefore, any long-term surplus of cash should be either reinvested into projec
 - dividends (regular or special dividend); or
 - share buy-back programmes.
 
-##### Cash Flow Forecasting
+#### Cash Flow Forecasting
 
 A major task for the treasurer is cash flow forecasting. It will allow the business to **plan how to deal with expected cash flow surpluses or shortages.**
 
@@ -309,7 +309,7 @@ Interest rate = daily&nbsp;interest rate on marketable securities (i.e. daily op
 
 ### 3 Working Capital Financing
 
-**Source of Finance**
+#### 3.1 Source of Finance
 
 Source of finance can be divided into short-term and long-term finance.
 
@@ -334,7 +334,7 @@ assets will be divided into three different types.
 - permanent current asset - Some proportion of \"current\" assets may be more permanent. It represents the minimum current asset base (e.g. inventory, receivables) required to sustain normal trading activity.
 - Fluctuating current assets - total current assets will naturally fluctuate above the minimum permanent level -- only this excess is truly short-term
 
-**Strategies for Funding Working Capital**
+#### 3.2 Strategies for Funding Working Capital
 
 (1) **Conservative financing strategy**
 

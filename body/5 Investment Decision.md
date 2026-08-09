@@ -97,7 +97,7 @@ Disadvantages:
 > C 49%
 >
 > D 36%
-> :::
+:::
 
 #### 2.2 Payback Period
 
@@ -132,7 +132,7 @@ The calculation of payback period is:
 > C 1 year 5 months
 >
 > D 3 year 2 months
-> :::
+:::
 
 **Advantages of Payback Period**
 
@@ -349,7 +349,8 @@ If the loan is repaid in equal principal installments, the interest and capital 
 | Interest rate @9% | 9,000   | 7,200  | 5,400  | 3,600  | 1,800  |
 | Capital           | 20,000  | 20,000 | 20,000 | 20,000 | 20,000 |
 | Annual payment    | 29,000  | 27,200 | 25,400 | 23,600 | 21,800 |
-| :::               |         |        |        |        |        |
+
+:::
 
 ### 4 Discounted Cash Flow (DCF) Techniques
 

@@ -70,7 +70,7 @@ This is an example of basis risk.
 > C The difference between spot interest rates and futures interest rates
 >
 > D The difference between fixed and floating interest rates
-> :::
+:::
 
 ### 2 Causes of Interest Rate Fluctuations
 
@@ -182,7 +182,7 @@ Steps of FRA：
 > It is now 1 January. Enfield need a￡10m bank loan for 6 month fixed rate loan from 1 April. Enfield wants to hedge its exposure to the risk of interest rise before April using an FRA. A 3-9 FRA at 6% is agreed.
 >
 > Calculate the interest payable if in three months' time the market rate is: 9% or 5%.
-> :::
+:::
 
 ::: {.callout-tip}
 **Example 3**
@@ -198,7 +198,7 @@ Steps of FRA：
 > C A receives \$40,000 from the bank
 >
 > D A receives \$20,000 from the bank
-> :::
+:::
 
 ##### 2. Interest Rate Futures
 
@@ -265,7 +265,7 @@ This is a cheaper hedge than just using a cap or a floor.
 > C 2 and 3 only
 >
 > D 1, 2 and 3
-> :::
+:::
 
 ::: {.callout-tip}
 **Example 5**
@@ -306,7 +306,7 @@ Lecture Example
 > \[ \] forward rate agreement
 >
 > \[ \] swap
-> :::
+:::
 
 ::: {.callout-tip}
 **Example 7**
@@ -322,7 +322,7 @@ Lecture Example
 > C Herd Co can hedge its interest rate risk by buying interest rate futures now in order to sell them at a future date
 >
 > D Taking out a variable rate overdraft will allow Herd Co to hedge the interest rate risk through matching
-> :::
+:::
 
 ::: {.callout-tip}
 **Example 8-Wren Co (Sep/Dec 2022)**
