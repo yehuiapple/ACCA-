@@ -2,9 +2,7 @@
 
 ### Syllabus
 
-**B. Financial Management Environment**
-
-**1. The economic environment for business**
+**B1. The economic environment for business**
 
 a\) Identify and explain the main macroeconomic policy targets.[1]
 
@@ -14,7 +12,7 @@ c\) Explain how government economic policy interacts with planning and decision-
 
 d\) Explain the need for, and the interaction with, planning and decision-making in business.[1]
 
-**2. The Nature and Role of Financial Markets and Institutions**
+**B2. The Nature and Role of Financial Markets and Institutions**
 
 a) Identify the nature and role of money and capital markets, both nationally and internationally.[2]
 
@@ -26,7 +24,7 @@ d) Explain the nature and features of different securities in relation to the ri
 
 e) Explain the impact of Fintech in changing the nature and role of financial markets and institutions.[1]
 
-**3. The Nature and Role of Money Markets**
+**B3. The Nature and Role of Money Markets**
 
 a) Describe the role of the money markets in:[1]
 
@@ -194,9 +192,6 @@ There are 3 types of money market instruments:
 
 **Repurchase Agreements (Repos)** -- short-term loans (normally for less than two weeks and often for one day) arranged by selling securities to an investor with agreement to repurchase them at a fixed price on a specified date.
 
-
-
-
 ::: {.callout-tip}
 **Example 1**
 
@@ -207,11 +202,11 @@ There are 3 types of money market instruments:
 > What is the implicit annual interest rate in this transaction (to nearest 0.01%)?
 
 
+
+
 :::
 
 The examining team advice to use **Method 2** in all areas of FM syllabus, this is technically correct method. However, all questions involving **risk management calculations** in the FM exam will be assessed using **method 1** as it is simpler. For example, considering money market hedge, the case Marigold, which was published in Sep/Dec 2020.
-
-
 
 **Discount Instruments**
 
@@ -241,11 +236,6 @@ Where R is the annualized interest rate, r is the period interest rate, and n is
 
 (不考虑货币时间价值的年收益率= r × 365/n)
 
-
-
-
-
-
 ::: {.callout-tip}
 **Example 2 (Sep/Dec 2021 amended)**
 
@@ -261,9 +251,6 @@ Where R is the annualized interest rate, r is the period interest rate, and n is
 >
 > \$99,000
 
-
-
-
 :::
 
 **Derivatives**
@@ -277,8 +264,6 @@ Businesses can use derivatives to reduce the risk of adverse fluctuations in the
 - Providing short-term liquidity to companies, banks and the public sector
 - Providing short-term finance
 - Allowing firms to manage its exposure to foreign currency risk and interest rate risk.
-
-
 
 ##### 2. Capital Markets
 
@@ -401,4 +386,3 @@ Fintech has increased the availability of long-term finance by creating new fina
 > D Treasury bills
 
 :::
-

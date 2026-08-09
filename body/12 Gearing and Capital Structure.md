@@ -1,9 +1,8 @@
 ## 12 Gearing and Capital Structure
 
-### Syllabus  {.pagebreak}
-**E. Business Finance**
+### Syllabus
 
-**3. Sources of finance and their relative costs**
+**E3. Sources of finance and their relative costs**
 
 c\) Identify and discuss the problem of high levels of gearing.[2]
 
@@ -25,7 +24,7 @@ iii. the advantages of the CAPM over WACC in determining a project-specific cost
 
 iv. the application of the CAPM in calculating a project-specific discount rate.
 
-**4. Capital structure theories and practical considerations**
+**E4. Capital structure theories and practical considerations**
 
 a\) Describe the traditional view of capital structure and its assumptions.[2]
 
@@ -35,7 +34,7 @@ c\) Identify a range of capital market imperfections and describe their impact o
 
 d\) Explain the relevance of pecking order theory to the selection of sources of finance.[1]
 
-### 1 Gearing {.pagebreak}
+### 1 Gearing
 
 #### 1.1 Financial Gearing
 
@@ -48,7 +47,6 @@ d\) Explain the relevance of pecking order theory to the selection of sources of
 
 The more highly geared a company is, the more fixed interest it has to pay regardless of profits; therefore, the greater the risk that there will be little or nothing available to distribute as a dividend to shareholders. High financial gearing makes a company more vulnerable to poor trading conditions.
 :::
-
 
 ##### 1. Measurement of Financial Gearing
 
@@ -68,12 +66,12 @@ Debt (prior charge capital) includes:
 
 Gearing can be calculated either based on **book Value** or on **market value**.
 
-| Component | Book Value | Market Value |
-|---|---|---|
-| Bonds | Face value (usually 100) × number of bonds | Market price of bond × number of bonds |
-| Bank loan | -- | MV = BV |
-| Preference share | Face value × number of preference shares | Share price × number of preference shares |
-| Equity | Share capital + share premium + reserve | Share price × number of ordinary shares |
+| Component        | Book Value                                  | Market Value                               |
+| ---------------- | ------------------------------------------- | ------------------------------------------ |
+| Bonds            | Face value (usually 100) × number of bonds | Market price of bond × number of bonds    |
+| Bank loan        | --                                          | MV = BV                                    |
+| Preference share | Face value × number of preference shares   | Share price × number of preference shares |
+| Equity           | Share capital + share premium + reserve     | Share price × number of ordinary shares   |
 
 (2) **Interest coverage ratio**
 
@@ -93,7 +91,6 @@ A higher debt ratio means higher financial risk. As a general rule, 50% might be
 ![](media/Notes_E/media/image14.png){width="5.604646762904637in" height="3.543307086614173in"}
 :::
 
-
 ::: {.callout-tip}
 **Lecture example 2b (March/June 2022)**
 
@@ -108,7 +105,6 @@ B \$0.367
 C \$0.598
 D \$0.388
 :::
-
 
 #### 1.2 Impact of Financial Gearing
 
@@ -143,20 +139,17 @@ Operational gearing =contribution/ PBIT= (sales-variable cost of sales)/ (sales-
 
 a high operational gearing indicates higher business risk.
 
-
-
-
 ::: {.callout-tip}
 **Lecture example 3: Heskey and Owen**
 
 > Two companies are concerned about their potential profitability in the forthcoming year and wish to forecast their profitability given that volumes change by [+]{.underline}50%
 
-|  | Heskey (\$m) | Owen (\$m) |
-|---|---|---|
-| Sales | 12.0 | 12.0 |
-| Variable Cost | 1.0 | 9.0 |
-| Fixed Cost | 9.0 | 1.0 |
-| Profit before interest and tax | 2.0 | 2.0 |
+|                                | Heskey (\$m) | Owen (\$m) |
+| ------------------------------ | ------------ | ---------- |
+| Sales                          | 12.0         | 12.0       |
+| Variable Cost                  | 1.0          | 9.0        |
+| Fixed Cost                     | 9.0          | 1.0        |
+| Profit before interest and tax | 2.0          | 2.0        |
 
 > Required:
 >
@@ -165,11 +158,6 @@ a high operational gearing indicates higher business risk.
 > which company is riskier?
 >
 > 2\) Calculate the operational gearing
-
-
-
-
-
 
 :::
 
@@ -222,8 +210,6 @@ MM's assumptions include the following:
 **Propositions of MM theory**:
 
 - k~e~ would increase at a constant rate as gearing increase due to the perceived increased financial risk. k~d~ would remain constant (at R~f~) whatever the gearing level. The rising k~e~ would offset the benefit of cheaper debt so the WACC remains constant.
-
-
 - The market value will also remain constant at all levels of gearing.
 
 This can be illustrated as follows:
@@ -383,9 +369,6 @@ Step 3 using the CAPM to calculate the project-specific discount rate
 The re-geared equity beta reflects the new risk of the project, using the CAPM formula to calculate a project-specific cost of equity or WACC.
 
 E(r~i~)=R~f~+$\mathbf{\beta}_{\mathbf{e}}$ (R~m~ -R~f~)
-
-
-
 
 **Example 4 -- June 2015**
 

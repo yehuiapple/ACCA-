@@ -1,7 +1,8 @@
 ## 4 Cash Management and Working Capital Finance
 
-### Syllabus  {.pagebreak}
-**2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
+### Syllabus
+
+**C2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
 
 f\) Explain the various reasons for holding cash, and discuss and apply the use of relevant techniques in managing cash, including:[2]
 
@@ -13,21 +14,21 @@ iii\) cash management models, such as the Baumol model and the Miller-Orr model
 
 iv\) investing short-term.
 
-**3. Determining Working Capital Needs and Funding Strategies**
+**C3. Determining Working Capital Needs and Funding Strategies**
 
 b\) Evaluate and discuss the key factors in determining working capital funding strategies, including:
 
-i\) the distinction between permanent and fluctuating current assets[2] 
+i\) the distinction between permanent and fluctuating current assets[2]
 
-ii\) the relative cost and risk of short-term and long-term finance[2] 
+ii\) the relative cost and risk of short-term and long-term finance[2]
 
-iii\) the matching principle[2] 
+iii\) the matching principle[2]
 
-iv\) the relative costs and benefits of aggressive, conservative and matching funding policies[2] 
+iv\) the relative costs and benefits of aggressive, conservative and matching funding policies[2]
 
 v\) management attitudes to risk, previous funding decisions and organisation size.[1]
 
-### 1 Treasury Management {.pagebreak}
+### 1 Treasury Management
 
 Treasury management&nbsp;-- the efficient management of liquidity and risk in a business including the management of funds (generated from internal and external sources), currencies and cash flow.
 
@@ -38,19 +39,12 @@ As companies and financial markets have become larger, more sophisticated and in
 Good cash management aims to have the right amount available at the right time. The treasurer will be involved in:
 
 - accurate cash flow forecasting, so that shortfalls and surpluses can be anticipated;
-
 - planning short-term borrowing when necessary;
-
 - planning investments of surpluses when necessary;
-
 - cost-efficient cash transmission;
-
 - dealing with foreign currency issues;
-
 - optimising banking arrangements;
-
 - planning major finance-raising exercises; and
-
 - accounts receivable/accounts payable policies.
 
 In addition, the treasurer is often involved in risk assessment and insurance.
@@ -60,21 +54,16 @@ In addition, the treasurer is often involved in risk assessment and insurance.
 Many organizations use **centralized** treasury department, which has several advantages.
 
 - Management by specialized staff with appropriate qualifications, expertise and experience.
-
-
 - economies of scale - as specialists are employed centrally, reducing duplication and maximizing the use of skilled human resources and financial management systems.
-
 - Ability to use \"pooling\", the netting of cash deficits against surpluses, to save interest expense from short-term financing.
-
 - Increased negotiating power with banks, as the amounts borrowed or deposited would be more substantial as a group.
-
 - More efficient foreign exchange risk management because the treasury department at the head office can find the group's net position on each currency and then consider an external hedge on this balance.
 
 The treasury department of a large company may still have a degree of decentralization to ensure that decisions taken are appropriate to local circumstances.
 
 ### 2 Cash Management
 
-#### 2.1 Reasons for Holding Cash 
+#### 2.1 Reasons for Holding Cash
 
 Three main reasons for holding cash.
 
@@ -89,7 +78,6 @@ However, cash holding must not be excessive as this leads to inefficiency. Cash 
 Therefore, any long-term surplus of cash should be either reinvested into projects with a positive net present value or returned to shareholders via:
 
 - dividends (regular or special dividend); or
-
 - share buy-back programmes.
 
 ##### Cash Flow Forecasting
@@ -100,44 +88,43 @@ A major task for the treasurer is cash flow forecasting. It will allow the busin
 
 (1) **Typical format**
 
-|                              | January | February | March |
-|------------------------------|---------|----------|-------|
-|                              | \$      | \$       | \$    |
-| **Cash Inflows**             |         |          |       |
-| Cash from Sales (W1)         | X       | X        | X     |
-| Non-current asset disposals  | X       | X        | X     |
-| Share/debt issues            |         | X        |       |
-| **Total Cash Inflows**       | **X**   | **X**    | **X** |
-| **Cash Outflows**            |         |          |       |
-| Cash payments to supplier(W2)| \(X\)   | \(X\)    | \(X\) |
-| Wages                        | \(X\)   | \(X\)    | \(X\) |
-| Dividends                    | \(X\)   |          |       |
-| Purchase of non-current assets|        |          | \(X\) |
-| Interest/principal on debt   | \(X\)   | \(X\)    | \(X\) |
-| **Total Cash Outflows**      | **(X)** | **(X)**  | **(X)** |
-|                              |         |          |       |
-| Net Cash flow                | X       | X        | \(X\) |
-| Opening balance              | X       | X        | X     |
-| Closing balance              | X       | X        | \(X\) |
+|                                | January       | February      | March         |
+| ------------------------------ | ------------- | ------------- | ------------- |
+|                                | \$            | \$            | \$            |
+| **Cash Inflows**         |               |               |               |
+| Cash from Sales (W1)           | X             | X             | X             |
+| Non-current asset disposals    | X             | X             | X             |
+| Share/debt issues              |               | X             |               |
+| **Total Cash Inflows**   | **X**   | **X**   | **X**   |
+| **Cash Outflows**        |               |               |               |
+| Cash payments to supplier(W2)  | \(X\)         | \(X\)         | \(X\)         |
+| Wages                          | \(X\)         | \(X\)         | \(X\)         |
+| Dividends                      | \(X\)         |               |               |
+| Purchase of non-current assets |               |               | \(X\)         |
+| Interest/principal on debt     | \(X\)         | \(X\)         | \(X\)         |
+| **Total Cash Outflows**  | **(X)** | **(X)** | **(X)** |
+|                                |               |               |               |
+| Net Cash flow                  | X             | X             | \(X\)         |
+| Opening balance                | X             | X             | X             |
+| Closing balance                | X             | X             | \(X\)         |
 
 Workings
 
 W1: cash from sales
 
-|                        | Jan | Feb | Mar |
-|------------------------|-----|-----|-----|
-| Cash sales             | X   | X   | X   |
-| Cash from receivables  | X   | X   | X   |
-| Cash sales for the month| X  | X   | X   |
+|                          | Jan | Feb | Mar |
+| ------------------------ | --- | --- | --- |
+| Cash sales               | X   | X   | X   |
+| Cash from receivables    | X   | X   | X   |
+| Cash sales for the month | X   | X   | X   |
 
 W2: cash payments to suppliers
 
 |                             | Jan | Feb | Mar |
-|-----------------------------|-----|-----|-----|
+| --------------------------- | --- | --- | --- |
 | cash purchase               | X   | X   | X   |
 | cash payments of payables   | X   | X   | X   |
 | Cash payments for the month | X   | X   | X   |
-
 
 ::: {.callout-tip}
 **Example 1: Flit-(a) (Dec 2014)**
@@ -174,7 +161,6 @@ W2: cash payments to suppliers
 
 Simulation models (e.g. Monte Carlo) can simulate future economic scenarios to estimate the&nbsp;*probability*&nbsp;that cash flows will be higher/lower than expected. Through generating probabilities, such models provide a better analysis of cash flow risk.
 
-
 ::: {.callout-tip}
 **Example 2**
 
@@ -183,10 +169,10 @@ Zombie Co is worried about exceeding its overdraft limit of \$5m.
 The company has used Monte Carlo analysis to produce the following forecasts of net cash flows for the next two periods and their associated probabilities.
 
 | Period 1 Cash flow (\$000) | Probability (Period 1) | Period 2 Cash flow (\$000) | Probability (Period 2) |
-|---------------------------|------------------------|---------------------------|------------------------|
-| 6,000                     | 20%                    | 8,000                     | 35%                    |
-| 3,000                     | 50%                    | 4,000                     | 40%                    |
-| (2,500)                   | 30%                    | (8,000)                   | 25%                    |
+| -------------------------- | ---------------------- | -------------------------- | ---------------------- |
+| 6,000                      | 20%                    | 8,000                      | 35%                    |
+| 3,000                      | 50%                    | 4,000                      | 40%                    |
+| (2,500)                    | 30%                    | (8,000)                    | 25%                    |
 
 Zombie Co expects to be overdrawn at the start of period 1 by \$1.5m.
 
@@ -209,27 +195,21 @@ Required:
 Having completed a cash flow forecast the treasurer may identify a short-term cash shortage. Potential sources of short-term funding include:
 
 - Debt factoring and invoice discounting to accelerate cash inflows
-
 - A bank overdraft
-
 - Short-term loans
 
 Alternatively, a treasurer may discover that the company has a cash surplus for a short-term period. Surplus funds may arise due to the following:
 
 - overfunding -- proceeds which are not yet fully required may have already been received from a share/debt issue;
-
 - disposal of surplus assets or divisions; and
-
 - operating surpluses.
 
 Cash surpluses should not simply be held in a bank account, which provides low returns.
 
 - Long-term surpluses should be invested into positive NPV projects or used to pay a dividend.
-
-
 - For short-term surpluses, the general rule is to invest in short-term, low-risk, highly liquid investments (money market instruments such as Treasury bills, Short-term deposit, CDs, Commercial paper).
 
-#### 2.2 Cash Management Models 
+#### 2.2 Cash Management Models
 
 Cash management models aim at indicating the **optimal amount of cash** that a company should hold.
 
@@ -240,9 +220,7 @@ The Baumol model is derived from EOQ model and can be applied when there is a co
 The model considers:
 
 - The annual demand for cash = D
-
 - The cost of each transfer from short-term investment into cash = C~o~
-
 - the opportunity cost of holding cash (the interest rate difference between rate on short-term investment and the rate paid on current account) = C~h~
 
 then use the EOQ formula to calculate the optimum amount of funds to transfer each time as short-term investments are converted into cash.
@@ -254,11 +232,8 @@ By optimizing the amount of funds to transfer, the model minimizes the opportuni
 Drawbacks of the Baumol model
 
 - The assumption of constant demand for cash is unrealistic. A cash management model which can accommodate a variable demand for cash, such as the Miller-Orr model, is more relevant.
-
 - In reality, interest rates and transaction costs are not constant; interest rates, in particular, can change frequently.
-
 - The model assumes a&nbsp;constant&nbsp;use of cash financed by selling investments. This is unlikely in reality.
-
 
 ::: {.callout-tip}
 **example 3 - 2015 June**
@@ -284,13 +259,8 @@ Miller-Orr model can accommodate a variable demand for cash may be more relevant
 The Miller-Orr model allows for uncertainty in cash receipts and payments. It works as follows:
 
 - management set the lower limit for cash balance;
-
 - Calculation an allowable range or spread of cash flow fluctuations and establish the upper limit;
-
-
 - The cash balance is assumed to vary between a lower limit and upper limit. When the **lower limit** is reached, an amount of cash equal to the difference between return point and the lower limit is raised by selling short-term investments.
-
-
 - If the upper limit is reached, an amount of cash equal to the difference between the upper limit and the return point is used to buy short-term investment.
 
 ![](media/Notes_C/media/image12.png){width="3.7569444444444446in" height="2.4915135608048993in"}
@@ -299,7 +269,9 @@ The model helps decrease the risk of running out of cash, while avoiding the los
 
 **Formula:**
 
-$$spread = 3\left( \frac{3}{4} \times \frac{transaction\ cost \times variance\ of\ cash\ flows}{interest\ rate} \right)^{\frac{1}{3}}$$
+$$
+spread = 3\left( \frac{3}{4} \times \frac{transaction\ cost \times variance\ of\ cash\ flows}{interest\ rate} \right)^{\frac{1}{3}}
+$$
 
 Return point = lower limit+ 1/3×spread
 
@@ -314,11 +286,8 @@ Interest rate = daily&nbsp;interest rate on marketable securities (i.e. daily op
 **Drawbacks of Miller-Orr Model**
 
 - Subjectivity in setting a lower limit.
-
 - In practice, commissions for buying/selling short-term investments will likely be at least partly variable.
-
 - The complexity of estimating future volatility of cash flows.
-
 
 ::: {.callout-tip}
 **example 4**
@@ -326,9 +295,7 @@ Interest rate = daily&nbsp;interest rate on marketable securities (i.e. daily op
 > if a company sets its minimum cash balance at \$8,000 and estimate the following:
 >
 > - Transaction cost = \$50 per sale
->
 > - Daily cash flow variance = \$4m; and
->
 > - daily interest rate = 0.025%
 >
 > (a) Calculate the spread, the upper limit and the return point;
@@ -350,7 +317,6 @@ Long-term finance: Equity, Debt
 Short-term finance may be relatively cheaper. However, short-term finance may face the risks of:
 
 - renewal problems - short-term finance may need to be continuously renegotiated and renewal may not always be guaranteed.
-
 - unstable interest rate-when renew the funding arrangement, the company may face a fluctuation in short-term interest rates.
 
 So long-term finance provides higher security to the borrower than short-term finance.
@@ -362,9 +328,7 @@ Therefore, it may be wise to at least partly use long-term finance as, although 
 assets will be divided into three different types.
 
 - Non-current assets
-
 - permanent current asset - Some proportion of \"current\" assets may be more permanent. It represents the minimum current asset base (e.g. inventory, receivables) required to sustain normal trading activity.
-
 - Fluctuating current assets - total current assets will naturally fluctuate above the minimum permanent level -- only this excess is truly short-term
 
 **Strategies for Funding Working Capital**
@@ -405,7 +369,6 @@ Working capital investment policy is concerned with the level of investment in c
 
 Both working capital investment policy and funding policy use the terms conservative, moderate and aggressive. In investment policy, the terms are used to indicate the comparative level of investment in current assets on an inter-company basis. In funding policy, the terms are used to indicate the way in which fluctuating current assets and permanent current assets are matched to short-term and long-term finance sources.
 
-
 ::: {.callout-tip}
 **example 5: Sep 2016, Q7**
 
@@ -421,11 +384,9 @@ Both working capital investment policy and funding policy use the terms conserva
 
 :::
 
-
 ::: {.callout-tip}
 **Example 6 march/Jun 2021**
 :::
-
 
 ::: {.callout-tip}
 **Example 7-Amax Co (March/June 2022)**

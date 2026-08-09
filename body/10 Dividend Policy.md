@@ -1,9 +1,8 @@
 ## 10 Dividend Policy
 
-### Syllabus  {.pagebreak}
-**E. Business Finance**
+### Syllabus
 
-**1. Sources of, and raising, business finance**
+**E1. Sources of, and raising, business finance**
 
 e\) Identify and discuss internal sources of finance, including:[2]
 i.  retained earnings
@@ -14,7 +13,7 @@ iii. the relationship between dividend policy and the financing decision
 
 iv. the theoretical approaches to, and the practical influences on, the dividend decision, including legal constraints, liquidity, shareholder expectations and alternatives to cash dividends.
 
-### 1 Internal Source of Finance {.pagebreak}
+### 1 Internal Source of Finance
 
 The internal source of finance includes:
 
@@ -52,13 +51,13 @@ Potential internal finance available = operating cash flow − interest -- tax
 
 Operating cash flows are calculated as follows:
 
-|                                                         |       |
-|---------------------------------------------------------|-------|
-| Operating profit before depreciation and amortization   | x     |
-| Rise/fall in inventory                                  | (x)/x |
-| Rise/fall in receivables                                | (x)/x |
-| Rise/fall in payables                                   | (x)/x |
-| **Operating cash flow**                                 | (x)/x |
+|                                                       |       |
+| ----------------------------------------------------- | ----- |
+| Operating profit before depreciation and amortization | x     |
+| Rise/fall in inventory                                | (x)/x |
+| Rise/fall in receivables                              | (x)/x |
+| Rise/fall in payables                                 | (x)/x |
+| **Operating cash flow**                         | (x)/x |
 
 Improved working capital management can help to release more internal equity finance. Potential areas for improvement include:
 
@@ -126,9 +125,6 @@ However, Modigliani and Miller made a series of assumptions which may not hold i
 
 Note: this equilibrium is reached only if the amounts retained are reinvested at the cost of equity.
 
-
-
-
 ::: {.callout-tip}
 **Example 1**
 
@@ -150,7 +146,6 @@ Note: this equilibrium is reached only if the amounts retained are reinvested at
 >
 > 3)earnings are reinvested at less than the cost of equity and assumes R = 0.1
 
-
 :::
 
 In summary:
@@ -158,10 +153,6 @@ In summary:
 - If the company retains earnings and uses those to 'do more of the same' then the share price should not be affected.
 - If the company retains earnings and uses those to produce higher returns than demanded by investors then dividends should be cut as that will increase shareholder value.
 - If the company retains earnings and uses those to produce lower returns than demanded by investors then dividends should be increased to avoid the share price falling. If the company can think of no-good use for its earnings, it should distribute them to shareholders who can then decide for themselves what to do with them.
-
-
-
-
 
 ##### 4. Bird-in-hand Theory
 
@@ -222,23 +213,18 @@ retained earnings fund all positive NPV projects, any remaining earnings not nee
 
 A high-growth company may find that, in the early years, all surplus cash can be profitably reinvested back into the business, particularly if the company lacks access to external finance.
 
-
-
-
 ::: {.callout-tip}
 **Example 2**
 
 > S company is a listed company on the stock market and 40% of shares are in the hands of public investors. The company's profit growth and dividend policy are set out below. Will a continuation of the same dividend policy as in the past be suitable now?
 >
-> |                    | 4       | 3       | 2         | 1         | Current year   |
-> |--------------------|---------|---------|-----------|-----------|----------------|
-> | Profits (\$'000)   | 176     | 200     | 240       | 290       | 444            |
-> | Dividends (\$'000) | 88      | 104     | 120       | 150       | 222 (proposed) |
-> | **Shares in issue**| 800,000 | 800,000 | 1,000,000 | 1,000,000 | 1,500,000      |
->
+> |                           | 4       | 3       | 2         | 1         | Current year   |
+> | ------------------------- | ------- | ------- | --------- | --------- | -------------- |
+> | Profits (\$'000)          | 176     | 200     | 240       | 290       | 444            |
+> | Dividends (\$'000)        | 88      | 104     | 120       | 150       | 222 (proposed) |
+> | **Shares in issue** | 800,000 | 800,000 | 1,000,000 | 1,000,000 | 1,500,000      |
+
 :::
-
-
 
 ### 3 Alternatives to Cash Dividends
 
@@ -278,4 +264,3 @@ Effects of share buyback:
 #### 3.3 Special Dividends
 
 A larger-than-expected dividend may raise market expectations that future dividends will also be higher. So, a larger dividend may be announced as a **special dividend**- a **bonus dividend** to avoid creating expectations of an unsustainable level. Any exceptional cash surplus will be returned in this way but that this should not be built into dividend per share forecast.
-

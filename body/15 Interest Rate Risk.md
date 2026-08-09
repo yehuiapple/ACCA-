@@ -1,9 +1,10 @@
 ## 15 Interest Rate Risk
 
-### Syllabus  {.pagebreak}
+### Syllabus
+
 **G. Risk Management**
 
-**1. The nature and types of risk and approaches to risk management**
+**G1. The nature and types of risk and approaches to risk management**
 
 b\) Describe and discuss different types of interest rate risk:[1]
 
@@ -11,7 +12,7 @@ i. gap exposure
 
 ii. basis risk.
 
-**2. Causes of exchange rate differences and interest rate fluctuations**
+**G2. Causes of exchange rate differences and interest rate fluctuations**
 
 c\) Describe the causes of interest rate fluctuations, including: [2]
 
@@ -23,9 +24,9 @@ iii. liquidity preference theory
 
 iv. market segmentation.
 
-4. Hedging Techniques for Interest Rate Risk
+**G4.Hedging Techniques for Interest Rate Risk**
 
-**4. Discuss and Apply Traditional and Basic Methods of Interest Rate Risk Management, Including:**
+a)Discuss and Apply Traditional and Basic Methods of Interest Rate Risk Management, Including:
 
 i. matching and smoothing [1]
 
@@ -35,7 +36,7 @@ iii. forward rate agreements.[2]
 
 b\) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
-### 1 Interest Rate Risk {.pagebreak}
+### 1 Interest Rate Risk
 
 **Interest rate risk** refers to the risk of an adverse movement in interest rates and thus a reduction in the company's cash flow.
 
@@ -66,7 +67,7 @@ This is an example of basis risk.
 > C The difference between spot interest rates and futures interest rates
 >
 > D The difference between fixed and floating interest rates
-:::
+> :::
 
 ### 2 Causes of Interest Rate Fluctuations
 
@@ -178,7 +179,7 @@ Steps of FRA：
 > It is now 1 January. Enfield need a￡10m bank loan for 6 month fixed rate loan from 1 April. Enfield wants to hedge its exposure to the risk of interest rise before April using an FRA. A 3-9 FRA at 6% is agreed.
 >
 > Calculate the interest payable if in three months' time the market rate is: 9% or 5%.
-:::
+> :::
 
 ::: {.callout-tip}
 **Example 3**
@@ -194,7 +195,7 @@ Steps of FRA：
 > C A receives \$40,000 from the bank
 >
 > D A receives \$20,000 from the bank
-:::
+> :::
 
 ##### 2. Interest Rate Futures
 
@@ -261,7 +262,7 @@ This is a cheaper hedge than just using a cap or a floor.
 > C 2 and 3 only
 >
 > D 1, 2 and 3
-:::
+> :::
 
 ::: {.callout-tip}
 **Example 5**
@@ -302,7 +303,7 @@ Lecture Example
 > \[ \] forward rate agreement
 >
 > \[ \] swap
-:::
+> :::
 
 ::: {.callout-tip}
 **Example 7**
@@ -318,7 +319,7 @@ Lecture Example
 > C Herd Co can hedge its interest rate risk by buying interest rate futures now in order to sell them at a future date
 >
 > D Taking out a variable rate overdraft will allow Herd Co to hedge the interest rate risk through matching
-:::
+> :::
 
 ::: {.callout-tip}
 **Example 8-Wren Co (Sep/Dec 2022)**
@@ -372,7 +373,6 @@ C Forward exchange rates reflect interest rate parity.
 D Purchasing power parity relates exchange rates and long-term interest rates
 
 (5) In relation to foreign currency risk, which of the following statements is/are correct?
-
 
 (1) Economic risk is exchange rate risk that can be avoided by operating in domestic markets only
 

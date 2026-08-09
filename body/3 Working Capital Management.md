@@ -2,7 +2,7 @@
 
 ### Syllabus
 
-**1. The Nature, Elements and Importance of Working Capital**
+**C1. The Nature, Elements and Importance of Working Capital**
 
 a\) Describe the nature of working capital and identify its elements.[1]
 
@@ -10,7 +10,7 @@ b\) Identify the objectives of working capital management in terms of liquidity 
 
 c\) Discuss the central role of working capital management in financial management.[2]
 
-**2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
+**C2. Management of Inventories, Accounts Receivable, Accounts Payable and Cash**
 
 a\) Explain the cash operating cycle and the role of accounts payable and accounts receivable.[2]
 
@@ -45,7 +45,7 @@ ii\) evaluating the benefits of early settlement and bulk purchase discounts[2]
 
 iii\) managing foreign accounts payable.[1]
 
-**3. Determining Working Capital Needs and Funding Strategies**
+**C3. Determining Working Capital Needs and Funding Strategies**
 
 a\) Calculate the level of working capital investment in current assets and discuss the key factors determining this level, including:[2]
 
@@ -251,7 +251,6 @@ The time taken to pay suppliers. A business would prefer to increase its payable
 > ○\$835,600
 >
 > ○\$975,300
->
 
 **Sales/net working capital** = $\frac{annual\ sales}{average\ working\ capital}$
 

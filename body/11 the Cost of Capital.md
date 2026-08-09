@@ -1,15 +1,12 @@
 ## 11 the Cost of Capital
 
-### Syllabus  {.pagebreak}
-**B. Financial Management Environment**
+### Syllabus
 
-**2. The Nature and Role of Financial Markets and Institutions**
+**B2. The Nature and Role of Financial Markets and Institutions**
 
 d\) Explain the nature and features of different securities in relation to the risk/return trade-off.
 
-**E. Business Finance**
-
-**2. Estimating the cost of capital**
+**E2. Estimating the cost of capital**
 
 a\) Estimate the cost of equity including:
 
@@ -39,13 +36,13 @@ i.  distinguishing between average and marginal cost of capital
 
 ii. calculating the weighted average cost of capital (WACC) using book value and market value weightings.
 
-**3. Sources of finance and their relative costs**
+**E3. Sources of finance and their relative costs**
 
 a\) Describe the relative risk-return relationship and the relative costs of equity and debt.
 
 b\) Describe the creditor hierarchy and its connection with the relative costs of sources of finance.
 
-### 1 Risk and Return {.pagebreak}
+### 1 Risk and Return
 
 The relative risk return relationship of equity and debt is based on their relative priority for repayment on liquidation -- the creditor hierarchy:
 
@@ -127,9 +124,6 @@ A cum-div market value includes the value of the dividend just about to be pai
 
 cum-div Price = ex-div share price + dividend
 
-
-
-
 ::: {.callout-tip}
 **Lecture example 1**
 
@@ -142,16 +136,12 @@ cum-div Price = ex-div share price + dividend
 
 :::
 
-
-
 **Estimating the Growth Rate of Dividends**
 
 The growth rate of dividends can be estimated using either of two methods:
 
 - extrapolation of past dividends
 - Gordon's growth model
-
-
 
 ##### 1. From Historic Growth
 
@@ -171,27 +161,23 @@ b= % of profits reinvested (retention ratio)
 
 r~e~=$\frac{profit\ (for\ the\ year)}{shareholders'fund} = \frac{profit\ (for\ the\ year)}{net\ assets}$
 
-
-
-
 ::: {.callout-tip}
 **Lecture example 2**
 
 Cg company has 4 million shares in issue, and has done for many years. Its dividend payments in the years 2009 to 2013 were as follows.
 
 | End of year | Dividends (\$000) |
-|---|---|
-| 2009 | 220 |
-| 2010 | 257 |
-| 2011 | 310 |
-| 2012 | 356 |
-| 2013 | 423 |
+| ----------- | ----------------- |
+| 2009        | 220               |
+| 2010        | 257               |
+| 2011        | 310               |
+| 2012        | 356               |
+| 2013        | 423               |
 
 dividends are expected to continue to growth at the same average rate into the future. The current ex-div share price of the company at year 2013 is \$1.73.
 
 what is cost of equity for Cg company?
 :::
-
 
 ::: {.callout-tip}
 **Example 3**
@@ -234,13 +220,9 @@ Disadvantages:
 - It does not explicitly incorporate risk.
 - Dividends don't grow smoothly in reality so it is only an approximation
 - It makes no allowance for non-dividend factors that influence the value of a share (e.g. brand loyalty and other internally generated intangible assets).
-
-
 - It assumes there are no issue costs for new shares
 - current market price P~0~ can be subject to short-term influence which will distort the estimate of cost of equity
 - It's difficult to estimate growth rate, and the future growth rate may not equal historical growth rate
-
-
 
 #### 2.2 Capital Asset Pricing Mode (CAPM)
 
@@ -307,9 +289,6 @@ Where:
 
 E(r~m~-R~f~) is called the equity/market risk *premium* (i.e. the extra return an investor expects for holding a diversified portfolio of shares rather than a risk-free security).
 
-
-
-
 ::: {.callout-tip}
 **Lecture example 4**
 
@@ -344,8 +323,6 @@ Disadvantages:
 - It is a single-period model -- whereas company projects are often for multiple periods.
 - CAPM tends to overstate the required return on high-risk companies and understate the returns on low-risk companies.
 - Assumptions do not hold in the real world. For example, the assumption that investors can borrow and lend at the risk-free rate (for which the yield on short-dated government debt is taken as a proxy) is unrealistic.
-
-
 
 #### 2.3 Comparing CAPM and the DVM
 
@@ -389,9 +366,6 @@ As the company gets tax relief on interest expense, the cost to the company (pos
 
 K~dat~ = I × (1- tax rate) / P~0~
 
-
-
-
 ::: {.callout-tip}
 **Example 5**
 
@@ -400,7 +374,6 @@ K~dat~ = I × (1- tax rate) / P~0~
 > What is the cost of bonds?
 
 :::
-
 
 ::: {.callout-tip}
 **Example 6**
@@ -415,15 +388,12 @@ For redeemable debt, the cost of any source of funds is the IRR of the cash flow
 
 Finding the IRR of the following cash flows:
 
-| Year | Cash flow \$ | DF(a%) | PV \$ | DF(b%) | PV \$ |
-|---|---|---|---|---|---|
-| 0 | Ex-interest MV | \(x\) | 1 | | 1 | |
-| 1-n | Post-tax Interest | x | | | | |
-| n | Redemption value | x | | | | |
-| | | | NPV~a~ | | NPV~b~ |
-
-
-
+| Year | Cash flow\$       | DF(a%) | PV\$    | DF(b%) | PV\$    |
+| ---- | ----------------- | ------ | ------- | ------ | ------- |
+| 0    | Ex-interest MV    | \(x\)  | 1       |        | 1       |
+| 1-n  | Post-tax Interest | x      |         |        |         |
+| n    | Redemption value  | x      |         |        |         |
+|      |                   |        | NPV~a~ |        | NPV~b~ |
 
 ::: {.callout-tip}
 **Lecture example 7**
@@ -439,10 +409,6 @@ If interest is paid every six months rather than annually, the calculations for 
 - calculation the IRR based on cash flows at six-month intervals
 - The IRR will then be a six-month cost of debt and must be adjusted to determine the annual cost of debt. 
 
-
-
-
-
 #### 3.4 Convertible Debt
 
 Holders of convertible bond can choose between redemption at some future date or conversion into a predetermined number of equity shares. Debt holders will only convert if the MV of the shares is greater than the redemption value of the debt. So calculation of cost of convertible bonds involves:
@@ -453,17 +419,14 @@ Conversion value = conversion ratio \* market price
 
 - Find the IRR of the after-tax cash flows:
 
-| Year | Cash flow \$ | DF(a%) | PV \$ | DF(b%) | PV \$ |
-|---|---|---|---|---|---|
-| 0 | (ex-interest MV) | 1 | | 1 | |
-| 1-n | Post-tax Interest | | | | |
-| n | Higher of redemption value and conversion value | | | | |
-| | | | NPV~a~ | | NPV~b~ |
+| Year | Cash flow\$                                     | DF(a%) | PV\$    | DF(b%) | PV\$    |
+| ---- | ----------------------------------------------- | ------ | ------- | ------ | ------- |
+| 0    | (ex-interest MV)                                | 1      |         | 1      |         |
+| 1-n  | Post-tax Interest                               |        |         |        |         |
+| n    | Higher of redemption value and conversion value |        |         |        |         |
+|      |                                                 |        | NPV~a~ |        | NPV~b~ |
 
 K~dat~=
-
-
-
 
 ::: {.callout-tip}
 **Example 8**
@@ -485,9 +448,6 @@ Where: D = constant annual dividend
 P~o~ = ex-div market price of the preference share
 
 Preference dividends are typically quoted as a percentage (e.g. 10% preference shares). This means the annual dividend will be 10% of the *nominal* value, **not** the market value.
-
-
-
 
 ::: {.callout-tip}
 **Lecture example 9**
@@ -524,24 +484,20 @@ MV of loan = Book value
 
 MV of preference share = No. of preference share × Share price
 
-
-
-
 **Example 10**
 
 IDO company has a capital structure as follows.
 
-| | \$m |
-|---|---|
-| \$0.50 ordinary shares | 5 |
-| reserves | 20 |
-| 13% irredeemable loan notes | 7 |
-| **Total** | **32** |
+|                             | \$m          |
+| --------------------------- | ------------ |
+| \$0.50 ordinary shares      | 5            |
+| reserves                    | 20           |
+| 13% irredeemable loan notes | 7            |
+| **Total**             | **32** |
 
 The ordinary shares are currently quoted at \$3, and the loan notes at \$90. IDO has a cost of equity of 12% and pays corporation tax at a rate of 30%.
 
 What is the company's WACC?
-
 
 #### 4.2 Weightings Used in WACC
 
@@ -566,4 +522,3 @@ The existing WACC can be used as a discount rate if the project has the same ris
 
 ![](media/Notes_E/media/image10.png){width="5.768055555555556in"}
 :::
-

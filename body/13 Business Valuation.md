@@ -1,15 +1,14 @@
 ## 13 Business Valuation
 
-### Syllabus {.pagebreak}
-**F. Business Valuation**
+### Syllabus
 
-**1. Nature and purpose of the valuation of business and financial assets**
+**F1. Nature and purpose of the valuation of business and financial assets**
 
 a\) Identify and discuss reasons for valuing businesses and financial assets.[2]
 
 b\) Identify information requirements for valuation and discuss the limitations of different types of information.[2]
 
-**2. Models for the valuation of shares**
+**F2. Models for the valuation of shares**
 
 a\) Discuss and apply asset-based valuation models, including:[2]
 
@@ -31,7 +30,7 @@ i. dividend valuation model and the dividend growth model
 
 ii. discounted cash flow basis.
 
-**3. The valuation of debt and other financial assets**
+**F3. The valuation of debt and other financial assets**
 
 a\) Discuss and apply appropriate valuation methods to:[2]
 
@@ -43,7 +42,7 @@ iii. convertible debt
 
 iv. preference shares.
 
-**4. EMH and practical considerations in the valuation of shares**
+**F4. EMH and practical considerations in the valuation of shares**
 
 a\) Distinguish between and discuss weak form efficiency, semi-strong form efficiency and strong form efficiency.[2]
 
@@ -59,16 +58,13 @@ iv. market capitalization.
 
 c\) Describe the significance of investor speculation and the explanations of investor decisions offered by behavioral finance.[1]
 
-### 1 Nature and Purpose for Business Valuations {.pagebreak}
+### 1 Nature and Purpose for Business Valuations
 
 Businesses need to be valued for a number of reasons such as:
 
 - To determine the maximum price to acquire a listed company
-
 - To aid in decisions on buying/selling shares in private companies.
-
 - To value companies entering the stock market (i.e. for an IPO).
-
 - To value subsidiaries/divisions for possible disposal.
 
 **Nature of Business Valuation**
@@ -78,7 +74,6 @@ Business valuation is a complex exercise. There is often no unique answer to the
 There are various methods of valuing businesses, which may produce different overall values. These can be used to determine a relevant range of prices between:
 
 - the minimum price the current owner is likely to accept; and
-
 - the maximum price the bidder is likely to pay.
 
 The final price will result from negotiations between the parties.
@@ -86,7 +81,6 @@ The final price will result from negotiations between the parties.
 **Majority and Minority Shareholders**
 
 - Majority holders - have power and control over the company. Therefore, majority shareholders should be prepared to pay a premium for control.
-
 - Minority shareholders - have little power and no control over the company.
 
 ### 2 Valuation of Shares
@@ -94,9 +88,7 @@ The final price will result from negotiations between the parties.
 models for the valuation of shares include:
 
 - Asset-based valuations;
-
 - Income-based valuations; and
-
 - Cash flow-based valuations.
 
 #### 2.1 Asset-based Valuation Models
@@ -135,9 +127,6 @@ Asset-based method ignores the value of intangible assets (such as reputation, b
 
 This method provides a floor value for a business that is up for sale.
 
-
-
-
 **Example 1**
 
 Non-current assets contain land and buildings that are valued \$700,000 above their book value, and plant and machinery, which would sell for \$200,000 less than their book value. Inventory would sell for \$400,000 and only \$250,000 would be realized from receivables. Closure costs would add \$100,000 to liabilities.
@@ -146,8 +135,7 @@ What is the minimum amount that the shareholders should accept for this business
 
 ![](media/Notes_F/media/image2.png){width="2.1830807086614175in" height="3.937007874015748in"}
 
-
-#### 2.2 Income-based Valuation Methods 
+#### 2.2 Income-based Valuation Methods
 
 ##### 1. Price/Earnings Ratio
 
@@ -175,9 +163,6 @@ Step 3 Determine the maintainable earnings for the unquoted company's EPS
 
 Step 4 value of a share = EPS \* appropriated P/E ratio (unquoted company)
 
-
-
-
 **Lecture Example 2**
 
 Estimating the value of a small chain of UK-based grocery shops using P/E ratio method. The company has just enjoyed post tax earnings of \$200,000, out of which it paid a dividend of \$50,000.
@@ -186,8 +171,6 @@ The following information of three large UK quoted supermarket chains (Morrison 
 
 ![](media/Notes_F/media/image3.png){width="1.8957338145231846in" height="0.7874015748031497in"}
 
-
-
 **Comments on P/E Ratio Method**
 
 This method reflects the earnings potential of a company. However, as minority shareholders typically have limited influence to affect earnings, so, valuation based on earnings is less relevant for purchases of minority shareholdings, it is particularly appropriate for purchase of majority stakes.
@@ -195,15 +178,10 @@ This method reflects the earnings potential of a company. However, as minority s
 Problems with P/E ratio method:
 
 - It's very difficult to find a suitable \"proxy\" (i.e. a listed company very similar to the unquoted one).
-
 - Accounting earnings are more subjective than cash flows -- Accounting earnings are affected by non-cash items (e.g. depreciation expense) and accounting policy choices.
-
 - Earnings manipulation -- The earnings of the unquoted company may be intentionally inflated and may not represent future earnings fairly. Information asymmetry means the seller will know more about the company than the buyer.
-
 - Historical data -- The P/E ratio is often based on historical earnings, which may not reflect earnings potential.
-
 - Loss-making companies -- If the unquoted company is loss-making, the P/E ratio method results in a (meaningless) negative value for its equity.
-
 
 ##### 2. Earnings Yield Method
 
@@ -223,7 +201,9 @@ The market value of a share equals to the present value of future dividends shar
 
 If dividends are forecast to grow at a constant annual rate to perpetuity, the valuation formula is:
 
-$$P_{0} = \frac{D_{0}(1 + g)}{k_{e} - g}$$
+$$
+P_{0} = \frac{D_{0}(1 + g)}{k_{e} - g}
+$$
 
 Where:
 
@@ -251,9 +231,6 @@ Step 3 Determine the required return using the DVM or CAPM (covered in part E).
 
 Step 4 using the DVM formula.
 
-
-
-
 ::: {.callout-tip}
 **Example 3**
 
@@ -269,8 +246,6 @@ Step 4 using the DVM formula.
 
 :::
 
-
-
 **Comments of DVM**
 
 As an investor with control can change the dividend policy, so this method is suitable for valuing a **minority shareholding**.
@@ -278,11 +253,8 @@ As an investor with control can change the dividend policy, so this method is su
 **weaknesses:**
 
 - Simplifying assumptions -- The constant growth rate assumption for dividends may not hold true for many companies in the long run, leading to inaccurate valuations. 
-
 - Dependence on dividends -- The DVM is less applicable to a company that does not pay dividends or pays inconsistent dividends. This limitation is particularly relevant for growth-oriented or non-dividend-paying companies. 
-
 - Sensitivity -- The valuation is highly sensitive to the choice of the required rate of return. 
-
 - Shareholder influence -- It has less relevance for valuing a majority shareholding.
 
 ::: {.callout-tip}
@@ -293,7 +265,6 @@ As an investor with control can change the dividend policy, so this method is su
 ![](media/Notes_F/media/image5.png){width="4.55511811023622in" height="0.984251968503937in"}
 :::
 
-
 ##### 2. Discounted Cash Flow Basis
 
 A business can be viewed as a combination of its underlying projects. Just as the value of an individual project equals the present value of its future cash flows, the total value of the business should also equal the present value of the company's cash flows.
@@ -303,15 +274,12 @@ A business can be viewed as a combination of its underlying projects. Just as th
 Approach 1
 
 - Estimating cash flows generated by the company, and cash flows are after-interest and after-tax (representing cash flows to ordinary shareholders)
-
 - Discounting cash flows at the cost of equity to calculated the MV of equity
 
 Approach 2
 
 - estimating cash flows generated by the company and cash flows are before-interest and after-tax (representing cash flows to all investors)
-
 - discounting cash flows at the WACC to calculate the MV of the company
-
 - MV of equity= Company value---Market value of debts
 
 **Comments on DCF Basis**
@@ -321,29 +289,20 @@ This method is suitable for value majority shareholdings. Theoretically, it is t
 Although it enables a more precise assessment of a company's worth, it still has problems and weaknesses:
 
 - Estimation challenges -- Estimating future cash flows and determining an appropriate discount rate can be complex and uncertain, especially for long-term forecasts. 
-
 - Sensitivity to assumptions -- Small changes in assumptions about future cash flows and discount rates can lead to significantly different valuations. 
-
 - Unpredictable cash flow -- A DCF-based valuation may be unsuitable for startups or high-growth companies with unpredictable cash flows.
-
-
-
 
 **Example 5**
 
 D company wishes to make a bid for TED. TED makes after-tax profits of \$40,000 a year. D believes that if further money is spent on additional investments, the after-tax and interest cash flows could be as follows.
 
-
-| Year | 0 | 1 | 2 | 3 | 4 | 5 |
-|------|---|---|---|---|---|---|
+| Year      | 0         | 1        | 2      | 3       | 4       | 5       |
+| --------- | --------- | -------- | ------ | ------- | ------- | ------- |
 | Cash flow | (100,000) | (80,000) | 60,000 | 100,000 | 150,000 | 150,000 |
-
-
 
 The cost of equity of TED is 15% and the company expects all its investments to payback, in discounted terms, within five years.
 
 - \(1\) What is the maximum price that the company should be willing to pay for shares of TED?
-
 - \(2\) What is the maximum price that the company should be willing to pay for shares of TED if it decides to value the business on the basis of cash flows in perpetuity, and annual cash flows from year 6 onwards are expected to be \$120,000?
 
 ::: {.callout-tip}
@@ -351,7 +310,6 @@ The cost of equity of TED is 15% and the company expects all its investments to 
 
 ![](media/Notes_F/media/image6.png){width="4.866141732283465in" height="2.3622047244094486in"}
 :::
-
 
 #### 2.4 Financial Market Efficiency
 
@@ -371,7 +329,7 @@ Does the market have low transaction costs and a convenient trading platform?
 
 Do share price quickly and accurately reflect all known information about the company?
 
-##### 2. The Efficient Market Hypothesis 
+##### 2. The Efficient Market Hypothesis
 
 The efficient market hypothesis considers information processing efficiency.
 
@@ -384,9 +342,7 @@ Share prices fully and fairly reflect all the information contained in the recor
 In a weak-form efficiency market, it should not be possible to forecast price movements by reference to past trends. This means Chartism or technical analysis should not be able to outperform the market consistently. On the other hand, fundamental analysis would be able to predict future share price movements.
 
 - **Technical analysis** attempt to predict share price movements by assuming that past price patterns will be repeated.
-
 - **Fundamental analysis** evaluate shares by studying everything from the overall economy and industry conditions to the financial strength and management of individual companies.
-
 - **Random walk -** Share price will have an intrinsic or fundamental value, but this value will be altered as new information becomes available, so the actual share price on any given day will fluctuate in an unpredictable (random) way around the intrinsic value.
 
 **(2) Semi-strong Form Efficiency**
@@ -410,13 +366,9 @@ The three forms of efficiency describe how share prices react to information fro
 The level of efficiency of the stock market has implications for financial managers:
 
 - Timing of new issues: unless the market is fully efficient, the timing of new issues remains important. This is because the market does not reflect all the relevant information. Therefore, an advantage could be obtained by issuing shares just before or after additional information becomes available to the market.
-
 - Project evaluation: if the market is not fully efficient, the share price is not fair; therefore, the rate of return required from that company by the market cannot be accurately known. If this is the case, it is not easy to decide what rate of return to use to evaluate new projects.
-
 - Creative accounting: unless a market is fully efficient, creative accounting can still be used to mislead investors.
-
 - Mergers and takeovers: where a market is fully efficient, the price of all shares is fair. Therefore, if a company is taken over at its current share value, the purchaser cannot hope to make any gain unless economies can be made through scale or rationalization when operations are merged. Unless these economies are significant, an acquirer should not be willing to pay a substantial premium over the current share price.
-
 - Validity of current market price: the share price is fair if the market is fully efficient. In other words, an investor receives an appropriate risk/return combination for his investment, and the company can raise funds at a reasonable cost. If this is the case, there should be no need to discount new issues to attract investors.
 
 **The Paradox of Efficient Markets**
@@ -440,7 +392,6 @@ There is much less information may be available for unquoted companies because t
 the DVM is based on perfect market assumptions. However, markets are not perfect markets, as evidenced by the following:
 
 - Irrational investor behavior
-
 - Pricing anomalies which appear to contradict perfect markets, such as:
 
 -overreaction effect: share prices overreact to unexpectedly good/bad news initially, then slowly move back toward their fundamental value. 
@@ -462,7 +413,6 @@ Behavioral finance attempts to explain how decision makers take financial decisi
 **Herding** or herd mentality may be explained by:
 
 - the desire to conform and not to act differently from others (e.g. fund managers tend to follow each other's strategies);
-
 - individual investors, lacking confidence, believe that a large group of other investors cannot be wrong. 
 
 If many investors follow a herd instinct to buy shares in a certain sector, a significant price rise for shares in that sector can lead to a stock market **bubble**.
@@ -472,7 +422,6 @@ If many investors follow a herd instinct to buy shares in a certain sector, a si
 **Loss aversion **means that some investors:
 
 - avoid investments with the risk of making losses, even though expected value analysis suggests that, in the long term, they will make significant capital gains;
-
 - prefer to invest in companies that look likely to make stable but low profits rather than those that may generate higher profits in some years but possibly losses in others.
 
 The "**momentum effect**\" in stock markets can create optimism (e.g. investors believe a trend in price rises will continue), which increases willingness to invest in companies that show prospects for growth. If a momentum effect exists, it will likely lengthen a stock market boom (or bust) period.
@@ -480,9 +429,6 @@ The "**momentum effect**\" in stock markets can create optimism (e.g. investors 
 An **overconfident** investor tends to believe that they are better and more able than they are. This excessive confidence can cause the investor to be reckless and make mistakes.
 
 Therefore, individuals may not make decisions based on a rational analysis of all available information. This could lead to prices for an individual company and the market being valued either very high or very low.
-
-
-
 
 ::: {.callout-tip}
 **example 7**
@@ -499,15 +445,7 @@ Therefore, individuals may not make decisions based on a rational analysis of al
 >
 > D a weak form efficient market
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 8**
@@ -522,15 +460,7 @@ Therefore, individuals may not make decisions based on a rational analysis of al
 >
 > ( ) strong form efficient
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 9**
@@ -545,15 +475,7 @@ Therefore, individuals may not make decisions based on a rational analysis of al
 >
 > D. Research has shown that, over time, share price appear to follow a random walk
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 10-2014 dec**
@@ -570,11 +492,6 @@ Therefore, individuals may not make decisions based on a rational analysis of al
 >
 > **D** Semi-strong form efficiency
 
-
-
-
-
-
 :::
 
 ### 3 Valuation of Debts
@@ -585,7 +502,9 @@ The market value of any debt should equal the present value of the future paymen
 
 For irredeemable bonds, there will be a fixed annual payment of \"coupon\" interest into perpetuity, with no principal repayment.
 
-$$P_{0} = \frac{I}{k_{d}}$$
+$$
+P_{0} = \frac{I}{k_{d}}
+$$
 
 Where: P~0~ = ex-interest market price
 
@@ -599,20 +518,12 @@ The market value of a redeemable bond should equal the present value of the coup
 
 P~0~=face value ×coupon rate × AF(k~d~, n)+redemption value × DF(k~d~, n)
 
-
-
-
 ::: {.callout-tip}
 **Example 11**
 
 > A company has 7% loan notes in issue which are redeemable in 7 years' time at a 5% premium to their nominal value of \$100 per loan note. The required return of debt holder is 6%.
 >
 > What is the current market value of each loan note?
-
-
-
-
-
 
 :::
 
@@ -627,7 +538,6 @@ Conversion premium = market value of convertible bonds− current conversion va
 Estimating the market value of convertible bonds:
 
 - Firstly, decide whether the investor will choose redemption or conversion
-
 - Secondly, using the annuity formula below
 
 P~0~ = face value ×coupon rate × AF (k~d~, n) +
@@ -636,18 +546,12 @@ higher of (redemption value, conversion value) × DF(k~d~, n)
 
 Floor value = the value of convertible bonds assuming investors will redemption
 
-
-
-
 ::: {.callout-tip}
 **Lecture Example 12**
 
 > A company has issued 9% convertible which can be converted into 35 shares in 5 years' time or redeemed at par of \$100. An investor's required return is 10% and the current share price of the company is \$2.5 which is expected to grow by 4% per year.
 >
 > Calculate the MV, floor value and conversion premium of convertible bond.
-
-
-
 
 :::
 
@@ -667,21 +571,19 @@ Floor value = the value of convertible bonds assuming investors will redemption
 
 :::
 
-
-
-
-
 #### 3.4 Preference Shares
 
 As preference dividends are a fixed percentage of the share's nominal value, and the share price becomes the present value of a perpetuity:
 
-$$P_{0} = \frac{D}{k_{p}}$$
+$$
+P_{0} = \frac{D}{k_{p}}
+$$
 
 Where: D is the constant preference dividend.
 
 K~P~ is the required return of investors.
 
-#### 3.5 Interest Rate and Bonds Value 
+#### 3.5 Interest Rate and Bonds Value
 
 Market interest rates and the market value of bonds have an inverse relationship. This is because the market value of a loan note equals the present value of the fixed future payments it will make to the investor. If market interest rates (i.e. discount rates) fall, the present value of a loan note's future cash flows will rise, and with it, the loan note's market price.
 
@@ -710,4 +612,3 @@ Market interest rates and the market value of bonds have an inverse relationship
 
 ![](media/Notes_F/media/image13.png){width="5.768055555555556in"}
 :::
-

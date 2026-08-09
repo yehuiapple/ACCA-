@@ -2,15 +2,13 @@
 
 ### Syllabus
 
-**A. Financial Management Function**
-
-**1. The nature and purpose of financial management**
+**A1. The nature and purpose of financial management**
 
 a) Explain the nature and purpose of financial management. [1]
 
 b) Explain the relationship between financial management and financial and management accounting. [1]
 
-**2. Financial objectives and the relationship with corporate strategy**
+**A2. Financial objectives and the relationship with corporate strategy**
 
 a) Discuss the relationship between financial objectives, corporate objectives and corporate strategy. [2]
 
@@ -20,7 +18,7 @@ b) Identify and describe a variety of financial objectives, including: [2]
 2. profit maximization
 3. earnings per share growth
 
-**3. Stakeholders and impact on corporate objectives**
+**A3. Stakeholders and impact on corporate objectives**
 
 a) Identify the range of stakeholders and their objectives. [2]
 
@@ -38,7 +36,7 @@ e) Explain ways to encourage the achievement of stakeholder objectives, includin
 1. managerial reward schemes such as share options and performance related pay
 2. regulatory requirements such as corporate governance codes of best practice and stock exchange listing regulations.
 
-**4. Financial and other objectives in not-for-profit organizations**
+**A4. Financial and other objectives in not-for-profit organizations**
 
 a) Discuss the impact of not-for-profit status on financial and other objectives. [2]
 
@@ -130,6 +128,7 @@ During the year, Green Co paid a total dividend of \$0.15 per share.
 **What is the total shareholder return for 20X5?**
 
 A. 26%　　B. 22%　　C. 32%　　D. 36%
+
 :::
 
 ::: {.callout-tip}
@@ -313,6 +312,10 @@ $$
 **Example 4 (Sep 2016, Q14)**
 
 ![Question image](media/Notes_AB/media/image6.png){width="6.518692038495188in" height="2.9877996500437445in"}
+
+
+
+
 :::
 
 #### 3.2 Liquidity and Gearing Ratios
@@ -397,6 +400,10 @@ $$
 Geeh Co paid an interim dividend of \$0.06 per ordinary share on 31 October 2006 and declared a final dividend of \$0.08 on 31 December 2006. The ordinary shares in Geeh are trading at a cum-div price of \$1.83.
 
 **What is the dividend yield (to one decimal place)?**
+
+
+
+
 :::
 
 ::: {.callout-note}
@@ -407,7 +414,7 @@ Three comparisons can be made:
 - The change in the ratio from one year to the next
 - Other benchmark company's ratio, if this information is available
 - A given target ratio
-:::
+  :::
 
 ### 4 Not-For-Profit Organizations
 

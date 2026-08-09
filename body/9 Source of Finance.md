@@ -1,9 +1,8 @@
 ## 9 Source of Finance
 
-### Syllabus  {.pagebreak}
-**E. Business Finance**
+### Syllabus
 
-**1. Sources of, and raising, business finance**
+**E1. Sources of, and raising, business finance**
 
 a\) Identify and discuss the range of short-term sources of finance available to businesses, including:[2]
 
@@ -35,7 +34,7 @@ iii. public offer
 
 iv. stock exchange listing.
 
-d\) Identify and discuss methods of raising short- and long-term Islamic finance, including:[1] 
+d\) Identify and discuss methods of raising short- and long-term Islamic finance, including:[1]
 
 i.  major differences between Islamic finance and the other forms of business finance.
 
@@ -43,14 +42,13 @@ ii. the concept of riba (interest) and how returns are made by Islamic financial
 
 iii. Islamic financial instruments available to businesses including:
 
-
 1. murabaha (trade credit)
 2. ijara (lease finance)
 3. mudaraba (equity finance)
 4. sukuk (debt finance)
 5. musharaka (venture capital). (note: calculations are not required)
 
-**5. Finance for small and medium sized entities (SMEs)**
+**E5. Finance for small and medium sized entities (SMEs)**
 
 a\) Describe the financing needs of small businesses.[2]
 
@@ -58,7 +56,7 @@ b\) Describe the nature of the financing problem for small businesses in terms o
 
 c\) Explain measures that may be taken to ease the financing problems of SMEs, including the responses of government departments and financial institutions.[1]
 
-d\) Identify and evaluate the financial impact of sources of finance for SMEs, including sources already referred previous and also[2] 
+d\) Identify and evaluate the financial impact of sources of finance for SMEs, including sources already referred previous and also[2]
 
 i.  Business angel financing
 
@@ -68,7 +66,7 @@ iii. Supply chain financing
 
 iv. Crowdfunding / peer-to-peer funding.
 
-### 1 Short-term Finance {.pagebreak}
+### 1 Short-term Finance
 
 Source of finance can be classified as short-term and long-term finance.
 
@@ -368,9 +366,6 @@ The value of a right per existing share = the value of a right / N
 
 In theory, shareholders can take up or dispose of their rights, shareholder wealth will not change.
 
-
-
-
 ::: {.callout-tip}
 **Example 1**
 
@@ -390,15 +385,7 @@ In theory, shareholders can take up or dispose of their rights, shareholder weal
 >
 > \(3\) do nothing
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 2 (Sep/Dec 2020)**
@@ -420,8 +407,6 @@ Rights issue price \$( )
 - Public offer is more expensive than right issue, as the new issues can incur costs (such as underwriting, advertising costs), right issue is relatively cheaper and simpler than public offer
 
 **(3) Other Types of Share Issue**
-
-
 
 **Bonus Issue (****Scrip Issue)**
 
@@ -469,7 +454,6 @@ Quoted companies are able to use any of equity resources, unquoted companies are
 - Placing and public offer introduce new shareholders
 
 There is no rigid rule concerning the choice. Use of Internal funds is the best, but subject to sufficient availability and dividend policy considerations. Of the new issue methods, the order of preference will be right issue, placing, and public offer.
-
 
 #### 2.3 Leasing (Medium-term)
 
@@ -733,4 +717,3 @@ That involves Islamic bonds where the sukuk holder's return for providing financ
 **Hibah (gift)**: this is where Islamic banks voluntarily pay their customers a \"gift\" on savings account balances. This gift represents a portion of the profit made using those balances in other activities.
 
 **Qard hassan (good loan/benevolent loan)**: this involves a loan extended on a goodwill basis, and the debtor is only required to repay the amount borrowed. However, the debtor may, at their discretion, pay an extra amount to the creditor.
-

@@ -1,13 +1,12 @@
 ## 6 Allowing for Inflation and Taxation
 
-### Syllabus  {.pagebreak}
-**D. Investment Appraisal**
+### Syllabus
 
-**1. Investment Appraisal Techniques**
+**D1. Investment Appraisal Techniques**
 
 a\) Identify and calculate relevant cash flows for investment projects.[2]
 
-**2. Allowing for Inflation and Taxation in DCF**
+**D2. Allowing for Inflation and Taxation in DCF**
 
 a\) Apply and discuss the real-terms and nominal-terms approaches to investment appraisal.[2]
 
@@ -15,19 +14,15 @@ b\) Calculate the taxation effects of relevant cash flows, including the tax ben
 
 c\) Calculate and apply before- and after-tax discount rates.[2]
 
-### 1 Relevant Cash Flows {.pagebreak}
+### 1 Relevant Cash Flows
 
 **General rule:** only cash inflows and outflows that are affected by a decision are relevant to the decision. This means using only **future, incremental cash** flow.
 
 Examples of Non-Relevant Cash Flows
 
 - sunk costs -- money already spent
-
 - non-cash costs -- e.g. depreciation
-
 - unavoidable costs -- money already committed and apportioned fixed costs
-
-
 - **Finance costs** -- such as interest, because finances costs are accounted for by the discounting process.
 
 However, **opportunity costs** and revenues must be included.
@@ -54,11 +49,8 @@ However, **opportunity costs** and revenues must be included.
 Building taxation into a discounted cash flow involves dealing with 'the good the bad and the ugly'!.
 
 - Tax is charged on operating results (=revenues -- operating costs)
-
 - Tax relief is given on non-current assets via tax-allowable depreciation (TAD)
-
 - The timing of tax cash flows is complex. They may occur in the year of taxable profits; or tax is paid one year in arrears (i.e. in the following year).
-
 - Any tax relief on finance cost is accounted for in the discount rate.
 
 Company may claim TAD according to the applicable tax regime. Exam questions will state the depreciation method (reducing balance or straight-line) and tax rate (%).
@@ -72,19 +64,18 @@ An asset is bought for \$8000 and will be used four years before being disposed 
 
 Calculate the tax allowable depreciation and tax savings for each year.
 
-| Year | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|
-| beginning book value | | | | |
-| Tax-allowable depreciation | | | | |
-| Tax benefit on depreciation (30%) | | | | |
-| timing | | | | |
+| Year                              | 1 | 2 | 3 | 4 |
+| --------------------------------- | - | - | - | - |
+| beginning book value              |   |   |   |   |
+| Tax-allowable depreciation        |   |   |   |   |
+| Tax benefit on depreciation (30%) |   |   |   |   |
+| timing                            |   |   |   |   |
 
 :::
 
 Simplifying assumptions:
 
 - Tax rate is constant
-
 - Sufficient taxable profits are available to use all tax deductions in full. This means even if the net cash flow for a year is negative, there will be a positive tax cash flow for the tax relief.
 
 **Dealing with Taxation**
@@ -95,34 +86,32 @@ Operating Cash flow = sales- cash costs -- tax payments
 
 = (sales- cash costs) - (sales- cash costs) \* tax rate + depreciation \* tax rate
 
-| Year | 0 | 1 | 2 | 3 |
-|------|---|---|---|---|
-| revenues | | x | x | |
-| Cash operating costs | | \(x\) | \(x\) | |
-| **Taxable Cash Flow** | | **x** | **x** | |
-| Tax @ 30% | | | \(x\) | \(x\) |
-| Tax savings | | | x | x |
-| Initial investment | \(x\) | | | |
-| Scrap value | | | | x |
+| Year                        | 0             | 1           | 2           | 3           |
+| --------------------------- | ------------- | ----------- | ----------- | ----------- |
+| revenues                    |               | x           | x           |             |
+| Cash operating costs        |               | \(x\)       | \(x\)       |             |
+| **Taxable Cash Flow** |               | **x** | **x** |             |
+| Tax @ 30%                   |               |             | \(x\)       | \(x\)       |
+| Tax savings                 |               |             | x           | x           |
+| Initial investment          | \(x\)         |             |             |             |
+| Scrap value                 |               |             |             | x           |
 | **Project Cash Flow** | **(x)** | **x** | **x** | **x** |
-| Discount factor (r%) | | | | |
-| Present value | | | | |
-| NPV | | | | |
+| Discount factor (r%)        |               |             |             |             |
+| Present value               |               |             |             |             |
+| NPV                         |               |             |             |             |
 
-### 3 Inflation 
+### 3 Inflation
 
 Inflation's impacts on NPV:
 
 - Different costs and revenues will inflate at different rates
-
 - the cost of capital (in nominal terms) will be altered
 
-#### 3.1 Real and Nominal Interest Rates 
+#### 3.1 Real and Nominal Interest Rates
 
 When dealing with inflation, it is important to distinguish between real and nominal (money) interest rates:
 
 - The real interest rate reflects the interest rate in the absence of inflation.
-
 - The nominal interest rate reflects the real interest rate adjusted for the effect of general inflation.
 
 Relationship between the real and nominal interest rate (cost of capital) can be described by the following fisher formula:
@@ -151,16 +140,14 @@ Nominal cash flow in year i = cash flow in current price $\times$ ${(1 + h)}^{i}
 
 **Two Methods of Calculating NPV**
 
-1)  Real NPV
+1) Real NPV
 
 - cash flows are expressed at current prices (before the effects of inflation)
-
 - discounting these cash flows at a real cost of capital (excluding general inflation)
 
 2)Nominal NPV
 
 - cash flows are expressed in nominal terms (include the effects of inflation).
-
 - Discounting these nominal (money) cash flows at a nominal cost of capital.
 
 Using fisher formula to calculate a real (nominal) rate from a nominal (real) rate and the general inflation rate.
@@ -184,44 +171,43 @@ Using fisher formula to calculate a real (nominal) rate from a nominal (real) ra
 
 **NPV in Nominal Method:**
 
-| Year | 0 | 1 | 2 | 3 |
-|------|---|---|---|---|
-| | \$ | \$ | \$ | \$ |
-| Inflated Revenues (w1) | | | | |
-| Inflated Costs (w2) | | | | |
-| Investment | | | | |
-| Scrap value | | | | |
-| Project cash flows | | | | |
-| Discount factor ( ) | | | | |
-| Present value of cash flows | | | | |
-| NPV | | | | |
+| Year                        | 0  | 1  | 2  | 3  |
+| --------------------------- | -- | -- | -- | -- |
+|                             | \$ | \$ | \$ | \$ |
+| Inflated Revenues (w1)      |    |    |    |    |
+| Inflated Costs (w2)         |    |    |    |    |
+| Investment                  |    |    |    |    |
+| Scrap value                 |    |    |    |    |
+| Project cash flows          |    |    |    |    |
+| Discount factor ( )         |    |    |    |    |
+| Present value of cash flows |    |    |    |    |
+| NPV                         |    |    |    |    |
 
 Workings
 
 (1) Working 1 nominal sales revenues
 
-| Year | 1 | 2 | 3 |
-|------|---|---|---|
-| Current selling price(\$/unit) | | | |
-| Inflated selling price (\$) = current price × 1.05^i | | | |
-| Sales volume(units) | | | |
-| nominal sales revenue (\$) = inflated selling price × units | | | |
+| Year                                                         | 1 | 2 | 3 |
+| ------------------------------------------------------------ | - | - | - |
+| Current selling price(\$/unit)                               |   |   |   |
+| Inflated selling price (\$) = current price × 1.05^i        |   |   |   |
+| Sales volume(units)                                          |   |   |   |
+| nominal sales revenue (\$) = inflated selling price × units |   |   |   |
 
 (2) Working 1 nominal variable costs
 
-| Year | 1 | 2 | 3 |
-|------|---|---|---|
-| Current variable cost(\$/unit) | | | |
-| Inflated variable cost (\$) = current cost × 1.03^i | | | |
-| Sales volume(units) | | | |
-| nominal variable costs (\$) = inflated costs × units | | | |
+| Year                                                  | 1 | 2 | 3 |
+| ----------------------------------------------------- | - | - | - |
+| Current variable cost(\$/unit)                        |   |   |   |
+| Inflated variable cost (\$) = current cost × 1.03^i  |   |   |   |
+| Sales volume(units)                                   |   |   |   |
+| nominal variable costs (\$) = inflated costs × units |   |   |   |
 
 **Which method to use?**
 
 If selling prices and costs have different inflation rates, using nominal method:
 
 - Forecasting each cash flow in nominal terms; and
-
 - discounting nominal cash flow at nominal cost of capital
 
 The only situation in which the real method is valid is when revenues and costs all increase at the general inflation rate. in this case, inflation will have no impact on a project's NPV, so both nominal method and real method are appropriate.
@@ -251,11 +237,11 @@ Real cash flow = nominal cash flow ÷ (1+general inflation rate) \^n
 
 Deflating process
 
-| Year | 1 | 2 | 3 |
-|------|---|---|---|
-| Nominal cash flows (\$) | | | |
-| Deflated by 1/(1+h)^i | | | |
-| Real cash flows (\$) | | | |
+| Year                    | 1 | 2 | 3 |
+| ----------------------- | - | - | - |
+| Nominal cash flows (\$) |   |   |   |
+| Deflated by 1/(1+h)^i   |   |   |   |
+| Real cash flows (\$)    |   |   |   |
 
 ::: {.callout-tip}
 **Example 5**
@@ -285,9 +271,7 @@ step1: calculate the amounts of working capital needed in each year
 step2: work out the incremental cash flows required each year
 
 - increase in working capital = cash outflow
-
 - decrease in working capital = cash inflow
-
 - unless the question specifies otherwise, working capital is assumed to be **released** at the end of the project (i.e. a cash inflow)
 
 It is assumed that changes in the level of working capital have no tax effects.
@@ -297,8 +281,8 @@ It is assumed that changes in the level of working capital have no tax effects.
 
 Darn co has undertaken a new project with four years life and the expected sales revenue are as follows.
 
-| Year | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|
+| Year                  | 1     | 2     | 3     | 4     |
+| --------------------- | ----- | ----- | ----- | ----- |
 | Sales revenue (\$000) | 1,300 | 2,800 | 7,900 | 5,400 |
 
 The level of working capital investment at the start of each year is expected to be 10% of sales revenue in that year.
@@ -312,15 +296,10 @@ Calculate the relevant cash flow of working capital.
 To evaluate a project, management should consider and determine followings:
 
 - project's life or time horizon
-
 - operating cash flow
-
 - tax and tax benefits
-
 - working capital
-
 - initial investment and scrap value
-
 - discount factor
 
 Operating Cash flow = sales- cash costs -- tax payments
@@ -329,55 +308,55 @@ Operating Cash flow = sales- cash costs -- tax payments
 
 = (sales- cash costs) - (sales- cash costs) \* tax rate + depreciation \* tax rate
 
-| Year | 0 | 1 | 2 | 3 | 4 | 5 |
-|------|---|---|---|---|---|---|
-| Sales revenues (w1) | | x | x | x | x | x |
-| variable costs (W2) | | | | | | |
-| fixed costs | | | | | | |
-| **Taxable Cash Flow** | | | | | | |
-| Tax \@30% | | | | | | |
-| Tax benefit on capital allowance (W3) | | | | | | |
-| Initial investment | | | | | | |
-| residual value | | | | | | |
-| Working capital changes (W4) | | | | | | |
-| project Cash Flows | | | | | | |
-| Discount factor (@cost of capital) | | | | | | |
-| Present value of project cash flow | | | | | | |
-| NPV | | | | | | |
+| Year                                  | 0 | 1 | 2 | 3 | 4 | 5 |
+| ------------------------------------- | - | - | - | - | - | - |
+| Sales revenues (w1)                   |   | x | x | x | x | x |
+| variable costs (W2)                   |   |   |   |   |   |   |
+| fixed costs                           |   |   |   |   |   |   |
+| **Taxable Cash Flow**           |   |   |   |   |   |   |
+| Tax\@30%                              |   |   |   |   |   |   |
+| Tax benefit on capital allowance (W3) |   |   |   |   |   |   |
+| Initial investment                    |   |   |   |   |   |   |
+| residual value                        |   |   |   |   |   |   |
+| Working capital changes (W4)          |   |   |   |   |   |   |
+| project Cash Flows                    |   |   |   |   |   |   |
+| Discount factor (@cost of capital)    |   |   |   |   |   |   |
+| Present value of project cash flow    |   |   |   |   |   |   |
+| NPV                                   |   |   |   |   |   |   |
 
 W1: inflated revenue sales
 
-| Year | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|
-| Selling price per unit (\$) | | | | |
-| Inflated selling price per unit (\$) | | | | |
-| Sales volume (unit) | | | | |
-| Inflated sales revenue per year | | | | |
+| Year                                 | 1 | 2 | 3 | 4 |
+| ------------------------------------ | - | - | - | - |
+| Selling price per unit (\$)          |   |   |   |   |
+| Inflated selling price per unit (\$) |   |   |   |   |
+| Sales volume (unit)                  |   |   |   |   |
+| Inflated sales revenue per year      |   |   |   |   |
 
 W2: inflated variable costs
 
-| Year | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|
-| Variable cost per unit (\$) | | | | |
-| Inflated variable cost per unit (\$) | | | | |
-| sales volume (unit) | | | | |
-| Inflated variable costs per year | | | | |
+| Year                                 | 1 | 2 | 3 | 4 |
+| ------------------------------------ | - | - | - | - |
+| Variable cost per unit (\$)          |   |   |   |   |
+| Inflated variable cost per unit (\$) |   |   |   |   |
+| sales volume (unit)                  |   |   |   |   |
+| Inflated variable costs per year     |   |   |   |   |
 
 W3: tax benefit on capital allowance depreciation
 
-| Year | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|
-| beginning balance | | | | |
-| Tax-allowable depreciation | | | | |
-| Tax benefit on depreciation (30%) | | | | |
-| timing | | | | |
+| Year                              | 1 | 2 | 3 | 4 |
+| --------------------------------- | - | - | - | - |
+| beginning balance                 |   |   |   |   |
+| Tax-allowable depreciation        |   |   |   |   |
+| Tax benefit on depreciation (30%) |   |   |   |   |
+| timing                            |   |   |   |   |
 
 W4: relevant working capital cash flow
 
-| Year | 0 | 1 | 2 | 3 | 4 |
-|------|---|---|---|---|---|
-| Working capital level needed (\$) | | | | | |
-| Incremental working capital (\$) | | | | | |
+| Year                              | 0 | 1 | 2 | 3 | 4 |
+| --------------------------------- | - | - | - | - | - |
+| Working capital level needed (\$) |   |   |   |   |   |
+| Incremental working capital (\$)  |   |   |   |   |   |
 
 ::: {.callout-tip}
 **Example 7: Trector**

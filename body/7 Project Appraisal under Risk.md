@@ -1,13 +1,12 @@
 ## 7 Project Appraisal under Risk
 
-### Syllabus  {.pagebreak}
-**D. Investment Appraisal**
+### Syllabus
 
-**1. Investment Appraisal Techniques**
+**D1. Investment Appraisal Techniques**
 
 c\) Calculate discounted payback and discuss its usefulness as an investment appraisal method.[2]
 
-**3. Adjusting for Risk and Uncertainty in Investment Appraisal**
+**D3. Adjusting for Risk and Uncertainty in Investment Appraisal**
 
 a\) Describe and discuss the difference between risk and uncertainty in relation to probabilities and increasing project life.[2]
 
@@ -15,13 +14,13 @@ b\) Apply sensitivity analysis to investment projects and discuss the usefulness
 
 c) Apply probability analysis to investment projects and discuss the usefulness of probability analysis in assisting investment decisions.[2]
 d) Apply and discuss other techniques of adjusting for risk and uncertainty in investment appraisal, including:
-i. simulation[1] 
+i. simulation[1]
 
-ii. adjusted payback[1] 
+ii. adjusted payback[1]
 
-iii. risk-adjusted discount rates.[2] 
+iii. risk-adjusted discount rates.[2]
 
-### 1 Risk and Uncertainty {.pagebreak}
+### 1 Risk and Uncertainty
 
 The decisions makers must distinguish between risk and uncertainty.
 
@@ -48,18 +47,11 @@ The smaller the percentage, the more sensitive the NPV is to that project variab
 **Some Key Sensitivity Ratio:**
 
 - Sensitivity of sales volume: NPV/PV of contribution.
-
 - Sensitivity of price: NPV/PV of revenues
-
 - Sensitivity of variable cost: NPV/ PV of variable cost
-
 - Sensitivity of fixed cost: NPV/ PV of fixed cost
-
 - Sensitivity of initial investment: NPV/PV of initial investment
-
 - Sensitivity of cost of capital-先计算IRR；再算IRR相对于目前贴现率的变动百分比
-
-
 
 **Example 1**
 
@@ -85,29 +77,20 @@ The smaller the percentage, the more sensitive the NPV is to that project variab
 >
 > -the selling prices
 
-
-
 **Comments of Sensitivity Analysis**
 
 **Advantages:**
 
 - it offers a key method to analyze uncertainty and gives an idea of how sensitive the project is to changes in each of the original estimates.
-
 - It prompts management to check the quality of data for the most sensitive variables.
-
 - It identifies the critical success factors for the project and directs project management.
 
 **Limitations:**
 
 - Sensitivity analysis is typically used to examine what happens when one variable changes and others remain constant. However, variables are often interdependent.
-
 - It assumes data for all other variables is accurate
-
 - It does not consider the probability of change in a variable
-
 - It does not provide a decision rule. Management must decide the level of sensitivity that is acceptable.
-
-
 
 #### 2.2 Discounted Payback Period
 
@@ -119,16 +102,14 @@ Discounted payback resolves one of the limitations of payback method: it allows 
 
 Two projects each require an investment of \$1,000,000 and have the following forecast cash flows (\$000):
 
-| Year       | 0      | 1   | 2   | 3   | 4   | 5   |
-|------------|--------|-----|-----|-----|-----|-----|
-| Project A  | (1,000)| 600 | 200 | 200 | 205 | 150 |
-| Project B  | (1,000)| 100 | 300 | 600 | 205 | 150 |
+| Year      | 0       | 1   | 2   | 3   | 4   | 5   |
+| --------- | ------- | --- | --- | --- | --- | --- |
+| Project A | (1,000) | 600 | 200 | 200 | 205 | 150 |
+| Project B | (1,000) | 100 | 300 | 600 | 205 | 150 |
 
 Each project has a payback period of 3 years, and on this measure, would be ranked equally in terms of liquidity and risk.
 
 However, project A produces strong cash flows in the early years, which may be less uncertain than later returns. This limitation can be delt with using the discounted payback period.
-
-
 
 **Example 2 -continued**
 
@@ -139,7 +120,7 @@ If the cost of capital of 10% is believed to reflect the risk attached to projec
 Project A
 
 | Year                | 0       | 1   | 2   | 3   | 4   | 5   |
-|---------------------|---------|-----|-----|-----|-----|-----|
+| ------------------- | ------- | --- | --- | --- | --- | --- |
 | Cash flow (\$)      | (1,000) | 600 | 200 | 200 | 205 | 150 |
 | Discount factor 10% |         |     |     |     |     |     |
 | Present value       |         |     |     |     |     |     |
@@ -150,7 +131,7 @@ Discounted payback =
 Project B
 
 | Year                | 0       | 1   | 2   | 3   | 4   | 5   |
-|---------------------|---------|-----|-----|-----|-----|-----|
+| ------------------- | ------- | --- | --- | --- | --- | --- |
 | Cash flow (\$)      | (1,000) | 100 | 300 | 600 | 205 | 150 |
 | Discount factor 10% |         |     |     |     |     |     |
 | Present value       |         |     |     |     |     |     |
@@ -162,7 +143,7 @@ The discounted payback period produces a longer payback period than non-discount
 
 :::
 
-### 3 Risk Analysis Techniques 
+### 3 Risk Analysis Techniques
 
 #### 3.1 Probability Analysis
 
@@ -185,10 +166,7 @@ P(x)=the probability of outcome x
 A probability distribution of expected cash flows can also be used to measure risk by:
 
 - calculating the worst possible outcome and its probability;
-
 - calculating the probability that the project will fail to achieve a positive NPV
-
-
 
 ::: {.callout-tip}
 **Example 3**
@@ -198,15 +176,15 @@ A probability distribution of expected cash flows can also be used to measure ri
 > Cash flows for the project (in \$000)
 >
 > | Year 1 cash flow | probability |
-> |-----------------|-------------|
-> | 100             | 0.25        |
-> | 200             | 0.50        |
-> | 300             | 0.25        |
+> | ---------------- | ----------- |
+> | 100              | 0.25        |
+> | 200              | 0.50        |
+> | 300              | 0.25        |
 
 Year 2
 
 | Cash flow in year 1 | Cash flow in year 2 | probability |
-|---------------------|---------------------|-------------|
+| ------------------- | ------------------- | ----------- |
 | 100                 | 0                   | 0.25        |
 | 100                 | 100                 | 0.50        |
 | 100                 | 200                 | 0.25        |
@@ -223,8 +201,6 @@ Calculate the expected value of the project's NPV and the probability that the N
 
 :::
 
-
-
 **Advantages and Disadvantages of Probability Analysis**
 
 **Advantage:**
@@ -234,16 +210,12 @@ Calculate the expected value of the project's NPV and the probability that the N
 **Disadvantages:**
 
 - the probabilities of possible outcomes may be difficult to estimate
-
 - the average may not correspond to any of the possible outcomes
-
 - unless the same decision has to be made many times, the average will not be achieved. Therefore, it is not appropriate in "one-off" situation.
-
-
 
 #### 3.2 Other Techniques for Managing Risk
 
-##### 1. Simulation 
+##### 1. Simulation
 
 A technique that allows more than one variable to change simultaneously.
 
@@ -252,13 +224,9 @@ An example of simulation is the Monte Carlo simulation method. The output estima
 **Stages in a Monte Carlo Simulation:**
 
 - Specify the major variables and the relationship between the variables (e.g. revenue and costs)
-
 - Attach probability distribution to each variable and assign random numbers to reflect the distribution
-
 - Simulate the environment by generating random numbers for revenue and costs
-
 - Record the outcome of each simulation (e.g. the profit based on the revenue and costs randomly selected)
-
 - Repeat the simulation many times to obtain a probability distribution of the possible outcomes (e.g. the probabilities of achieving various profit levels).
 
 **Advantages and Limitations of Simulation**
@@ -266,17 +234,13 @@ An example of simulation is the Monte Carlo simulation method. The output estima
 **Advantages:**
 
 - It provides more information about the possible outcomes and their relative probabilities.
-
 - The data can be used to calculate an expected NPV and the standard deviation of expected NPV.
 
 **Limitations:**
 
 - It is not a technique for making a decision, only for obtaining more information about the possible outcomes.
-
 - Simulations are only as good as the probabilities, assumptions and estimates used
-
 - It can be very time-consuming without a computer.
-
 - It could prove expensive in designing and running the simulation, even on a computer.
 
 ##### 2. Risk Adjusted Discount Rate

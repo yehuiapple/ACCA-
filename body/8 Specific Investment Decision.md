@@ -1,9 +1,8 @@
 ## 8 Specific Investment Decision
 
-### Syllabus  {.pagebreak}
-**D. Investment Appraisal**
+### Syllabus
 
-**4. Specific Investment Decisions**
+**D4. Specific Investment Decisions**
 
 a\) Evaluate leasing and borrowing to buy using the before- and after-tax costs of debt.[2]
 
@@ -17,15 +16,13 @@ ii. the calculation of the NPV of combinations of non-divisible investment proje
 
 iii. a discussion of the reasons for capital rationing.
 
-**E. Business Finance**
-
-**3. Source of Finance and Their Relative Costs**
+**E3. Source of Finance and Their Relative Costs**
 
 d\) assess the impact of sources of finance on financial position, financial risk and shareholder wealth using appropriated measures, including:[2]
 
 iii. leasing or borrowing to buy
 
-### 1 Asset Replacement Decisions {.pagebreak}
+### 1 Asset Replacement Decisions
 
 #### 1.1 Asset Replacement Cycle
 
@@ -43,7 +40,9 @@ Step 3 - choose the replacement cycle with the lowest EAC.
 
 Equivalent annual cost - the annual cost of owning, operating and maintaining an asset over its entire life, can be calculated by the following formula:
 
-$$EAC = \frac{PV\ of\ costs}{Annuity\ Factor(r,n)}$$
+$$
+EAC = \frac{PV\ of\ costs}{Annuity\ Factor(r,n)}
+$$
 
 Note: any revenues resulting from the use of the asset will be ignored since they will occur in any case, whatever the replacement cycles, and is therefore not a relevant cash flow.
 
@@ -63,20 +62,18 @@ NPV cannot be compared directly for projects with different life. The calculatio
 **Limitations:**
 
 - The analysis assumes a like-with- replacement (in perpetuity), however, this is rarely possible in reality. Asset requirements may change over time.
-
 - Changing technology may also require earlier replacement than the optimal solution suggests.
-
 - Non-financial factors such as employees' satisfaction are ignored
-
 - The analysis ignores the impact of tax and inflation
-:::
-
+  :::
 
 #### 1.2 Equivalent Annual Benefit
 
 For mutually exclusive projects, the general rule is to choose the project with the highest NPV. However, if the same situation is faced repeatedly and the projects have different lives, the equivalent annual benefit (EAB) can be used.
 
-$$EAB = \frac{NPV\ of\ project}{Annuity\ Factor}$$
+$$
+EAB = \frac{NPV\ of\ project}{Annuity\ Factor}
+$$
 
 ::: {.callout-tip}
 **Example 2**
@@ -102,11 +99,8 @@ Hard capital rationing -- the capital markets limit the amount of finance availa
 Reasons why capital markets may restrict the funds available to a particular company include:
 
 - High country/political risk (concerns about corporate governance or state appropriation of assets)
-
 - High business risk (company's operating cash flows are very sensitive to the economic cycle)
-
 - High financial risk (the company already has high debt level)
-
 - Lack of reliable independent information available about the company. this is especially relevant to small- and medium-sized entities.
 
 ##### 2. Soft Capital Rationing
@@ -116,14 +110,11 @@ Soft capital rationing -- the company internally sets limits on finance availabi
 There are several reasons why company mangers might restrict available funds for investment:
 
 - A preference for slower organic growth to a sudden increase in size arising from accepting several large investment projects. This particularly applies to family-owned business.
-
 - Managers wish to avoid raising new equity finance if this will dilute the control of existing shareholders.
-
 - Managers wish to avoid issuing new debt to keep gearing under control and meet future interest payment.
-
 - To create an internal market for investment funds, thereby channel funds to projects with better chances of success and larger margins.
 
-#### 2.2 Dealing with Capital Rationing 
+#### 2.2 Dealing with Capital Rationing
 
 Capital rationing may rise in a single-period or multi-period.
 
@@ -143,13 +134,15 @@ A project is divisible if any partial or proportionate investment can be made in
 
 The three steps required for rationing capital to divisible projects are as follows:
 
-1.  calculate a profitability index for each project:[2]
-2.  rank projects according to their profitability index[2]
-The profitability index is the ratio of the present value of the project's future cash inflows divided by the initial investment.
+1. calculate a profitability index for each project:[2]
+2. rank projects according to their profitability index[2]
+   The profitability index is the ratio of the present value of the project's future cash inflows divided by the initial investment.
 
-$$PI = \frac{PV\ of\ project\ net\ cash\ inflows}{initial\ investment}$$
+$$
+PI = \frac{PV\ of\ project\ net\ cash\ inflows}{initial\ investment}
+$$
 
-3.  allocate funds starting with the highest ranking to maximize the NPV.
+3. allocate funds starting with the highest ranking to maximize the NPV.
 
 With this method, there will be no funds left over.
 
@@ -162,7 +155,6 @@ A non-divisible project must be done 100% or not at all.
 The three steps for rationing capital to indivisible projects are as follows:
 
 - simply list all possible **combinations** of projects which can be utilized given the capital budget.
-
 - choose the combination with the highest NPV.
 
 With this approach, there will usually be some surplus funds remained. Surplus funds can be invested in the money markets (it is a problem of working capital management) in order to increase overall profitability.
@@ -170,11 +162,8 @@ With this approach, there will usually be some surplus funds remained. Surplus f
 **Practical Solutions to Capital Rationing**
 
 - Delaying project to a subsequent period where capital rationing may be less of an issue
-
 - Finding new source of financing such as leasing or government grants
-
 - Entering into a joint venture with a partner
-
 - Issuing new capital if soft capital rationing exists
 
 ::: {.callout-tip}
@@ -185,7 +174,6 @@ With this approach, there will usually be some surplus funds remained. Surplus f
 ![](media/Notes_D/media/image17.png){width="5.710652887139108in" height="2.372425634295713in"}
 :::
 
-
 ### 3 Lease or Buy
 
 The decision of whether to lease or buy an asset is made once the decision has been made to acquire the asset for an investment project.
@@ -193,35 +181,25 @@ The decision of whether to lease or buy an asset is made once the decision has b
 The "lease or buy" decision is **a financing decision** which should be considered **separately** from the investment decision.
 
 - For investment decision, discount cash flows from using the asset at the company's WACC.
-
 - For financing decision, discount cash flows specific to each financing options at the after-tax cost of debt.
-
-> 
 
 **Advantages of Leasing**
 
 - For short-term leases, the lessor retains most of the risk of ownership, is responsible for servicing and maintaining the leased equipment
-
 - Don't need to pay large amount of money at the beginning
-
 - As a long-term of source of finance, leasing may be cheaper than a bank loan if the lessor obtains bulk purchase discounts
-
 - Avoiding loan covenants.
 
 **Relevant cash flows** of leasing:
 
 - Lease payments (tax-allowable deductions)
-
 - Tax relief on the lease payments
 
 Relevant cash flow of buy:
 
 - Purchase cost
-
 - Residual value
-
 - Running cost
-
 - Tax relief on TAD and running cost
 
 **Evaluation Whether Lease or Borrow to Buy**
@@ -229,7 +207,6 @@ Relevant cash flow of buy:
 **Steps:**
 
 - Calculating the financing cash flows of leasing and buy
-
 - Discounting these cash flows using the **post-tax cost of borrowing**
 
 Post-tax cost of borrowing = cost of borrowing × (1-tax rate)

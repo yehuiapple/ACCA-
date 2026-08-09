@@ -1,9 +1,8 @@
 ## 14 Foreign Currency Risk
 
-### Syllabus  {.pagebreak}
-**G. Risk Management**
+### Syllabus
 
-**1. The nature and types of risk and approaches to risk management**
+**G1. The nature and types of risk and approaches to risk management**
 
 a\) Describe and discuss different types of foreign currency risk:[2]
 
@@ -13,15 +12,15 @@ ii. transaction risk
 
 iii. economic risk.
 
-**2. Causes of exchange rate differences and interest rate fluctuations**
+**G2. Causes of exchange rate differences and interest rate fluctuations**
 
 a\) Describe the causes of exchange rate fluctuations, including:
 
-i. balance of payments[1] 
+i. balance of payments[1]
 
-ii. purchasing power parity theory[2] 
+ii. purchasing power parity theory[2]
 
-iii. interest rate parity theory[2] 
+iii. interest rate parity theory[2]
 
 iv. four-way equivalence.[2]
 
@@ -31,25 +30,25 @@ i. purchasing power parity
 
 ii. interest rate parity.
 
-**3. Hedging techniques for foreign currency risk**
+**G3. Hedging techniques for foreign currency risk**
 
 a\) Discuss and apply traditional and basic methods of foreign currency risk management, including:
 
-i. currency of invoice[1] 
+i. currency of invoice[1]
 
-ii. netting and matching[2] 
+ii. netting and matching[2]
 
-iii. leading and lagging[2] 
+iii. leading and lagging[2]
 
-iv. forward exchange contracts[2] 
+iv. forward exchange contracts[2]
 
-v. money market hedging[2] 
+v. money market hedging[2]
 
 vi. asset and liability management.[1]
 
 b\) Compare and evaluate traditional methods of foreign currency risk management. c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
-### 1 Foreign Currency Risk {.pagebreak}
+### 1 Foreign Currency Risk
 
 #### 1.1 Exchange Rate
 
@@ -75,9 +74,6 @@ Foreign exchange risk (currency risk) is the risk arising from unforeseen change
 
 This arises when a company is importing or exporting. If tthe exchange rate moves between agreeing the contract in a foreign currency and paying or receiving the cash, the amount of home currency paid or received will alter, making those future cash flows uncertain.
 
-
-
-
 ::: {.callout-tip}
 **example 1**
 
@@ -99,9 +95,6 @@ This arises when a company is importing or exporting. If tthe exchange rate move
 >
 > The exporter will gain due to foreign currency \$ strengthens.
 
-
-
-
 :::
 
 **The Effect of Exchange Rate Movements**
@@ -115,8 +108,6 @@ If a foreign currency [strengthens]{.underline} it is simply worth more in our h
 
 - Exporter gains because they will receive more
 - Importer suffers because they will pay more
-
-
 
 ##### 2. Economic Risk
 
@@ -188,20 +179,12 @@ IRPT predicts that the country with **the higher interest rate** will see the fo
 
 The **expectations theory** claims that the forward rate is an unbiased predictor of the future spot rate.
 
-
-
-
 ::: {.callout-tip}
 **example 2**
 
 > Assume the interest rate of a one-year US bond is 9% and the interest rate of a UK bond with similar risk is 7%. Current spot rate is ﹩/￡:1.5.
 >
 > Predict what tthe exchange rate is likely to be in one year.
-
-
-
-
-
 
 :::
 
@@ -221,9 +204,6 @@ h~c~: expected inflation rate in country c
 
 h~b~: expected inflation rate in country b
 
-
-
-
 ::: {.callout-tip}
 **example 3**
 
@@ -231,12 +211,9 @@ h~b~: expected inflation rate in country b
 >
 > What is the expected spot exchange rate at the end of the year?
 
-
 :::
 
 Using PPPT to predict future spot rate
-
-
 
 **Purchasing power model** is a poor predictor of short-term changes in exchange rates.
 
@@ -244,8 +221,6 @@ Using PPPT to predict future spot rate
 - Governments may manage exchange rate
 
 It is likely that the purchasing power parity model may be more useful for predicting long-run changes in exchange rates since these are more likely to be determined by the underlying competitiveness of economies.
-
-
 
 #### 2.3 the International Fisher Effect
 
@@ -257,7 +232,9 @@ According to the international fisher effect, the spot exchange rate will change
 - So, the interest rate differential between two countries should be equal to the expected inflation differential.
 - Therefore, countries with higher expected inflation rates will have higher nominal interest rates.
 
-  $$\frac{1 + i_{a}}{1 + i_{b}} = \frac{1 + h_{a}}{1 + h_{b}}$$
+  $$
+  \frac{1 + i_{a}}{1 + i_{b}} = \frac{1 + h_{a}}{1 + h_{b}}
+  $$
 
 I~a~: the nominal interest rate in country a
 
@@ -279,9 +256,6 @@ If interest rates are only different between two countries due to inflation (ie 
 
 ![](media/Notes_G/media/image20.png){width="4.09375in" height="2.76128280839895in"}
 
-
-
-
 ::: {.callout-tip}
 **Example 4**
 
@@ -301,15 +275,7 @@ If interest rates are only different between two countries due to inflation (ie 
 >
 > D the forecast future spot rate of exchange will differ from the forward exchange rate
 
-
-
-
-
-
-
-
 :::
-
 
 ::: {.callout-tip}
 **Example 5**
@@ -318,7 +284,6 @@ Indicate, by clicking on the relevant boxes, whether the following statements ar
 
 ![https://testdelivery-st-prd-1.pearsonvue.com/Minerva/examResource/?resourceIdent=Dec16F9Q19%20(1).PNG%3A%3Anull&sessionUUID=c52541ef-85b3-4089-8640-8f4123cc3475](media/Notes_G/media/image3.png){width="4.9212959317585305in" height="1.0712379702537183in"}
 :::
-
 
 ### 3 Managing Transaction Risk
 
@@ -366,9 +331,6 @@ Forward contracts are not traded but agreements between a company and a counterp
 
 **Forward rate** is the exchange rate that given in a forward contract.
 
-
-
-
 ::: {.callout-tip}
 **example 6-Nedwen**
 
@@ -404,8 +366,6 @@ Forward contracts are not traded but agreements between a company and a counterp
 >
 > (b)Calculate the expected sterling payments in one month using a money-market hedge and recommend whether a forward market hedge or a money market hedge should be used.
 
-
-
 :::
 
 a forward contract can remove uncertainty about exchange rate changes in the future. it can hedge against the risk of an adverse movement in the future exchange rate, and also loses the opportunity to gain from a favorable movement in the spot rate.
@@ -424,8 +384,6 @@ Lecture example -- what happens if sale falls through?
 >
 > the fulfillment of the contract will incur a loss of £5,000 to the company. This process is known as closing out, the company could win or lose on it depends the spot rate at the time.
 
-
-
 **Advantages of Forward Contracts**
 
 - It is OTC transactions and can be tailored to the exact requirement regarding quantity and delivery date.
@@ -438,8 +396,6 @@ Lecture example -- what happens if sale falls through?
 - No opportunity to benefit from favorable movements in exchange rates
 
 Therefore, forward contracts are not a flexible method of hedging.
-
-
 
 ##### 2. Money Market Hedge
 
@@ -482,12 +438,9 @@ Because the money is changed now at the spot rate, the transaction is immune fro
 
 **whether a forward contract or a money market hedge should be used?**
 
-
-
 ::: {.callout-tip}
 **example 6 --Nedwen(b)**
 :::
-
 
 ##### 3. Currency Futures
 
@@ -606,20 +559,17 @@ Lecture example -illustration of futures
 > C 2 and 4 only
 >
 > D 2, 3 and 4
-:::
+> :::
 
 Difference between currency futures and forward contracts:
 
-
-
-| Currency futures | Forward contracts |
-|---|---|
-| Standard contracts | Tailored contracts |
-| Traded on the open market | Traded over the counter |
-| Flexible close out dates | Fixed settlement date |
+| Currency futures                                    | Forward contracts                                      |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Standard contracts                                  | Tailored contracts                                     |
+| Traded on the open market                           | Traded over the counter                                |
+| Flexible close out dates                            | Fixed settlement date                                  |
 | Underlying transactions take place at the spot rate | Underlying transactions take place at the forward rate |
-| Cheaper than forwards | Relatively high premium required |
-
+| Cheaper than forwards                               | Relatively high premium required                       |
 
 ##### 4. Currency Options
 
@@ -683,7 +633,6 @@ Lecture example
 ![](media/Notes_G/media/image8.png){width="5.472222222222222in" height="1.78125in"}
 :::
 
-
 ##### 5. Currency Swaps
 
 An agreement in which two parties exchange the principal amount of a loan and the interest in one currency for the principal and interest in another currency.
@@ -715,4 +664,3 @@ Lecture example-swaps
 ![](media/Notes_G/media/image9.png){width="5.768055555555556in" height="7.8720395888014in"}
 
 ![](media/Notes_G/media/image10.png){width="5.768055555555556in" height="3.9869160104986876in"}
-
