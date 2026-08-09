@@ -42,6 +42,9 @@ a\) Describe the relative risk-return relationship and the relative costs of equ
 
 b\) Describe the creditor hierarchy and its connection with the relative costs of sources of finance.
 
+
+<div class="pagebreak"></div>
+
 ### 1 Risk and Return
 
 The relative risk return relationship of equity and debt is based on their relative priority for repayment on liquidation -- the creditor hierarchy:

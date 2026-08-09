@@ -294,3 +294,12 @@ div.cell-output-stdout {
   margin: 0;
   padding: 0;
 }
+
+/* ============================================
+   打印样式：Syllabus 与正文分页
+   ============================================ */
+@media print {
+  .pagebreak {
+    page-break-after: always;
+  }
+}

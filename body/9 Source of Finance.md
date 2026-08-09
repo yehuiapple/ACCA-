@@ -66,6 +66,9 @@ iii. Supply chain financing
 
 iv. Crowdfunding / peer-to-peer funding.
 
+
+<div class="pagebreak"></div>
+
 ### 1 Short-term Finance
 
 Source of finance can be classified as short-term and long-term finance.

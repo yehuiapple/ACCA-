@@ -44,6 +44,9 @@ b) Discuss the nature and importance of Value for Money as an objective in not-f
 
 c) Discuss ways of measuring the achievement of objectives in not-for-profit organizations. [2]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Nature and Purpose of Financial Management
 
 #### 1.1 Definition of Financial Management

@@ -34,6 +34,9 @@ c\) Identify a range of capital market imperfections and describe their impact o
 
 d\) Explain the relevance of pecking order theory to the selection of sources of finance.[1]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Gearing
 
 #### 1.1 Financial Gearing

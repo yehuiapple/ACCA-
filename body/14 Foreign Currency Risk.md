@@ -48,6 +48,9 @@ vi. asset and liability management.[1]
 
 b\) Compare and evaluate traditional methods of foreign currency risk management. c) Identify the main types of foreign currency derivatives used to hedge foreign currency risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Foreign Currency Risk
 
 #### 1.1 Exchange Rate

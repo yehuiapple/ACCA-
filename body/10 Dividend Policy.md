@@ -13,6 +13,9 @@ iii. the relationship between dividend policy and the financing decision
 
 iv. the theoretical approaches to, and the practical influences on, the dividend decision, including legal constraints, liquidity, shareholder expectations and alternatives to cash dividends.
 
+
+<div class="pagebreak"></div>
+
 ### 1 Internal Source of Finance
 
 The internal source of finance includes:

@@ -55,6 +55,9 @@ ii\) an organization's policy on the level of investment in current assets
 
 iii\) the industry in which the organization operates.
 
+
+<div class="pagebreak"></div>
+
 ### 1 Working Capital
 
 Working capital represents the net current assets which is available for day-to-day operational activities.

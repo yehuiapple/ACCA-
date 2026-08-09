@@ -58,6 +58,9 @@ iv. market capitalization.
 
 c\) Describe the significance of investor speculation and the explanations of investor decisions offered by behavioral finance.[1]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Nature and Purpose for Business Valuations
 
 Businesses need to be valued for a number of reasons such as:

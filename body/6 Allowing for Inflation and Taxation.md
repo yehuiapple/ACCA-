@@ -14,6 +14,9 @@ b\) Calculate the taxation effects of relevant cash flows, including the tax ben
 
 c\) Calculate and apply before- and after-tax discount rates.[2]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Relevant Cash Flows
 
 **General rule:** only cash inflows and outflows that are affected by a decision are relevant to the decision. This means using only **future, incremental cash** flow.

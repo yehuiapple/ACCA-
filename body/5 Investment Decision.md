@@ -16,6 +16,9 @@ g\) Discuss the superiority of discounted cash flow (DCF) methods over non-DCF m
 
 h\) Discuss the relative merits of NPV and IRR.[2]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Decision-Making Process
 
 **Expenditure Types**

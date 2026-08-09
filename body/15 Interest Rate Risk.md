@@ -36,6 +36,9 @@ iii. forward rate agreements.[2]
 
 b\) Identify the main types of interest rate derivatives used to hedge interest rate risk and explain how they are used in hedging. (No numerical questions will be set on this topic)[2]
 
+
+<div class="pagebreak"></div>
+
 ### 1 Interest Rate Risk
 
 **Interest rate risk** refers to the risk of an adverse movement in interest rates and thus a reduction in the company's cash flow.

@@ -22,6 +22,9 @@ d\) assess the impact of sources of finance on financial position, financial ris
 
 iii. leasing or borrowing to buy
 
+
+<div class="pagebreak"></div>
+
 ### 1 Asset Replacement Decisions
 
 #### 1.1 Asset Replacement Cycle

@@ -40,6 +40,9 @@ c) Explain and apply the characteristics and role of the principal money market 
 2. discount instruments
 3. derivatives
 
+
+<div class="pagebreak"></div>
+
 ### 1 Economic Environment
 
 #### 1.1 Macroeconomic Policy
